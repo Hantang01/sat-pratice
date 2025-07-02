@@ -1,0 +1,432 @@
+H||52a8f1cb-bff4-4dcb-b455-fbc202e8513c||Inferences
+M||c41ebd08-a19c-44e2-a621-3e50ac34dcd2||Central Ideas and Details
+M||30511484-9757-45d7-958f-cf06ed690b94||Central Ideas and Details
+M||34993994-d6c5-4708-a99e-263ff6b8b604||Inferences
+H||40e7dbe5-a37f-471d-bf2a-66c7e950d5d3||Command of Evidence
+H||9143317f-29a7-4559-930f-3895f4457c7d||Central Ideas and Details
+M||eddf2dbd-c0cb-4ca1-bea8-c6e522b4c743||Central Ideas and Details
+M||e5ffa0e4-1fea-42ae-b997-44eed4a8e733||Central Ideas and Details
+M||c4d80f10-e0f8-4466-bc5a-e45343eceed5||Command of Evidence
+H||0ab248c5-2e6c-4eb5-adb7-eec1beae9ae8||Central Ideas and Details
+E||8f3764da-9e5e-4406-8b84-4c3a91358727||Central Ideas and Details
+E||38d454cc-7da0-46c5-8fa3-9f57526c1baa||Command of Evidence
+H||0d14ed05-7101-4b7c-9ad8-f817a8ee4705||Central Ideas and Details
+M||8867acef-9776-4099-b6bc-f5059e8a9574||Central Ideas and Details
+H||71c4f33b-5e73-413d-bea3-14225980d694||Command of Evidence
+M||b4fd3c61-604e-4f87-b027-41ddf01d205a||Command of Evidence
+H||a9859e96-a39d-4207-8cdb-6fb0ee8d8a98||Command of Evidence
+M||55af0cb2-1f16-4184-a04f-f39d41958743||Command of Evidence
+M||06e692f1-c804-4303-9a38-5f28ac4dcf65||Inferences
+H||76c41880-b3cd-4f49-86f6-2e9fb2b14aa9||Command of Evidence
+E||0a755181-a4cc-4396-b977-da1608faf80f||Central Ideas and Details
+M||d7a2ff8d-862e-4818-9266-5024deded2c9||Command of Evidence
+H||69ccacae-98b0-4823-a0df-dbc2f84a63fa||Command of Evidence
+E||8c905e66-b3bd-4010-973a-d51abc4a9009||Command of Evidence
+H||a834b9d5-442c-4133-b51b-b1e6ce7c584c||Command of Evidence
+H||90ef6bd8-7392-493a-a95b-f10670d19fa1||Inferences
+M||c26900f9-e2f8-4720-8940-4d2f422a2ee6||Command of Evidence
+M||323d585c-ed72-4482-a6e7-60adf99b2849||Command of Evidence
+H||ba4a8107-8550-4238-845f-7a2765946381||Command of Evidence
+M||938fef9c-6c98-458a-8ce2-236a09a80f22||Central Ideas and Details
+E||d490e4a5-bf54-48b3-a21c-27e521f53d3c||Central Ideas and Details
+H||5d3bc6fb-4e59-4560-84e5-1d9cf789f62a||Inferences
+M||90758981-860d-4a7d-a2eb-6720666df2eb||Central Ideas and Details
+H||de7f8b22-30e6-43b1-ad24-4b6f6f7e025f||Command of Evidence
+H||f445072c-007e-485c-a469-b2b4bee641b3||Command of Evidence
+M||30c2d8b8-5292-4af7-b701-0109496da1a5||Central Ideas and Details
+M||b490fb1f-94cb-4ac3-ab42-e46a37a27827||Command of Evidence
+M||29d48243-c6fc-4b86-8b87-c1087174f7eb||Command of Evidence
+M||6bf1a887-da03-4cdf-b053-cc4a2e176641||Central Ideas and Details
+E||a362b6b6-1fae-4fcc-a097-241ddb0addd2||Command of Evidence
+H||6cab30c3-74f3-4b95-8bbc-00892bfbb3c0||Inferences
+H||fdc309fb-203f-4eb0-ab14-ce679c48449c||Central Ideas and Details
+H||65d3f00d-f48c-4518-88b0-b5d58cbe4cf9||Command of Evidence
+M||06476963-3fd5-40fe-8c6a-77a4b0609df1||Inferences
+H||95a5360b-3135-4780-921f-c511f0ae2578||Command of Evidence
+M||0f42ebb1-ab1a-4389-9ce6-727db51e5379||Command of Evidence
+H||2feba5ee-68da-40e5-9ac9-a2d6595ea46b||Central Ideas and Details
+H||15e61784-d141-4360-95ad-6de4a72b0a0d||Command of Evidence
+E||8f0c9a99-086b-4120-9d4c-96146f022bdc||Command of Evidence
+H||e5fb236a-b834-4e49-866c-248c223f4d16||Command of Evidence
+M||b280ba71-e914-4119-8335-a7c8eb92768c||Central Ideas and Details
+H||7ba4dc16-ed92-4253-b979-eafdfe5400f2||Command of Evidence
+H||e106d6c6-3728-41aa-983d-844c3f37d99e||Command of Evidence
+E||4d6080a5-d5cb-4a7b-8d36-e063d820a389||Command of Evidence
+H||9881a760-f884-4181-a7f8-4ee2b2cb39a3||Central Ideas and Details
+H||3d1f1c40-4ed9-4ae6-9d5c-55bbe74e0b51||Command of Evidence
+E||a9165713-4da8-48bf-91b0-7def09cee451||Command of Evidence
+E||2b5d289b-aa4a-455f-9d3c-3fb0079cac56||Command of Evidence
+E||738bb8cf-0cb8-43fe-8790-a8d9e93bfa3a||Command of Evidence
+H||a63e4700-e95a-4a33-82f6-4f46c42d023e||Inferences
+E||6b5f6281-c186-4b8e-b5b1-e480cda187ec||Inferences
+M||130d0a84-b1b0-4f4b-9201-cd5cc26e4514||Command of Evidence
+E||c64a25c2-99cd-485d-b5c7-8c0aa9f6ce6f||Central Ideas and Details
+M||8cfcf0a4-fcdd-4de7-8cb5-5b319becb374||Inferences
+H||c4cfbca4-fcc1-4015-a43f-bc8038fe1c6c||Command of Evidence
+M||1db8b470-79f4-47ec-bf07-93ba736045d0||Command of Evidence
+M||15e0f8c2-ed39-4583-83cc-73e2fa6eacfe||Command of Evidence
+M||a0624880-0cff-4f54-93c7-0ee67780fa3a||Command of Evidence
+E||1a6b528a-47fc-448b-a67f-fc8bcd1e3fda||Inferences
+H||350515f3-0f56-40e1-b5ce-af122f093fe5||Inferences
+H||f4fbe202-2064-4bd6-a736-c5c55b1d4616||Inferences
+E||b49acf29-946e-4d3e-a1a3-b112ff5cc23e||Inferences
+H||a46a3369-477e-4477-972e-bc12eb5e84d2||Command of Evidence
+M||6b3e8eca-0f31-4ddc-ad58-4525b647b622||Command of Evidence
+M||29e2e0fc-8844-490c-85f3-24338f917e2a||Command of Evidence
+E||e6590d5e-2b45-4887-b784-5c8601dc008e||Central Ideas and Details
+M||67f3df86-c0f1-4965-9d9a-8231d5f82b95||Command of Evidence
+M||a7544373-0f0e-48ad-bf64-b636aa0c867e||Command of Evidence
+M||cc73e080-d46d-40ae-bbf6-e9801e577c1a||Command of Evidence
+E||3b249e65-a66a-456e-8e49-c4382ffdef99||Command of Evidence
+H||738288ff-e395-4313-835d-9e9447a865b5||Command of Evidence
+H||4cdeef3b-c252-41b9-b816-e4e258e8d8e4||Central Ideas and Details
+E||f430010d-dd34-405f-b7a8-b70d74e17b0e||Command of Evidence
+M||6e778f51-5735-405e-8ddc-4fd8196cd087||Inferences
+H||35e63faf-cd1e-42e6-b544-7bf3b48941eb||Command of Evidence
+H||9a5b800c-9469-4023-8098-70ef352fd380||Command of Evidence
+H||03463f37-4904-4865-bb31-d326c1dd67e8||Inferences
+M||50a97041-1bb7-41a5-ad91-9edb332c7d6b||Central Ideas and Details
+E||83317e04-9b65-4e2e-81f4-ff77cf641a23||Inferences
+H||c62128d3-85ec-4b5a-8f7e-cedfc5850c29||Central Ideas and Details
+M||a358f59f-7a4a-4af5-a2a8-37a11ebbbec3||Command of Evidence
+M||53727c14-2e6d-4c01-a008-3dcf1597f23d||Command of Evidence
+E||39c4e289-072b-454d-a5ae-fff58010b299||Command of Evidence
+H||74524b04-95ed-45c5-be93-30cc8f3484d1||Inferences
+E||3a04d20b-5096-450a-b14c-b8e956fd9b8c||Central Ideas and Details
+H||3bfe8f14-8d16-47a6-ac4c-e7ddb1572611||Central Ideas and Details
+E||03508ded-7e44-467a-b16b-93608113408c||Central Ideas and Details
+H||857c3b1f-07bb-491a-84c5-c45a5f28b850||Command of Evidence
+H||c839816d-7f7e-4300-814f-1545276bc90a||Central Ideas and Details
+M||7f8e2931-6a5e-4782-93d8-5a8e62f75fef||Command of Evidence
+H||6a2a163b-95a8-46e0-80b5-f33eeff84503||Command of Evidence
+H||d15c6de5-ed37-4abd-b581-ad392b36c426||Inferences
+M||dcfca64d-f71d-4be1-8e85-40b6ef326b64||Central Ideas and Details
+E||b91c15bb-00cb-4f87-bb8f-d086405bf9d0||Central Ideas and Details
+H||de9b1463-1866-4898-8328-0c81e82e681b||Central Ideas and Details
+E||3cc18ae3-a388-4035-8d49-228be087c88c||Command of Evidence
+E||e19865c4-0bd8-47e7-bbbd-847b84b95b25||Command of Evidence
+E||e2059112-1019-48a4-a70a-3b33e18211ca||Command of Evidence
+H||ea65c400-ba2e-4387-9a23-fc9a727a5982||Central Ideas and Details
+M||03bfc4d5-8347-47d5-b316-718229d88af8||Inferences
+M||27983d00-7eb0-40fd-9ecc-733f78d21ce9||Inferences
+E||bad15e98-4169-43d5-9421-374a6231ddfb||Central Ideas and Details
+H||d1efe6e8-5201-4a69-97dd-f475820fb912||Inferences
+H||79f2d4f0-39de-4a51-b567-a5d51d530f5c||Central Ideas and Details
+H||fd1571d8-4dd2-4b3e-acc1-33b0974356d2||Command of Evidence
+M||62962b25-dd31-433c-93d0-1032c533c58d||Command of Evidence
+E||43b63331-d857-4b26-a869-a1dfae198b02||Inferences
+E||facbe7d8-dfa7-4d45-9add-841fbd562a70||Command of Evidence
+H||5e3760af-27dc-44b2-bf1c-53de6b88a3b6||Central Ideas and Details
+M||02287832-f99d-48ef-b1df-4b97c4d409b0||Central Ideas and Details
+M||04007e74-f11d-47b3-b918-7efd09473b72||Command of Evidence
+M||d611db07-c76b-4fcd-97f2-12bb13024b07||Inferences
+E||06e04baa-57bc-4dab-b607-a7f7379fce1f||Command of Evidence
+H||8ce518f3-dd51-4bc0-8eb6-72b9a8219145||Command of Evidence
+E||21f5cc4a-939d-43ff-95ab-d7c0ea4718f1||Central Ideas and Details
+E||22608ed1-80be-4489-9b7d-a035b029d3ce||Command of Evidence
+H||9296e03c-58be-4531-9996-2ed70f7b4bac||Inferences
+H||90166ab8-3546-45ae-93db-f21985fdd134||Inferences
+H||4e06110f-0c9b-48ea-88ab-a1004353ab6d||Central Ideas and Details
+H||22d51297-e8e7-46a4-ba99-2cbf96fbe30c||Inferences
+M||2f362274-9a69-425d-81d5-feb6db3a1e05||Central Ideas and Details
+H||c53956b6-5cf4-4eb7-a7df-2139e74396c7||Inferences
+H||eec70d3b-a52b-4324-9e00-8799afda175a||Command of Evidence
+H||9708e3d0-f36c-434a-88ae-992ed65c47ba||Inferences
+M||33734ff0-5f0d-4009-a4b7-85d44f4bdf8e||Command of Evidence
+M||121f0267-8731-4483-8bac-45f2f405e799||Command of Evidence
+M||6e972f93-6967-44f3-9281-9b7ea1a1cfdb||Command of Evidence
+H||f88c0e77-479a-4c8d-996f-c9b7d9e730d3||Command of Evidence
+H||54eed2e9-47bc-4ec4-a3ea-81d4a8cf0a81||Command of Evidence
+E||e63b751a-e3f0-4117-89b5-c9a98b1b11ea||Command of Evidence
+E||446f9a5d-8ff0-4853-b54f-1bfef62a9df0||Command of Evidence
+M||5d888510-d19d-4d49-855b-5d5afc969c13||Inferences
+H||7a847714-4f4b-4c3d-b19d-820a04e30eeb||Command of Evidence
+E||b5d4fe9f-39fe-4ed4-88a8-ebf95283118c||Command of Evidence
+H||1952d001-606f-4761-96e6-f22a2bd7b6c1||Command of Evidence
+H||6960936d-6e14-4293-8e40-181d7e56b513||Central Ideas and Details
+M||fbf6b996-3607-41ed-a39c-163d8c8c394c||Central Ideas and Details
+H||48df5d1e-9a25-416a-a935-574134ee86cb||Command of Evidence
+H||803cff0c-4ba0-4ec3-b690-1fe2486e401e||Inferences
+H||79e4ee43-9828-46ac-afcb-d3678e7e0d1c||Command of Evidence
+H||35d3bd93-7a64-4a12-b5b2-c278f6a73f1d||Command of Evidence
+M||6efd0d81-35c8-49da-88a2-390c63a8fd80||Inferences
+M||7d4a4c83-50ae-47ab-9d3d-a67b0cc584c2||Command of Evidence
+H||f3a1716c-52aa-429b-bdde-0271814b9d4c||Inferences
+H||89896d3d-375d-4ea9-ac2a-c00eb083d581||Command of Evidence
+M||1a528880-397f-4739-b06d-5fa3d656aa3c||Command of Evidence
+M||93efcce5-fc75-427b-b7b1-bdbba69d8fb3||Command of Evidence
+H||fd9cc9d2-2e39-495a-af16-5f06049dbbc2||Command of Evidence
+H||30f294ab-b2a2-4e6f-bfc7-f099c4e68738||Command of Evidence
+M||358eea05-3758-4b38-bc77-3a13ab40ab16||Inferences
+E||b0809661-54a2-44ce-8282-c2318d1198bd||Inferences
+M||21ab62c2-23da-4135-9ac5-3dbef25ef6fb||Central Ideas and Details
+M||3275ff87-da2f-478f-b3a4-1e2626b25e08||Command of Evidence
+M||73bf8fb7-a095-496b-b9f5-109b6af2d221||Central Ideas and Details
+E||d9ea4ec9-adaf-400a-8375-5649d37cc5c7||Inferences
+H||b4910d45-076d-4ab9-9b26-f729e19c7a3b||Inferences
+H||03bcea8c-439e-455a-bb85-7a05d2ed8773||Command of Evidence
+H||3b0983c4-74f7-4e1b-9ab8-6394960e6596||Inferences
+E||365e2356-1e33-4e21-9f56-dcb207adf9c3||Command of Evidence
+H||44ff4a89-9f5d-4330-99f9-36c46b6585d5||Central Ideas and Details
+M||48cb9ef1-c125-4861-9123-a6469d7f8a34||Inferences
+E||77e03ff0-a9f8-40fb-a56a-4dcb12d23e31||Central Ideas and Details
+E||e807e311-35fb-41ba-a60b-feebda8114ab||Central Ideas and Details
+M||bce1433e-0679-4c4f-88e2-a37d1892537d||Command of Evidence
+M||a01408ec-f674-4193-a639-57cc6064b5bd||Inferences
+M||bf6639e8-1ad9-4de8-a308-e9f22045c036||Inferences
+M||e68d49e4-3326-4ad6-86cd-1be7dce09141||Inferences
+H||6fec40ff-b4f1-4439-8f08-ba70ddaff0ed||Command of Evidence
+H||29cada86-74bb-41bb-a0dd-9a24a165a4e5||Central Ideas and Details
+H||9ecc06d7-b381-4b61-8477-2a34b8437476||Command of Evidence
+M||35824f48-d720-4518-aedb-c48514d496ae||Command of Evidence
+E||dac67381-2a34-4b01-a6a1-41102f159d28||Central Ideas and Details
+M||084d8f9f-c1fe-4c1b-8c34-e8d1f0cb8182||Command of Evidence
+M||2be296a8-a297-4cb0-9d75-002f50e1111e||Central Ideas and Details
+E||88e7e7d7-96c9-4086-8849-e0eb26f111ff||Command of Evidence
+H||280e894c-bee8-4e44-8ecc-445ed3d14286||Inferences
+H||68948483-1f64-4760-a657-ec2406b34c19||Command of Evidence
+H||704122ea-86c8-4130-a534-dde9ec1a52b1||Command of Evidence
+H||20bd7e10-d0b5-4923-930e-f3c22dff2c07||Command of Evidence
+E||9880402d-54d4-416f-b6fd-14bf44015e73||Command of Evidence
+E||39859646-9f3d-440b-9296-afa336dc7198||Command of Evidence
+H||ecf8fb3a-a8a8-4251-9424-048c185cf125||Command of Evidence
+H||05b51061-19d4-45fe-8086-a6b565cc8902||Command of Evidence
+E||4fdc5738-b231-4673-a094-37aa2e2ef332||Inferences
+M||34ff2bb7-fe6f-46f1-8559-4c79bc496112||Command of Evidence
+H||fd02f4ff-6bf3-4885-92ba-dec5018038d6||Central Ideas and Details
+H||ea859268-8f45-40e6-add4-ecd3844151f4||Central Ideas and Details
+M||ec1412f8-3519-4337-8321-027633350b57||Inferences
+M||4d2152ad-3e95-4ca9-91a8-423758f25623||Central Ideas and Details
+H||74e5885a-cf6e-4b0a-b09a-04d8579c9935||Command of Evidence
+H||4f42766c-6041-4d86-acc8-fdb7a347eaa7||Inferences
+M||ed118154-f369-47fe-850a-70e12f3794d8||Command of Evidence
+M||fd2ee2ec-9153-4c3d-8ba7-081ffdb687f7||Inferences
+H||c3d04fab-85b3-4607-9920-c2490bdcc643||Command of Evidence
+M||85c19ad6-e14d-43d4-9d45-def4e74635b2||Central Ideas and Details
+E||96565fac-602b-42c3-b89a-67a0bcf9c811||Command of Evidence
+M||7e52fc97-3448-479e-8f83-6d659d404c11||Central Ideas and Details
+M||a5984ea3-e26b-4dd5-8af4-5d9dae0b3b10||Command of Evidence
+E||8ede9e22-1466-42a3-b2ec-3c9983b93ef3||Command of Evidence
+H||59ef7528-4cfb-4862-9d40-6f226b28ad3f||Command of Evidence
+E||54acf952-eb6f-49df-91ea-75ebc0d6344a||Command of Evidence
+H||af31476c-fbc2-4fe8-8656-e63f24aafb95||Command of Evidence
+H||e6dbeac0-5d8f-4b95-88aa-f9a3718cc8b4||Inferences
+M||bf142dce-600d-4e0d-b6fc-80d7f0ae8ea8||Central Ideas and Details
+H||675fc7a8-a3ec-4cc1-a704-a49f4644cf26||Command of Evidence
+E||ddcb39de-3d58-4bc6-a2a2-0acfe8437055||Central Ideas and Details
+M||70a3b3f6-b02a-4d56-93e8-aec50bc76eca||Central Ideas and Details
+E||0fca9cf6-4138-4c7a-b2b1-22a13cb55d77||Command of Evidence
+M||32c4c072-059d-4cea-9e8c-d27888cc1845||Command of Evidence
+H||732f5a2f-62e3-4318-bdc9-b532c11f13ff||Inferences
+M||0c6b9256-165f-4981-9503-ecfd319b2731||Command of Evidence
+M||2882f061-3de5-48d0-8c0d-bca74bb2ec3f||Command of Evidence
+E||bb6e68d6-a740-46c5-bb4b-de50ba90fb20||Command of Evidence
+H||b618a704-36f0-4ec0-a44e-f8d2a7f54307||Command of Evidence
+H||060fc3ac-31d0-4538-ac31-31f7efc40052||Inferences
+M||d1601bba-94d9-4dd5-be7b-e1cfd4864c88||Inferences
+M||dbd13420-a4fe-4004-886a-8f3338082300||Command of Evidence
+E||0609b216-e92c-4fcd-8833-8f8738ce30d0||Command of Evidence
+E||1b252562-3bec-43c2-ac49-bb173f19ca83||Central Ideas and Details
+M||dbf413aa-7ed0-4c04-a674-6de10190f3f5||Central Ideas and Details
+M||ca139201-2cec-42e7-8d12-d556256c8276||Command of Evidence
+H||11018df2-968a-4ff7-ba6c-537ca7649b01||Inferences
+M||7fac536f-bfa4-41d3-b7ea-1adb6680cd47||Central Ideas and Details
+M||7e4e4382-e8f2-4072-ab9e-42dfb93b9837||Central Ideas and Details
+M||6d69ca0b-7396-4810-a1bf-106bf87f045a||Inferences
+E||caf0a82a-425b-4a35-aa35-5c478fe13afb||Central Ideas and Details
+E||2c560f81-4cae-49f3-a189-223abdabd7d0||Command of Evidence
+E||6096b294-0cc7-4495-a3a6-0e0db167e92c||Command of Evidence
+M||f18119e1-0678-452f-bee5-0dfaddbe173f||Command of Evidence
+H||9bb3aeda-b4bd-4869-bd8c-ab833eb9d544||Inferences
+M||23750698-46e4-4295-9df5-522d592417f2||Command of Evidence
+M||1d6e68b4-e317-4866-ac32-947f85936b85||Command of Evidence
+H||b549c4fb-32ff-4538-9eee-d2a99127f351||Central Ideas and Details
+H||74ac6d75-993e-42c6-95ac-056e55a93a5e||Command of Evidence
+H||a9fcb8ca-cf0c-4d45-bcc6-e3fd7a4ee3dd||Command of Evidence
+M||176cf9b7-f8b5-4194-9593-f60ba7a78ffb||Central Ideas and Details
+E||ed5783a4-0648-4ffc-8549-df56ac9d140e||Inferences
+H||8544d09c-adf1-4069-8362-343c6a32fd8c||Central Ideas and Details
+H||b7b895db-15c3-4714-912a-fbc70f8d95ce||Central Ideas and Details
+M||d227c514-23b6-4498-90bf-633ef71950d4||Command of Evidence
+E||b65b6bb1-ed51-4028-8bea-421ff84c160b||Central Ideas and Details
+M||fcc9d22f-ff02-4020-ae95-4a66720a6377||Central Ideas and Details
+M||d220880f-8d11-4473-8544-cd7e6652ab5b||Command of Evidence
+H||870865eb-d11e-4e29-8d5e-e7d9f282da86||Command of Evidence
+M||00e094ed-abe1-4142-af30-ed57eb2e7a2d||Command of Evidence
+H||da253a06-73ff-4f6c-afc6-03afe5ecdc04||Inferences
+E||23b3d126-1b6f-4fe8-a602-d143e7a3e3e2||Central Ideas and Details
+H||10131dc4-382d-4485-a578-62a26d8a2e56||Inferences
+H||a69e4082-0554-4a04-b36b-7fa6f918ebbc||Command of Evidence
+H||24f0aa79-c7cc-4438-84e1-bec4e8d2a77f||Command of Evidence
+E||6a3a4d81-3c3d-423e-a82b-e6f6994b6e96||Inferences
+M||7cd6c0d3-68c5-4a3c-b6a2-18cbe8ee23ef||Command of Evidence
+H||f0e2a006-14c8-4c8a-948b-c193476d843a||Inferences
+M||85282a60-2899-43df-bd0e-0b5cedc801ee||Command of Evidence
+H||1da0f5f5-e5b6-40f5-b42f-81390b87a253||Command of Evidence
+H||a197aae6-b0b0-47ba-910d-2407eaacd03a||Command of Evidence
+M||ca85c18e-96d2-4d6d-bca4-d94ece969e9a||Inferences
+E||f74ea265-3bf1-46e7-bf80-ba2fc5b139ed||Command of Evidence
+E||6dce1c90-e8b3-47f8-875b-54b98618cf7d||Command of Evidence
+M||eee3d6e7-d7b3-4071-b69b-99c74c898d45||Command of Evidence
+H||c3302651-c023-44bf-953c-6999ac7fcd51||Inferences
+H||cc7722c6-1049-4076-bffd-0613e48fd1d0||Inferences
+M||7073bd45-271c-4b31-b606-013a65b61485||Central Ideas and Details
+H||fd2f1d0f-fd4a-4ff6-892e-81e0dd9b2166||Central Ideas and Details
+M||ea1a64cf-daf1-4d0e-8070-3f1ad98f30d3||Command of Evidence
+H||be347d28-4be3-4fe4-b8ec-28dab78f77a8||Command of Evidence
+H||23993529-d849-4518-af11-b7139f5f038b||Inferences
+E||bbc0b193-f888-4209-afc3-fbf519e74d9d||Inferences
+E||c4867d24-bd6b-421c-9558-60415940d47d||Command of Evidence
+M||5818e783-6bbc-430f-8003-9f3967e542b2||Inferences
+M||b8e4991e-0fc5-4cb7-874e-6f04e764e8c9||Command of Evidence
+E||df57beff-4a25-49d5-a337-ae6394867058||Command of Evidence
+M||57e0927e-845b-410d-a414-0ada4098e9b8||Central Ideas and Details
+H||c9f3bfb8-e0f5-4bef-a737-83cada88e3e7||Inferences
+H||0c85a491-b942-44d2-9407-d63cefec2ad9||Command of Evidence
+H||e430357a-3c47-4449-815e-0422bc8f250a||Central Ideas and Details
+H||c7238400-e5ab-4ee8-a20c-29043d59a1a1||Command of Evidence
+H||c5230ce5-749f-4f41-9ac4-10c8db7858c6||Inferences
+H||f0455dd3-fa60-4155-8945-bd6f8ee836ef||Command of Evidence
+E||56d2e5de-24d6-4ec7-a918-beec3ca46fe0||Command of Evidence
+E||59c46e1d-a812-4518-a039-5dfa903f11fe||Command of Evidence
+M||faada6d3-5716-4d4e-be61-452a6fd48aaf||Command of Evidence
+M||c9b72f46-37cb-4778-ad91-d73d3d263723||Central Ideas and Details
+H||9f0e1a62-56a9-4560-94a5-f4b770cbf00b||Inferences
+H||376259b0-c855-4898-8e8e-9e8b363eca0f||Central Ideas and Details
+H||6537fc25-1318-49e9-9e1e-dcc07604c519||Command of Evidence
+M||08ef7a18-0b11-4f61-87fc-ce1909ad2b65||Central Ideas and Details
+M||fa058d98-6bf6-4108-bf3c-48890f6373ff||Central Ideas and Details
+H||591eb366-0d71-42a1-b86b-8b17f03a42c2||Inferences
+H||f7ae1a33-b06f-4c83-846e-8d697f444fe0||Command of Evidence
+M||f2d42e08-afb2-4362-816b-f109865aee59||Command of Evidence
+H||15eb5d10-e935-4161-bec5-d9798b5f47e3||Command of Evidence
+M||f6d062f6-0ebb-4274-9345-3f4b6d44f52f||Central Ideas and Details
+E||30982148-54fd-485f-99d0-970860d55e39||Command of Evidence
+H||1830f378-1723-46f1-b0c3-3f7fd3b742f3||Inferences
+E||0a101d3f-287a-4888-8521-b280f7b9fb5e||Command of Evidence
+M||2d43925d-e0c3-44ec-b583-82c5c0d2a74e||Command of Evidence
+H||dd2f579c-787f-4760-a6c3-d9cf6f9de19e||Inferences
+E||e84acee5-3f82-4072-a45f-7dc22a8038b2||Inferences
+M||4d0eef89-bee9-47f6-ad14-52c8d8b98ced||Command of Evidence
+M||aa6c4390-0a98-4e87-80f3-b711067988be||Command of Evidence
+M||d8fe6696-8c72-4aef-ab66-1dbe2b5ac66c||Command of Evidence
+E||b6c6791d-a741-4cf2-a375-015d06958e65||Central Ideas and Details
+E||3e62e40d-e1e5-4033-9827-1665e8abf266||Command of Evidence
+E||a42ee406-d532-4af6-bce0-53b4aaf2ec41||Command of Evidence
+E||c0a0b3da-d759-43c9-8b98-ede924bab5da||Central Ideas and Details
+E||ef9499bb-6d7f-4c00-a193-e4c998f973b6||Command of Evidence
+M||1ed4ac27-d126-4d76-bede-761cd94cd8c9||Inferences
+E||d3e209e2-4be9-4b2a-8eeb-6c0b841d615f||Command of Evidence
+H||d9511af2-0fb9-462e-977e-9833b95dc982||Command of Evidence
+H||bf4990d3-7a3a-49ff-b7dc-8ba4cf811d16||Command of Evidence
+M||4903548d-ce23-40ab-b282-bcfd754299a0||Inferences
+E||5a912020-242d-4bc0-96dd-c00c12736562||Central Ideas and Details
+H||17089083-33c6-4d4c-9f5d-eb517d0a9341||Command of Evidence
+E||44eca06b-c394-4811-bdb9-8825a1526ed9||Inferences
+H||2ec9a135-3760-47a4-9f8c-a21f7e5dee3e||Command of Evidence
+M||51cf5c80-7d35-47f7-992c-19426432b1a4||Inferences
+H||55520f1a-8cea-4e4d-a5e4-12e755466da1||Central Ideas and Details
+H||65129061-621e-4cd0-b0c9-ee562e623511||Inferences
+M||2986a17f-a6c9-4d76-9ddf-eedfb37e6eff||Command of Evidence
+H||e53f5690-706d-4cca-b2f6-dbd34999ecbc||Command of Evidence
+E||cdc7e086-20ed-4f0b-9d16-1b4d773fd4d1||Command of Evidence
+H||e8b6d085-9a68-4f77-b022-fb65b1b3810c||Inferences
+E||e03cf173-646e-41f7-b95d-eed2441f61e7||Command of Evidence
+H||5d11fe17-72bb-49af-a3da-3be214ae0c9a||Central Ideas and Details
+M||d5bb4481-c2af-49c0-b9d2-623fbfc16758||Inferences
+E||298fe3f3-a1cc-4f2d-9878-6e32ca1fa84c||Command of Evidence
+M||e97fe815-65ae-46b5-acf8-c3e18a6bc5b1||Inferences
+M||368fc106-9c14-46b9-a363-0ebb5b9b5aea||Command of Evidence
+E||a0bf3e39-c2be-4285-97d2-9668dc0fdbc2||Inferences
+H||cfd6e1ab-a30c-4a8e-8994-f72d07b0a2e2||Command of Evidence
+H||e46bbf40-c607-49b6-b493-1fb84005ae31||Command of Evidence
+M||33334091-eb57-44af-95a6-fbc105389a91||Command of Evidence
+H||cb36de75-9ada-404a-b492-e714308354bb||Command of Evidence
+E||f169ff49-6399-4c19-865e-7fa742c53258||Central Ideas and Details
+E||a05eaacd-e68b-4293-9cd7-26992ec8deb2||Command of Evidence
+H||9d63dd85-3fe2-4008-b144-de2a399f793e||Command of Evidence
+H||0ce08800-10d9-4d16-a1c0-8564259c6e1f||Command of Evidence
+M||dfb20639-8bed-48a1-a0d9-8afde28d856a||Command of Evidence
+M||8966b09b-f9e6-47d0-9cfe-4335f223629d||Central Ideas and Details
+E||92844bb8-aa70-4193-b914-cb8832283584||Inferences
+H||08272652-dc6b-4cfa-a163-587bce316822||Inferences
+H||cebd824f-b240-47cf-8333-e2cff8bd0761||Command of Evidence
+H||b62b5e3c-9ea3-4e53-bebf-5bdccca9c8a5||Inferences
+E||26d3a088-7084-4cd3-9dbe-5cd93c6824be||Command of Evidence
+H||9d1ab342-87cd-4c5f-8c7e-dbd44981b5e0||Command of Evidence
+E||9cb7ff11-cb19-42f9-b8d2-f5191ec6866c||Central Ideas and Details
+H||68c34ac6-b03e-440f-82e7-fa34d16e48a9||Command of Evidence
+M||d7eb8d46-2dbb-4753-8598-3fce4bbc9cff||Inferences
+E||bacab76c-19a7-4a19-9682-f83c329bf58d||Inferences
+M||120d4012-6089-4617-a7f4-e27c49c875e1||Command of Evidence
+E||b9c67542-abcb-413f-b2ae-e3f7d26e431f||Command of Evidence
+M||cfa370f8-719a-49da-9256-4fb44bdaad30||Inferences
+H||c2cf9861-143f-4813-a9dc-64c755159797||Central Ideas and Details
+M||7321ec71-5cd9-4eb9-93f9-7e268cefccba||Inferences
+H||9844f862-b9a5-4177-bab5-04f7c54d1a8e||Inferences
+E||22a7e235-ee44-4c74-bca9-5b5d9a61b01a||Command of Evidence
+H||88f09db0-ab6d-48a6-a7a4-02954b32ce99||Inferences
+M||277f8cd7-a3ac-4c88-ba07-bad5090de61f||Command of Evidence
+M||d2c959ac-1575-4de1-a4d2-179fd8f117e6||Inferences
+M||44682721-c8ea-4139-b26b-49ad6d8ac1fa||Command of Evidence
+H||21326304-c438-42e3-b752-1c1d94c7369f||Inferences
+M||f446b6c4-fe01-491d-a6d3-c2ecde85de7c||Inferences
+E||7eb3995a-1328-4088-bfa1-661911b8e49b||Command of Evidence
+M||9557f652-fc18-4b47-a8e1-638716b0eec7||Command of Evidence
+E||e24d7288-d58e-49e9-92dc-1ba13221b2e3||Command of Evidence
+E||e9f142be-2f7c-44eb-a99a-aa5eb0e586ac||Command of Evidence
+M||ad1536b8-b043-4d8d-8946-9aef5ae9a0fc||Command of Evidence
+E||0b8f215d-1b22-42fb-8f6b-1fb5afd5de8d||Inferences
+M||8ae4f9b3-f842-46f5-bc37-368fe0f440ca||Central Ideas and Details
+E||77a2ee2e-2bee-4a40-a24b-c3515b3bb5ae||Central Ideas and Details
+M||d79cda6b-8ba1-4775-a193-020ecb1ed970||Central Ideas and Details
+H||fc1861ad-86ac-449d-9941-ad6dc31649dd||Central Ideas and Details
+M||931e76fd-1342-4591-9731-061725598a3d||Inferences
+H||b31ad613-241a-46ec-a93e-8512bfcf837d||Command of Evidence
+H||ed0c6123-ffe9-4c37-9b48-dfe7c470ff88||Central Ideas and Details
+M||29cd0558-b798-46ac-8f8f-6fada55955cb||Central Ideas and Details
+E||a757bf98-d9a5-4e82-b9a7-849c764338f2||Central Ideas and Details
+E||df9e78c5-c006-4c86-af65-63e3ffced9c4||Command of Evidence
+M||55d8d07f-2534-4a35-9ee9-6b05192a38c6||Inferences
+E||157a66e4-2393-45c7-b129-cabbbf204d2e||Central Ideas and Details
+E||6a7567bd-5e99-4a4d-9a43-78b9caf58754||Command of Evidence
+H||1b36342b-8a0a-476b-9948-ea851a951a4e||Inferences
+H||6beb6b1f-fb0d-4ffd-bf54-7e868f01ee48||Central Ideas and Details
+M||611815f9-9f7f-45ef-b59d-26119ee9c308||Inferences
+H||62e9e4db-75f4-462a-a8d8-577faa5c6eb0||Command of Evidence
+E||41a03d69-174b-43a7-be54-96a52f28ee57||Central Ideas and Details
+E||52b060ac-688b-4d30-a9ab-f6591633cb77||Inferences
+H||403a3013-0690-457d-bd78-5aba11ff4960||Command of Evidence
+M||fa0a5216-8d0c-428d-8e98-a3f86ee9ba48||Central Ideas and Details
+M||c1854738-41cb-44ba-be7e-081b7dfd9993||Command of Evidence
+E||cbd580d7-1b7a-452d-8eb4-06f8db889ec7||Command of Evidence
+M||56f276d0-7381-4372-865d-9872b5654569||Command of Evidence
+E||f5da42be-3aec-4b8c-8203-d3effdb98683||Central Ideas and Details
+H||483cec0f-fa36-49b0-b170-d9f66685471a||Command of Evidence
+M||bae6bad2-17de-4f8a-aaf2-dffd919ba1df||Inferences
+H||ce4f3e39-cfd4-4f81-8349-6bbebc6ad702||Command of Evidence
+E||5ad79e33-9613-4f29-9933-9caaa3d9a62d||Command of Evidence
+H||66352cf4-a0a7-4c66-8a46-9348e6f8d2b5||Command of Evidence
+H||de524c7e-6530-4cc4-889d-5f33fb362adc||Command of Evidence
+M||0597edea-9496-40db-983f-e9f02858badc||Central Ideas and Details
+H||87a94542-6609-48ad-acd6-5ac706ccb0ba||Central Ideas and Details
+E||30cea239-0ff9-42ad-9d98-d405e1b9cdd4||Command of Evidence
+M||a3f3d77e-57f2-4990-895d-58d6d0048f12||Command of Evidence
+H||35ba1503-3ca4-4444-aa35-a1bfdee283cf||Command of Evidence
+H||f401796e-9a02-41bd-9268-b628f63eeac5||Inferences
+H||277bc788-7cff-47b1-8a2f-743e0b3a2537||Inferences
+E||3ef60e7e-2222-4c2c-80a1-2d4eec7abb4a||Central Ideas and Details
+H||3999df4f-831b-45be-a3b3-2fa658b23a70||Command of Evidence
+M||7a33ed6a-f554-4d71-a236-4b61dee1e053||Command of Evidence
+E||467ea699-a005-4116-b3c0-6ccb84420217||Command of Evidence
+H||217d6208-9618-4749-b9af-b89fbf69da88||Command of Evidence
+M||5676d961-5796-4b5b-93e0-d7b19a75f64a||Central Ideas and Details
+E||85b52d3b-001d-4ff1-81fd-e1742c8c00aa||Central Ideas and Details
+E||f90fa585-a0e2-401b-8248-0995ad9856ac||Command of Evidence
+H||e9d90298-cacf-470e-a293-b7e0dd41e3d7||Inferences
+M||15643717-e244-4e2d-87ca-dc8aa43efc65||Central Ideas and Details
+E||5a6ab4a7-204c-4a63-93a5-15775a471395||Central Ideas and Details
+H||93d69a24-a340-41cd-a1f4-68f2d6b98e24||Command of Evidence
+E||59206731-46c7-4374-a20e-ef25e0ff20cc||Inferences
+H||63d5a03e-fc69-4c40-bf3c-5f1ff102349e||Inferences
+M||3fce28d7-22e3-470c-89cf-eb79aacad862||Inferences

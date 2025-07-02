@@ -1,0 +1,375 @@
+E||df5d8531-326d-4361-b931-afa512a48841||Words in Context
+E||795e9067-ca0e-49c6-841d-5f4f976b3296||Words in Context
+E||e10a23f1-8979-408d-8e57-c4ab2a0fac84||Words in Context
+M||2fcaff3f-b91a-493d-b21c-94e107bcf668||Words in Context
+H||ca10cb5e-4485-43c8-ad27-a479f82d04a8||Words in Context
+H||b1adf182-66e9-46e9-9042-c66254ce602b||Text Structure and Purpose
+H||f3addd4b-328c-4aae-87c2-4a7a8af57f23||Text Structure and Purpose
+M||17cf0e64-e921-4dbb-9d07-4a2e021ff5b2||Words in Context
+H||bc429b96-1413-4cd8-89c4-e3801bcd22b4||Words in Context
+E||622d080b-68f5-454f-8cb0-2a9f3be0c3f6||Words in Context
+H||845daa86-f3a1-4235-a02a-508a08f01b9f||Words in Context
+M||295098a9-c956-4c70-8a57-bdfa82220574||Words in Context
+E||e90c65ad-7cc3-420a-a585-fcc04aabdc94||Text Structure and Purpose
+M||c9491ece-56aa-412b-b7e3-e714bff85f82||Words in Context
+M||86f1dfca-37f3-4b19-a864-e405655f0e34||Text Structure and Purpose
+M||19d37226-360f-4850-89ea-9e75cd0875fb||Text Structure and Purpose
+H||7a76d554-0375-4e2a-b0b2-5df72b2ce5b5||Cross-Text Connections
+E||5f3280cd-e6b6-460d-9cd2-eff1f3095600||Words in Context
+M||e6fbbbe4-c5b6-4a17-ad15-62357497784e||Words in Context
+E||b9466c37-9ae4-46a8-b25f-199f5c56b0db||Words in Context
+H||19cb3d61-e50c-4c69-8608-9f289cd7839d||Text Structure and Purpose
+H||6eedf83d-8dfc-4a34-8f06-be2096a743ae||Text Structure and Purpose
+H||7fa24036-c896-44c1-ae1b-2a26f55b16f9||Text Structure and Purpose
+E||3defff55-27df-4f13-a97e-20c0420ab51d||Words in Context
+H||6dedae33-5cfb-49d1-bc61-2ec133b77a3d||Words in Context
+M||271ff9dc-ee40-4cc3-b077-7d60cefb0e66||Text Structure and Purpose
+E||e86701d5-1e07-4cfd-bac3-cb42173eff9d||Words in Context
+M||d7c11206-1d75-4efc-b61f-5619e10f2743||Words in Context
+E||602f691b-2659-4652-bb76-ca61180145b9||Words in Context
+E||f952519c-47b4-4050-b3b8-3934f05c1835||Cross-Text Connections
+H||ee427475-700a-4123-96a2-c2ab10dc89a9||Words in Context
+E||608d2837-f8c9-4257-876b-4c2faa74fb4b||Words in Context
+M||a70f7ce0-6502-4275-9474-263708c54dce||Words in Context
+H||dffba97c-0130-4b55-989a-cbe69ed1020d||Words in Context
+E||7740dcbf-6582-4063-b1a2-01dbe8e08128||Words in Context
+E||74ad1b5e-86aa-4896-b0cc-5c8fd88485c2||Words in Context
+M||485435e2-da9a-4cd8-a7d5-922ea61cca4e||Text Structure and Purpose
+E||148dfa4e-795c-4cdf-a773-08cd072b8dd0||Words in Context
+E||11f4885e-30a0-4023-b7fd-2b30f8d9c2f8||Words in Context
+H||dbc2545e-b96c-4d5d-96ed-0f7e1a1c373d||Words in Context
+H||a4391066-927e-4668-af32-7c66692cdac0||Words in Context
+E||d731ebc9-44c8-4a29-9258-39c857313259||Text Structure and Purpose
+M||515f70fd-1a8a-4b59-9fc4-a493d3ed0618||Words in Context
+E||233c1b7d-48c1-434e-989f-84bcc9029899||Words in Context
+H||c088488a-21d9-4bb9-b70e-a72699d804ca||Cross-Text Connections
+M||8c664f64-49df-461c-9e0a-e0cdff7d0ad3||Text Structure and Purpose
+M||43ecabea-3f8f-4b48-8e5d-80853f68cd2f||Text Structure and Purpose
+E||719a1f6e-60f0-4416-866e-481a6f564467||Text Structure and Purpose
+H||f00cced1-627e-44ea-8df1-1426316e7a88||Text Structure and Purpose
+H||54287047-9ca3-4931-b6e4-13c25ad6e14c||Text Structure and Purpose
+E||9f4b47ff-c0cb-4a47-be10-410a57a2160d||Words in Context
+H||0fb21e0f-9c50-4188-9584-7dc983430729||Text Structure and Purpose
+H||89ad53b5-5784-473a-bce5-aa2c145ed03a||Cross-Text Connections
+M||2f8259a1-06bd-4edb-89f3-e51e05143294||Text Structure and Purpose
+M||e6a89c32-d946-45e3-a460-50ba2c3c8868||Words in Context
+H||7c99a73d-836b-4ef9-82aa-79f1b2805261||Cross-Text Connections
+E||1254ceb3-3b92-41be-b677-6482492613a6||Words in Context
+H||88b3e233-c118-413a-b65c-fc38699130a8||Text Structure and Purpose
+E||456397f9-5c55-4d95-a656-9092ce714c90||Cross-Text Connections
+M||6a5801a5-5e56-4059-a9f9-0a1240267b59||Cross-Text Connections
+E||34595d00-e2e3-49d2-9ab1-7f222dc78786||Words in Context
+E||1085b281-818f-4dd0-9847-1aa7a662f01b||Cross-Text Connections
+H||d7668860-9878-4087-b476-e548f9b28d5f||Words in Context
+E||4cd606a1-d6ca-45f1-a331-a05fa924ae37||Words in Context
+M||10aedcfb-dfe1-4eac-b1d2-89f7c794f9eb||Text Structure and Purpose
+H||71c991c9-64ea-429d-a5f4-bd44dd6d470b||Text Structure and Purpose
+E||5c87b72d-e67b-4861-bd6c-49c722059c99||Words in Context
+E||f01d6e44-be79-4f67-896e-a96a00d7112b||Text Structure and Purpose
+E||62c97dfc-439e-441e-8088-c793d4e73986||Cross-Text Connections
+M||99796d7a-46f5-4858-8eb8-9ee4c9d9f526||Text Structure and Purpose
+E||50dae82d-91e1-489c-ab31-8af664bc9707||Words in Context
+E||166b4da7-a028-4e27-afcc-a6087b2bd8af||Text Structure and Purpose
+E||138cb6f2-d4f1-430b-9a21-b645929a5d0b||Words in Context
+E||5322a747-7ecf-48ec-a8dc-eead867b57de||Words in Context
+E||f92df5e5-64e5-4ca2-90a2-cabd8a1c6b00||Words in Context
+E||d9aeeac9-0ed0-4fd1-83af-365e28e781a0||Words in Context
+H||2b57698d-356d-421f-be23-218f93c7aa09||Cross-Text Connections
+E||7f5faea8-d474-4411-8cdf-c80ad4475330||Words in Context
+M||76bf8cd6-f573-4f30-a750-5030c3070924||Text Structure and Purpose
+M||0295cfad-2b39-4295-b361-841f00e1c7a6||Words in Context
+H||2085ab1c-d19c-4090-ba16-7c45610503e7||Words in Context
+E||decacff8-b174-4cdb-9bcb-5c5714d5025d||Words in Context
+E||0dedefd3-51a0-4b69-8d27-70bd2b8d1fc2||Words in Context
+M||e10a2463-11f4-44df-ab31-13c0300681bd||Text Structure and Purpose
+H||88c8e1f6-8795-4358-bb1f-59f9a63ecc2e||Text Structure and Purpose
+E||4afa64a5-d8ae-4ef9-bdbd-2966534f1180||Words in Context
+H||1620c171-f321-4ee4-a855-19c83d327964||Text Structure and Purpose
+H||ab82cc07-c157-47a0-b544-992d042c4cb7||Words in Context
+M||5f5ee9b3-7025-41ae-ac00-71afc199772b||Text Structure and Purpose
+H||7c59600e-84ce-444a-a00b-274cf3423c3b||Words in Context
+M||028d8fdd-ec23-4549-a8fe-894187f95103||Words in Context
+H||0bfc085a-d882-418f-a208-100aefcda7fa||Text Structure and Purpose
+E||2f3c8ee3-dded-479a-9c37-f33b9d2ca2ad||Words in Context
+M||a51fd4f7-ce66-4ac3-a2b9-c32c832d314b||Cross-Text Connections
+M||270aa465-e0d8-43f8-b2f5-6a42058a1721||Words in Context
+E||40a6e0a3-6546-4f86-94a3-674e8b7539c4||Words in Context
+E||bc6ee0b9-9725-4ac6-8dde-b98186c5dfb4||Text Structure and Purpose
+M||90a4a88d-8b15-48a0-9609-1f6769ed7df0||Cross-Text Connections
+E||3ec391b1-5631-41ab-8f96-831f600e0aa8||Text Structure and Purpose
+E||73f9ca81-f6b5-49ab-9b9e-7b80671f70cd||Words in Context
+E||e8f42017-36db-4b1b-9645-16fbcac857f4||Words in Context
+H||cc4c76e5-535b-4376-baf9-3c6a772c0cf3||Words in Context
+H||d53760bb-41c2-4232-a2eb-abb0d8e0b051||Cross-text Connections
+E||7af27d6e-8e6a-4c97-8f8f-f7b9396692a1||Words in Context
+H||c9e092ea-db85-4654-9843-1ccec316a12a||Cross-Text Connections
+E||54ae5270-4716-4559-8c1d-f30bde8729c0||Text Structure and Purpose
+E||dd3fc9b7-9ac2-4318-9a85-01a56c1022a0||Words in Context
+E||c28bc354-77cf-412b-a34b-d9fd49dfb362||Words in Context
+H||db577fba-f840-47e8-adf4-84d7e79e8c3e||Text Structure and Purpose
+E||528036fb-b773-45a9-a0e1-9d0a9ac30ee2||Cross-Text Connections
+E||efc08b9d-1d6b-407d-bb5d-8f6c5cc24bd9||Text Structure and Purpose
+E||21e6d1f4-15ed-49a1-87c9-cbcd3f0b78ed||Text Structure and Purpose
+H||cdea167b-1a74-40c4-8d5c-8ac7df6c79cb||Text Structure and Purpose
+H||2e3a13e3-1586-4dd0-bc91-532ea8ad3efe||Words in Context
+E||ead8caf0-2120-44b4-ac53-a12d2e19856b||Words in Context
+E||cb6b6b1b-7743-4c58-a006-f4432bbd11f8||Words in Context
+E||76d6d4be-31c1-4303-8399-9cab44b67135||Words in Context
+H||80a9df22-3265-4910-8184-697981cf744e||Text Structure and Purpose
+M||01e38e21-9fcc-47d0-befd-d547fc90bc9c||Words in Context
+M||4cdb7643-8ee1-4dc5-b7f3-5d6e6ce61444||Cross-Text Connections
+E||0524fed6-0b7e-4b79-ab77-46395a4aba62||Words in Context
+H||cfed6bf7-ec1f-4dd1-bc04-daa74a4bb1a3||Text Structure and Purpose
+E||e922c1df-ab9c-47b9-b4c0-1bdf3bfa1b7e||Cross-Text Connections
+M||1cf93ffb-5176-440c-a8f8-38281da15027||Text Structure and Purpose
+H||6580ca6a-cfd2-4b81-8c28-03ae9d76318f||Words in Context
+E||0ff467f3-58be-4ab7-9e76-c8c0d4ba2ee2||Words in Context
+E||14ae6d0e-38ba-4602-8f74-5dedc287f6bc||Text Structure and Purpose
+E||a31bc539-61e1-4832-8a73-3c1d92e98529||Words in Context
+H||27ab244a-eb2e-4ba2-a8c8-76ef13c5e2fb||Text Structure and Purpose
+H||1654cd84-f39b-43db-80e8-cf0e6d4b9926||Cross-Text Connections
+E||93e5ee6c-f243-4144-b2d4-35213665d0e7||Words in Context
+M||575dc2a9-68a2-4c57-80be-8e72eb84c207||Words in Context
+M||f6091079-bc99-40fa-9c7d-aac6bb0c1952||Words in Context
+H||1e70c390-74ee-4d74-94fa-daff0424d92b||Text Structure and Purpose
+M||0521c2e9-08c3-4a63-b9d0-3a9cf68944da||Text Structure and Purpose
+H||56a6e247-3219-43b9-8ec1-3e5b2c20ad60||Words in Context
+H||cbf9da5f-f1c5-430c-b2fd-d27e74034d2f||Words in Context
+E||56a4297d-ab15-4d3c-b23e-95dd4b8f5317||Words in Context
+H||34e8b9ad-89d4-41b6-b8a3-c83eb9cbf5db||Cross-Text Connections
+M||474df432-dad4-409f-9668-6060c937748a||Words in Context
+E||290fa114-1e66-4edc-be91-af800775d355||Words in Context
+M||f9291899-64c6-42eb-a379-30bc15199332||Cross-Text Connections
+E||5cebd626-c5bf-447f-a745-d8363f321bd1||Words in Context
+E||11e8ef1d-8a5f-4b84-8754-e972b9757d23||Words in Context
+E||b867f47a-68a4-4c84-a661-e10ad53f6c12||Words in Context
+M||bdc66de0-9bbf-4330-9392-8c66057837f9||Words in Context
+E||cea065bc-7b0e-462f-becd-f5577217fd37||Words in Context
+H||e1c2edb3-9696-4ebc-97eb-0f9439d30a41||Words in Context
+E||11826936-eafe-4e3e-bffc-413f20fc3a51||Words in Context
+E||f0b1f9fc-75aa-41dd-8a8c-c7686e6629b6||Words in Context
+E||114e4b2d-8d06-4afa-bc3d-1b27cc0e7446||Text Structure and Purpose
+H||97a5db5c-98a1-4fac-97ef-117af4272b34||Text Structure and Purpose
+M||e7bb11cb-8c17-4290-bd1b-5ffba54bbdbe||Text Structure and Purpose
+E||e5f96c7a-1d41-4770-b369-48b1a28e1456||Words in Context
+E||9b93faf4-0537-4286-9930-2afe62d44731||Words in Context
+E||19475bfc-adb9-49a8-8605-07a5378bf15b||Words in Context
+E||625f5ce2-ea7f-47ab-bc02-5689c89e0902||Words in Context
+M||e662866f-b53a-4050-9564-07e4a17b9e5a||Text Structure and Purpose
+H||94dcf619-8c65-49bb-af1e-f8bc0e5c3760||Words in Context
+E||dd21159d-d3f8-45e2-aae9-c408f3e221b7||Text Structure and Purpose
+E||ba47850b-1535-4452-8168-b466e906582d||Text Structure and Purpose
+E||926776f3-b17f-41a4-a3d2-ec4626de0ab5||Text Structure and Purpose
+E||2b0ec1b9-82bf-48d1-9817-b1fc4aaab9b6||Words in Context
+M||cbc70f4e-6db0-4909-b289-cba0c0a74c2b||Text Structure and Purpose
+E||32674912-212e-4fe3-bbee-05839397bbaf||Cross-Text Connections
+H||22aee311-bf13-42f1-867e-fbf71ee4ecfd||Words in Context
+M||ea87fbd0-5e50-4c67-9cf3-097c9b3681e1||Text Structure and Purpose
+M||974b9c60-47e6-4642-bb02-bdbca4f56fd4||Text Structure and Purpose
+E||ea2589eb-9e1f-4005-a0c7-0b5721317471||Words in Context
+E||0c915748-3254-47e8-a2e0-e245099b3dfd||Text Structure and Purpose
+E||7e0b7d3a-ada6-4213-90bd-2c0eed52f2a6||Words in Context
+M||231583a6-b3eb-41cf-bc8a-41e1fac75709||Text Structure and Purpose
+E||ab4f824a-0bae-46de-b416-7eaa2476984d||Words in Context
+E||de4db60e-8686-45b9-9f67-b2f3504f4c15||Words in Context
+M||0e72b9ee-4ae3-4961-9f29-27da9fd2c52e||Text Structure and Purpose
+M||11ddc0d9-49ae-4f5e-a32c-7c8aaabe8ddd||Words in Context
+H||edd110d7-6707-4876-9f5f-dfa02104e47f||Words in Context
+M||d7b12c3e-7c14-42b7-b6e3-968401ad557d||Words in Context
+E||3511c2a7-97de-4c58-8cdd-06f33e46b181||Words in Context
+E||968e7f76-b51a-491c-bdfe-921f5d4e6b46||Words in Context
+E||cd212f17-eef7-4563-b4e3-9ba6e374a6ef||Words in Context
+E||7a2c8836-7561-41d9-a391-1a2361cad7b6||Words in Context
+E||85e286ca-e741-446a-a2f4-e98e6095a4dc||Text Structure and Purpose
+M||5ab9e25c-d33b-480e-a713-c128b553594a||Words in Context
+H||27d889c1-4263-4d7a-8bc6-f0549d1247ba||Cross-Text Connections
+E||fa3d1dfb-6e23-4719-8784-4d2976c38943||Text Structure and Purpose
+E||ed628125-1859-4622-bafa-5fd5cd10bbdd||Text Structure and Purpose
+E||359d3222-87e8-42c3-9002-6cfe68cb2f58||Words in Context
+M||c5e5c8c2-3f39-450b-907e-e7983208d347||Words in Context
+E||d4330d12-8b99-4d4f-8c4d-4b2c7be0c927||Text Structure and Purpose
+E||4ba15838-4a46-413b-9306-75dfbba2bcae||Words in Context
+M||150382c0-32c8-4a03-a4e2-e75e01f4d5ce||Words in Context
+H||9d21eb26-86d3-4193-9e31-607f67f13f4e||Words in Context
+M||6a07c552-55b8-4327-80fc-4e6817708953||Text Structure and Purpose
+E||59d4e01c-ca0e-46e7-8e34-fa003898eec8||Words in Context
+E||8fed581f-1329-4cb7-8727-8c2037159d3d||Words in Context
+E||3b857205-9399-406c-9581-60229257194e||Text Structure and Purpose
+E||f13ab5d0-6fea-4c54-999b-ed0ead5c6e92||Cross-Text Connections
+M||c84de96f-8a11-4841-b4c1-2d551188f74f||Cross-Text Connections
+E||20fbf413-7cdc-4095-9049-97cfda456a48||Words in Context
+E||7e3611fc-9f46-405f-94ba-467e4976e0e1||Cross-Text Connections
+E||6e6dadd5-84d8-4351-ab87-72d752a07fcb||Words in Context
+E||16fda5ff-ff75-400f-aa99-6cbb9497d1be||Text Structure and Purpose
+M||a1e8699f-954c-4f4e-b0ea-95f400636c11||Words in Context
+E||3df1c9a3-2e5a-429a-b8dc-f8bafc6c9918||Words in Context
+E||40bb3e5d-a1dd-49ed-a57a-c8772051e9d2||Words in Context
+H||a83de30e-b2fc-4be2-9fdc-19216a085296||Text Structure and Purpose
+M||eb3dda15-c27a-4917-8be4-98b64ffb032a||Text Structure and Purpose
+M||9c257555-c00b-4e1a-b84d-8f995da3632b||Text Structure and Purpose
+E||4afe3db2-b623-42c2-85aa-cab808b4b049||Words in Context
+H||19bfac22-c7f1-44c5-ad77-cd2e8185eb37||Words in Context
+E||275ad6c6-c431-4660-a1ce-0de13c039334||Words in Context
+H||bcba58ca-6a99-4a94-b120-d3a1909d3ad5||Text Structure and Purpose
+E||7c28e20b-3062-42a5-bc4a-4f3e2a5a8f11||Words in Context
+M||06b4befe-cc57-404a-b9d6-dea9e85fdec6||Cross-Text Connections
+H||ca82da8c-c2b9-45b2-8f62-1aff0d7b4de2||Words in Context
+H||c2c803b2-12ef-43e1-9e6f-fd55ed2b943f||Words in Context
+M||4917047d-ce23-41a2-ad6e-c48333ba9b65||Cross-Text Connections
+E||80854706-ff1b-4973-95ea-631207d93c52||Words in Context
+H||62f1d2d5-5df8-4338-925f-1fae85ea6f74||Words in Context
+M||c232aa2c-2e8a-487c-9daa-505a57ba1aab||Cross-Text Connections
+E||7c826b0e-e21f-4bac-b7fe-047b231f7ca1||Words in Context
+M||511211a7-f7ba-49f7-af08-8c075158a19c||Text Structure and Purpose
+M||fed69a30-de93-48a7-9a9c-2a11be5cb673||Words in Context
+E||4e5f6549-43db-44f3-bb94-e18e500d3b87||Words in Context
+H||dc9f8834-4a33-4df5-95e4-1900e4f12d32||Cross-Text Connections
+E||6f73ae1d-2a53-4dd9-b5ea-b1b1c2f3b734||Words in Context
+E||9151070e-2d5c-4763-9c7f-e3a2018d7c53||Text Structure and Purpose
+H||d149ddec-9f97-4f22-a5b6-683f4090e8b9||Cross-Text Connections
+H||bad731cb-eb93-479c-8a7b-c33e8f78e7b0||Words in Context
+M||a20b2ca0-69db-4750-ae47-4d37bd2c93c7||Words in Context
+H||c45d2a3d-9058-40c8-86f7-b90d2f7736d7||Words in Context
+H||70210034-540e-47df-82a9-09dd65daf1ae||Cross-Text Connections
+H||286bac89-75e1-4286-a693-0b58ff7fb444||Text Structure and Purpose
+M||4b64bb5a-1640-497f-9cb4-24af67c229ba||Text Structure and Purpose
+M||f80d1e61-9573-4a9f-b2f8-f179a789a2f4||Cross-Text Connections
+M||1ac31154-0bb8-4bee-bd86-75ce7ce0ba63||Text Structure and Purpose
+M||1f888d4d-cf99-4016-a73b-088ef836dc5a||Text Structure and Purpose
+H||1d40f21f-4afe-4105-8efe-b1cb7667042d||Text Structure and Purpose
+H||2d3316e7-0698-4c60-bf30-9fbd363c2a15||Words in Context
+E||f8e1772f-9571-490e-b9a9-e0eb7b8ccb5c||Words in Context
+E||ca27472a-726d-4bae-a5fe-07cdc73bae6e||Words in Context
+M||24e1b704-452c-4aee-9a4a-ed63134e1c83||Words in Context
+E||69fdc782-f0ad-4615-b005-4f8c3af61122||Words in Context
+M||918ce129-70e2-4dee-86da-06f2ab0444b0||Cross-text Connections
+E||52ed9f78-57e4-49db-8d52-e1b7d3ad5772||Text Structure and Purpose
+M||f1173373-68e6-4e0b-bb17-9e691425cb0e||Text Structure and Purpose
+E||1c5a0f46-361b-4d1f-9fd8-82df4dc8295a||Cross-Text Connections
+E||fa3b0868-3f29-4a0e-abca-9354255b5f4a||Text Structure and Purpose
+E||16ffff21-d68d-458f-b3ba-778145a5ffcd||Words in Context
+H||48f58e5b-56ce-4765-8efd-ee56f9003796||Words in Context
+H||5a6b4fb8-c7e5-4ce9-84ba-1d44b4be1dda||Text Structure and Purpose
+M||e4ff61a3-8e09-4f98-a23c-21f739f73535||Words in Context
+E||415fe94c-ab61-423e-be12-248420d84c52||Text Structure and Purpose
+E||3e7eb38e-32c1-4df3-b144-b9d1d5beac6c||Words in Context
+E||b1369263-4ba9-43c9-b7d6-20aa61efe9d4||Words in Context
+E||2a0b4af4-97f4-4908-9ddd-49e0b40dca7a||Text Structure and Purpose
+E||1b1c4ea0-13e3-4b12-b816-9f277ccd9641||Words in Context
+E||d1cf2aa4-3cbd-4fee-b186-c241183fc074||Words in Context
+E||f8b434fb-6251-45d0-bce9-7473565978b3||Words in Context
+E||42ffe228-94a5-4f30-af1d-0724a6e9a196||Words in Context
+E||c518470f-82cc-4e18-994d-a1186ef6afbc||Words in Context
+H||77d9e3c0-d312-40eb-a54b-06a3589a4335||Text Structure and Purpose
+E||f522b365-f853-4553-b809-e6b3752f1e5a||Words in Context
+M||57367f5a-845b-41c3-a3e2-6150dc98d690||Words in Context
+H||9d7b4f85-3a2b-4e6a-bc64-ca9e159e8105||Text Structure and Purpose
+E||412884c0-234a-4f98-9fd6-2a4030b982fc||Words in Context
+H||eb41fdd8-5221-4465-89b4-84796c6e4441||Text Structure and Purpose
+H||0fd533da-56e3-48d2-be14-a0a3becb6886||Words in Context
+M||e73e5d84-44b1-4e72-a9c2-6fdd89275967||Words in Context
+H||a064e000-78cc-447e-93c8-47f55b155b7b||Cross-Text Connections
+M||4903c40b-ba93-4f98-9f88-9eb2761045ec||Words in Context
+M||e257f385-1988-4616-9742-5ef7a832d1db||Words in Context
+H||3bea6b9a-96a6-43dd-8d02-b5a6c418aca7||Cross-Text Connections
+M||8a008194-d038-44b2-968e-fcbc15789b3c||Text Structure and Purpose
+M||6ea6be63-d92d-4ba8-8655-262858f55e62||Cross-Text Connections
+E||b154b281-43c3-4c4a-8c20-99379d2dc68c||Words in Context
+M||a0d46584-d43f-4faa-8b45-3a6f78a6485e||Cross-Text Connections
+H||ad86475b-ae63-4b20-9842-08121ceb3bdb||Words in Context
+E||c108292b-f5d4-48c1-8551-791dae982b3e||Text Structure and Purpose
+M||8349ae46-df73-4387-9c4e-704a441d362e||Text Structure and Purpose
+M||4ebda356-e24d-43e1-bc57-b475228f9295||Cross-Text Connections
+M||75d0401c-75d9-4070-be56-daf441f2908a||Cross-Text Connections
+M||adce3048-dd82-4590-b1dd-157f352fe7d3||Text Structure and Purpose
+E||23e6fdc3-ab8c-46ea-8898-6152e4bf95fb||Words in Context
+E||e5b204ce-8d37-415b-a8b5-83f606ed8d83||Words in Context
+E||4ef63eaf-90f8-4e95-9136-6b1800994292||Words in Context
+E||cffc9b1f-c10b-4f3c-bde4-418ef75a5f08||Text Structure and Purpose
+E||11127b50-fc2e-4855-bc80-1d7d3c85764a||Words in Context
+M||13e8c84b-e1c2-43b6-a7a2-bb284fb43c68||Words in Context
+M||f0d86904-3056-437a-b590-5363205a9d0d||Words in Context
+H||1530c070-0163-4750-9dbd-a9bbb0e02dbd||Words in Context
+E||4df2302b-b51f-452c-89ac-da7978924c29||Text Structure and Purpose
+E||902d1814-a730-4637-b69f-7bb1b8b9f400||Words in Context
+M||a27aa59e-675f-4455-b846-dd16613ab152||Words in Context
+E||7c89e3ee-faaa-4316-9ca0-e0d2363b46c4||Text Structure and Purpose
+M||6e37a2f1-4f0d-4d0f-ac83-abf1598b8a21||Words in Context
+E||73093381-38f2-46fd-9909-0a8c60323450||Words in Context
+E||30636fa0-19a8-4ebe-b3f6-dfefc2c67f6c||Text Structure and Purpose
+M||c6fac08a-82e1-4c30-980e-a4ac745bd846||Text Structure and Purpose
+M||5ad6a8d1-72f4-46c4-a14a-7776f9c916f6||Text Structure and Purpose
+M||6e88aa39-968c-4603-8ae8-3ec568e6fc0b||Text Structure and Purpose
+M||b4582e11-c0ed-4c17-a092-446a9806c811||Words in Context
+M||ad5acd03-7c25-483b-bad4-5d848fddf21d||Words in Context
+M||2c3579f5-5a54-410e-8872-288a52fb95e3||Text Structure and Purpose
+E||4c36e647-a8e3-4ed1-a813-04d6818058b1||Cross-Text Connections
+H||b7ccd3ab-1793-4b91-a1a3-9a33c8095745||Text Structure and Purpose
+E||7574368f-8d8b-4b9e-a7f9-24990a5a1e0d||Text Structure and Purpose
+M||948cb05c-3a22-4bd0-8f73-3b8087dae9b2||Cross-Text Connections
+H||621c701a-7357-403e-812b-cafcc28f7c1f||Cross-Text Connections
+H||3e54bdde-9e2e-4bbe-a879-b08aa6838f8f||Cross-Text Connections
+H||24a7d56a-2465-41f9-a568-8027e878431d||Words in Context
+E||16996808-9d20-4460-88c0-c738319a84a9||Words in Context
+M||0d6410db-f8b9-48d2-8712-acc6993450ec||Words in Context
+E||de5605c6-c05a-4384-b569-7efefdfccbd2||Words in Context
+E||1de2c5d1-3cf4-4e47-9172-c03d89d88880||Text Structure and Purpose
+E||ae604376-db25-47d7-8ff4-925884ae819a||Text Structure and Purpose
+E||ec193c57-b35f-4cba-9b08-05153be0e012||Cross-Text Connections
+H||ea9ee8af-fa30-4b37-9240-d7dc342b2d6f||Words in Context
+E||df3063c9-79b5-4510-b41f-913071970103||Words in Context
+E||07b3f7e5-e57c-4a76-be24-674638b5d65c||Words in Context
+M||123877dc-02fe-4b9c-8afa-a751cfa3b840||Text Structure and Purpose
+M||258b2444-8a77-48d5-8e99-8e9789fe6ccd||Words in Context
+M||e350387d-e07d-4cbb-aff6-846184c9dc92||Words in Context
+M||68ddeb10-7cd9-487a-b801-947202714250||Words in Context
+E||3cd24546-49c6-488b-9d02-69dded3a7cd8||Words in Context
+H||b5fa3821-faa3-4b0d-96c4-c13f51f9c305||Words in Context
+M||44563440-0571-499d-ba56-db50174dd26b||Text Structure and Purpose
+M||0ffd78a5-aea9-40e8-902c-886005749819||Text Structure and Purpose
+E||ed64f415-992e-4d5f-b6d6-b247388e46db||Words in Context
+E||ffd55ab0-aa98-4695-aab9-4c91355810ed||Words in Context
+M||605c9251-642f-473b-975a-7190e424e95a||Text Structure and Purpose
+M||b4984813-1926-4366-a1fa-e1c4685e6b4e||Text Structure and Purpose
+M||eb9937bf-5401-4ef3-8267-1717cca62488||Text Structure and Purpose
+E||c727f0fa-b90d-4d15-90d4-ed092f4a92a0||Words in Context
+M||81858a15-8a22-46d2-a60d-5e7fffdeda11||Words in Context
+E||33281590-ff75-47d2-8820-e0840888f7c8||Words in Context
+M||e19e6680-2fd3-48eb-8f9d-5928fc54106c||Words in Context
+E||2085e5c2-ac9c-413c-aea2-aaa8e08135ac||Cross-Text Connections
+M||c9238037-8ea2-4d6f-a213-e5adf698a43d||Text Structure and Purpose
+E||1dd08ff1-78f2-4c00-acbe-78c14edde937||Words in Context
+E||1c75f82a-dbd7-4499-80a8-42da5e0d22a9||Words in Context
+E||3edde485-3d30-41b8-8af4-98ffa91a318a||Cross-Text Connections
+M||25b63b9f-8c2b-42d4-aac0-ac81a6ad86e9||Text Structure and Purpose
+H||d075bf64-fb65-48bb-be7d-9bb84629ef5e||Text Structure and Purpose
+H||68b05d6a-7ee1-4b36-962d-051b9396eb85||Cross-Text Connections
+E||adaad827-47ac-4562-bba0-852ef6d03236||Words in Context
+H||c05cd444-d000-4a40-8bbc-7229da22f4f4||Text Structure and Purpose
+M||317acb11-f400-4eba-8a07-a4f9f2389131||Text Structure and Purpose
+M||507b9440-f15f-4cb8-968b-fb7b37fc0f74||Words in Context
+M||ebb77a60-e6b5-4ca3-87c8-43e60cef57ed||Text Structure and Purpose
+E||3eafd2cd-6318-41d8-90b3-f2a3b05f70a4||Words in Context
+E||7bc9be38-c0b9-4055-8eb5-e338130c51b9||Text Structure and Purpose
+H||faee6021-41fd-493b-ae3e-d83005275eb7||Words in Context
+H||7649fd6d-86c7-4093-a334-634230e72c1d||Words in Context
+H||300a8942-08ba-43a1-958b-72b8bb8c0a4b||Words in Context
+H||76babb0f-bee5-4ab9-8e63-133a4f711925||Words in Context
+H||773e98b5-c08a-40e3-b4c1-5329396dc685||Words in Context
+H||f118bde5-9bc4-487f-868c-d6d9f2e1af8e||Words in Context
+M||5ecdc97d-a402-4437-bc73-23cad8dc2c63||Cross-Text Connections
+M||5a42da90-a3d0-434f-a53f-0f77b8faa19e||Text Structure and Purpose
+E||38e385c3-7997-49a3-a7be-4b795810f519||Words in Context
+E||e2d7ae77-37f4-4262-93cd-474e4f073caf||Cross-Text Connections
+M||9441e822-13d8-4de1-a977-1b0093c0a5eb||Cross-Text Connections
+H||afd5820f-5c20-4181-a439-a86c8a980a9c||Cross-Text Connections
+H||b7a610b9-e72a-43ef-a2e5-5e1f3fb001e5||Text Structure and Purpose
+M||e7659f22-d958-498c-a061-23d58d11b7b3||Cross-Text Connections
+M||bcb08ce1-586e-410e-96cb-573c292e317a||Words in Context
+M||086ba4d2-8f92-425d-ae4f-c95cecbd3a60||Text Structure and Purpose
+E||8957bc52-5dbe-4797-8706-718ddf96e23e||Words in Context
+E||87db806c-1c2d-4f5c-ae29-5a904de96673||Words in Context
+M||7c9c93b2-6c7d-487b-abaa-90280be77927||Text Structure and Purpose
+H||283479b2-e229-4d1d-b4f5-b22b6711cc09||Words in Context
+M||85d23806-fd4e-4759-9e5e-193f65af44f8||Words in Context
+E||977ef86f-4402-4b16-9465-aecee8d7a18b||Words in Context
