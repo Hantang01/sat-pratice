@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAT Question Viewer</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <!-- Desmos Graphing Calculator API -->
+    <script src="https://www.desmos.com/api/v1.6/calculator.js?apiKey=dcb31709b452b1cf9dc26972add0fda6"></script>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 2em; background: #f8f9fa; }
+        .meta { margin-bottom: 1em; }
+        .question { font-size: 1.2em; margin-bottom: 1em; }
+        .options { margin-bottom: 1em; }
+        .option { margin: 0.5em 0; }
+        .rationale { background: #eef; padding: 1em; border-radius: 8px; }
+        .correct { color: green; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>SAT Question Viewer</h1>
+    {% if data %}
+    <div class="meta">
+        <strong>Assessment:</strong> SAT | 
+        <strong>Test:</strong>  {{ cat[0] }}| 
+        <strong>Domain:</strong> {{ cat[1] }} | 
+        <strong>Skill:</strong> {{ domain }} | 
+        <strong>Difficulty:</strong> {{ difficulty }}
+    </div>
+
+    <div class="question">
+        {{ data['stem']|safe }}
+    </div>
+    <div class="options">
+        <strong>Answer Options:</strong>
+        <ul>
+        {% for opt in data['answerOptions'] %}
+            <li class="option">{{ opt['content']|safe }}</li>
+        {% endfor %}
+        </ul>
+    </div>
+    <div class="correct">
+        Correct Answer: {{ data['correct_answer']|join(', ') }}
+    </div>
+    <div class="rationale">
+        <strong>Rationale:</strong><br>
+        {{ data['rationale']|safe }}
+    </div>
+
+    <!-- Desmos Graphing Calculator Display -->
+    <div id="desmos-container" style="margin:2em 0; display:flex; justify-content:center;">
+        <div id="desmos-calculator" style="width:600px; height:400px; border:1px solid #ccc; border-radius:12px; box-shadow:0 2px 8px rgba(0,0,0,0.08);"></div>
+    </div>
+    {% else %}
+        <p>No question data found.</p>
+    {% endif %}
+</body>
+<script>
+    // Initialize Desmos Calculator (graphing part only)
+    window.addEventListener('DOMContentLoaded', function() {
+        var elt = document.getElementById('desmos-calculator');
+        if (elt) {
+            var calculator = Desmos.GraphingCalculator(elt, {
+                expressions: true,
+                keypad: true,
+                settingsMenu: false,
+                zoomButtons: true,
+                lockViewport: false
+            });
+            // Example: Plot y = x^2 (replace with dynamic expressions if needed)
+            calculator.setExpressions([
+                { id: 'graph1', latex: 'y=x^2' }
+            ]);
+        }
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,986 @@
+[
+  {
+    "difficulty": "H",
+    "external_id": "dbda3b6a-f820-4919-8708-c6088f04c080",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "7d655176-161a-479c-b588-adb3cf6c69c2",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "f59b253c-f13a-4027-850d-9d1abc35bde5",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "8a0d3a20-6326-4fe6-a269-38ef70418956",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "62bc2dfe-0a0c-45ec-a764-c5f84ddbce67",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "7bf2c7eb-d2eb-49db-a4cf-7cd376347a2c",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "555b2745-a82f-4231-a6df-c31085a80638",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "19da9e4a-267f-405a-bab5-768d4d5c4c29",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "05f34b6c-f496-4574-bc7b-cffaaa469975",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "21b61a47-8395-41b7-9031-ab756ca63c22",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "bca754b0-4853-461c-a71b-c465e54cbb57",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "2124991b-31a9-4ce3-a963-094142d78f70",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "bf7a641a-e835-4a95-a957-157c3c91e4ca",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "dbae1ccb-c727-453d-aad3-d9808097dcfd",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "c39deac6-0f67-4431-b530-e4745624b358",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "4a39e52e-02ea-49d7-a695-87a667bdb785",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "fc7a142b-274d-4f6f-ab55-5f7708568898",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "e7973fae-0e6b-4fe9-bac8-a13801f05c72",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "22d64b0b-de62-4d03-bfd1-a0f9bfc7fb43",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "01daee35-6a84-4baf-8ed5-3ef4ff55b251",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "6c28e838-bf2a-4be6-ba95-64b7eb7c520d",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c1c7e4d7-d6dc-4e54-8b49-cbd88eab7153",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "baefd1d0-91cf-4b82-9c41-2145510636af",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "9f8442fc-4e43-48a4-9eda-fd446fd06043",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "2a19ba5d-f615-44cf-bbf1-badb5fc9d6f7",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "9fe57ebf-964f-4add-9e16-f54cf44c7bf4",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "9df9e1c7-bfff-4d4e-865f-5cbcb4b24e4c",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "e2fa4379-f216-4286-8c00-6098b985ceea",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "8cc3132c-df20-42a0-a034-412f01a73b1e",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "fb64be41-9c0d-458c-a301-7cdb0ed92404",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "ce3b6f4f-60f0-4503-b733-4d7804f8a14b",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "8d9a8a64-b22e-4435-a19b-1ac97f998d7a",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "e8f7d348-9106-4f42-a41c-8400c1758a07",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "761b928d-225b-4b73-968f-a9b367e5083e",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "d341e9e5-5270-4fed-85ea-10d666d20e91",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "8d60c337-175f-44ef-817b-67041302a3bd",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "a9d7a8cf-fa0b-4706-ba20-8d948b2ba69d",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "bc3176be-4d2c-4e9b-89aa-312963604d41",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "301edaf1-d774-4eda-96b8-80c08070887f",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "b609067c-22bb-404f-a813-9e197c6b487c",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "9d90d9a2-0084-4cae-be11-73b040f11c9e",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "eee80adc-71a4-4db9-8c03-1fddc462909d",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "5582e974-2bdf-4b46-a406-07c130db3b37",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "735dd150-97a4-4853-addc-1b4ab44812db",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "ca49552d-a377-4804-b20d-7b730e15bb99",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "0c4e91ab-c388-4002-8b80-16bf6f098d01",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "b7b7672e-ce42-4e19-9094-c2ba6966c496",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c66e94ab-e172-4e0b-9609-f3b62ef3f90d",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "58f8a50f-ca96-4d35-9e5d-bb5694488742",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "009bb623-417f-401a-bef5-57d78eeaaf99",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "a8b375f5-371f-458f-bca7-e5b78b360f11",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "20c5df6f-78ac-41d4-99b0-3fda967fa4b0",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "359c6a4b-24df-4f06-8a59-45dbbbb00833",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "131e158b-3eee-4f01-b713-1985fda38651",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "31c28a2a-1001-4c2c-b27f-aa2b2380c77d",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "ece15db3-71cb-4f5a-8d30-df4238c90943",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "c53570c0-9d6b-49d6-8b3f-c45a4ef532db",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "63912a12-3cfc-4144-bd81-5557667cbb81",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "1dd30616-5d7f-4401-8dd7-811d477d90d8",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "243579cd-f8bb-4573-bce8-ea57314f3f36",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "ccc97dea-b103-4868-86e4-80b756cd63d7",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "4e338dff-7649-48c0-89f7-665b5a7d5776",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "84bcf173-28fe-47bf-bf15-075592753ee0",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "57d14ecb-ffd5-4286-be93-6ac79a3d7750",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "39d02567-fb2f-4a7c-a802-69186c6a894f",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "66a68c59-a01d-4c33-b54e-5a44e513c248",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "c2d6ad1f-5e60-4cc7-a1e8-cc677271772b",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "c498bacc-713c-42ba-a2e4-bc873030515a",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "b3738b72-9c5a-45b5-986b-00bb9643ab90",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "32a77034-9666-46e7-b78c-a2b1427d5d9b",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "7ad5d0d9-6334-465a-9284-026de00b1ddf",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "5ca08c31-e18f-4cb7-837a-0814ebea3a8e",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "bf1e177f-7c4f-4d1a-9d5d-36f0191c1cde",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "77d41ee0-634a-4578-a6b0-6ec8687d2c0a",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "e99677cc-b481-49aa-b1e3-816b48a49b59",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "d14a2fdd-4d09-4911-b363-67cb2fe299e3",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "137892dd-a025-491a-a463-42740b162c96",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "551e10b5-2f0d-4002-a399-823a818766b9",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "4959ea4c-8faf-4a7c-9ef9-60dc6d45d751",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "437a1594-67bd-4051-8026-2a747bd29288",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "25288de3-8156-4952-8e45-10506cfad636",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "4363b40f-7867-454b-a423-9aa19a6be480",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "076bf06d-2022-480c-ada2-6ea25ff29991",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "081f3aa6-88ed-4da7-bc3a-e7bbfa7b4fca",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "16428dd4-6b32-4580-ace2-d2dbf0505a76",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "49178e05-53a1-4bcb-954a-708fc5b770ff",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c19a1158-3fde-4af0-be5d-79e3722ddf7e",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "395e8a55-7af9-456e-a433-3d4a89ade971",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "c2922131-fa53-47c8-b19a-4f809b49ffe3",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "408558ac-8ac7-4c5e-ad29-a40f145bdcfb",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "f06ed67a-28a2-4bfe-9834-47786c3571e8",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "889ad56f-33a9-4c3b-b4d8-24aba4870171",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "ae6da77a-4de7-4375-a532-b00350663a9f",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "84b26634-2244-45e6-8504-ea367a0f2049",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "a79dbc7d-8d01-40c4-8900-15940eeff7d7",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "7ffcadaa-3611-4602-92ad-c14085a27aef",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "60500dd8-893a-4fea-903d-de896120774c",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "095e8ea4-b798-4679-8448-1de5fc94090d",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "b479bf47-357b-4283-81e0-02fa0f919256",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "6145108f-5273-4b08-afde-8e75072e2eef",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "0f1a7b12-733e-45ba-a7fc-021a951885f5",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "8c6f39d2-0804-4eb5-8c97-b801dcd8a2e8",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "a786b147-72b1-4d1e-b373-354a8186f3a8",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c7393c8f-4256-438b-bd7c-1da38024e64c",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "97ba1ce7-b7c6-4164-bd91-cbae30d8e22a",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c48a5175-a810-4a78-babf-4e18402eb1a3",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "357b0938-dcf1-4984-934a-7d55d036717a",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "d5ce6f43-c646-4b30-bf82-ba8eaf2f70bf",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "823ebf16-5273-4421-aeea-7ddb20cca4fd",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "2fcb111d-48d0-4ee3-925e-0ffeec3615a4",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "21c2c201-137b-4fd3-9fa4-520c318b5319",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "1597b05c-5fdb-4f34-a5b2-e92fa92dc557",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "b09e0918-6dfc-4b50-b503-bbdd89fe3480",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "4d53ed15-713b-4aa2-8943-17060404b617",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "aa19a0c6-76f9-4d66-b105-5e444ac3faec",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "78306704-22d8-4501-a060-e7b7995c3ceb",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "c15bdfb8-01a8-4d34-9cc6-822ca3108767",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "f5e0aefd-1908-42ec-9072-52390bef3063",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "af58075c-8456-4696-8179-6c1a86044478",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "51707cf8-d699-4a87-a4c7-1cf41c8e4d28",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "f85fd217-961b-4d79-9d31-21aca15bd9e2",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "575135d8-2a82-4346-993f-f5d9b5921696",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "29baf634-1e61-4b33-9cbd-19d88be26e72",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "5c9efc7d-a1db-4027-b9b5-a10ca2abedcd",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "9f3f179f-7ad7-4230-8a40-f348dbb4881a",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "28b7a76a-9194-4446-b1c9-e00fb73bc3c8",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "23141598-61c1-4eb9-a3fc-9ffb6c807ef1",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "5bf76a41-5cb0-4d02-8d3a-4c2fc8668b3a",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "8d0aca2e-6014-42d2-adde-c7e271bac2be",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "5466f88b-12d1-4e2d-a8ae-304ba95ffcae",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "2cc3f845-5222-4c22-8764-9d19c7b188fb",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "a5cc3d06-5c10-40d6-bfec-b01230ec82b8",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "ef234bbf-719d-4bc2-a841-937a532d135b",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "2bde9f21-d49c-42af-b7ec-38c87b242d02",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "fa02652e-89a4-4784-990e-fd5f06d65862",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "2ec14ac8-bf5b-46cc-8993-b907b006b31c",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "8f07857d-c0af-4793-9305-0e414671d257",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "c6b681f6-504a-4e3a-8c73-a1cc8632d86b",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "64a7c0bf-065d-47a5-a938-4a1fabad6933",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "7b4cffc9-9565-413b-810d-67d7f92aa56e",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "f60d8609-7495-41f1-a588-c1fdce04101d",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "1e523d74-12a9-4f3a-8279-13ec77276c13",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "33267cea-2b74-4c39-98b4-c53cd17a378d",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "76f07394-0a95-4e65-86b8-e42618d65c92",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c682f49c-ee6e-439a-a3c9-64f6aab47176",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "7ce3a2e8-bebb-4040-84e7-3f30170327e3",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "017fc25c-1859-481d-88b6-98502365109e",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "ddfe8011-1fec-4e7d-81bb-e842017e4525",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "a17099a6-ebb4-4a44-aaf9-5dd8051a2c25",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "b693eec7-7a41-4127-adf6-bb6bf263019b",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "64da6245-4314-4da9-817e-46dcdd9dc29d",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "13cc44bf-f2ac-4f02-ac05-440e4b894f96",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "d0ab21dc-5c27-4da2-a45b-fa400982d6bc",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "2b0e8838-4d1b-4eaf-9a92-439aa05ee874",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "9312f237-66e1-4380-a28d-185ceec5d2ab",
+    "problem_area": "Right triangles and trigonometry",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "05a3c218-67ad-4fcc-a95c-61a1756c68c5",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "95dd10f0-9b55-4202-a756-91f1ede906ac",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "3d5eb413-328a-4e40-88e5-debcb6d91aad",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "cde76af2-5837-4a16-aae2-109dd079e384",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "10d4dc39-2d6d-4fb6-8cc4-828292d3cbe0",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "9657587b-66c2-4743-91d3-22e3bf8ab94e",
+    "problem_area": "Area and volume",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "cf2ac41c-6770-4663-bc5c-fdcc886db696",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "2e29358e-5d5c-485d-bea8-cb085eba5056",
+    "problem_area": "Lines, angles, and triangles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "8440c7b5-f1af-40ac-839d-ad1fdfe3d955",
+    "problem_area": "Circles",
+    "general_area": "math/Geometry-and-Trigonometry"
+  }
+]

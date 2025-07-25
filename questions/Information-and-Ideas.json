@@ -1,0 +1,2594 @@
+[
+  {
+    "difficulty": "H",
+    "external_id": "52a8f1cb-bff4-4dcb-b455-fbc202e8513c",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "c41ebd08-a19c-44e2-a621-3e50ac34dcd2",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "30511484-9757-45d7-958f-cf06ed690b94",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "34993994-d6c5-4708-a99e-263ff6b8b604",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "40e7dbe5-a37f-471d-bf2a-66c7e950d5d3",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "9143317f-29a7-4559-930f-3895f4457c7d",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "eddf2dbd-c0cb-4ca1-bea8-c6e522b4c743",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "e5ffa0e4-1fea-42ae-b997-44eed4a8e733",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "c4d80f10-e0f8-4466-bc5a-e45343eceed5",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "0ab248c5-2e6c-4eb5-adb7-eec1beae9ae8",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "8f3764da-9e5e-4406-8b84-4c3a91358727",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "38d454cc-7da0-46c5-8fa3-9f57526c1baa",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "0d14ed05-7101-4b7c-9ad8-f817a8ee4705",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "8867acef-9776-4099-b6bc-f5059e8a9574",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "71c4f33b-5e73-413d-bea3-14225980d694",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "b4fd3c61-604e-4f87-b027-41ddf01d205a",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "a9859e96-a39d-4207-8cdb-6fb0ee8d8a98",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "55af0cb2-1f16-4184-a04f-f39d41958743",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "06e692f1-c804-4303-9a38-5f28ac4dcf65",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "76c41880-b3cd-4f49-86f6-2e9fb2b14aa9",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "0a755181-a4cc-4396-b977-da1608faf80f",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "d7a2ff8d-862e-4818-9266-5024deded2c9",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "69ccacae-98b0-4823-a0df-dbc2f84a63fa",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "8c905e66-b3bd-4010-973a-d51abc4a9009",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "a834b9d5-442c-4133-b51b-b1e6ce7c584c",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "90ef6bd8-7392-493a-a95b-f10670d19fa1",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "c26900f9-e2f8-4720-8940-4d2f422a2ee6",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "323d585c-ed72-4482-a6e7-60adf99b2849",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "ba4a8107-8550-4238-845f-7a2765946381",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "938fef9c-6c98-458a-8ce2-236a09a80f22",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "d490e4a5-bf54-48b3-a21c-27e521f53d3c",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "5d3bc6fb-4e59-4560-84e5-1d9cf789f62a",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "90758981-860d-4a7d-a2eb-6720666df2eb",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "de7f8b22-30e6-43b1-ad24-4b6f6f7e025f",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "f445072c-007e-485c-a469-b2b4bee641b3",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "30c2d8b8-5292-4af7-b701-0109496da1a5",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "b490fb1f-94cb-4ac3-ab42-e46a37a27827",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "29d48243-c6fc-4b86-8b87-c1087174f7eb",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "6bf1a887-da03-4cdf-b053-cc4a2e176641",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "a362b6b6-1fae-4fcc-a097-241ddb0addd2",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "6cab30c3-74f3-4b95-8bbc-00892bfbb3c0",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "fdc309fb-203f-4eb0-ab14-ce679c48449c",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "65d3f00d-f48c-4518-88b0-b5d58cbe4cf9",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "06476963-3fd5-40fe-8c6a-77a4b0609df1",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "95a5360b-3135-4780-921f-c511f0ae2578",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "0f42ebb1-ab1a-4389-9ce6-727db51e5379",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "2feba5ee-68da-40e5-9ac9-a2d6595ea46b",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "15e61784-d141-4360-95ad-6de4a72b0a0d",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "8f0c9a99-086b-4120-9d4c-96146f022bdc",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "e5fb236a-b834-4e49-866c-248c223f4d16",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "b280ba71-e914-4119-8335-a7c8eb92768c",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "7ba4dc16-ed92-4253-b979-eafdfe5400f2",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "e106d6c6-3728-41aa-983d-844c3f37d99e",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "4d6080a5-d5cb-4a7b-8d36-e063d820a389",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "9881a760-f884-4181-a7f8-4ee2b2cb39a3",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "3d1f1c40-4ed9-4ae6-9d5c-55bbe74e0b51",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "a9165713-4da8-48bf-91b0-7def09cee451",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "2b5d289b-aa4a-455f-9d3c-3fb0079cac56",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "738bb8cf-0cb8-43fe-8790-a8d9e93bfa3a",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "a63e4700-e95a-4a33-82f6-4f46c42d023e",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "6b5f6281-c186-4b8e-b5b1-e480cda187ec",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "130d0a84-b1b0-4f4b-9201-cd5cc26e4514",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "c64a25c2-99cd-485d-b5c7-8c0aa9f6ce6f",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "8cfcf0a4-fcdd-4de7-8cb5-5b319becb374",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c4cfbca4-fcc1-4015-a43f-bc8038fe1c6c",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "1db8b470-79f4-47ec-bf07-93ba736045d0",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "15e0f8c2-ed39-4583-83cc-73e2fa6eacfe",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "a0624880-0cff-4f54-93c7-0ee67780fa3a",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "1a6b528a-47fc-448b-a67f-fc8bcd1e3fda",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "350515f3-0f56-40e1-b5ce-af122f093fe5",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "f4fbe202-2064-4bd6-a736-c5c55b1d4616",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "b49acf29-946e-4d3e-a1a3-b112ff5cc23e",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "a46a3369-477e-4477-972e-bc12eb5e84d2",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "6b3e8eca-0f31-4ddc-ad58-4525b647b622",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "29e2e0fc-8844-490c-85f3-24338f917e2a",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "e6590d5e-2b45-4887-b784-5c8601dc008e",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "67f3df86-c0f1-4965-9d9a-8231d5f82b95",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "a7544373-0f0e-48ad-bf64-b636aa0c867e",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "cc73e080-d46d-40ae-bbf6-e9801e577c1a",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "3b249e65-a66a-456e-8e49-c4382ffdef99",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "738288ff-e395-4313-835d-9e9447a865b5",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "4cdeef3b-c252-41b9-b816-e4e258e8d8e4",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "f430010d-dd34-405f-b7a8-b70d74e17b0e",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "6e778f51-5735-405e-8ddc-4fd8196cd087",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "35e63faf-cd1e-42e6-b544-7bf3b48941eb",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "9a5b800c-9469-4023-8098-70ef352fd380",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "03463f37-4904-4865-bb31-d326c1dd67e8",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "50a97041-1bb7-41a5-ad91-9edb332c7d6b",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "83317e04-9b65-4e2e-81f4-ff77cf641a23",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c62128d3-85ec-4b5a-8f7e-cedfc5850c29",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "a358f59f-7a4a-4af5-a2a8-37a11ebbbec3",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "53727c14-2e6d-4c01-a008-3dcf1597f23d",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "39c4e289-072b-454d-a5ae-fff58010b299",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "74524b04-95ed-45c5-be93-30cc8f3484d1",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "3a04d20b-5096-450a-b14c-b8e956fd9b8c",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "3bfe8f14-8d16-47a6-ac4c-e7ddb1572611",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "03508ded-7e44-467a-b16b-93608113408c",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "857c3b1f-07bb-491a-84c5-c45a5f28b850",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c839816d-7f7e-4300-814f-1545276bc90a",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "7f8e2931-6a5e-4782-93d8-5a8e62f75fef",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "6a2a163b-95a8-46e0-80b5-f33eeff84503",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "d15c6de5-ed37-4abd-b581-ad392b36c426",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "dcfca64d-f71d-4be1-8e85-40b6ef326b64",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "b91c15bb-00cb-4f87-bb8f-d086405bf9d0",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "de9b1463-1866-4898-8328-0c81e82e681b",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "3cc18ae3-a388-4035-8d49-228be087c88c",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "e19865c4-0bd8-47e7-bbbd-847b84b95b25",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "e2059112-1019-48a4-a70a-3b33e18211ca",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "ea65c400-ba2e-4387-9a23-fc9a727a5982",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "03bfc4d5-8347-47d5-b316-718229d88af8",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "27983d00-7eb0-40fd-9ecc-733f78d21ce9",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "bad15e98-4169-43d5-9421-374a6231ddfb",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "d1efe6e8-5201-4a69-97dd-f475820fb912",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "79f2d4f0-39de-4a51-b567-a5d51d530f5c",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "fd1571d8-4dd2-4b3e-acc1-33b0974356d2",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "62962b25-dd31-433c-93d0-1032c533c58d",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "43b63331-d857-4b26-a869-a1dfae198b02",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "facbe7d8-dfa7-4d45-9add-841fbd562a70",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "5e3760af-27dc-44b2-bf1c-53de6b88a3b6",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "02287832-f99d-48ef-b1df-4b97c4d409b0",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "04007e74-f11d-47b3-b918-7efd09473b72",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "d611db07-c76b-4fcd-97f2-12bb13024b07",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "06e04baa-57bc-4dab-b607-a7f7379fce1f",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "8ce518f3-dd51-4bc0-8eb6-72b9a8219145",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "21f5cc4a-939d-43ff-95ab-d7c0ea4718f1",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "22608ed1-80be-4489-9b7d-a035b029d3ce",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "9296e03c-58be-4531-9996-2ed70f7b4bac",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "90166ab8-3546-45ae-93db-f21985fdd134",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "4e06110f-0c9b-48ea-88ab-a1004353ab6d",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "22d51297-e8e7-46a4-ba99-2cbf96fbe30c",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "2f362274-9a69-425d-81d5-feb6db3a1e05",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c53956b6-5cf4-4eb7-a7df-2139e74396c7",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "eec70d3b-a52b-4324-9e00-8799afda175a",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "9708e3d0-f36c-434a-88ae-992ed65c47ba",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "33734ff0-5f0d-4009-a4b7-85d44f4bdf8e",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "121f0267-8731-4483-8bac-45f2f405e799",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "6e972f93-6967-44f3-9281-9b7ea1a1cfdb",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "f88c0e77-479a-4c8d-996f-c9b7d9e730d3",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "54eed2e9-47bc-4ec4-a3ea-81d4a8cf0a81",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "e63b751a-e3f0-4117-89b5-c9a98b1b11ea",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "446f9a5d-8ff0-4853-b54f-1bfef62a9df0",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "5d888510-d19d-4d49-855b-5d5afc969c13",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "7a847714-4f4b-4c3d-b19d-820a04e30eeb",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "b5d4fe9f-39fe-4ed4-88a8-ebf95283118c",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "1952d001-606f-4761-96e6-f22a2bd7b6c1",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "6960936d-6e14-4293-8e40-181d7e56b513",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "fbf6b996-3607-41ed-a39c-163d8c8c394c",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "48df5d1e-9a25-416a-a935-574134ee86cb",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "803cff0c-4ba0-4ec3-b690-1fe2486e401e",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "79e4ee43-9828-46ac-afcb-d3678e7e0d1c",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "35d3bd93-7a64-4a12-b5b2-c278f6a73f1d",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "6efd0d81-35c8-49da-88a2-390c63a8fd80",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "7d4a4c83-50ae-47ab-9d3d-a67b0cc584c2",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "f3a1716c-52aa-429b-bdde-0271814b9d4c",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "89896d3d-375d-4ea9-ac2a-c00eb083d581",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "1a528880-397f-4739-b06d-5fa3d656aa3c",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "93efcce5-fc75-427b-b7b1-bdbba69d8fb3",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "fd9cc9d2-2e39-495a-af16-5f06049dbbc2",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "30f294ab-b2a2-4e6f-bfc7-f099c4e68738",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "358eea05-3758-4b38-bc77-3a13ab40ab16",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "b0809661-54a2-44ce-8282-c2318d1198bd",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "21ab62c2-23da-4135-9ac5-3dbef25ef6fb",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "3275ff87-da2f-478f-b3a4-1e2626b25e08",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "73bf8fb7-a095-496b-b9f5-109b6af2d221",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "d9ea4ec9-adaf-400a-8375-5649d37cc5c7",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "b4910d45-076d-4ab9-9b26-f729e19c7a3b",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "03bcea8c-439e-455a-bb85-7a05d2ed8773",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "3b0983c4-74f7-4e1b-9ab8-6394960e6596",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "365e2356-1e33-4e21-9f56-dcb207adf9c3",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "44ff4a89-9f5d-4330-99f9-36c46b6585d5",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "48cb9ef1-c125-4861-9123-a6469d7f8a34",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "77e03ff0-a9f8-40fb-a56a-4dcb12d23e31",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "e807e311-35fb-41ba-a60b-feebda8114ab",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "bce1433e-0679-4c4f-88e2-a37d1892537d",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "a01408ec-f674-4193-a639-57cc6064b5bd",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "bf6639e8-1ad9-4de8-a308-e9f22045c036",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "e68d49e4-3326-4ad6-86cd-1be7dce09141",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "6fec40ff-b4f1-4439-8f08-ba70ddaff0ed",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "29cada86-74bb-41bb-a0dd-9a24a165a4e5",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "9ecc06d7-b381-4b61-8477-2a34b8437476",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "35824f48-d720-4518-aedb-c48514d496ae",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "dac67381-2a34-4b01-a6a1-41102f159d28",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "084d8f9f-c1fe-4c1b-8c34-e8d1f0cb8182",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "2be296a8-a297-4cb0-9d75-002f50e1111e",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "88e7e7d7-96c9-4086-8849-e0eb26f111ff",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "280e894c-bee8-4e44-8ecc-445ed3d14286",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "68948483-1f64-4760-a657-ec2406b34c19",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "704122ea-86c8-4130-a534-dde9ec1a52b1",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "20bd7e10-d0b5-4923-930e-f3c22dff2c07",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "9880402d-54d4-416f-b6fd-14bf44015e73",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "39859646-9f3d-440b-9296-afa336dc7198",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "ecf8fb3a-a8a8-4251-9424-048c185cf125",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "05b51061-19d4-45fe-8086-a6b565cc8902",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "4fdc5738-b231-4673-a094-37aa2e2ef332",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "34ff2bb7-fe6f-46f1-8559-4c79bc496112",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "fd02f4ff-6bf3-4885-92ba-dec5018038d6",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "ea859268-8f45-40e6-add4-ecd3844151f4",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "ec1412f8-3519-4337-8321-027633350b57",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "4d2152ad-3e95-4ca9-91a8-423758f25623",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "74e5885a-cf6e-4b0a-b09a-04d8579c9935",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "4f42766c-6041-4d86-acc8-fdb7a347eaa7",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "ed118154-f369-47fe-850a-70e12f3794d8",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "fd2ee2ec-9153-4c3d-8ba7-081ffdb687f7",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c3d04fab-85b3-4607-9920-c2490bdcc643",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "85c19ad6-e14d-43d4-9d45-def4e74635b2",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "96565fac-602b-42c3-b89a-67a0bcf9c811",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "7e52fc97-3448-479e-8f83-6d659d404c11",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "a5984ea3-e26b-4dd5-8af4-5d9dae0b3b10",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "8ede9e22-1466-42a3-b2ec-3c9983b93ef3",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "59ef7528-4cfb-4862-9d40-6f226b28ad3f",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "54acf952-eb6f-49df-91ea-75ebc0d6344a",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "af31476c-fbc2-4fe8-8656-e63f24aafb95",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "e6dbeac0-5d8f-4b95-88aa-f9a3718cc8b4",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "bf142dce-600d-4e0d-b6fc-80d7f0ae8ea8",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "675fc7a8-a3ec-4cc1-a704-a49f4644cf26",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "ddcb39de-3d58-4bc6-a2a2-0acfe8437055",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "70a3b3f6-b02a-4d56-93e8-aec50bc76eca",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "0fca9cf6-4138-4c7a-b2b1-22a13cb55d77",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "32c4c072-059d-4cea-9e8c-d27888cc1845",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "732f5a2f-62e3-4318-bdc9-b532c11f13ff",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "0c6b9256-165f-4981-9503-ecfd319b2731",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "2882f061-3de5-48d0-8c0d-bca74bb2ec3f",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "bb6e68d6-a740-46c5-bb4b-de50ba90fb20",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "b618a704-36f0-4ec0-a44e-f8d2a7f54307",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "060fc3ac-31d0-4538-ac31-31f7efc40052",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "d1601bba-94d9-4dd5-be7b-e1cfd4864c88",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "dbd13420-a4fe-4004-886a-8f3338082300",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "0609b216-e92c-4fcd-8833-8f8738ce30d0",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "1b252562-3bec-43c2-ac49-bb173f19ca83",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "dbf413aa-7ed0-4c04-a674-6de10190f3f5",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "ca139201-2cec-42e7-8d12-d556256c8276",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "11018df2-968a-4ff7-ba6c-537ca7649b01",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "7fac536f-bfa4-41d3-b7ea-1adb6680cd47",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "7e4e4382-e8f2-4072-ab9e-42dfb93b9837",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "6d69ca0b-7396-4810-a1bf-106bf87f045a",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "caf0a82a-425b-4a35-aa35-5c478fe13afb",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "2c560f81-4cae-49f3-a189-223abdabd7d0",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "6096b294-0cc7-4495-a3a6-0e0db167e92c",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "f18119e1-0678-452f-bee5-0dfaddbe173f",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "9bb3aeda-b4bd-4869-bd8c-ab833eb9d544",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "23750698-46e4-4295-9df5-522d592417f2",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "1d6e68b4-e317-4866-ac32-947f85936b85",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "b549c4fb-32ff-4538-9eee-d2a99127f351",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "74ac6d75-993e-42c6-95ac-056e55a93a5e",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "a9fcb8ca-cf0c-4d45-bcc6-e3fd7a4ee3dd",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "176cf9b7-f8b5-4194-9593-f60ba7a78ffb",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "ed5783a4-0648-4ffc-8549-df56ac9d140e",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "8544d09c-adf1-4069-8362-343c6a32fd8c",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "b7b895db-15c3-4714-912a-fbc70f8d95ce",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "d227c514-23b6-4498-90bf-633ef71950d4",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "b65b6bb1-ed51-4028-8bea-421ff84c160b",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "fcc9d22f-ff02-4020-ae95-4a66720a6377",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "d220880f-8d11-4473-8544-cd7e6652ab5b",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "870865eb-d11e-4e29-8d5e-e7d9f282da86",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "00e094ed-abe1-4142-af30-ed57eb2e7a2d",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "da253a06-73ff-4f6c-afc6-03afe5ecdc04",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "23b3d126-1b6f-4fe8-a602-d143e7a3e3e2",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "10131dc4-382d-4485-a578-62a26d8a2e56",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "a69e4082-0554-4a04-b36b-7fa6f918ebbc",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "24f0aa79-c7cc-4438-84e1-bec4e8d2a77f",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "6a3a4d81-3c3d-423e-a82b-e6f6994b6e96",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "7cd6c0d3-68c5-4a3c-b6a2-18cbe8ee23ef",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "f0e2a006-14c8-4c8a-948b-c193476d843a",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "85282a60-2899-43df-bd0e-0b5cedc801ee",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "1da0f5f5-e5b6-40f5-b42f-81390b87a253",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "a197aae6-b0b0-47ba-910d-2407eaacd03a",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "ca85c18e-96d2-4d6d-bca4-d94ece969e9a",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "f74ea265-3bf1-46e7-bf80-ba2fc5b139ed",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "6dce1c90-e8b3-47f8-875b-54b98618cf7d",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "eee3d6e7-d7b3-4071-b69b-99c74c898d45",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c3302651-c023-44bf-953c-6999ac7fcd51",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "cc7722c6-1049-4076-bffd-0613e48fd1d0",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "7073bd45-271c-4b31-b606-013a65b61485",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "fd2f1d0f-fd4a-4ff6-892e-81e0dd9b2166",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "ea1a64cf-daf1-4d0e-8070-3f1ad98f30d3",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "be347d28-4be3-4fe4-b8ec-28dab78f77a8",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "23993529-d849-4518-af11-b7139f5f038b",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "bbc0b193-f888-4209-afc3-fbf519e74d9d",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "c4867d24-bd6b-421c-9558-60415940d47d",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "5818e783-6bbc-430f-8003-9f3967e542b2",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "b8e4991e-0fc5-4cb7-874e-6f04e764e8c9",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "df57beff-4a25-49d5-a337-ae6394867058",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "57e0927e-845b-410d-a414-0ada4098e9b8",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c9f3bfb8-e0f5-4bef-a737-83cada88e3e7",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "0c85a491-b942-44d2-9407-d63cefec2ad9",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "e430357a-3c47-4449-815e-0422bc8f250a",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c7238400-e5ab-4ee8-a20c-29043d59a1a1",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c5230ce5-749f-4f41-9ac4-10c8db7858c6",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "f0455dd3-fa60-4155-8945-bd6f8ee836ef",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "56d2e5de-24d6-4ec7-a918-beec3ca46fe0",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "59c46e1d-a812-4518-a039-5dfa903f11fe",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "faada6d3-5716-4d4e-be61-452a6fd48aaf",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "c9b72f46-37cb-4778-ad91-d73d3d263723",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "9f0e1a62-56a9-4560-94a5-f4b770cbf00b",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "376259b0-c855-4898-8e8e-9e8b363eca0f",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "6537fc25-1318-49e9-9e1e-dcc07604c519",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "08ef7a18-0b11-4f61-87fc-ce1909ad2b65",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "fa058d98-6bf6-4108-bf3c-48890f6373ff",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "591eb366-0d71-42a1-b86b-8b17f03a42c2",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "f7ae1a33-b06f-4c83-846e-8d697f444fe0",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "f2d42e08-afb2-4362-816b-f109865aee59",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "15eb5d10-e935-4161-bec5-d9798b5f47e3",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "f6d062f6-0ebb-4274-9345-3f4b6d44f52f",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "30982148-54fd-485f-99d0-970860d55e39",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "1830f378-1723-46f1-b0c3-3f7fd3b742f3",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "0a101d3f-287a-4888-8521-b280f7b9fb5e",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "2d43925d-e0c3-44ec-b583-82c5c0d2a74e",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "dd2f579c-787f-4760-a6c3-d9cf6f9de19e",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "e84acee5-3f82-4072-a45f-7dc22a8038b2",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "4d0eef89-bee9-47f6-ad14-52c8d8b98ced",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "aa6c4390-0a98-4e87-80f3-b711067988be",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "d8fe6696-8c72-4aef-ab66-1dbe2b5ac66c",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "b6c6791d-a741-4cf2-a375-015d06958e65",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "3e62e40d-e1e5-4033-9827-1665e8abf266",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "a42ee406-d532-4af6-bce0-53b4aaf2ec41",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "c0a0b3da-d759-43c9-8b98-ede924bab5da",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "ef9499bb-6d7f-4c00-a193-e4c998f973b6",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "1ed4ac27-d126-4d76-bede-761cd94cd8c9",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "d3e209e2-4be9-4b2a-8eeb-6c0b841d615f",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "d9511af2-0fb9-462e-977e-9833b95dc982",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "bf4990d3-7a3a-49ff-b7dc-8ba4cf811d16",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "4903548d-ce23-40ab-b282-bcfd754299a0",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "5a912020-242d-4bc0-96dd-c00c12736562",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "17089083-33c6-4d4c-9f5d-eb517d0a9341",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "44eca06b-c394-4811-bdb9-8825a1526ed9",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "2ec9a135-3760-47a4-9f8c-a21f7e5dee3e",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "51cf5c80-7d35-47f7-992c-19426432b1a4",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "55520f1a-8cea-4e4d-a5e4-12e755466da1",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "65129061-621e-4cd0-b0c9-ee562e623511",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "2986a17f-a6c9-4d76-9ddf-eedfb37e6eff",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "e53f5690-706d-4cca-b2f6-dbd34999ecbc",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "cdc7e086-20ed-4f0b-9d16-1b4d773fd4d1",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "e8b6d085-9a68-4f77-b022-fb65b1b3810c",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "e03cf173-646e-41f7-b95d-eed2441f61e7",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "5d11fe17-72bb-49af-a3da-3be214ae0c9a",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "d5bb4481-c2af-49c0-b9d2-623fbfc16758",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "298fe3f3-a1cc-4f2d-9878-6e32ca1fa84c",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "e97fe815-65ae-46b5-acf8-c3e18a6bc5b1",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "368fc106-9c14-46b9-a363-0ebb5b9b5aea",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "a0bf3e39-c2be-4285-97d2-9668dc0fdbc2",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "cfd6e1ab-a30c-4a8e-8994-f72d07b0a2e2",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "e46bbf40-c607-49b6-b493-1fb84005ae31",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "33334091-eb57-44af-95a6-fbc105389a91",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "cb36de75-9ada-404a-b492-e714308354bb",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "f169ff49-6399-4c19-865e-7fa742c53258",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "a05eaacd-e68b-4293-9cd7-26992ec8deb2",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "9d63dd85-3fe2-4008-b144-de2a399f793e",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "0ce08800-10d9-4d16-a1c0-8564259c6e1f",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "dfb20639-8bed-48a1-a0d9-8afde28d856a",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "8966b09b-f9e6-47d0-9cfe-4335f223629d",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "92844bb8-aa70-4193-b914-cb8832283584",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "08272652-dc6b-4cfa-a163-587bce316822",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "cebd824f-b240-47cf-8333-e2cff8bd0761",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "b62b5e3c-9ea3-4e53-bebf-5bdccca9c8a5",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "26d3a088-7084-4cd3-9dbe-5cd93c6824be",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "9d1ab342-87cd-4c5f-8c7e-dbd44981b5e0",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "9cb7ff11-cb19-42f9-b8d2-f5191ec6866c",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "68c34ac6-b03e-440f-82e7-fa34d16e48a9",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "d7eb8d46-2dbb-4753-8598-3fce4bbc9cff",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "bacab76c-19a7-4a19-9682-f83c329bf58d",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "120d4012-6089-4617-a7f4-e27c49c875e1",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "b9c67542-abcb-413f-b2ae-e3f7d26e431f",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "cfa370f8-719a-49da-9256-4fb44bdaad30",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "c2cf9861-143f-4813-a9dc-64c755159797",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "7321ec71-5cd9-4eb9-93f9-7e268cefccba",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "9844f862-b9a5-4177-bab5-04f7c54d1a8e",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "22a7e235-ee44-4c74-bca9-5b5d9a61b01a",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "88f09db0-ab6d-48a6-a7a4-02954b32ce99",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "277f8cd7-a3ac-4c88-ba07-bad5090de61f",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "d2c959ac-1575-4de1-a4d2-179fd8f117e6",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "44682721-c8ea-4139-b26b-49ad6d8ac1fa",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "21326304-c438-42e3-b752-1c1d94c7369f",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "f446b6c4-fe01-491d-a6d3-c2ecde85de7c",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "7eb3995a-1328-4088-bfa1-661911b8e49b",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "9557f652-fc18-4b47-a8e1-638716b0eec7",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "e24d7288-d58e-49e9-92dc-1ba13221b2e3",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "e9f142be-2f7c-44eb-a99a-aa5eb0e586ac",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "ad1536b8-b043-4d8d-8946-9aef5ae9a0fc",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "0b8f215d-1b22-42fb-8f6b-1fb5afd5de8d",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "8ae4f9b3-f842-46f5-bc37-368fe0f440ca",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "77a2ee2e-2bee-4a40-a24b-c3515b3bb5ae",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "d79cda6b-8ba1-4775-a193-020ecb1ed970",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "fc1861ad-86ac-449d-9941-ad6dc31649dd",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "931e76fd-1342-4591-9731-061725598a3d",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "b31ad613-241a-46ec-a93e-8512bfcf837d",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "ed0c6123-ffe9-4c37-9b48-dfe7c470ff88",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "29cd0558-b798-46ac-8f8f-6fada55955cb",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "a757bf98-d9a5-4e82-b9a7-849c764338f2",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "df9e78c5-c006-4c86-af65-63e3ffced9c4",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "55d8d07f-2534-4a35-9ee9-6b05192a38c6",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "157a66e4-2393-45c7-b129-cabbbf204d2e",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "6a7567bd-5e99-4a4d-9a43-78b9caf58754",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "1b36342b-8a0a-476b-9948-ea851a951a4e",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "6beb6b1f-fb0d-4ffd-bf54-7e868f01ee48",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "611815f9-9f7f-45ef-b59d-26119ee9c308",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "62e9e4db-75f4-462a-a8d8-577faa5c6eb0",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "41a03d69-174b-43a7-be54-96a52f28ee57",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "52b060ac-688b-4d30-a9ab-f6591633cb77",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "403a3013-0690-457d-bd78-5aba11ff4960",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "fa0a5216-8d0c-428d-8e98-a3f86ee9ba48",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "c1854738-41cb-44ba-be7e-081b7dfd9993",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "cbd580d7-1b7a-452d-8eb4-06f8db889ec7",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "56f276d0-7381-4372-865d-9872b5654569",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "f5da42be-3aec-4b8c-8203-d3effdb98683",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "483cec0f-fa36-49b0-b170-d9f66685471a",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "bae6bad2-17de-4f8a-aaf2-dffd919ba1df",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "ce4f3e39-cfd4-4f81-8349-6bbebc6ad702",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "5ad79e33-9613-4f29-9933-9caaa3d9a62d",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "66352cf4-a0a7-4c66-8a46-9348e6f8d2b5",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "de524c7e-6530-4cc4-889d-5f33fb362adc",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "0597edea-9496-40db-983f-e9f02858badc",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "87a94542-6609-48ad-acd6-5ac706ccb0ba",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "30cea239-0ff9-42ad-9d98-d405e1b9cdd4",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "a3f3d77e-57f2-4990-895d-58d6d0048f12",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "35ba1503-3ca4-4444-aa35-a1bfdee283cf",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "f401796e-9a02-41bd-9268-b628f63eeac5",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "277bc788-7cff-47b1-8a2f-743e0b3a2537",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "3ef60e7e-2222-4c2c-80a1-2d4eec7abb4a",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "3999df4f-831b-45be-a3b3-2fa658b23a70",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "7a33ed6a-f554-4d71-a236-4b61dee1e053",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "467ea699-a005-4116-b3c0-6ccb84420217",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "217d6208-9618-4749-b9af-b89fbf69da88",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "5676d961-5796-4b5b-93e0-d7b19a75f64a",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "85b52d3b-001d-4ff1-81fd-e1742c8c00aa",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "f90fa585-a0e2-401b-8248-0995ad9856ac",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "e9d90298-cacf-470e-a293-b7e0dd41e3d7",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "15643717-e244-4e2d-87ca-dc8aa43efc65",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "5a6ab4a7-204c-4a63-93a5-15775a471395",
+    "problem_area": "Central Ideas and Details",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "93d69a24-a340-41cd-a1f4-68f2d6b98e24",
+    "problem_area": "Command of Evidence",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "E",
+    "external_id": "59206731-46c7-4374-a20e-ef25e0ff20cc",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "H",
+    "external_id": "63d5a03e-fc69-4c40-bf3c-5f1ff102349e",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  },
+  {
+    "difficulty": "M",
+    "external_id": "3fce28d7-22e3-470c-89cf-eb79aacad862",
+    "problem_area": "Inferences",
+    "general_area": "english/Information-and-Ideas"
+  }
+]
