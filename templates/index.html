@@ -3,13 +3,424 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SAT Pratice</title>
+    <title>SAT Practice</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&family=Outfit:wght@100..900&display=swap" rel="stylesheet">
+    <style>
+        html {
+            scroll-behavior: smooth;
+        }
+        body {
+            margin: 0;
+            min-height: 100vh;
+            font-family: 'Outfit', 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(120deg, #e0eafc 0%, #cfdef3 100%);
+            overflow-y: scroll;
+            scrollbar-width: none !important;  /* Firefox */
+            -ms-overflow-style: none !important;  /* Internet Explorer and Edge */
+            -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+        }
+        /* Hide scrollbar for Chrome, Safari, Opera */
+        body::-webkit-scrollbar {
+            width: 0 !important;
+            display: none !important;
+        }
+        * {
+            scrollbar-width: none !important;
+            -ms-overflow-style: none !important;
+        }
+        *::-webkit-scrollbar {
+            display: none !important;
+        }
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 2em 3em 1em 3em;
+        }
+        .logo {
+            font-size: 2em;
+            font-weight: bold;
+            color: #2d3a4b;
+            letter-spacing: 2px;
+        }
+        .nav-links {
+            display: flex;
+            gap: 2em;
+        }
+        .nav-links a {
+            text-decoration: none;
+            color: #2d3a4b;
+            font-size: 1.1em;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+        .nav-links a:hover {
+            color: #3e7cb6;
+        }
+        .main-content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 70vh;
+        }
+        .title {
+            font-size: 4em;
+            font-weight: 900;
+            color: #222c3a;
+            margin-bottom: 0.2em;
+            letter-spacing: 2px;
+            opacity: 0;
+            transform: translateY(-5vh);
+            animation: fadeDown 1.2s cubic-bezier(.77,0,.18,1) 0.2s forwards;
+            text-align: center;
+            font-family: 'Outfit', 'Segoe UI', Arial, sans-serif;
+        }
+        .title .free {
+            font-size: 1.3em;
+            font-weight: 900;
+            letter-spacing: 3px;
+            background: linear-gradient(90deg, #3e7cb6 0%, #80c0eb 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            filter: none;
+            text-shadow: 0 2px 12px #6ec6ff80;
+            transition: text-shadow 0.5s;
+        }
+        .title .free.active {
+            text-shadow: 0 4px 24px #6ec6ffcc, 0 0 1px rgba(111, 157, 199, 0.8)c;
+        }
+        .subtitle {
+            font-size: 2.2em;
+            color: #3e7cb6;
+            margin-bottom: 2em;
+            opacity: 0;
+            transform: translateY(5vh);
+            animation: fadeUp 1.6s cubic-bezier(.77,0,.18,1) 0.8s forwards;
+            text-align: center;
+            font-family: 'Outfit', 'Segoe UI', Arial, sans-serif;
+        }
+        .subtitle .free {
+            font-size: 1.4em;
+            font-weight: 900;
+            letter-spacing: 2px;
+            background: linear-gradient(90deg, #3e7cb6 0%, #6ec6ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            filter: none;
+            text-shadow: 0 2px 12px #6ec6ff80;
+            transition: text-shadow 0.5s;
+        }
+        .subtitle .free.active {
+            text-shadow: 0 1px 24px #6ec6ffcc, 0 0 1px #3e7cb6cc;
+        }
+        @keyframes fadeDown {
+            0% { opacity: 0; transform: translateY(-5vh); }
+            100% { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes fadeUp {
+            0% { opacity: 0; transform: translateY(5vh); }
+            100% { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes LeftIn {
+            0% { opacity: 0; transform: translateX(-30vh); }
+            100% { opacity: 1; transform: translateX(0); transform: rotate(-3deg);}
+            
+        }
+        @keyframes RightIn {
+            0% { opacity: 0; transform: translateX(30vh); }
+            100% { opacity: 1; transform: translateX(0); transform: rotate(-3deg); }
+            
+        }
+
+        .practice-btn {
+            font-family: 'Outfit', 'Segoe UI', Arial, sans-serif;
+            padding: 0.8em 2em;
+            font-size: 1.1em;
+            background: #3e7cb6;
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            box-shadow: 0 2px 8px rgba(62,124,182,0.08);
+            transition: background 0.2s;
+            opacity: 0;
+            transform: scale(0.95);
+        }
+        .practice-btn.visible {
+            opacity: 1;
+            animation: bounceIn 0.7s cubic-bezier(.77,0,.18,1);
+        }
+        .practice-btn:hover {
+            background: #2d3a4b;
+        }
+        @keyframes bounceIn {
+            0% { opacity: 0; transform: scale(0.95); }
+            60% { opacity: 1; transform: scale(1.08); }
+            80% { transform: scale(0.98); }
+            100% { opacity: 1; transform: scale(1); }
+        }
+        .buttom-content {
+            text-align: center;
+            position: fixed;
+            left: 0;
+            right: 0;
+            bottom: 32px;
+            font-size: 1.2em;
+            color: #3e7cb6;
+            margin-bottom: 0;
+            z-index: 10;
+        }
+        .down-arrow {
+            display: block;
+            margin: 0 auto;
+            font-size: 2.5em;
+            color: #3e7cb6;
+            animation: bounceDown 1.2s infinite;
+            transition: color 0.2s;
+            cursor: pointer;
+        }
+        @keyframes bounceDown {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(18px); }
+        }
+        .learned-more {
+            position: relative;
+            width: 100%;
+            background: rgba(255,255,255,0.97);
+            box-shadow: 0 -4px 32px #3e7cb633;
+            padding: 4em 0;
+            text-align: left;
+            margin-top: 2em;
+        }
+        .content-block {
+            display: flex;
+            align-items: center;
+            max-width: 1200px;
+            margin: 2em auto;
+            padding: 0 2em;
+            gap: 3em;
+        }
+        .content-block:nth-child(even) {
+            flex-direction: row-reverse;
+        }
+        .content-text {
+            flex: 1;
+        }
+        .content-text h2 {
+            font-size: 2.5em;
+            color: #2d3a4b;
+            margin-bottom: 0.5em;
+        }
+        .content-text p {
+            font-size: 1.2em;
+            color: #4a5568;
+            line-height: 1.6;
+        }
+        .learned-img {
+            width: 500px;
+            max-width: 45vw;
+            height: auto;
+            border-radius: 12px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+            transition: all 0.8s ease;
+            transform: translateX(-30vh) rotate(-3deg);
+            opacity: 0;
+        }
+        .learned-img-2 {
+            width: 500px;
+            max-width: 45vw;
+            height: auto;
+            border-radius: 12px;
+            box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+            transition: all 0.8s ease;
+            transform: translateX(30vh) rotate(-3deg);
+            opacity: 0;
+        }
+        .learned-img.visible {
+            transform: translateX(0) rotate(-3deg);
+            opacity: 1;
+        }
+        .learned-img-2.visible {
+            transform: translateX(0) rotate(3deg);
+            opacity: 1;
+        }
+        .content-block:nth-child(even) .learned-img {
+            transform: rotate(3deg);
+        }
+        .learned-img:hover {
+            transform: rotate(0deg) scale(1.02);
+        }
+         .learned-img-2:hover {
+            transform: rotate(0deg) scale(1.02);
+        }
+        .content-block:nth-child(even) .learned-img:hover {
+            transform: rotate(0deg) scale(1.02);
+        }
+        @media (max-width: 768px) {
+            .content-block {
+                flex-direction: column !important;
+                text-align: center;
+                padding: 0 1em;
+            }
+            .learned-img {
+                max-width: 90vw;
+                margin: 1em 0;
+            }
+            .content-text {
+                margin: 1em 0;
+            }
+        }
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            z-index: 1;
+        }
+    </style>
 </head>
 <body>
-    <header>
-        Free SAT Pratice
-    </header>
-        <a href="/practice">Click here to open the practice page</a>
 
+    <div class="hero">
+        <nav class="navbar">
+            <div class="logo">SAT Practice</div>
+            <div class="nav-links">
+                <a href="about">About</a>
+                <a href="contact">Contact</a>
+            </div>
+        </nav>
+        <div class="main-content">
+            <div class="title">
+                <span class="free">Free</span> SAT Practice
+            </div>
+            <div class="subtitle">
+                Everything is <span class="free">free</span>, like genuinely
+            </div>
+            <a href="/random-practice"><button class="practice-btn" id="practice-btn">Try a Random Question</button></a>
+        </div>
+        <div class="buttom-content">
+            <span id="learn-more" style="cursor:pointer; font-weight:600; opacity:0; transition:opacity 0.7s;"> Learn more</span>
+            <span class="down-arrow" id="down-arrow" style="opacity:0; transition:opacity 0.7s;">&#8595;</span>
+        </div>
+    </div>
+
+    <div class="learned-more" id="learned-more-section">
+        <div class="content-block">
+            <img src="/media/AceItIsAScam.png" class="learned-img">
+            <div class="content-text">
+                <h2>Aceit.AI</h2>
+                <p>Why should anyone have to pay over $ 500 to access these resources? lol</p>
+            </div>
+        </div>
+        <div class="content-block">
+            <img src="/media/CollegeBoardSucks.png" class="learned-img-2">
+            <div class="content-text">
+                <h2>College Board Question Bank</h2>
+                <p>Many people already use this, but everyone knows that you cannot do much on here with the questions. The question bank instantly shows the answers, and you cannot filter the questions. Plus, the UI sucks.</p>
+            </div>
+        </div>
+    </div>
+
+
+    <script>
+        // After fade-in, light up the word 'Free' in both title and subtitle
+        window.addEventListener('DOMContentLoaded', function() {
+            // Hide learn more when scrolling down
+            let lastScrollTop = 0;
+            window.addEventListener('scroll', function() {
+                const bottomContent = document.querySelector('.buttom-content');
+                const currentScroll = window.pageYOffset || document.documentElement.scrollTop;
+                
+                if (currentScroll > lastScrollTop && currentScroll > 100) {
+                    // Scrolling down
+                    bottomContent.style.opacity = '0';
+                    setTimeout(() => {
+                        bottomContent.style.display = 'none';
+                    }, 700);
+                }
+                lastScrollTop = currentScroll <= 0 ? 0 : currentScroll;
+            }, false);
+
+            setTimeout(function() {
+                document.querySelectorAll('.title .free, .subtitle .free').forEach(function(el) {
+                    el.classList.add('active');
+                });
+            }, 1800); // Wait for fade-in animations to finish
+
+            // Show and animate the button after 0.5s
+            setTimeout(function() {
+                var btn = document.getElementById('practice-btn');
+                if (btn) {
+                    btn.classList.add('visible');
+                }
+            }, 2300); // 1800ms + 500ms
+
+            // Fade in 'Learn more' and arrow after everything else
+            setTimeout(function() {
+                var learnMore = document.getElementById('learn-more');
+                var downArrow = document.getElementById('down-arrow');
+                if (learnMore) {
+                    learnMore.style.opacity = '1';
+                    learnMore.style.transition = 'opacity 0.7s';
+                }
+                if (downArrow) {
+                    downArrow.style.opacity = '1';
+                    downArrow.style.transition = 'opacity 0.7s';
+                }
+            }, 2700); // after button
+
+            // Set up Intersection Observer for image animations
+            const observerOptions = {
+                root: null,
+                rootMargin: '0px',
+                threshold: 0.3 // When 30% of the element is visible
+            };
+
+            const imageObserver = new IntersectionObserver((entries, observer) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add('visible');
+                        observer.unobserve(entry.target); // Stop observing once animation is triggered
+                    }
+                });
+            }, observerOptions);
+
+            // Observe each image
+            document.querySelectorAll('.learned-img, .learned-img-2').forEach(img => {
+                imageObserver.observe(img);
+            });
+
+            // Learn more scroll to bottom and hide the learn more section
+            function scrollToLearnedMore() {
+                var learnedSection = document.getElementById('learned-more-section');
+                var bottomContent = document.querySelector('.buttom-content');
+                if (learnedSection) {
+                    learnedSection.scrollIntoView({ behavior: 'smooth' });
+                    // Hide the bottom content
+                    if (bottomContent) {
+                        bottomContent.style.opacity = '0';
+                        setTimeout(() => {
+                            bottomContent.style.display = 'none';
+                        }, 700); // Same as transition duration
+                    }
+                }
+            }
+            
+            var learnMore = document.getElementById('learn-more');
+            var downArrow = document.getElementById('down-arrow');
+            if (learnMore) {
+                learnMore.addEventListener('click', scrollToLearnedMore);
+            }
+            if (downArrow) {
+                downArrow.addEventListener('click', scrollToLearnedMore);
+            }
+        });
+    </script>
 </body>
 </html>
