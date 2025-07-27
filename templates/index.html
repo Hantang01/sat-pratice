@@ -38,7 +38,16 @@
             justify-content: space-between;
             align-items: center;
             padding: 2em 3em 1em 3em;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background: transparent;
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(10px);
         }
+        
         .logo {
             font-size: 2em;
             font-weight: bold;
@@ -48,6 +57,7 @@
         .nav-links {
             display: flex;
             gap: 2em;
+            align-items: center;
         }
         .nav-links a {
             text-decoration: none;
@@ -55,6 +65,9 @@
             font-size: 1.1em;
             font-weight: 500;
             transition: color 0.2s;
+            height: 2.5rem;
+            display: flex;
+            align-items: center;
         }
         .nav-links a:hover {
             color: #3e7cb6;
@@ -65,6 +78,7 @@
             align-items: center;
             justify-content: center;
             min-height: 70vh;
+            padding-top: 4em; /* Add padding to account for fixed navbar */
         }
         .title {
             font-size: 4em;
@@ -137,6 +151,12 @@
             100% { opacity: 1; transform: translateX(0); transform: rotate(-3deg); }
             
         }
+        @keyframes navbar1 {
+            0% { opacity: 0; transform: translateY(-20vh); }
+            100% { opacity: 1; transform: translateY(0); }
+        }
+
+
 
         .practice-btn {
             font-family: 'Outfit', 'Segoe UI', Arial, sans-serif;
@@ -151,6 +171,7 @@
             transition: background 0.2s;
             opacity: 0;
             transform: scale(0.95);
+            
         }
         .practice-btn.visible {
             opacity: 1;
@@ -262,6 +283,28 @@
         .content-block:nth-child(even) .learned-img:hover {
             transform: rotate(0deg) scale(1.02);
         }
+        
+        .emoji-overlay {
+            position: absolute;
+            font-size: 10rem;
+            z-index: 2;
+            pointer-events: none;
+            transform: rotate(0deg);
+
+            transform: translate(-50%, -50%);
+            left: 50%;
+            top: 50%;
+            opacity: 0;
+
+            transition: opacity 1s ease, transform 1s ease;
+        }
+        
+        .emoji-overlay.visible {
+
+
+            opacity: 0;
+
+        }
         @media (max-width: 768px) {
             .content-block {
                 flex-direction: column !important;
@@ -282,7 +325,91 @@
             flex-direction: column;
             position: relative;
             z-index: 1;
+            padding-top: 4em; /* Add padding to account for fixed navbar */
         }
+
+
+        #start {
+            position: relative;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            outline: none;
+            text-decoration: none;
+            background: transparent;
+            padding: 0;
+            font-size: 1.1em;
+            font-family: inherit;
+            min-width: 7rem;
+            height: 2.5rem;
+            color: #2d3a4b;
+            overflow: hidden;
+        }
+
+        #start .circle {
+            transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1.2);
+            position: absolute;
+            left: 0;
+            display: block;
+            margin: 0;
+            width: 2.5rem;
+            height: 2.5rem;
+            background: #3e7cb6;
+            border-radius: 1.625rem;
+        }
+
+        #start .circle .icon {
+            transition: all 0.45s cubic-bezier(0.2, 0, 0.076, 1.3);
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            background: #fff;
+        }
+
+        #start .circle .icon.arrow {
+            transition: all 0.45s cubic-bezier(0.2, 0, 0.076, 1);
+            left: 0.625rem;
+            width: 1.125rem;
+            height: 0.125rem;
+            background: none;
+        }
+
+        #start .circle .icon.arrow::before {
+            position: absolute;
+            content: "";
+            top: -0.29rem;
+            right: 0.0625rem;
+            width: 0.625rem;
+            height: 0.625rem;
+            border-top: 0.125rem solid #fff;
+            border-right: 0.125rem solid #fff;
+            transform: rotate(45deg);
+        }
+
+        #start .button-text {
+            transition: all 0.45s cubic-bezier(0.65, 0, 0.076, 1);
+            margin-left: 3rem;
+            font-weight: 600;
+            white-space: nowrap;
+            z-index: 1;
+        }
+
+        #start:hover .circle {
+            width: 100%;
+        }
+
+        #start:hover .circle .icon.arrow {
+            background: #fff;
+            transform: translate(1rem, 0);
+        }
+
+        #start:hover .button-text {
+            color: #fff;
+        }
+
+
     </style>
 </head>
 <body>
@@ -291,8 +418,15 @@
         <nav class="navbar">
             <div class="logo">SAT Practice</div>
             <div class="nav-links">
+                <a id="start" href="/practices">
+                    <span class="circle" aria-hidden="true">
+                        <span class="icon arrow"></span>
+                    </span>
+                    <span class="button-text">Start</span>
+                </a>
                 <a href="about">About</a>
-                <a href="contact">Contact</a>
+                <a href="/contact">Contact</a>
+
             </div>
         </nav>
         <div class="main-content">
@@ -312,14 +446,20 @@
 
     <div class="learned-more" id="learned-more-section">
         <div class="content-block">
-            <img src="/media/AceItIsAScam.png" class="learned-img">
+            <div style="position: relative;">
+                <span class="emoji-overlay">🤮</span>
+                <img src="/media/AceItIsAScam.png" class="learned-img">
+            </div>
             <div class="content-text">
                 <h2>Aceit.AI</h2>
                 <p>Why should anyone have to pay over $ 500 to access these resources? lol</p>
             </div>
         </div>
         <div class="content-block">
-            <img src="/media/CollegeBoardSucks.png" class="learned-img-2">
+            <div style="position: relative;">
+                <span class="emoji-overlay">🤮</span>
+                <img src="/media/CollegeBoardSucks.png" class="learned-img-2">
+            </div>
             <div class="content-text">
                 <h2>College Board Question Bank</h2>
                 <p>Many people already use this, but everyone knows that you cannot do much on here with the questions. The question bank instantly shows the answers, and you cannot filter the questions. Plus, the UI sucks.</p>
@@ -387,6 +527,16 @@
                     if (entry.isIntersecting) {
                         entry.target.classList.add('visible');
                         observer.unobserve(entry.target); // Stop observing once animation is triggered
+                        
+                        // Get the parent container and find the emoji overlay
+                        const container = entry.target.closest('div');
+                        const emoji = container.querySelector('.emoji-overlay');
+                        if (emoji) {
+                            // Add delay of 3 seconds before showing emoji
+                            setTimeout(() => {
+                                emoji.classList.add('visible');
+                            }, 3000);
+                        }
                     }
                 });
             }, observerOptions);

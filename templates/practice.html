@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Submit Form</title>
+    <style>
+        .dropdown-container {
+            max-width: 600px;
+            margin: 20px auto;
+            font-family: Arial, sans-serif;
+        }
+        .subject-dropdown {
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .subject-header {
+            background: #f5f5f5;
+            padding: 15px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .subject-header:hover {
+            background: #eee;
+        }
+        .subject-content {
+            display: none;
+            padding: 15px;
+            border-top: 1px solid #ddd;
+        }
+        .subject-content.show {
+            display: block;
+        }
+        .checkbox-item {
+            margin: 10px 0;
+            display: flex;
+            align-items: center;
+        }
+        .select-all {
+            font-weight: bold;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+            border-bottom: 1px solid #eee;
+        }
+        .arrow {
+            transition: transform 0.3s;
+        }
+        .arrow.up {
+            transform: rotate(-180deg);
+        }
+    </style>
+</head>
+<body>
+    
+    <div class="dropdown-container">
+        <!-- Math Section -->
+        <div class="subject-dropdown">
+            <div class="subject-header" onclick="toggleDropdown('math')">
+                <div class="checkbox-item">
+                    <input type="checkbox" id="math-all" onclick="toggleAll('math', event)">
+                    <label for="math-all">Math</label>
+                </div>
+                <span class="arrow" id="math-arrow">▼</span>
+            </div>
+            <div class="subject-content" id="math-content">
+                <div class="subject-dropdown">
+                    <div class="subject-header" onclick="toggleDropdown('algebra')">
+                        <label>Algebra</label>
+                        <span class="arrow" id="algebra-arrow">▼</span>
+                    </div>
+                    <div class="subject-content" id="algebra-content">
+                        <div class="checkbox-item"><input type="checkbox" id="linear-eq-1" name="subjects"><label for="linear-eq-1">Linear equations in one variable</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="linear-func" name="subjects"><label for="linear-func">Linear functions</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="linear-eq-2" name="subjects"><label for="linear-eq-2">Linear equations in two variables</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="systems" name="subjects"><label for="systems">Systems of two linear equations in two variables</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="inequalities" name="subjects"><label for="inequalities">Linear inequalities in one or two variables</label></div>
+                    </div>
+                </div>
+                <div class="subject-dropdown">
+                    <div class="subject-header" onclick="toggleDropdown('advanced-math')">
+                        <label>Advanced Math</label>
+                        <span class="arrow" id="advanced-math-arrow">▼</span>
+                    </div>
+                    <div class="subject-content" id="advanced-math-content">
+                        <div class="checkbox-item"><input type="checkbox" id="equivalent-expr" name="subjects"><label for="equivalent-expr">Equivalent expressions</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="nonlinear-eq" name="subjects"><label for="nonlinear-eq">Nonlinear equations in one variable and systems of equations in two variables</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="nonlinear-func" name="subjects"><label for="nonlinear-func">Nonlinear functions</label></div>
+                    </div>
+                </div>
+                <div class="subject-dropdown">
+                    <div class="subject-header" onclick="toggleDropdown('problem-solving')">
+                        <label>Problem Solving and Data Analysis</label>
+                        <span class="arrow" id="problem-solving-arrow">▼</span>
+                    </div>
+                    <div class="subject-content" id="problem-solving-content">
+                        <div class="checkbox-item"><input type="checkbox" id="ratios" name="subjects"><label for="ratios">Ratios, rates, proportional relationships, and units</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="percentages" name="subjects"><label for="percentages">Percentages</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="one-var-data" name="subjects"><label for="one-var-data">One-variable data: Distributions and measures of center and spread</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="two-var-data" name="subjects"><label for="two-var-data">Two-variable data: Models and scatterplots</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="probability" name="subjects"><label for="probability">Probability and conditional probability</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="inference" name="subjects"><label for="inference">Inference from sample statistics and margin of error</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="stat-claims" name="subjects"><label for="stat-claims">Evaluating statistical claims: Observational studies and experiments</label></div>
+                    </div>
+                </div>
+                <div class="subject-dropdown">
+                    <div class="subject-header" onclick="toggleDropdown('geometry')">
+                        <label>Geometry and Trigonometry</label>
+                        <span class="arrow" id="geometry-arrow">▼</span>
+                    </div>
+                    <div class="subject-content" id="geometry-content">
+                        <div class="checkbox-item"><input type="checkbox" id="area-volume" name="subjects"><label for="area-volume">Area and volume</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="lines-angles" name="subjects"><label for="lines-angles">Lines, angles, and triangles</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="right-triangles" name="subjects"><label for="right-triangles">Right triangles and trigonometry</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="circles" name="subjects"><label for="circles">Circles</label></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- English Section -->
+        <div class="subject-dropdown">
+            <div class="subject-header" onclick="toggleDropdown('english')">
+                <div class="checkbox-item">
+                    <input type="checkbox" id="english-all" onclick="toggleAll('english', event)">
+                    <label for="english-all">English</label>
+                </div>
+                <span class="arrow" id="english-arrow">▼</span>
+            </div>
+            <div class="subject-content" id="english-content">
+                <div class="subject-dropdown">
+                    <div class="subject-header" onclick="toggleDropdown('craft')">
+                        <label>Craft and Structure</label>
+                        <span class="arrow" id="craft-arrow">▼</span>
+                    </div>
+                    <div class="subject-content" id="craft-content">
+                        <div class="checkbox-item"><input type="checkbox" id="cross-text" name="subjects"><label for="cross-text">Cross-Text Connections</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="text-structure" name="subjects"><label for="text-structure">Text Structure and Purpose</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="words-context" name="subjects"><label for="words-context">Words in Context</label></div>
+                    </div>
+                </div>
+                <div class="subject-dropdown">
+                    <div class="subject-header" onclick="toggleDropdown('expression')">
+                        <label>Expression of Ideas</label>
+                        <span class="arrow" id="expression-arrow">▼</span>
+                    </div>
+                    <div class="subject-content" id="expression-content">
+                        <div class="checkbox-item"><input type="checkbox" id="rhetorical" name="subjects"><label for="rhetorical">Rhetorical Synthesis</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="transitions" name="subjects"><label for="transitions">Transitions</label></div>
+                    </div>
+                </div>
+                <div class="subject-dropdown">
+                    <div class="subject-header" onclick="toggleDropdown('information')">
+                        <label>Information and Ideas</label>
+                        <span class="arrow" id="information-arrow">▼</span>
+                    </div>
+                    <div class="subject-content" id="information-content">
+                        <div class="checkbox-item"><input type="checkbox" id="central-ideas" name="subjects"><label for="central-ideas">Central Ideas and Details</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="command-evidence" name="subjects"><label for="command-evidence">Command of Evidence</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="inferences" name="subjects"><label for="inferences">Inferences</label></div>
+                    </div>
+                </div>
+                <div class="subject-dropdown">
+                    <div class="subject-header" onclick="toggleDropdown('conventions')">
+                        <label>Standard English Conventions</label>
+                        <span class="arrow" id="conventions-arrow">▼</span>
+                    </div>
+                    <div class="subject-content" id="conventions-content">
+                        <div class="checkbox-item"><input type="checkbox" id="boundaries" name="subjects"><label for="boundaries">Boundaries</label></div>
+                        <div class="checkbox-item"><input type="checkbox" id="form-structure" name="subjects"><label for="form-structure">Form, Structure, and Sense</label></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    
+    <div style="text-align: center; margin: 20px;">
+        <button onclick="goToPractice()" style="
+            padding: 12px 40px;
+            font-size: 18px;
+            background-color: #3498db;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        ">Go</button>
+    </div>
+
+    <script>
+        // Function to handle Go button click
+        function goToPractice() {
+            const checkboxes = document.querySelectorAll('input[type="checkbox"][name="subjects"]');
+            let sum = 0;
+            const categories = [
+                // Algebra
+                "Linear equations in one variable",  // 2^0 = 1
+                "Linear functions",  // 2^1 = 2
+                "Linear equations in two variables",
+                "Systems of two linear equations in two variables",
+                "Linear inequalities in one or two variables",
+                // Advanced Math
+                "Equivalent expressions",
+                "Nonlinear equations in one variable and systems of equations in two variables",
+                "Nonlinear functions",
+                // Problem Solving and Data Analysis
+                "Ratios, rates, proportional relationships, and units",
+                "Percentages",
+                "One-variable data: Distributions and measures of center and spread",
+                "Two-variable data: Models and scatterplots",
+                "Probability and conditional probability",
+                "Inference from sample statistics and margin of error",
+                "Evaluating statistical claims: Observational studies and experiments",
+                // Geometry and Trigonometry
+                "Area and volume",
+                "Lines, angles, and triangles",
+                "Right triangles and trigonometry",
+                "Circles",
+                // Craft and Structure
+                "Cross-Text Connections",
+                "Text Structure and Purpose",
+                "Words in Context",
+                // Expression of Ideas
+                "Rhetorical Synthesis",
+                "Transitions",
+                // Information and Ideas
+                "Central Ideas and Details",
+                "Command of Evidence",
+                "Inferences",
+                // Standard English Conventions
+                "Boundaries",
+                "Form, Structure, and Sense"
+            ];
+
+            // Calculate sum based on selected checkboxes
+            categories.forEach((category, index) => {
+                const checkbox = Array.from(checkboxes).find(cb => cb.nextElementSibling.textContent === category);
+                if (checkbox && checkbox.checked) {
+                    sum += Math.pow(2, index);  // 2^index for each selected checkbox
+                }
+            });
+
+            // Use the sum directly as our decimal number
+            
+            // Redirect to practice suite with the sum
+            window.location.href = `/pratices/suite/${sum}`;
+        }
+
+        // Update all parent checkboxes based on children
+        function updateParentCheckboxes() {
+            // Update subsection checkboxes
+            ['algebra','advanced-math','problem-solving','geometry','craft','expression','information','conventions'].forEach(sub => {
+                const subCheckbox = document.getElementById(sub + '-all');
+                if (subCheckbox) {
+                    const childCheckboxes = document.querySelectorAll(`#${sub}-content input[type='checkbox']:not(.sub-select-all)`);
+                    let allChecked = true;
+                    childCheckboxes.forEach(cb => { if (!cb.checked) allChecked = false; });
+                    subCheckbox.checked = allChecked && childCheckboxes.length > 0;
+                }
+            });
+            
+            // Update main checkboxes
+            ['math','english'].forEach(main => {
+                const mainCheckbox = document.getElementById(main + '-all');
+                if (mainCheckbox) {
+                    const allCheckboxes = document.querySelectorAll(`#${main}-content input[type='checkbox']:not(.sub-select-all):not([id$='-all'])`);
+                    let allChecked = true;
+                    allCheckboxes.forEach(cb => { if (!cb.checked) allChecked = false; });
+                    mainCheckbox.checked = allChecked && allCheckboxes.length > 0;
+                }
+            });
+        }
+        
+        function toggleDropdown(subject) {
+            const content = document.getElementById(subject + '-content');
+            const arrow = document.getElementById(subject + '-arrow');
+            content.classList.toggle('show');
+            arrow.classList.toggle('up');
+        }
+
+        // Select all logic for main and subsections
+        function toggleAll(subject, event) {
+            event.stopPropagation();
+            const allChecked = document.getElementById(subject + '-all').checked;
+            // Select all checkboxes in this section and all subsections
+            let checkboxes = [];
+            if (subject === 'math' || subject === 'english') {
+                // Main section: select all checkboxes in all subsections
+                checkboxes = document.querySelectorAll(`#${subject}-content input[type='checkbox']`);
+            } else {
+                // Subsection: select all checkboxes in this subsection only
+                checkboxes = document.querySelectorAll(`#${subject}-content input[type='checkbox']`);
+            }
+            checkboxes.forEach(cb => { cb.checked = allChecked; });
+        }
+
+        // Add select-all for subsections
+        ['algebra','advanced-math','problem-solving','geometry','craft','expression','information','conventions'].forEach(sub => {
+            const header = document.getElementById(sub + '-arrow');
+            if (header) {
+                // Add select-all checkbox to subsection header
+                const parent = header.parentNode;
+                if (!parent.querySelector('.sub-select-all')) {
+                    const subSelect = document.createElement('input');
+                    subSelect.type = 'checkbox';
+                    subSelect.className = 'sub-select-all';
+                    subSelect.id = sub + '-all';
+                    subSelect.style.marginRight = '8px';
+                    subSelect.onclick = function(e) { toggleAll(sub, e); };
+                    parent.insertBefore(subSelect, parent.firstChild);
+                    // Add label for accessibility
+                    const subLabel = document.createElement('label');
+                    subLabel.htmlFor = sub + '-all';
+                    subLabel.textContent = '';
+                    parent.insertBefore(subLabel, subSelect.nextSibling);
+                }
+            }
+        });
+
+        // Update select-all when individual checkboxes change
+        document.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+            checkbox.addEventListener('change', function() {
+                // Main section
+                if (this.id === 'math-all' || this.id === 'english-all') {
+                    toggleAll(this.id.replace('-all',''), { stopPropagation: ()=>{} });
+                }
+                // Subsection
+                else if (this.classList.contains('sub-select-all')) {
+                    toggleAll(this.id.replace('-all',''), { stopPropagation: ()=>{} });
+                } else {
+                    // Update parent select-all if all children are checked
+                    const parentSection = this.closest('.subject-content');
+                    if (parentSection) {
+                        const parentId = parentSection.id.replace('-content','');
+                        const allCheckbox = document.getElementById(parentId + '-all');
+                        if (allCheckbox) {
+                            const childCheckboxes = parentSection.querySelectorAll("input[type='checkbox']:not(.sub-select-all)");
+                            let allChecked = true;
+                            childCheckboxes.forEach(cb => { if (!cb.checked) allChecked = false; });
+                            allCheckbox.checked = allChecked;
+                        }
+                    }
+                    // Update main select-all if all children are checked
+                    if (['math','english'].includes(this.closest('.subject-content')?.id?.replace('-content',''))) {
+                        const mainId = this.closest('.subject-content').id.replace('-content','');
+                        const mainCheckbox = document.getElementById(mainId + '-all');
+                        if (mainCheckbox) {
+                            const allCheckboxes = document.querySelectorAll(`#${mainId}-content input[type='checkbox']:not(.sub-select-all)`);
+                            let allChecked = true;
+                            allCheckboxes.forEach(cb => { if (!cb.checked) allChecked = false; });
+                            mainCheckbox.checked = allChecked;
+                        }
+                    }
+                }
+            });
+        });
+    </script>
+</body>
+</html>
