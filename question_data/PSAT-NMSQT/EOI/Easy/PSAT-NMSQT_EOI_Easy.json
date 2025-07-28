@@ -1,0 +1,1797 @@
+[
+  {
+    "updateDate": 1730147323042,
+    "pPcc": "P10#EOI",
+    "questionId": "fc124fc1",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "0205597c-dc8a-468b-94f5-52978b21047d",
+    "skill_desc": "Transitions",
+    "createDate": 1730147323042,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": "",
+    "external_id": "b8087e41-58a8-47b7-8929-ef5d9f082f0d",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "stimulus": "<p>Before it unveiled a massive new gallery in 2009, the Art Institute of Chicago was only able to display about 5% of its art collection. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the museum is able to display close to 30% of its collection.</p>",
+    "type": "mcq",
+    "keys": [
+      "1aae503a-f2bb-4508-93c5-3c834b0cfb82"
+    ],
+    "answerOptions": [
+      {
+        "id": "6eb0eec2-67c8-487a-90ed-013357c650ce",
+        "content": "<p>Additionally,</p>"
+      },
+      {
+        "id": "8b7c440c-4a9e-4287-97ab-abec7d6a7e2a",
+        "content": "<p>For example,</p>"
+      },
+      {
+        "id": "c16658c0-9c95-4a37-ab82-5a488dcb5363",
+        "content": "<p>Nevertheless,</p>"
+      },
+      {
+        "id": "1aae503a-f2bb-4508-93c5-3c834b0cfb82",
+        "content": "<p>Today,</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer. \"Today\" logically signals that the information in the sentence&mdash;that the museum is able to display close to 30% of its collection&mdash;is true of the Art Institute of Chicago as it exists in the present day after the previously mentioned unveiling of the massive new gallery in 2009.</p><p>Choice A is incorrect because \"additionally\" illogically signals that the information in the sentence is merely an additional fact related to the information about the museum before the new gallery opened. Instead, the sentence is about the museum in the present day after the new gallery opened. Choice B is incorrect because \"for example\" illogically signals that the information in the sentence exemplifies the previous information about the museum before the new gallery opened. Instead, the sentence is about the museum in the present day after the new gallery opened. Choice C is incorrect because \"nevertheless\" illogically signals that the information in the sentence is true despite the previous information about the museum before the new gallery opened. Instead, the sentence is about the museum in the present day after the new gallery opened.</p>",
+    "externalid": "b8087e41-58a8-47b7-8929-ef5d9f082f0d",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1730147323043,
+    "pPcc": "P10#EOI",
+    "questionId": "991123de",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "0df3fab6-8efa-4d65-9f5b-e7b4707be857",
+    "skill_desc": "Transitions",
+    "createDate": 1730147323043,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": "",
+    "external_id": "71f2c191-fd2c-4b76-ac17-97ec944fd8c4",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "stimulus": "<p>In most deer species, males grow antlers, and females don&rsquo;t. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> reindeer are different. They are the only deer species in which the females grow antlers, too.</p>",
+    "type": "mcq",
+    "keys": [
+      "3eb1f6b3-abdd-4f9c-8ed5-c35bddb14e54"
+    ],
+    "answerOptions": [
+      {
+        "id": "a9560c8c-7d11-4149-93b5-6e016d24ef04",
+        "content": "<p>Similarly,</p>"
+      },
+      {
+        "id": "27128767-b51d-4684-9626-434fe186022e",
+        "content": "<p>Next,</p>"
+      },
+      {
+        "id": "3eb1f6b3-abdd-4f9c-8ed5-c35bddb14e54",
+        "content": "<p>However,</p>"
+      },
+      {
+        "id": "5b4fbd15-d986-48b1-907d-81e47144e9ef",
+        "content": "<p>Thus,</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer. \"However\" logically signals that the claim about reindeer in this sentence contrasts with the information about most deer species in the previous sentence.</p><p>Choice A is incorrect because \"similarly\" illogically signals that the claim in this sentence is similar to the previous information about most deer species. Instead, it contrasts with that information. Choice B is incorrect because \"next\" illogically signals that the claim about reindeer in this sentence is the next step in a process. Instead, it contrasts with the previous information about most deer species. Choice D is incorrect because \"thus\" illogically signals that the claim in this sentence results from the previous information about most deer species. Instead, it contrasts with that information.</p>",
+    "externalid": "71f2c191-fd2c-4b76-ac17-97ec944fd8c4",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959372,
+    "pPcc": "P10#EOI",
+    "questionId": "3c684d3a",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "14087f9b-7803-42f3-8d0c-39b9f4a21ff2",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959372,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "0f5bfa92-30e4-40c4-a83a-c4457a854ece",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "3eb5f84b-7d4a-4ead-9efc-9fd6b5685d34",
+    "keys": [
+      "322846f3-ffe4-4eb9-81cf-28bdc9c74861"
+    ],
+    "rationale": "<p>Choice C is the best answer. &ldquo;Later&rdquo; logically signals that the event discussed in this sentence&mdash;the creation of the short film featuring Fuller&rsquo;s dance&mdash;is a related event that occurred after the event discussed in the previous sentence (the 1891 debut of the dance). </p><p>Choice A is incorrect because &ldquo;however&rdquo; illogically signals that the information in this sentence contrasts with the information in the previous sentence. Instead, the creation of the short film is a related event that followed the event discussed in the previous sentence. Choice B is incorrect because &ldquo;in conclusion&rdquo; illogically signals that the information in this sentence concludes or summarizes the information in the previous sentence. Instead, the creation of the short film is a related event that followed the event discussed in the previous sentence. Choice D is incorrect because &ldquo;in other words&rdquo; illogically signals that the information in this sentence is a paraphrase or restatement of the information in the previous sentence. Instead, the creation of the short film is a related event that followed the event discussed in the previous sentence. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "0f5bfa92-30e4-40c4-a83a-c4457a854ece",
+    "stimulus": "<p>In 1891, dancer and choreographer Loie Fuller first performed her celebrated Serpentine Dance, artfully twirling her long, flowing skirt to create striking visual effects. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in 1896, cinema pioneers Auguste and Louis Lumi&egrave;re made a groundbreaking short film of Fuller&rsquo;s dance.&nbsp;</p>",
+    "templateclusterid": "90926b6c-78af-47e3-8e9c-6a293e876446",
+    "parenttemplatename": "OSP-KA-TRA-E005",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "f2abbc65-00a3-4a1a-bbb1-1ff4aa01a752",
+        "content": "<p>However,</p>"
+      },
+      {
+        "id": "e408f4cb-7cad-416d-b52d-07fb9b82c339",
+        "content": "<p>In conclusion,</p>"
+      },
+      {
+        "id": "322846f3-ffe4-4eb9-81cf-28bdc9c74861",
+        "content": "<p>Later,</p>"
+      },
+      {
+        "id": "ce5013ac-6784-4c74-bdab-1691e6645429",
+        "content": "<p>In other words,&nbsp;</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959371,
+    "pPcc": "P10#EOI",
+    "questionId": "785b9ae4",
+    "skill_cd": "SYN",
+    "score_band_range_cd": 1,
+    "uId": "16345dea-9bb6-4cb9-a6ad-733542633b8b",
+    "skill_desc": "Rhetorical Synthesis",
+    "createDate": 1691007959371,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "e7bfc1b3-da00-4de5-801a-ff2b68ea897f",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "3426f0c9-bbcc-4a16-bce8-fb39aa89b92c",
+    "keys": [
+      "cc67e4d0-ae82-4428-9564-20ee038fd101"
+    ],
+    "rationale": "<p>Choice A is the best answer. It compares Beard&rsquo;s and Jones&rsquo;s inventions to one another, and emphasizes what they have in common. </p><p>Choice B is incorrect. This choice doesn&rsquo;t emphasize a similarity. It only mentions Beard&rsquo;s invention. It doesn&rsquo;t compare it to Jones&rsquo;s invention. Choice C is incorrect. This choice doesn&rsquo;t emphasize a similarity between the two inventions. Instead, it emphasizes a difference. Choice D is incorrect. This choice doesn&rsquo;t emphasize a similarity. It only mentions Jones&rsquo;s invention. It doesn&rsquo;t compare it to Beard&rsquo;s invention. </p>",
+    "origin": "proteus",
+    "stem": "<p>The student wants to emphasize a similarity between Beard&rsquo;s invention and Jones&rsquo;s invention. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "externalid": "e7bfc1b3-da00-4de5-801a-ff2b68ea897f",
+    "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>In 1897, African American inventor Andrew Beard invented an automatic coupler.</li>\n<li>It improved on the existing design of train car couplers.</li>\n<li>It made the job of connecting train cars safer.</li>\n<li>In 1938, African American inventor Frederick Jones invented a mobile refrigeration system.</li>\n<li>It improved on the existing design of food transport trucks.</li>\n<li>It enabled trucks to carry perishable foods farther.</li>\n</ul>",
+    "templateclusterid": "179c4b2b-8b63-40f2-bc56-fcc60bfb94ca",
+    "parenttemplatename": "OSP-KA-SYN-E002",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "cc67e4d0-ae82-4428-9564-20ee038fd101",
+        "content": "<p>Beard&rsquo;s automatic coupler and Jones&rsquo;s mobile refrigeration system both improved on existing designs.</p>"
+      },
+      {
+        "id": "7891851b-872a-46ca-a1cf-8cc1228ba87f",
+        "content": "<p>In 1897, Beard invented an automatic coupler, which made the job of connecting train cars safer.</p>"
+      },
+      {
+        "id": "24ed0a42-ec19-431b-a562-78c6c808b4d9",
+        "content": "<p>Beard&rsquo;s invention made the job of connecting train cars safer, whereas Jones&rsquo;s invention enabled food transport trucks to carry perishables farther.&nbsp;</p>"
+      },
+      {
+        "id": "b36cfc56-4916-4816-afd0-539b3151e520",
+        "content": "<p>Jones&rsquo;s mobile refrigeration system, which he invented in 1938, made it possible for food transport trucks to carry perishable foods farther.</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959334,
+    "pPcc": "P10#EOI",
+    "questionId": "274b03c9",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "1a629c4e-7eb8-491e-ad0f-82e017dcea0e",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959334,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "5dc54953-7e21-4e5e-b76a-af27eca7a27a",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "46fe1058-bce8-41a6-b020-f525497158a8",
+    "keys": [
+      "1a382b2d-1479-4863-8357-2a27cd121a64"
+    ],
+    "rationale": "<p>Choice C is the best answer. &ldquo;For example&rdquo; logically signals that the following information about Ky&mdash;that she once shaped her hair to look like Africa&mdash;is an example supporting the previous statement that she makes different shapes with her hair. </p><p>Choice A is incorrect because &ldquo;soon&rdquo; illogically signals that the event described in this sentence occurred soon after the statement about Ky making different shapes with her hair. Instead, the sentence provides an example of one of these shapes. Choice B is incorrect because &ldquo;elsewhere&rdquo; illogically signals that the event described in this sentence occurred in a different place than the statement about Ky making different shapes with her hair. Instead, the sentence provides an example of one of these shapes. Choice D is incorrect because &ldquo;however&rdquo; illogically signals that the information in this sentence contrasts with the statement that Ky makes different shapes with her hair. Instead, the sentence provides an example of one of these shapes. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "5dc54953-7e21-4e5e-b76a-af27eca7a27a",
+    "stimulus": "<p>Laetitia Ky&rsquo;s hair is her art. Inspired by hairstyles from various African tribes, the Ivorian artist uses wire and thread to sculpt her hair into all kinds of shapes. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> she once made her hair into the shape of the continent of Africa&mdash;including the island of Madagascar!</p>",
+    "templateclusterid": "cd9086ea-9343-4f16-9bfd-630fec03f4be",
+    "parenttemplatename": "OSP-258-TRA",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "6e2892e2-1125-4077-b7ab-5718fa52f52e",
+        "content": "<p>Soon,</p>"
+      },
+      {
+        "id": "41c2b20a-1357-4ce8-a99d-b44bb135383c",
+        "content": "<p>Elsewhere,</p>"
+      },
+      {
+        "id": "1a382b2d-1479-4863-8357-2a27cd121a64",
+        "content": "<p>For example,</p>"
+      },
+      {
+        "id": "e50660dd-3c8c-45da-ba36-85c346a7830c",
+        "content": "<p>However,</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959333,
+    "pPcc": "P10#EOI",
+    "questionId": "4094033d",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 1,
+    "uId": "1c1591e5-6cd7-4064-89ba-72293a35665c",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959333,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "20085733-830c-480a-8032-c336efd01462",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "163b82cb-d0ab-4a4c-bfc4-0881de956ecf",
+    "keys": [
+      "035a2a62-8d04-4cab-9075-83ed6ebf8822"
+    ],
+    "rationale": "<p>Choice A is the best answer. &ldquo;In fact&rdquo; logically signals that the claim in this sentence&mdash;Phoenicia being named after the color purple&mdash;emphasizes and supports the previous claim that Phoenicians were famous for using purple dye. </p><p>Choice B is incorrect because &ldquo;regardless&rdquo; illogically signals that the claim about Phoenicia&rsquo;s name contrasts with the previous claim that Phoenicians were famous for using purple dye. Instead, the naming emphasizes and supports this claim. Choice C is incorrect because &ldquo;lastly&rdquo; illogically signals that the claim about Phoenicia&rsquo;s name is the final step in a process or sequence. Instead, the naming emphasizes and supports the previous claim that Phoenicians were famous for using purple dye. Choice D is incorrect because &ldquo;on the contrary&rdquo; illogically signals that the claim about Phoenicia&rsquo;s name directly opposes the previous claim that Phoenicians were famous for using purple dye. Instead, the naming emphasizes and supports this claim. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "20085733-830c-480a-8032-c336efd01462",
+    "stimulus": "<p>Tyrian purple was a highly prized dye among the Phoenicians (an ancient civilization located in present-day Lebanon). The Phoenicians were famous for using this natural dye to color their clothes a distinctive purple. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the name &ldquo;Phoenicia&rdquo; itself, some historians claim, may have originally meant &ldquo;land of purple.&rdquo;</p>",
+    "templateclusterid": "fb967926-4e57-4bf3-9df7-1a3f66e5b9a8",
+    "parenttemplatename": "OSP-243-TRA",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "035a2a62-8d04-4cab-9075-83ed6ebf8822",
+        "content": "<p>In fact,</p>"
+      },
+      {
+        "id": "1a75ae43-fbe1-4d5f-a73c-e00c6521c034",
+        "content": "<p>Regardless,</p>"
+      },
+      {
+        "id": "fd199c3a-c093-4ad9-a2c0-5838c674d1d5",
+        "content": "<p>Lastly,</p>"
+      },
+      {
+        "id": "10719597-95f1-454a-b0cb-233e0f7e2072",
+        "content": "<p>On the contrary,</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959371,
+    "pPcc": "P10#EOI",
+    "questionId": "1cfef917",
+    "skill_cd": "SYN",
+    "score_band_range_cd": 1,
+    "uId": "2c27d7b3-42ab-408c-9cd4-dcb01ac9a182",
+    "skill_desc": "Rhetorical Synthesis",
+    "createDate": 1691007959371,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "977bf489-037c-4bce-bcb0-1dc735c870e4",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "90173fd8-d6bd-4667-99cb-a7620f128bb0",
+    "keys": [
+      "0d2b9190-5e30-45ed-8aa2-adc6cb3df826"
+    ],
+    "rationale": "<p>Choice D is the best answer. This choice compares the Laas Geel paintings and the Dhagah Nabi Galay paintings to one another and emphasizes what they have in common: they are both ancient rock art found in the same region. </p><p>Choice A is incorrect. This choice only mentions the Dhagah Nabi Galay paintings. It doesn&rsquo;t compare them to the Laas Geel paintings. Choice B is incorrect. This choice doesn&rsquo;t emphasize a similarity between the two paintings. Instead, it emphasizes a difference: the type of content they depict. Choice C is incorrect. This choice only mentions the Laas Geel paintings. It doesn&rsquo;t compare them to the Dhagah Nabi Galay paintings. </p>",
+    "origin": "proteus",
+    "stem": "<p>The student wants to emphasize a similarity between the Laas Geel paintings and the Dhagah Nabi Galay paintings. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "externalid": "977bf489-037c-4bce-bcb0-1dc735c870e4",
+    "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Archaeologist Dr. Sada Mire founded the Horn Heritage Foundation to preserve the cultural history of regions in the Horn of Africa.</li>\n<li>Horn Heritage has overseen a preservation project to create 3D digital scans of ancient rock art in Somaliland.</li>\n<li>Paintings found at the Laas Geel caves are included in the scans.</li>\n<li>The Laas Geel paintings feature human figures and animals.</li>\n<li>Paintings found at the Dhagah Nabi Galay caves are included in the scans.</li>\n<li>The Dhagah Nabi Galay caves feature what are thought to be the earliest examples of writing in East Africa.</li>\n</ul>",
+    "templateclusterid": "a70fef24-8f06-4c89-9c3a-ff73f938891e",
+    "parenttemplatename": "OSP-KA-SYN-E007",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "a5a59b76-e3e3-4c4b-897a-2bf8ac0a9c06",
+        "content": "<p>The earliest examples of writing in East Africa are thought to be featured in the paintings at the Dhagah Nabi Galay caves in Somaliland.</p>"
+      },
+      {
+        "id": "aa19f3ef-9348-4b6b-87d9-780edb4b0aa5",
+        "content": "<p>The paintings at the Dhagah Nabi Galay caves feature examples of writing, while those at the Laas Geel caves feature humans and animals.</p>"
+      },
+      {
+        "id": "daa96af1-aad5-426c-b960-a171a0ee41a6",
+        "content": "<p>In Somaliland, the paintings in the Laas Geel caves feature human figures and animals.</p>"
+      },
+      {
+        "id": "0d2b9190-5e30-45ed-8aa2-adc6cb3df826",
+        "content": "<p>The Laas Geel paintings and the Dhagah Nabi Galay paintings are both examples of ancient rock art found in Somaliland.</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959333,
+    "pPcc": "P10#EOI",
+    "questionId": "9b65675e",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "2cf0c13e-20ba-41bb-8a60-8f0133d79b7e",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959333,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "6ac65687-dbeb-45fe-9260-d7cbe31177e1",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "5f133cad-84e5-47ea-b320-742f50d6f6a5",
+    "keys": [
+      "b9ae48ea-673b-413a-9a43-606f4900f6ed"
+    ],
+    "rationale": "<p>Choice C is the best answer. &ldquo;For this reason&rdquo; logically signals that the behavior described in this sentence is a consequence of the information about seals in the previous sentence. That is, a seal moves its flippers as little as possible during a deep dive because it needs to keep its heart rate low enough that it does not run out of oxygen.&nbsp;</p><p>Choice A is incorrect because &ldquo;in the first place&rdquo; illogically signals that this sentence is the first point in a discussion. Instead, the sentence describes a behavior that is a consequence of the previous information about seals. &nbsp;Choice B is incorrect because &ldquo;on the other hand&rdquo; illogically signals that the behavior described in this sentence contrasts with the previous information about seals. Instead, it is a consequence of that information. Choice D is incorrect because &ldquo;in comparison&rdquo; illogically signals that the behavior described in this sentence is being compared to the previous information about seals. Instead, it is a consequence of that information.&nbsp;</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "6ac65687-dbeb-45fe-9260-d7cbe31177e1",
+    "stimulus": "<p>As biologist Terrie Williams has documented, deep dives present a challenge for seals and other marine mammals. A seal must exert enough energy to propel itself hundreds of meters downward, while keeping its heart rate low enough that it doesn&rsquo;t run out of oxygen while underwater. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a seal moves its flippers as little as possible on a deep dive, gliding to conserve energy.</p>",
+    "templateclusterid": "4cb7065e-e5f6-4e8a-8a92-80e818980b15",
+    "parenttemplatename": "OSP-255-TRA",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "4b16b08d-614c-46c2-b303-577da3159c8b",
+        "content": "<p>In the first place,</p>"
+      },
+      {
+        "id": "d0056231-c0fa-4710-8136-5da82dd7a876",
+        "content": "<p>On the other hand,</p>"
+      },
+      {
+        "id": "b9ae48ea-673b-413a-9a43-606f4900f6ed",
+        "content": "<p>For this reason,</p>"
+      },
+      {
+        "id": "a82cee71-be79-4ea4-a3b5-0be38cbf3c21",
+        "content": "<p>In comparison,</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959373,
+    "pPcc": "P10#EOI",
+    "questionId": "a8cf0a1e",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "4bf78249-129e-4ded-b4af-514584cc21cd",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959373,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "5c009062-358e-46dd-9192-afa0812947b8",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "772b7b12-2ef1-4ce3-be90-1ab51dd1a30c",
+    "keys": [
+      "8e3861ec-f413-4715-aef6-76513a02bfb6"
+    ],
+    "rationale": "<p>Choice D is the best answer. The previous sentence tells us that potters think about the look and use of a piece when selecting clay. This sentence provides a specific example of a type of clay selected for its appearance, so the transition \"for example\" fits perfectly.</p><p>Choice A is incorrect. This choice uses a transition that indicates a restatement of the same idea. But this sentence does more than just restate the previous idea. Instead, it provides a more specific example of the idea presented in the first sentence. Choice B is incorrect. This choice uses a disagreement transition. But this sentence actually agrees with the previous sentence. Both sentences suggest that desired look plays a role in the selection of clay types for pottery pieces. Choice C is incorrect. This choice uses a concluding transition. But this sentence doesn&rsquo;t sum up the previous sentence. Instead, it gives a specific example of the idea presented in the previous sentence.</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "5c009062-358e-46dd-9192-afa0812947b8",
+    "stimulus": "<p>A potter choosing which type of clay to use for a piece considers two key factors: the desired look of the piece and its intended use. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> earthenware clay is often used for decorative pieces because of its rustic look. This type of clay is not often used in industrial settings, though, because it is less durable than other clays.</p>",
+    "templateclusterid": "beb607bc-f445-4363-99d3-42faa4a0e647",
+    "parenttemplatename": "OSP-KA-TRA-E006",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "b2fbb232-5bc8-47cc-a703-8f9a9bb75a9f",
+        "content": "<p>In other words,</p>"
+      },
+      {
+        "id": "88a7eac0-15c3-4aa0-a3f6-105b083439ef",
+        "content": "<p>Regardless,</p>"
+      },
+      {
+        "id": "037dd8bd-ba0c-4980-a751-bf2442b847d3",
+        "content": "<p>In conclusion,</p>"
+      },
+      {
+        "id": "8e3861ec-f413-4715-aef6-76513a02bfb6",
+        "content": "<p>For example,</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959371,
+    "pPcc": "P10#EOI",
+    "questionId": "16a5f892",
+    "skill_cd": "SYN",
+    "score_band_range_cd": 1,
+    "uId": "55c54baf-88d4-42ff-a5f1-50a82e41e110",
+    "skill_desc": "Rhetorical Synthesis",
+    "createDate": 1691007959371,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "182112b4-ebcd-4ac5-ab27-9cec07d22c6a",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "3b0b4d14-3dfb-45c3-821b-140f16592557",
+    "keys": [
+      "3d540a4f-b771-4287-b3e4-26560714f653"
+    ],
+    "rationale": "<p>Choice D is the best answer. By identifying Kahlo as an influential artist from Mexico, and by describing the work she&rsquo;s best known for, this choice provides the background information necessary to introduce Kahlo to an unfamiliar audience. </p><p>Choice A is incorrect. This choice doesn&rsquo;t effectively introduce Kahlo. It doesn&rsquo;t include any background information about who Kahlo is or where she&rsquo;s from. It simply identifies one of her paintings. Choice B is incorrect. This choice doesn&rsquo;t effectively introduce Kahlo. It doesn&rsquo;t include any background information about who Kahlo is or where she&rsquo;s from. It simply identifies one of her paintings. Choice C is incorrect. This choice doesn&rsquo;t effectively introduce Kahlo. It doesn&rsquo;t include any background information about who Kahlo is or where she&rsquo;s from. Instead, it describes one of her paintings in detail. </p>",
+    "origin": "proteus",
+    "stem": "<p>The student wants to introduce Kahlo to an audience unfamiliar with the artist. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "externalid": "182112b4-ebcd-4ac5-ab27-9cec07d22c6a",
+    "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>The painter Frida Kahlo is one of the most influential artists of the twentieth century.</li>\n<li>She was born in Coyoac&aacute;n, Mexico, in 1907.</li>\n<li>She is best known for her vivid and richly symbolic self-portraits.</li>\n<li><em>The Two Fridas</em> (1939) features two versions of Kahlo sitting together.</li>\n<li>One version wears a European-style dress and the other a traditional Tehuana dress.</li>\n</ul>",
+    "templateclusterid": "1c7b1f79-2c97-4bfb-83af-e86807cc3cf4",
+    "parenttemplatename": "OSP-KA-SYN-E001",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "b512034d-5002-4e8e-83d5-11a461295eaa",
+        "content": "<p>Known for being vivid and richly symbolic, Frida Kahlo&rsquo;s self-portraits include <em>The Two Fridas </em>(1939).</p>"
+      },
+      {
+        "id": "e942312c-88b8-404e-a8d1-dd0b05957dfc",
+        "content": "<p>The 1939 painting <em>The Two Fridas </em>is one example of a self-portrait by Frida Kahlo.</p>"
+      },
+      {
+        "id": "12ee10b9-0efd-47ce-a99d-4762894c0727",
+        "content": "<p>One painting by Frida Kahlo features two versions of herself, with one version wearing a European-style dress and the other a traditional Tehuana dress.</p>"
+      },
+      {
+        "id": "3d540a4f-b771-4287-b3e4-26560714f653",
+        "content": "<p>One of the most influential artists of the twentieth century, Mexican painter Frida Kahlo is best known for her self-portraits, which are vivid and richly symbolic.</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1730147323043,
+    "pPcc": "P10#EOI",
+    "questionId": "23458aae",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "5aea91f6-ab2b-4216-8924-60d847316e86",
+    "skill_desc": "Transitions",
+    "createDate": 1730147323043,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": "",
+    "external_id": "c6ba56a9-8d3b-489d-b21a-df9f68e41920",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "stimulus": "<p>Celebrated Tewa potter Maria Martinez (1887&ndash;1980) made her signature all-black ceramic vessels using a heating technique called reduction firing. This technique involves smothering the flame surrounding the clay vessel. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the vessel takes on a shiny, black hue. &nbsp;</p>",
+    "type": "mcq",
+    "keys": [
+      "58846327-bb37-4422-bd03-6e8f2c724fd1"
+    ],
+    "answerOptions": [
+      {
+        "id": "75bc3e92-9508-4eb0-b56b-35b022da1a7e",
+        "content": "<p>On the contrary,</p>"
+      },
+      {
+        "id": "0279df48-d124-4988-b0ae-61ce95e3446b",
+        "content": "<p>For example,</p>"
+      },
+      {
+        "id": "75b9acd4-2ac4-4cac-96d5-b5d8093844c6",
+        "content": "<p>Previously,</p>"
+      },
+      {
+        "id": "58846327-bb37-4422-bd03-6e8f2c724fd1",
+        "content": "<p>As a result, &nbsp;&nbsp;</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer. \"As a result\" logically signals that the information in this sentence&mdash;the vessel turning black&mdash;is a result of the heating technique discussed in the previous sentence.</p><p>Choice A is incorrect because \"on the contrary\" illogically signals that the information in this sentence directly opposes the heating technique in the previous sentence. Instead, the vessel turns black as a result of that technique. Choice B is incorrect because \"for example\" illogically signals that the information in this sentence is an example of the heating technique in the previous sentence. Instead, the vessel turns black as a result of that technique. Choice C is incorrect because \"previously\" illogically signals that the information in this sentence occurs earlier in a chronological series of events than does the heating technique discussed in the first two sentences. Instead, the vessel turns black as a result of that technique.</p>",
+    "externalid": "c6ba56a9-8d3b-489d-b21a-df9f68e41920",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959333,
+    "pPcc": "P10#EOI",
+    "questionId": "7d4ce666",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 1,
+    "uId": "5be305af-73f4-4a7c-bf53-e8a6dab6ea4b",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959333,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "646459cd-e5c2-497c-a3f1-a2dd38fd1867",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "b6ce0eb3-8019-464b-bedd-2d402e38d451",
+    "keys": [
+      "eb880d77-8c02-4540-98de-036a5fcafac2"
+    ],
+    "rationale": "<p>Choice C is the best answer. &ldquo;Next&rdquo; logically signals that the egg laying in this sentence is the next step in the sequence of events described in the other sentences. </p><p>Choice A is incorrect because &ldquo;by contrast&rdquo; illogically signals that the egg laying in this sentence contrasts with the nest digging in the previous sentence. Instead, the egg laying follows the nest digging as the next step in the sequence of events. Choice B is incorrect because &ldquo;similarly&rdquo; illogically signals that the egg laying in this sentence is similar to the nest digging in the previous sentence. Though the two actions are related, they are not similar. Instead, the egg laying follows the nest digging as the next step in the sequence of events. Choice D is incorrect because &ldquo;for example&rdquo; illogically signals that the egg laying in this sentence is an example of the nest digging in the previous sentence. Instead, the egg laying follows the nest digging as the next step in the sequence of events. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "646459cd-e5c2-497c-a3f1-a2dd38fd1867",
+    "stimulus": "<p>In June, female loggerhead sea turtles will swim back to the sandy beaches where they were born to lay eggs of their own. First, the turtle will dig her nest in the sand. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> she will lay up to 100 eggs in the nest. Finally, she will cover it all with sand, before returning to the ocean.</p>",
+    "templateclusterid": "27da2d02-358c-4331-bf5c-06c3d668664a",
+    "parenttemplatename": "OSP-241-TRA",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "b980eba3-cc40-4f05-9bac-0e7674155386",
+        "content": "<p>By contrast,</p>"
+      },
+      {
+        "id": "d8435ad3-4e30-4c4d-b961-712e502e8a58",
+        "content": "<p>Similarly,</p>"
+      },
+      {
+        "id": "eb880d77-8c02-4540-98de-036a5fcafac2",
+        "content": "<p>Next,</p>"
+      },
+      {
+        "id": "91562746-ad33-4798-8afd-e6bbb84877d4",
+        "content": "<p>For example,</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959334,
+    "pPcc": "P10#EOI",
+    "questionId": "b8fb4e10",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "700b1e3b-df0d-4e96-affa-7008543f8282",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959334,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "75904fc7-284b-4151-b762-3d901c50d7f8",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "62f32914-e014-4d2e-b5fa-e0eff2dd490a",
+    "keys": [
+      "277e4424-bcf9-4931-82e0-c9164cff7c5e"
+    ],
+    "rationale": "<p>Choice A is the best answer. &ldquo;Later&rdquo; logically signals that the letter-writing discussed in this sentence occurred later in a chronological sequence of events than did the antidiscrimination case discussed in the previous sentence. </p><p>Choice B is incorrect because &ldquo;for instance&rdquo; illogically signals that the letter-writing discussed in this sentence is an example of the antidiscrimination case discussed in the previous sentence. Instead, the letter-writing is an event that occurred after the court case. Choice C is incorrect because &ldquo;in other words&rdquo; illogically signals that the letter-writing discussed in this sentence is a paraphrase or restatement of the antidiscrimination case discussed in the previous sentence. Instead, the letter-writing is an event that occurred after the court case. Choice D is incorrect because &ldquo;rather&rdquo; illogically signals that the letter-writing discussed in this sentence is an alternative to the antidiscrimination case discussed in the previous sentence. Instead, the letter-writing is an event that occurred after the court case. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "75904fc7-284b-4151-b762-3d901c50d7f8",
+    "stimulus": "<p>In 1885, Chinese-born California resident Mary Tape became a hero of the Asian American civil rights movement. In January of that year, she won an antidiscrimination case in the California Supreme Court. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in April, she wrote an open letter criticizing her local board of education for discrimination. Both actions are remembered today as historic stands against racism.</p>",
+    "templateclusterid": "49cdf444-e900-4fba-950d-6bd24009e55a",
+    "parenttemplatename": "OSP-260-TRA",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "277e4424-bcf9-4931-82e0-c9164cff7c5e",
+        "content": "<p>Later,</p>"
+      },
+      {
+        "id": "431a2bb1-2d85-4c42-9b1c-f704cd31fbcd",
+        "content": "<p>For instance,</p>"
+      },
+      {
+        "id": "43ebdc55-565c-4031-9d83-cc025de5ac53",
+        "content": "<p>In other words,</p>"
+      },
+      {
+        "id": "b15b469a-60ba-423a-875a-a8e93cee5a4e",
+        "content": "<p>Rather,</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323042,
+    "pPcc": "P10#EOI",
+    "questionId": "d05ec273",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 1,
+    "uId": "74340951-b14b-48ad-9cd0-3ed136f11d88",
+    "skill_desc": "Transitions",
+    "createDate": 1730147323042,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": "",
+    "external_id": "808dc1ee-2be6-4bb1-b3c9-42b468c3ecf2",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "stimulus": "<p>Ballet dancer Misty Copeland has accomplished a lot. She has appeared on Broadway, toured with Prince, and even served on the President&rsquo;s Council on Sports, Fitness &amp; Nutrition. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> according to Copeland, nothing in her career matches the honor of being the first African American woman named principal dancer at the prestigious American Ballet Theatre.</p>",
+    "type": "mcq",
+    "keys": [
+      "e0f9bb3c-35a7-4338-84f5-15e1472090ad"
+    ],
+    "answerOptions": [
+      {
+        "id": "40c74578-b966-4b6a-8b0c-322ff9e6281a",
+        "content": "<p>Thus,</p>"
+      },
+      {
+        "id": "e0f9bb3c-35a7-4338-84f5-15e1472090ad",
+        "content": "<p>However,</p>"
+      },
+      {
+        "id": "0e189887-8cf9-416b-be45-8a36ebccd9d4",
+        "content": "<p>For example,</p>"
+      },
+      {
+        "id": "bade8206-be9b-4e20-91b7-e190e5777d7c",
+        "content": "<p>Second of all,</p>"
+      }
+    ],
+    "rationale": "<p>Choice B is the best answer. \"However\" logically signals that the information in this sentence&mdash;that nothing in Copeland&rsquo;s career matches her accomplishment of being the first African American woman named principal dancer at the American Ballet Theatre&mdash;offers a contrast or exception to the previous information about Copeland&rsquo;s accomplishments.</p><p>Choice A is incorrect because \"thus\" illogically signals that the information that follows is a result of the previous information about Copeland&rsquo;s accomplishments. Instead, the statement that nothing in Copeland&rsquo;s career matches this accomplishment offers a contrast or exception to that information. Choice C is incorrect because \"for example\" illogically signals that Copeland&rsquo;s statement about her greatest accomplishment exemplifies the claim about her accomplishments in the previous sentence. Instead, it offers a contrast or exception to that information. Choice D is incorrect because \"second of all\" illogically signals that the information in this sentence is a second, separate claim from the previous sentence&rsquo;s information about her accomplishments. Instead, the statement that nothing in Copeland&rsquo;s career matches this accomplishment offers a contrast or exception to that information.</p>",
+    "externalid": "808dc1ee-2be6-4bb1-b3c9-42b468c3ecf2",
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1730147323043,
+    "pPcc": "P10#EOI",
+    "questionId": "5b02b189",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "8ad380d3-0230-481f-a3d1-cefb0f360c8c",
+    "skill_desc": "Transitions",
+    "createDate": 1730147323043,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": "",
+    "external_id": "6877e1d2-be1b-473d-9b82-100b215d1ddd",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "stimulus": "<p>The French directors Colas Koola and Vivien Mermet-Guyenet (known as Koola and Viv) founded the video game studio BlueTwelve. They also love cats. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> they created an award-winning cat video game, <em>Stray</em> (2021), that lets the player explore a dystopian city from the perspective of a clever orange house cat.</p>",
+    "type": "mcq",
+    "keys": [
+      "ab9e872e-8c1d-4dec-92bf-08ecf0f0153e"
+    ],
+    "answerOptions": [
+      {
+        "id": "d3214ba2-b7fa-49af-b47c-f322e5f2507e",
+        "content": "<p>Intermittently,</p>"
+      },
+      {
+        "id": "396cd5a3-0d8e-4641-91b2-478072e3c343",
+        "content": "<p>On the other hand,</p>"
+      },
+      {
+        "id": "ab9e872e-8c1d-4dec-92bf-08ecf0f0153e",
+        "content": "<p>In fact,</p>"
+      },
+      {
+        "id": "c45dcd5c-df1f-4afa-bad9-a201d486d4bd",
+        "content": "<p>Nevertheless,</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer. \"In fact\" logically signals that the information in this sentence about the creation of the video game offers additional emphasis in support of the previous claim that video game studio founders Koola and Viv love cats.</p><p>Choice A is incorrect because \"intermittently\" illogically signals that the information in this sentence occurs sporadically or in intervals. Instead, the creation of the video game offers additional emphasis in support of the previous claim about Koola and Viv. Choice B is incorrect because \"on the other hand\" illogically signals that the information in this sentence contrasts with the previous claim about Koola and Viv. Instead, the creation of the video game offers additional emphasis in support of that claim. Choice D is incorrect because \"nevertheless\" illogically signals that the information in this sentence is true despite the previous claim that Koola and Viv love cats. Instead, the creation of the video game offers additional emphasis in support of that claim.</p>",
+    "externalid": "6877e1d2-be1b-473d-9b82-100b215d1ddd",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959371,
+    "pPcc": "P10#EOI",
+    "questionId": "2cb7b153",
+    "skill_cd": "SYN",
+    "score_band_range_cd": 2,
+    "uId": "8e32d21f-8b20-4762-b957-c0b21ee441a4",
+    "skill_desc": "Rhetorical Synthesis",
+    "createDate": 1691007959371,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "eea1eb09-69b1-4abc-888a-3de34517beff",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "ea840791-0fbd-44d0-bff8-fe9f1df25ffb",
+    "keys": [
+      "b5690603-2af0-433d-abde-f61022500f87"
+    ],
+    "rationale": "<p>Choice A is the best answer. This choice directly identifies the setting of Cather&rsquo;s novel <em>My &Aacute;ntonia</em> as Nebraska.</p><p>Choice B is incorrect. This choice mentions that Cather wrote about immigrants, but it doesn&rsquo;t indicate where they lived. Choice C is incorrect. This choice mentions that <em>My &Aacute;ntonia</em> is one of Cather&rsquo;s best-known novels but doesn&rsquo;t state where it takes place. Choice D is incorrect. This choice mentions that some of Cather&rsquo;s novels are set in Nebraska, but it doesn&rsquo;t specify which ones, so we can&rsquo;t be certain that <em>My &Aacute;ntonia</em> is one of them. It also includes irrelevant information about Cather&rsquo;s education.</p>",
+    "origin": "proteus",
+    "stem": "<p>The student wants to identify the setting of Cather&rsquo;s novel <em>My &Aacute;ntonia.</em><em>&nbsp;</em>Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "externalid": "eea1eb09-69b1-4abc-888a-3de34517beff",
+    "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Novelist Willa Cather grew up in Nebraska and attended the University of Nebraska-Lincoln.</li>\n<li>Some of Cather&rsquo;s best-known novels are set in Nebraska.</li>\n<li>Two such novels are <em>O Pioneers!</em> (1913) and <em>My &Aacute;ntonia</em> (1918).</li>\n<li>Cather&rsquo;s novels describe the experiences of immigrants who settled in the Great Plains.</li>\n</ul>",
+    "templateclusterid": "f7944e17-457f-40f4-8c60-6ec726a93392",
+    "parenttemplatename": "OSP-KA-SYN-E005",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "b5690603-2af0-433d-abde-f61022500f87",
+        "content": "<p><em>My &Aacute;ntonia </em>is set in Nebraska, where Cather grew up.</p>"
+      },
+      {
+        "id": "946584e7-2b3f-4e30-8f36-9c65a39669c7",
+        "content": "<p>Cather, author of <em>My &Aacute;ntonia</em>, described the experiences of immigrants in her novels.&nbsp;</p>"
+      },
+      {
+        "id": "e9d57ad2-49cf-4e0d-9415-94cc25111d6c",
+        "content": "<p>Among Cather&rsquo;s best-known novels are <em>O Pioneers!</em> (1913) and <em>My &Aacute;ntonia</em>&nbsp;(1918).</p>"
+      },
+      {
+        "id": "69797b31-6beb-41be-835f-2d96045c807a",
+        "content": "<p>Cather attended the University of Nebraska-Lincoln and set some of her novels in Nebraska.</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323043,
+    "pPcc": "P10#EOI",
+    "questionId": "77198f73",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "95a42c69-6abd-4876-b7cc-2040b5511dc0",
+    "skill_desc": "Transitions",
+    "createDate": 1730147323043,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": "",
+    "external_id": "556b6a32-dc40-4eec-96c0-5389bcae5626",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "stimulus": "<p>In the search for extraterrestrial life, astrobiologists Stuart Bartlett and Michael L. Wong propose that scientists avoid using the term &ldquo;life.&rdquo; <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> researchers should use another word: &ldquo;lyfe.&rdquo; This new term, they argue, could be used to draw distinctions between the known characteristics of life on Earth and the potentially differing characteristics of lyfe on other planets.</p>",
+    "type": "mcq",
+    "keys": [
+      "e82bc787-c63d-4bbb-8914-bea0b8abaf2d"
+    ],
+    "answerOptions": [
+      {
+        "id": "7898d576-ebe7-4877-99a0-b3c56b580653",
+        "content": "<p>Previously,</p>"
+      },
+      {
+        "id": "94b71a0a-c91d-47e4-a8ce-470afae312b7",
+        "content": "<p>Regardless,</p>"
+      },
+      {
+        "id": "c48d63ff-a4af-425c-8e70-66d0715dc818",
+        "content": "<p>There,</p>"
+      },
+      {
+        "id": "e82bc787-c63d-4bbb-8914-bea0b8abaf2d",
+        "content": "<p>Instead,</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer. \"Instead\" logically signals that the idea in this sentence&mdash;that researchers should use the word \"lyfe\"&mdash;is an alternative to the idea mentioned in the previous sentence (scientists&rsquo; use of the word \"life\").</p><p>Choice A is incorrect because \"previously\" illogically signals that the idea in this sentence occurs before the action in the first sentence. Instead, the use of \"lyfe\" is an alternative to the previously mentioned use of \"life.\" Choice B is incorrect because \"regardless\" illogically signals that the idea in this sentence is true despite the information in the first sentence. Instead, the use of \"lyfe\" is an alternative to the previously mentioned use of \"life.\" Choice C is incorrect because \"there\" illogically signals that the idea in this sentence occurs in a place mentioned in the previous sentence. Instead, the use of \"lyfe\" is an alternative to the previously mentioned use of \"life.\"</p>",
+    "externalid": "556b6a32-dc40-4eec-96c0-5389bcae5626",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1730147323044,
+    "pPcc": "P10#EOI",
+    "questionId": "2fb25df6",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "966cbfec-a45c-4f3f-98e4-52dae7cee2ad",
+    "skill_desc": "Transitions",
+    "createDate": 1730147323044,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": "",
+    "external_id": "853cecf5-60d9-4e4f-b550-7a361e2427e8",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "stimulus": "<p>Many butterfly species have bold, brightly colored wings. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> some butterfly species have wings that are almost completely colorless and transparent. Glasswing butterflies, for example, have see-through wings that make them nearly invisible.</p>",
+    "type": "mcq",
+    "keys": [
+      "e2c373cb-6247-44b4-b5b1-600729923f2b"
+    ],
+    "answerOptions": [
+      {
+        "id": "2c6ee337-e469-4eb3-a07e-91c0fe1fd6c8",
+        "content": "<p>Similarly,</p>"
+      },
+      {
+        "id": "4f524f90-0985-43d6-85a6-29d93603dbfd",
+        "content": "<p>Previously,</p>"
+      },
+      {
+        "id": "44783565-a5d8-43b2-98e4-1664627a3780",
+        "content": "<p>In other words,</p>"
+      },
+      {
+        "id": "e2c373cb-6247-44b4-b5b1-600729923f2b",
+        "content": "<p>However,</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer. \"However\" logically signals that the information in this sentence about butterfly species&mdash;that some have colorless, transparent wings&mdash;contrasts with the previous information about butterfly species with bold, colorful wings.</p><p>Choice A is incorrect because \"similarly\" illogically signals that the information in this sentence is similar to the previous information about butterfly species. Instead, it contrasts with the previous information. Choice B is incorrect because \"previously\" illogically signals that this sentence describes an event that occurred before another event. Instead, the sentence provides information about butterfly species that contrasts with the information in the first sentence. Choice C is incorrect because \"in other words\" illogically signals that the information in this sentence is a paraphrase or restatement of the previous information about butterfly species. Instead, it contrasts with the previous information.</p>",
+    "externalid": "853cecf5-60d9-4e4f-b550-7a361e2427e8",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959372,
+    "pPcc": "P10#EOI",
+    "questionId": "5df765c7",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "9cf06b3b-f944-4582-9a70-049611297bba",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959372,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "a37696c4-df78-438e-992f-3921c00cc0ec",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "2fcd3924-7b06-4918-a28d-2cff1a026848",
+    "keys": [
+      "39bce539-c4cf-41a3-a8bf-4de12285da13"
+    ],
+    "rationale": "<p>Choice A is the best answer. The second sentence describes a consequence of the system laid out in the first sentence: because air is owned and sold by companies in this world, people have to buy it. </p><p>Choice B is incorrect. This choice uses a transition that means &ldquo;no matter what happens&rdquo; or &ldquo;whatever the situation is,&rdquo; which doesn&rsquo;t make sense here. There&rsquo;s only one situation described in the text: a fictional world in which companies own all the breathable air, forcing people to buy it. Choice C is incorrect. This choice uses a disagreement transition. But this sentence doesn&rsquo;t disagree with the previous sentence. They both describe the same fictional situation. Choice D is incorrect. This choice uses a transition that indicates a shift back in time, which doesn&rsquo;t make sense here. Both sentences use the present tense, as they&rsquo;re describing the same fictional time period. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "a37696c4-df78-438e-992f-3921c00cc0ec",
+    "stimulus": "<p>&ldquo;O2 Arena,&rdquo; an award-winning science fiction story by Nigerian author Oghenechovwe Donald Ekpeki, takes place in an alternate version of Nigeria where breathable air is a rare commodity that is owned and sold by companies. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> people must purchase it with currency called O2 credits.</p>",
+    "templateclusterid": "795ad52e-de74-48b9-8f98-142da5da77c7",
+    "parenttemplatename": "OSP-KA-TRA-E004",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "39bce539-c4cf-41a3-a8bf-4de12285da13",
+        "content": "<p>As a result,</p>"
+      },
+      {
+        "id": "4f6821f2-6783-4d0e-a852-a89c0f818e5a",
+        "content": "<p>In any case,</p>"
+      },
+      {
+        "id": "fc2ed9cf-c306-44df-af76-07802721f673",
+        "content": "<p>Nevertheless,</p>"
+      },
+      {
+        "id": "28cba137-9336-4973-a81a-389dbe98caba",
+        "content": "<p>Earlier,</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323043,
+    "pPcc": "P10#EOI",
+    "questionId": "beb56280",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "a7f0a86f-bf95-4da9-aa88-ee7ad3c4be9d",
+    "skill_desc": "Transitions",
+    "createDate": 1730147323043,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": "",
+    "external_id": "2c43b532-5d8b-4df1-9313-337c17276300",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "stimulus": "<p>In 2014, Nestor Gomez won his first-ever storytelling competition, relating a tale about his life as a Guatemalan immigrant living in Chicago. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in 2017, Gomez created the show <em>80 Minutes Around the World</em> as a platform for others to share stories about their immigration experiences.</p>",
+    "type": "mcq",
+    "keys": [
+      "47db25d1-8daa-4453-bbd8-ad8ca4c648b8"
+    ],
+    "answerOptions": [
+      {
+        "id": "18d37849-6e40-49d6-9728-5cd1e2ef59c5",
+        "content": "<p>Instead,</p>"
+      },
+      {
+        "id": "587ae280-bccc-4ebd-807e-10536a4e059d",
+        "content": "<p>For example,</p>"
+      },
+      {
+        "id": "47db25d1-8daa-4453-bbd8-ad8ca4c648b8",
+        "content": "<p>Later,</p>"
+      },
+      {
+        "id": "a7c6a071-278c-4556-bba6-cde394237c28",
+        "content": "<p>In other words,</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer. \"Later\" logically signals that the information in the sentence&mdash;that in 2017 Gomez created a platform for others to share stories about their immigration experiences&mdash;occurs later in a chronological series of events than the previous information about Gomez winning his first storytelling competition in 2014.</p><p>Choice A is incorrect because \"instead\" illogically signals that Gomez created a platform for others to share stories about their immigration experiences as an alternative to winning his first storytelling competition. Rather, Gomez created the platform later&mdash;in a chronological series of events&mdash;than when he won the competition. Choice B is incorrect because \"for example\" illogically signals that the information about Gomez creating a platform for others to share stories exemplifies his winning his first storytelling competition. Rather, Gomez created the platform later&mdash;in a chronological series of events&mdash;than when he won the competition. Choice D is incorrect because \"in other words\" illogically signals that the information about Gomez creating a platform for others to share stories is merely a paraphrase or restatement of the previous information about Gomez winning his first storytelling competition. Rather, Gomez created the platform later&mdash;in a chronological series of events&mdash;than when he won the competition.</p>",
+    "externalid": "2c43b532-5d8b-4df1-9313-337c17276300",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959334,
+    "pPcc": "P10#EOI",
+    "questionId": "237e91bd",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "af29ab8b-35b1-4dd7-afbc-791c5ae16abc",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959334,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "313e715b-9a8c-4ef8-a32e-fe47bb7d02d3",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "4ab608dd-a248-476b-b1f2-7090964ef65a",
+    "keys": [
+      "a6e5243d-ae07-4d0a-b8fc-05aa095c45de"
+    ],
+    "rationale": "<p>Choice B is the best answer. &ldquo;As a result&rdquo; logically signals that the information in this sentence about Amaya leaving Spain to perform abroad is a result of the previous information about the Spanish Civil War. </p><p>Choice A is incorrect because &ldquo;in comparison&rdquo; illogically signals that the information in this sentence is being compared to the previous information about the Spanish Civil War. Instead, Amaya leaving Spain is a result of that war. Choice C is incorrect because &ldquo;first of all&rdquo; illogically signals that the information in this sentence is the beginning of a sequence of events. Instead, Amaya leaving Spain is a result of the event (the outbreak of war) described in the previous sentence. Choice D is incorrect because &ldquo;for example&rdquo; illogically signals that the information in this sentence is an example supporting the previous statement about the Spanish Civil War. Instead, Amaya leaving Spain is a result of that war. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "313e715b-9a8c-4ef8-a32e-fe47bb7d02d3",
+    "stimulus": "<p>By 1936, Spanish Romani dancer Carmen Amaya was known all over Spain for her powerful style of flamenco dancing. However, in July of that year, the outbreak of the Spanish Civil War made it difficult for her to perform in her home country. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Amaya left Spain to perform abroad, dancing for audiences across North and South America.</p>",
+    "templateclusterid": "95165274-41ad-4651-8106-1425ab4bd1e1",
+    "parenttemplatename": "OSP-259-TRA",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "11963a56-229d-4c09-b845-e011489a7755",
+        "content": "<p>In comparison,</p>"
+      },
+      {
+        "id": "a6e5243d-ae07-4d0a-b8fc-05aa095c45de",
+        "content": "<p>As a result,</p>"
+      },
+      {
+        "id": "5eca2895-0f1e-4c13-abb4-ea062e18bc44",
+        "content": "<p>First of all,</p>"
+      },
+      {
+        "id": "9fa1b5d9-4d29-4e26-9bd9-918324eb0ba6",
+        "content": "<p>For example,</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959372,
+    "pPcc": "P10#EOI",
+    "questionId": "96e20898",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "b0e597ec-5d68-498d-9650-7d60d3fd6ef7",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959372,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "4b78a030-0743-4f15-a598-429916cd6ecc",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "d6f0fe62-febf-4ab1-bd45-bf4bd7b4612d",
+    "keys": [
+      "57ed9581-97a1-408a-b359-eb3f5cffd01e"
+    ],
+    "rationale": "<p>Choice C is the best answer. &ldquo;However&rdquo; logically signals that the theory discussed in this sentence&mdash;that humans may have arrived in the Americas over 30,000 years ago&mdash;contrasts with the previously discussed theory that humans arrived around 13,000 years ago. </p><p>Choice A is incorrect because &ldquo;as a result&rdquo; illogically signals that the theory in this sentence is the result of the theory discussed in the previous sentence. Instead, this theory contrasts with the previous one. Choice B is incorrect because &ldquo;similarly&rdquo; illogically signals that the theory in this sentence is similar to the theory discussed in the previous sentence. Instead, this theory contrasts with the previous one. Choice D is incorrect because &ldquo;in conclusion&rdquo; illogically signals that the theory in this sentence concludes or summarizes the discussion of the previous theory. Instead, this theory contrasts with the previous one. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "4b78a030-0743-4f15-a598-429916cd6ecc",
+    "stimulus": "<p>It has long been thought that humans first crossed a land bridge into the Americas approximately 13,000 years ago. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> based on radiocarbon dating of samples uncovered in Mexico, a research team recently suggested that humans may have arrived more than 30,000 years ago&mdash;much earlier than previously thought.</p>",
+    "templateclusterid": "6bb68e9b-c2a0-4a05-a50b-a998c014f428",
+    "parenttemplatename": "OSP-KA-TRA-E002",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "843d0926-82c4-4c8a-8af5-0b3ed1027fd6",
+        "content": "<p>As a result,</p>"
+      },
+      {
+        "id": "e86a7cc3-7f20-4dae-9e36-76eb981a10f5",
+        "content": "<p>Similarly,</p>"
+      },
+      {
+        "id": "57ed9581-97a1-408a-b359-eb3f5cffd01e",
+        "content": "<p>However,</p>"
+      },
+      {
+        "id": "b13bdc0b-da1f-419b-9100-f65e853e41f9",
+        "content": "<p>In conclusion,&nbsp;</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959373,
+    "pPcc": "P10#EOI",
+    "questionId": "7be246a9",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 1,
+    "uId": "b19df5e2-9bf7-4bfa-877b-9b7758e80f9d",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959373,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "b0615a31-d511-4df2-9114-0d060c03de94",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "ef206a1d-6878-4a87-8474-31cb213861fc",
+    "keys": [
+      "49c93408-c738-47e4-a44c-ff0cf5353c91"
+    ],
+    "rationale": "<p>Choice B is the best answer. \"For this reason\" is a cause-and-effect transition. The cause in this case is that the mother elephant wants to know that her calf is safe, so the effect is that she lets out an infrasonic call for the calf to hear. Therefore, \"for this reason\" fits perfectly in this context.</p><p>Choice A is incorrect. This choice uses a transition that introduces an example of a previous idea. But the second sentence doesn&rsquo;t provide an example of the events described in the first sentence. Instead, it describes what happens next: the mother elephant calls for her calf. Choice C is incorrect. This choice uses a transition that indicates a shift from the past to the current time, which doesn&rsquo;t make sense here. Both sentences use the present tense, as they&rsquo;re describing the same time period. Choice D is incorrect. This choice uses a transition that indicates commonality or agreement between two ideas. But this sentence isn&rsquo;t similar to the events in the first sentence. Instead, it describes the events that happen next.</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "b0615a31-d511-4df2-9114-0d060c03de94",
+    "stimulus": "<p>With darkness falling, a mother elephant loses sight of her calf and wants to make sure it is safe. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> she releases an infrasonic call for the calf to hear. Infrasonic sound is below the range of human hearing, but many animals can hear these sounds from several miles away.</p>",
+    "templateclusterid": "24eaef90-f5a5-4aa4-8ae5-f4e869a1d2b5",
+    "parenttemplatename": "OSP-KA-TRA-E009",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "2512309f-d918-48ac-82fc-02405a8dcf43",
+        "content": "<p>For example,</p>"
+      },
+      {
+        "id": "49c93408-c738-47e4-a44c-ff0cf5353c91",
+        "content": "<p>For this reason,</p>"
+      },
+      {
+        "id": "458ea192-4e2f-4f84-a157-0577e83cd78d",
+        "content": "<p>Nowadays,</p>"
+      },
+      {
+        "id": "df8940d4-7f7c-4d44-bcd6-f5bf7b34f9ae",
+        "content": "<p>Similarly,</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1730147323043,
+    "pPcc": "P10#EOI",
+    "questionId": "d952c078",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "b1cc1d55-e36c-4fed-8ff6-e1e609cd23a7",
+    "skill_desc": "Transitions",
+    "createDate": 1730147323043,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": "",
+    "external_id": "f57f6c2a-a76e-40ae-8c7c-ae65f8ba8b81",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "stimulus": "<p>After appropriate permissions are granted, a typical archaeological dig begins with a surveyor making a detailed grid of the excavation site. Then, the site is carefully dug, and any artifacts found are recorded and mapped onto the site grid. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the artifacts are removed, cataloged, and analyzed in a laboratory.</p>",
+    "type": "mcq",
+    "keys": [
+      "37c7467f-77d5-4a8f-b08c-69fea668c9ab"
+    ],
+    "answerOptions": [
+      {
+        "id": "3b9dff7c-8083-4077-8fd8-932c3fbfeb70",
+        "content": "<p>For instance,</p>"
+      },
+      {
+        "id": "f705ec09-9c95-4bff-bb01-8d825509456d",
+        "content": "<p>On the contrary,</p>"
+      },
+      {
+        "id": "f2db603a-392a-461b-95a6-23094a13e435",
+        "content": "<p>Earlier,</p>"
+      },
+      {
+        "id": "37c7467f-77d5-4a8f-b08c-69fea668c9ab",
+        "content": "<p>Finally,</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer. \"Finally\" logically signals that the actions in this sentence&mdash;the removal, cataloging, and analysis of artifacts&mdash;are the next and final steps in a process, following the previous actions of surveying, digging, recording, and mapping.</p><p>Choice A is incorrect because \"for instance\" illogically signals that the actions in this sentence are an example of the actions in the previous sentence. Instead, the removal, cataloging, and analysis of artifacts are the next and final steps in a process. Choice B is incorrect because \"on the contrary\" illogically signals that the actions in this sentence are directly opposed to the actions in the previous sentence. Instead, the removal, cataloging, and analysis of artifacts are the next and final steps in a process. Choice C is incorrect because \"earlier\" illogically signals that the actions in this sentence occur before the actions in the previous sentence. Instead, the removal, cataloging, and analysis of artifacts are the next and final steps in a process.</p>",
+    "externalid": "f57f6c2a-a76e-40ae-8c7c-ae65f8ba8b81",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959371,
+    "pPcc": "P10#EOI",
+    "questionId": "bfc5170b",
+    "skill_cd": "SYN",
+    "score_band_range_cd": 1,
+    "uId": "b7ea7822-0b3d-49f2-bb3d-621c32226234",
+    "skill_desc": "Rhetorical Synthesis",
+    "createDate": 1691007959371,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "8be51932-52d5-439e-989c-054212dee742",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "e4c8e83d-f68b-451a-a8ee-1d7200a8eb3c",
+    "keys": [
+      "d75af13e-93b8-4650-abf8-8d3c3a65e045"
+    ],
+    "rationale": "<p>Choice D is the best answer. This choice uses relevant information from the third bullet point to state the approximate number of gray wolves in Yellowstone. </p><p>Choice A is incorrect. This choice mentions the year gray wolves in Yellowstone were reintroduced but not how many there are currently. Choice B is incorrect. This choice mentions the year gray wolves in Yellowstone were reintroduced but not how many there are currently. Choice C is incorrect. This choice defines the term carrying capacity but doesn&rsquo;t connect it to the specific number of gray wolves currently living in Yellowstone. </p>",
+    "origin": "proteus",
+    "stem": "<p>The student wants to specify the number of gray wolves in Yellowstone. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "externalid": "8be51932-52d5-439e-989c-054212dee742",
+    "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Yellowstone is a national park in the northwest United States.</li>\n<li>In 1995, gray wolves were reintroduced into the park.</li>\n<li>Since then, the number of gray wolves in the park has stabilized at roughly 100.</li>\n<li>This number is believed to be the park&rsquo;s carrying capacity.</li>\n<li>Carrying capacity describes the maximum number of a species that a specific environment&rsquo;s resources can sustain over time.</li>\n</ul>",
+    "templateclusterid": "cb432f97-125b-4a3a-afdb-470e750c5824",
+    "parenttemplatename": "OSP-KA-SYN-E009",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "32dca355-4bf0-4f23-9873-7056566c840c",
+        "content": "<p>Gray wolves were reintroduced into Yellowstone, a national park in the northwest United States, in 1995.</p>"
+      },
+      {
+        "id": "de4dfc77-7760-49e5-acf7-db990ef3ddaa",
+        "content": "<p>As of 1995, there were gray wolves living in Yellowstone, a national park in the northwest United States.</p>"
+      },
+      {
+        "id": "2cbf4eec-a9bc-4cd3-82a6-238a62dea5d6",
+        "content": "<p>The carrying capacity of an environment, such as Yellowstone, describes the maximum number of species that the environment can sustain over time.</p>"
+      },
+      {
+        "id": "d75af13e-93b8-4650-abf8-8d3c3a65e045",
+        "content": "<p>Yellowstone is a national park that has roughly 100 gray wolves living in it.</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959314,
+    "pPcc": "P10#EOI",
+    "questionId": "2eb6b06e",
+    "skill_cd": "SYN",
+    "score_band_range_cd": 2,
+    "uId": "b8883a77-a4c1-4354-8ed4-14d4592eb66d",
+    "skill_desc": "Rhetorical Synthesis",
+    "createDate": 1691007959314,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "26395958-deab-4ad0-bd1c-e96ac82d8ebc",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "8c03639a-29ef-4821-b45e-c24b6b4ad975",
+    "keys": [
+      "66839af1-368e-4040-83aa-68cb6a2ec8e5"
+    ],
+    "rationale": "<p>Choice A is the best answer. The sentence emphasizes how harsh the conditions in the tundra can be, noting that the winters are especially harsh and describing the average temperatures as &ldquo;frigid.&rdquo; </p><p>Choice B is incorrect because the sentence explains that some animals can survive harsh tundra winters; it doesn&rsquo;t emphasize how harsh the conditions can be. Choice C is incorrect because the sentence specifies how many different kinds of plants can live in the tundra; it doesn&rsquo;t emphasize how harsh the conditions in the tundra can be. Choice D is incorrect because the sentence explains that both plants and animals can survive in the tundra; it doesn&rsquo;t emphasize how harsh the conditions in the tundra can be. </p>",
+    "origin": "proteus",
+    "stem": "<p>The student wants to emphasize how harsh the conditions can be in the tundra. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "externalid": "26395958-deab-4ad0-bd1c-e96ac82d8ebc",
+    "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>The tundra is a type of environment characterized by especially harsh winter conditions.</li>\n<li>Winter temperatures in the tundra average a frigid <span aria-hidden=\"true\">&minus;30</span><span class=\"sr-only\">negative 30</span> degrees Fahrenheit.</li>\n<li>Animals that have adapted to these conditions can survive tundra winters.</li>\n<li>During the tundra&rsquo;s short growing season, average temperatures can reach a relatively mild 54 degrees Fahrenheit.</li>\n<li>Around 1,700 different kinds of plants are able to grow in the tundra.</li>\n</ul>",
+    "templateclusterid": "93c0ae1f-b293-4ba3-8fc3-3f972b6ad6a6",
+    "parenttemplatename": "OSP-009-SYN",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "66839af1-368e-4040-83aa-68cb6a2ec8e5",
+        "content": "<p>Winters in the tundra are especially harsh, with temperatures averaging a frigid <span aria-hidden=\"true\">&minus;30</span><span class=\"sr-only\">negative 30</span> degrees Fahrenheit.</p>"
+      },
+      {
+        "id": "00149f58-1672-441d-8c31-3e6aa6cc48e2",
+        "content": "<p>Animals that have adapted to harsh winter conditions can survive tundra winters.</p>"
+      },
+      {
+        "id": "954f8735-6d78-4f4b-8430-10d95e1c87b9",
+        "content": "<p>There are around 1,700 different kinds of plants that can live in the tundra, where average temperatures can reach a mild 54 degrees Fahrenheit.</p>"
+      },
+      {
+        "id": "9f6d5116-14f4-480b-bce2-5242a311ac53",
+        "content": "<p>Along with animals that have adapted to the tundra&rsquo;s conditions, around 1,700 different kinds of plants can live in the tundra.</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959371,
+    "pPcc": "P10#EOI",
+    "questionId": "53739046",
+    "skill_cd": "SYN",
+    "score_band_range_cd": 2,
+    "uId": "bab59e39-ab6c-4875-8c38-dae9e1abe86a",
+    "skill_desc": "Rhetorical Synthesis",
+    "createDate": 1691007959371,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "5a0e2241-ed38-4728-b7c3-3ed01e67e6cb",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "760e40e6-07a1-4e72-af45-465c4d3d431f",
+    "keys": [
+      "ba72c8cc-b3d5-49a5-b4fb-9acf405e12fb"
+    ],
+    "rationale": "<p>Choice D is the best answer. The sentence emphasizes a difference between the behavior of jellyfish and that of black dragonfish, noting that jellyfish and black dragonfish emit light as part of different behaviors (protection and predation, respectively). </p><p>Choice A is incorrect. The sentence emphasizes a similarity between jellyfish and black dragonfish; it doesn&rsquo;t emphasize a difference between the behavior of the two animals. Choice B is incorrect. The sentence emphasizes the type of bioluminescence exhibited by black dragonfish, noting that it&rsquo;s used in predation; it doesn&rsquo;t emphasize a difference between the behavior of the two animals. Choice C is incorrect. The sentence defines bioluminescence and explains how it works; the sentence doesn&rsquo;t mention either animal or emphasize a difference between them. </p>",
+    "origin": "proteus",
+    "stem": "<p>The student wants to emphasize a difference between the behavior of jellyfish and that of black dragonfish. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "externalid": "5a0e2241-ed38-4728-b7c3-3ed01e67e6cb",
+    "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li>Bioluminescence is the emission of light by living organisms.</li>\n<li>This light is produced by chemical reactions in organisms&rsquo; cells.</li>\n<li>Jellyfish emit flashes of blue light.</li>\n<li>This behavior serves to startle predators.</li>\n<li>Black dragonfish emit a steady red light.</li>\n<li>This behavior helps them locate prey in deep waters.</li>\n</ul>",
+    "templateclusterid": "bb1b0949-50e9-4e2f-a6fd-440265af97ea",
+    "parenttemplatename": "OSP-KA-SYN-E010",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "2457aba7-1609-4788-adc2-4ca8994e12fa",
+        "content": "<p>Both jellyfish and black dragonfish are organisms that emit light, which is produced by chemical reactions in these organisms&rsquo; cells.</p>"
+      },
+      {
+        "id": "6eac3b97-15b6-4c47-bb6e-1e893baa69bb",
+        "content": "<p>Black dragonfish emit a steady red light, which helps them locate prey in deep waters.</p>"
+      },
+      {
+        "id": "433ecdb6-fdcd-4ff2-b057-73465c658d66",
+        "content": "<p>Bioluminescence, the emission of light by living organisms, results from chemical reactions in organisms&rsquo; cells.&nbsp;</p>"
+      },
+      {
+        "id": "ba72c8cc-b3d5-49a5-b4fb-9acf405e12fb",
+        "content": "<p>Jellyfish emit light to startle predators, whereas black dragonfish do so to locate prey.</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959373,
+    "pPcc": "P10#EOI",
+    "questionId": "c2b23cf6",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 1,
+    "uId": "bd94f684-c5fc-41ac-8f22-e5edd883b480",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959373,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "e01ca56c-1c25-4e49-934b-d6d844fdf17b",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "d2501a79-a9b0-4765-b2d9-5a2fee24566b",
+    "keys": [
+      "f467cd02-1799-4187-b732-a964ceb5e2e4"
+    ],
+    "rationale": "<p>Choice A is the best answer. This choice uses a transition that indicates a shift back in time. Since the first sentence talks about Thaden&rsquo;s race win in 1929 and the second shifts back to talking about her record in 1928, this makes the most sense here.</p><p>Choice B is incorrect. This choice uses a disagreement transition. But this sentence actually agrees with and expands on the previous sentence by describing the earlier record that Thaden had \"already\" held. Choice C is incorrect. This choice uses a transition that indicates a shift forward in time, which doesn&rsquo;t make sense here. A record in 1928 didn&rsquo;t come after Thaden&rsquo;s race win in 1929. Choice D is incorrect. This choice uses a cause-and-effect transition, which doesn&rsquo;t make sense in this context&mdash;an event in 1929 can&rsquo;t cause something in 1928.</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "e01ca56c-1c25-4e49-934b-d6d844fdf17b",
+    "stimulus": "<p>Arkansas aviator Louise Thaden was already a record breaker when she won the inaugural National Women&rsquo;s Air Derby, a race from California to Ohio, in August of 1929. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in December of 1928, Thaden had set an aviation record when she reached an altitude of 20,269 feet in a Travel Air biplane.</p>",
+    "templateclusterid": "8062a718-171a-424a-a881-a5990f288e78",
+    "parenttemplatename": "OSP-KA-TRA-E007",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "f467cd02-1799-4187-b732-a964ceb5e2e4",
+        "content": "<p>Earlier,</p>"
+      },
+      {
+        "id": "6f76fd94-6726-4051-af00-7dd0c9374157",
+        "content": "<p>However,</p>"
+      },
+      {
+        "id": "27a36293-b504-4dfb-882e-0680c3adb1e6",
+        "content": "<p>Next,</p>"
+      },
+      {
+        "id": "51c12915-f8d7-48c4-864c-8c7d25a78217",
+        "content": "<p>As a result,</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323044,
+    "pPcc": "P10#EOI",
+    "questionId": "212bd465",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "c3fdfe3e-5526-46a1-95a9-676ca28a2885",
+    "skill_desc": "Transitions",
+    "createDate": 1730147323044,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": "",
+    "external_id": "cab41b8d-25e3-4e64-b68e-a32e802e8376",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "stimulus": "<p>Preston Singletary is a Tlingit glass artist who often collaborates with other artists. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> he has worked with Tewa pottery artist Jody Naranjo several times. Together, Singletary and Naranjo have created pottery-inspired glass pieces such as <em>Sunset Stampede</em> and <em>Kiva Steps</em>.</p>",
+    "type": "mcq",
+    "keys": [
+      "d64e4976-6a02-4129-9f8a-8cd837507240"
+    ],
+    "answerOptions": [
+      {
+        "id": "d26b63a9-30a9-4e29-acf6-7debe2f72f04",
+        "content": "<p>In conclusion,&nbsp;</p>"
+      },
+      {
+        "id": "d64e4976-6a02-4129-9f8a-8cd837507240",
+        "content": "<p>For example,</p>"
+      },
+      {
+        "id": "b569030e-45e5-45a3-85e6-d65aad58fbfc",
+        "content": "<p>However,</p>"
+      },
+      {
+        "id": "683264db-ae0e-44bb-9892-d74132c2ab08",
+        "content": "<p>In comparison,&nbsp;</p>"
+      }
+    ],
+    "rationale": "<p>Choice B is the best answer. \"For example\" logically signals that this sentence&mdash;noting Singletary&rsquo;s work with Jody Naranjo&mdash;provides an example supporting the previous point about Singletary&rsquo;s collaborations with other artists.</p><p>Choice A is incorrect because \"in conclusion\" illogically signals that the information in this sentence concludes or summarizes the previous point about Singletary&rsquo;s collaborations with other artists. Instead, it provides an example in support of that point. Choice C is incorrect because \"however\" illogically signals that the information in this sentence contrasts with the previous point about Singletary&rsquo;s collaborations with other artists. Instead, it provides an example in support of that point. Choice D is incorrect because \"in comparison\" illogically signals that the information in this sentence is being compared to the previous point about Singletary&rsquo;s collaborations with other artists. Instead, it provides an example in support of that point.</p>",
+    "externalid": "cab41b8d-25e3-4e64-b68e-a32e802e8376",
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959334,
+    "pPcc": "P10#EOI",
+    "questionId": "d266eefd",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "c5b64ebb-02c2-461a-8b21-e979ee873a74",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959334,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "d9ad8fc2-d0e5-4aba-8321-ffaa68ab45d4",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "0e3094bc-2544-4d74-b091-d67ec73d4198",
+    "keys": [
+      "26fe574d-619a-4e85-832d-32a8b483e388"
+    ],
+    "rationale": "<p>Choice B is the best answer. &ldquo;First&rdquo; logically signals that the question in this sentence&mdash;whether there is a daily period during which jellyfish pulse rates decline&mdash;is the first in a sequence of three questions the researchers attempted to answer about jellyfish sleep behavior. </p><p>Choice A is incorrect because &ldquo;as a result&rdquo; illogically signals that the question in this sentence is a result of the three questions the researchers attempted to answer. Instead, it is the first of those three questions. Choice C is incorrect because &ldquo;additionally&rdquo; illogically signals that the question in this sentence is an additional question related to the three questions the researchers attempted to answer. Instead, it is the first of those three questions. Choice D is incorrect because &ldquo;however&rdquo; illogically signals that the question in this sentence contrasts with the three questions the researchers attempted to answer. Instead, it is the first of those three questions. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "d9ad8fc2-d0e5-4aba-8321-ffaa68ab45d4",
+    "stimulus": "<p>In studying whether jellyfish sleep, researchers Michael Abrams, Claire Bedbrook, and Ravi Nath attempted to answer three questions. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> is there a period each day when the pulse rates of jellyfish decline? Second, do jellyfish respond more slowly to stimuli during that period? Finally, if prevented from sleeping, are jellyfish adversely affected?</p>",
+    "templateclusterid": "3290df90-6ebb-42c1-b0fa-25301b8efce1",
+    "parenttemplatename": "OSP-261-TRA",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "639714d6-5ee0-4a38-a644-c9be465e51b6",
+        "content": "<p>As a result,</p>"
+      },
+      {
+        "id": "26fe574d-619a-4e85-832d-32a8b483e388",
+        "content": "<p>First,</p>"
+      },
+      {
+        "id": "fb0dfacd-b847-43c6-864e-5ac47131db1d",
+        "content": "<p>Additionally,</p>"
+      },
+      {
+        "id": "c2a73c39-2629-4720-bcd2-39d45789b912",
+        "content": "<p>However,</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1730147323043,
+    "pPcc": "P10#EOI",
+    "questionId": "16adb6c7",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "ca27c808-2fc5-404d-b4e5-8c8a54101d93",
+    "skill_desc": "Transitions",
+    "createDate": 1730147323043,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": "",
+    "external_id": "cb8c5ab8-a024-4c2e-beb0-944a45d428c3",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "stimulus": "<p>In 1949, Frank Zamboni developed an ice rink resurfacing machine. As Zamboni&rsquo;s machine moved along the rink&rsquo;s surface, it first scraped off the top layer of ice. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> it sprayed water into the deep grooves left behind by customers&rsquo; skates. Lastly, it smoothed over the newly formed ice.</p>",
+    "type": "mcq",
+    "keys": [
+      "c883f677-ce0d-4324-9f33-d45637159ab8"
+    ],
+    "answerOptions": [
+      {
+        "id": "bf34ac3d-9080-4def-a0c4-22f8adc96599",
+        "content": "<p>For example,</p>"
+      },
+      {
+        "id": "c883f677-ce0d-4324-9f33-d45637159ab8",
+        "content": "<p>Next,</p>"
+      },
+      {
+        "id": "ffeb8324-1970-4ec5-9e45-191ddb200fff",
+        "content": "<p>Similarly,</p>"
+      },
+      {
+        "id": "935616c8-210b-4af0-890e-909e3b33702b",
+        "content": "<p>In contrast,</p>"
+      }
+    ],
+    "rationale": "<p>Choice B is the best answer. \"Next\" logically signals that the action in this sentence&mdash;the water spraying&mdash;is the next step in the resurfacing process, following the ice scraping mentioned in the previous sentence.</p><p>Choice A is incorrect because \"for example\" illogically signals that the action in this sentence is an example of the action in the previous sentence. Instead, the water spraying is the next step in a process that begins with the ice scraping. Choice C is incorrect because \"similarly\" illogically signals that the action in this sentence is similar to the action in the previous sentence. Instead, the water spraying is the next step in a process that begins with the ice scraping. Choice D is incorrect because \"in contrast\" illogically signals that the action in this sentence contrasts with the action in the previous sentence. Instead, the water spraying is the next step in a process that begins with the ice scraping.</p>",
+    "externalid": "cb8c5ab8-a024-4c2e-beb0-944a45d428c3",
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959372,
+    "pPcc": "P10#EOI",
+    "questionId": "5a538a86",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 1,
+    "uId": "ccdae4d8-4160-42cc-bf69-6152b569051c",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959372,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "7ca2fa08-43b7-4451-b3f9-aeb60eaa0d2d",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "5fbe8652-ed59-4979-9f8a-b6d5755454a3",
+    "keys": [
+      "ac6a3a5a-4488-4106-97c9-59fd4cdec81c"
+    ],
+    "rationale": "<p>Choice D is the best answer. The first sentence claims that the number of sunspots can vary greatly. To support this claim, the next two sentences compare two examples: one time when there were 180 sunspots and one time when there were only 2 sunspots. So the transition &ldquo;by comparison&rdquo; fits perfectly. </p><p>Choice A is incorrect. This choice uses a transition that indicates a restatement of the same idea, which doesn&rsquo;t make sense here. This sentence doesn&rsquo;t restate the first example&mdash;it describes a totally different example. Choice B is incorrect. This choice uses a transition that indicates the addition of a similar idea, which doesn&rsquo;t make sense here. This sentence describes a second example that is very different from the first example. Choice C is incorrect. This choice uses a cause-and-effect transition, which doesn&rsquo;t make sense here. The first example didn&rsquo;t result in the second example. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "7ca2fa08-43b7-4451-b3f9-aeb60eaa0d2d",
+    "stimulus": "<p>The number of dark spots that appear on the Sun, known as sunspots, can vary greatly. For example, there were about 180 sunspots in November 2001. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> there were only about 2 sunspots in December 2008.</p>\n<p>&nbsp;</p>",
+    "templateclusterid": "c4c31f31-c100-46c2-bb30-dda6f7baba24",
+    "parenttemplatename": "OSP-KA-TRA-E003",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "dcabbf01-3248-448d-a7cb-9d7db5378692",
+        "content": "<p>&nbsp;In other words,</p>"
+      },
+      {
+        "id": "5ab35b15-1104-4032-a3c7-27a389fba8e0",
+        "content": "<p>Similarly,</p>"
+      },
+      {
+        "id": "32b1aded-8e47-4afd-af8a-84bc0694171d",
+        "content": "<p>Therefore,</p>"
+      },
+      {
+        "id": "ac6a3a5a-4488-4106-97c9-59fd4cdec81c",
+        "content": "<p>By comparison,</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959371,
+    "pPcc": "P10#EOI",
+    "questionId": "80376fa1",
+    "skill_cd": "SYN",
+    "score_band_range_cd": 2,
+    "uId": "d2cb8cf3-0bf2-4acd-9317-585a9d88f37e",
+    "skill_desc": "Rhetorical Synthesis",
+    "createDate": 1691007959371,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "ecd2318b-8cde-4df7-aedd-6cfb3adcb71a",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "39f34650-414d-4f08-8efc-ef0bbd977b6e",
+    "keys": [
+      "0176bccb-0203-4289-8b8e-0b06774bd458"
+    ],
+    "rationale": "<p>Choice A is the best answer. This choice directly describes how fabric is used in <em>Assertion of Will</em>, by explaining that the fabric pieces are part of the painting itself.&nbsp;</p><p>Choice B is incorrect. This choice provides contextual information about the exhibition, but it doesn&rsquo;t mention anything about the painting or the fabric.&nbsp;Choice C is incorrect. This choice mentions that the figures are clothed, but it doesn&rsquo;t explain how the fabric is integrated into the painting.&nbsp;Choice D is incorrect. This choice provides contextual information about the painting, but it doesn&rsquo;t mention anything about the fabric or how it is used.&nbsp;</p>",
+    "origin": "proteus",
+    "stem": "<p>The student wants to describe how fabric is used in <em>Assertion of Will</em>. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "externalid": "ecd2318b-8cde-4df7-aedd-6cfb3adcb71a",
+    "stimulus": "<p>While researching a topic, a student has taken the following notes:</p>\n<ul>\n<li><em>Oracles of the Pink Universe</em> was a 2021 exhibition at the Denver Museum of Art in Colorado.</li>\n<li>It featured eight artworks by South African artist Simphiwe Ndzube.</li>\n<li>One of these works is a painting titled <em>Assertion of Will</em>.</li>\n<li><em>Assertion of Will</em> depicts three standing figures.</li>\n<li>The figures wear clothing made of fabric pieces stitched to the painting&rsquo;s canvas.</li>\n</ul>",
+    "templateclusterid": "652a5d2b-6057-45a6-b0e2-86cfecd4b91e",
+    "parenttemplatename": "OSP-KA-SYN-E006",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "0176bccb-0203-4289-8b8e-0b06774bd458",
+        "content": "<p>In <em>Assertion of Will</em>, the figures&rsquo; clothing is made of fabric pieces stitched to the painting&rsquo;s canvas.</p>"
+      },
+      {
+        "id": "899d8e6c-d1e2-4cee-81e9-8058ef8bc22d",
+        "content": "<p>The exhibition <em>Oracles of the Pink Universe</em> featured artworks by artist Simphiwe Ndzube.</p>"
+      },
+      {
+        "id": "44a8e16a-39b4-401e-9cdf-40b8bfbfa8d1",
+        "content": "<p>Depicting three standing, clothed figures, <em>Assertion of Will</em> is a painting by Simphiwe Ndzube.</p>"
+      },
+      {
+        "id": "d79e046c-7953-4b77-94b5-298b9dd84b48",
+        "content": "<p>Simphiwe Ndzube&rsquo;s <em>Assertion of Will</em> was one of eight artworks exhibited in <em>Oracles of the Pink Universe</em> at the Denver Museum of Art.</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959332,
+    "pPcc": "P10#EOI",
+    "questionId": "c79c9b3f",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 2,
+    "uId": "e64fdf37-f297-44d4-be42-2c1cf8ddc74b",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959332,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "19d4a5b2-8ace-4094-99d6-23e73b86e4d9",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "5128f1a9-f584-4047-9a20-1326a0b98426",
+    "keys": [
+      "34422f07-83c5-40f7-b8fd-23612b7a2105"
+    ],
+    "rationale": "<p>Choice C is the best answer. &ldquo;Finally&rdquo; logically signals that the bill passing&mdash;following many attempts between 1968 and 1983&mdash;is the final, concluding event in the sequence described in the previous sentences.&nbsp;</p><p>Choice A is incorrect because &ldquo;instead&rdquo; illogically signals that the bill passing is an alternative to one of the events described in the previous sentences. Instead, it is the final event in the sequence. Choice B is incorrect because &ldquo;likewise&rdquo; illogically signals that the bill passing is similar to one of the events described in the previous sentences. Instead, it is the final event in the sequence. Choice D is incorrect because &ldquo;additionally&rdquo; illogically signals that the bill passing is merely another event described along with the events of the previous sentences. Instead, it is the final, concluding event in the sequence. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "19d4a5b2-8ace-4094-99d6-23e73b86e4d9",
+    "stimulus": "<p>In 1968, US Congressman John Conyers introduced a bill to establish a national holiday in honor of Dr. Martin Luther King Jr. The bill didn&rsquo;t make it to a vote, but Conyers was determined. He teamed up with Shirley Chisholm, the first Black woman to be elected to Congress, and they resubmitted the bill every session for the next fifteen years. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in 1983, the bill passed.</p>",
+    "templateclusterid": "b9be0543-9cbf-407e-b7cd-99bd7764505d",
+    "parenttemplatename": "OSP-229-TRA",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "fbed0719-8898-4442-81f6-5aa78a5f0796",
+        "content": "<p>Instead,</p>"
+      },
+      {
+        "id": "14e0737c-7ff9-4ee3-a2cf-043d3f276682",
+        "content": "<p>Likewise,</p>"
+      },
+      {
+        "id": "34422f07-83c5-40f7-b8fd-23612b7a2105",
+        "content": "<p>Finally,</p>"
+      },
+      {
+        "id": "3143e5c3-3b28-412e-bf65-d45a2888c979",
+        "content": "<p>Additionally,</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959372,
+    "pPcc": "P10#EOI",
+    "questionId": "07924f9d",
+    "skill_cd": "TRA",
+    "score_band_range_cd": 1,
+    "uId": "eb661efc-badc-4077-990b-62feb0faf22e",
+    "skill_desc": "Transitions",
+    "createDate": 1691007959372,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "76757b39-2317-4b33-8831-07a58aa322fc",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "f83f4fc3-302f-42cb-b460-87be3e8fc7c2",
+    "keys": [
+      "227ba0c7-6371-4dd2-84f7-dbc646470d8f"
+    ],
+    "rationale": "<p>Choice B is the best answer. &ldquo;For example&rdquo; logically signals that the Siletz beeswax stories mentioned in this sentence are examples consistent with the previous claim that Siletz stories support the shipwreck theory. </p><p>Choice A is incorrect because &ldquo;for this reason&rdquo; illogically signals that the Siletz stories about the beeswax were caused by the previous claim that Siletz stories support the shipwreck theory. Instead, the beeswax stories are examples consistent with the claim. Choice C is incorrect because &ldquo;however&rdquo; illogically signals that the Siletz stories about the beeswax contrast with the previous claim that Siletz stories support the shipwreck theory. Instead, the beeswax stories are examples consistent with the claim. Choice D is incorrect because &ldquo;likewise&rdquo; illogically signals that the Siletz stories about the beeswax are similar to the previous claim that Siletz stories support the shipwreck theory. Instead, the beeswax stories are examples consistent with the claim. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical transition?</p>",
+    "externalid": "76757b39-2317-4b33-8831-07a58aa322fc",
+    "stimulus": "<p>Researchers believe that pieces of hull found off Oregon&rsquo;s coast are from a Spanish cargo ship that was lost in 1697. Stories passed down among the area&rsquo;s Confederated Tribes of Siletz Indians support this belief. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Siletz stories describe how blocks of beeswax, an item the ship had been carrying, began washing ashore after the ship was lost.&nbsp;</p>",
+    "templateclusterid": "23be16e3-60cc-49b1-af7c-440879761662",
+    "parenttemplatename": "OSP-KA-TRA-E001",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "a7368e75-84c9-43b5-b33e-12ae765f7c88",
+        "content": "<p>For this reason,</p>"
+      },
+      {
+        "id": "227ba0c7-6371-4dd2-84f7-dbc646470d8f",
+        "content": "<p>For example,</p>"
+      },
+      {
+        "id": "1641cc94-ce5c-430e-a410-65ec1cb4dd1c",
+        "content": "<p>However,</p>"
+      },
+      {
+        "id": "6a01f830-08c7-4586-ab8d-2463a1386884",
+        "content": "<p>Likewise,</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959371,
+    "pPcc": "P10#EOI",
+    "questionId": "a239544d",
+    "skill_cd": "SYN",
+    "score_band_range_cd": 2,
+    "uId": "f4f513ff-7251-48c4-9619-4dd2a3adf280",
+    "skill_desc": "Rhetorical Synthesis",
+    "createDate": 1691007959371,
+    "program": "P10",
+    "primary_class_cd_desc": "Expression of Ideas",
+    "ibn": null,
+    "external_id": "ba326bd3-4344-46af-9257-c70f53076429",
+    "primary_class_cd": "EOI",
+    "difficulty": "E",
+    "vaultid": "56a69a9c-6eee-4ec6-ad77-48f1811cf6d0",
+    "keys": [
+      "431aa404-5f10-4ccf-8ce9-d22256abb0f1"
+    ],
+    "rationale": "<p>Choice D is the best answer. It explains where the dinosaur&rsquo;s name came from. </p><p>Choice A is incorrect. This choice does not explain the origin of the dinosaur&rsquo;s name. Choice B is incorrect. This choice does not explain the origin of the dinosaur&rsquo;s name. Choice C is incorrect. This choice does not explain the origin of the dinosaur&rsquo;s name. </p>",
+    "origin": "proteus",
+    "stem": "<p>The student wants to explain the origin of the species&rsquo; name. Which choice most effectively uses relevant information from the notes to accomplish this goal?</p>",
+    "externalid": "ba326bd3-4344-46af-9257-c70f53076429",
+    "stimulus": "<p>While researching a topic, a student has taken the following notes:&nbsp;</p>\n<ul>\n<li>In 2013, paleontology professor Hesham Sallam and his students from Mansoura University in Egypt made a discovery.</li>\n<li>The team found a partial dinosaur skeleton at a site in Egypt&rsquo;s Dakhla Oasis.</li>\n<li>The skeleton belonged to a dinosaur species that lived approximately 80 million years ago.</li>\n<li>The new species was named <em>Mansourasaurus </em>to recognize&nbsp;the team that discovered it.</li>\n</ul>",
+    "templateclusterid": "6b62be55-b084-4018-85a2-463944e769dc",
+    "parenttemplatename": "OSP-KA-SYN-E003",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "f8b57cd9-640e-48ba-b593-e15d984b3763",
+        "content": "<p><em>Mansourasaurus, </em>a new species discovered in Egypt in 2013, lived<em> </em>approximately 80 million years ago.</p>"
+      },
+      {
+        "id": "5ffeab2d-b64d-4249-8873-e9876e7b9809",
+        "content": "<p>A partial dinosaur skeleton found in Egypt&rsquo;s Dakhla Oasis belonged to a species named <em>Mansourasaurus</em>.</p>"
+      },
+      {
+        "id": "0e415d10-8310-41ad-8568-cc47aefa75ed",
+        "content": "<p><em>Mansourasaurus, </em>a species that&nbsp;lived approximately 80 million years ago, was discovered in 2013 by Egyptian paleontologist Hesham Sallam and a team of university students.</p>"
+      },
+      {
+        "id": "431aa404-5f10-4ccf-8ce9-d22256abb0f1",
+        "content": "<p>The new species was named <em>Mansourasaurus</em> to recognize the team that discovered it, a professor and students from Mansoura University.</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  }
+]

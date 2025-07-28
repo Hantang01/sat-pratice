@@ -1,0 +1,1810 @@
+[
+  {
+    "updateDate": 1730147323032,
+    "pPcc": "P89#CAS",
+    "questionId": "711014ec",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "0286ceb8-e5ab-4696-95b9-cc55b45caf3c",
+    "skill_desc": "Words in Context",
+    "createDate": 1730147323032,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "4ef63eaf-90f8-4e95-9136-6b1800994292",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "stem": "<p>As used in the text, what does the word &ldquo;trace&rdquo; most nearly mean?</p>",
+    "stimulus": "<p>The following text is from the 1913 story &ldquo;The King&rsquo;s Coin&rdquo; by Emily Pauline Johnson, a Kanienkahagen (Mohawk) writer also known as Tekahionwake. Fox-Foot, a young Ojibwe man, is guiding a group of fur traders who are traveling by canoe and suspects that they are being followed.&nbsp;</p>\n<blockquote>\n<p>At supper time, Fox-Foot would allow no fire to be built, no landing to be made, no <span role=\"region\" aria-label=\"Referenced Content\"><u>trace</u></span> of their passing to be left. They ate canned meat and marmalade, drank again of the stream and pushed on, until just at dusk they reached the edge of a long, still lake, with shores of granite and dense fir forest.</p>\n</blockquote>",
+    "type": "mcq",
+    "keys": [
+      "77df2fa1-6a47-497c-ad11-03080ef53888"
+    ],
+    "answerOptions": [
+      {
+        "id": "77df2fa1-6a47-497c-ad11-03080ef53888",
+        "content": "<p>Evidence</p>"
+      },
+      {
+        "id": "2f7fdbdf-942f-495b-b3f0-9a1f258e8d50",
+        "content": "<p>Blemish</p>"
+      },
+      {
+        "id": "964ba3c1-4375-4bad-8b14-2286f91463b8",
+        "content": "<p>Amount</p>"
+      },
+      {
+        "id": "201fb143-2777-4570-81fa-a3d2c915ffeb",
+        "content": "<p>Sketch</p>"
+      }
+    ],
+    "rationale": "<p>Choice A is the best answer because the text indicates that Fox-Foot doesn&rsquo;t let the group build a fire or create a canoe landing when it&rsquo;s time for supper. This context suggests that he doesn&rsquo;t want anyone who might be following the group to see any sign of them or their activities. In other words, Fox-Foot doesn&rsquo;t want there to be any trace, or evidence, of the group&rsquo;s movements (\"their passing\") through the area.</p><p>Choice B is incorrect because the text conveys that Fox-Foot doesn&rsquo;t want the group to be detected, not that he doesn&rsquo;t want their presence to create a blemish, or a spoiling flaw, in the area; human activity could disturb a natural environment, but the context emphasizes that Fox-Foot is instead focused on avoiding giving any sign of the group&rsquo;s movements through a place (\"their passing\") to anyone who might be following them. Choice C is incorrect because the text focuses on Fox-Foot&rsquo;s desire to avoid detection by those who might be following the group. This context conveys that Fox-Foot doesn&rsquo;t want to create any signs or evidence of the group moving through a place (\"their passing\"), not that he doesn&rsquo;t want to leave behind some quantity of their presence; indeed, it isn&rsquo;t clear what an amount of a group&rsquo;s movement would be. Choice D is incorrect because nothing in the text suggests that the group has a sketch, or rough drawing, of their movements through that area (\"their passing\") that might be left behind. Rather, the context emphasizes that Fox-Foot is focused on ensuring that the group doesn&rsquo;t give any kind of\nindication of their presence, as he wants to avoid detection by anyone who might be following the group.</p>",
+    "externalid": "4ef63eaf-90f8-4e95-9136-6b1800994292",
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323032,
+    "pPcc": "P89#CAS",
+    "questionId": "fa36bea6",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "1120f6ad-f40e-439a-b8da-fc3224113836",
+    "skill_desc": "Words in Context",
+    "createDate": 1730147323032,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "40a6e0a3-6546-4f86-94a3-674e8b7539c4",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "stimulus": "<p>A team of paleontologists has found a rich fossil deposit near Gulgong, Australia. The fossils are so well preserved that the team has been able to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> detailed information about the life forms that left them behind, such as color patterns and how they interacted with other species.&nbsp;</p>",
+    "type": "mcq",
+    "keys": [
+      "d64bd3d1-ccb9-46c3-8cdd-831245b7c7ba"
+    ],
+    "answerOptions": [
+      {
+        "id": "0e39fb11-60e2-4bd0-bf81-4a7687e7aa62",
+        "content": "<p>occupy</p>"
+      },
+      {
+        "id": "73c2ccce-ad0f-4426-ab78-2f87c02c4b5a",
+        "content": "<p>hoard</p>"
+      },
+      {
+        "id": "7034b769-f9a9-4546-89f3-cc4471082ce6",
+        "content": "<p>reserve</p>"
+      },
+      {
+        "id": "d64bd3d1-ccb9-46c3-8cdd-831245b7c7ba",
+        "content": "<p>obtain</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the fossil deposit. In this context, \"obtain\" means gain or acquire. According to the text, a team of paleontologists has found fossils that are very well preserved. For this reason, the text suggests, the paleontologists have been able to gain detailed information from the fossils, such as the color patterns of the life forms that left them behind.</p><p>Choice A is incorrect because \"occupy\" means engage or inhabit, neither of which would make sense in context. It&rsquo;s unclear what it would mean for detailed information revealed by fossils to be engaged or inhabited. Choice B is incorrect because the text gives no indication that the paleontologists wanted to \"hoard,\" or collect and hide, the detailed information revealed by the well-preserved fossils. Choice C is incorrect because the text gives no indication that the paleontologists wanted to \"reserve,\" or withhold, the detailed information revealed by the well-preserved fossils.</p>",
+    "externalid": "40a6e0a3-6546-4f86-94a3-674e8b7539c4",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1730147323031,
+    "pPcc": "P89#CAS",
+    "questionId": "7a03b93e",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "14479ed8-3242-4174-84d9-ac49c7503ebd",
+    "skill_desc": "Words in Context",
+    "createDate": 1730147323031,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "87db806c-1c2d-4f5c-ae29-5a904de96673",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "stem": "<p>As used in the text, what does the word &ldquo;mingled&rdquo; most nearly mean?</p>",
+    "stimulus": "<p>The following text is adapted from Mercedes de Acosta&rsquo;s 1921 poem &ldquo;Spring and You.&rdquo;</p>\n<blockquote class=\"dap_poemexcerpt\">\n<p>Now, Love and April, and the gold of your</p>\n<p>&ensp;&ensp;&ensp;&ensp;hair,</p>\n<p>Are all <span role=\"region\" aria-label=\"Referenced Content\"><u>mingled</u></span> together</p>\n<p>Like the blending of an exotic dream plant</p>\n<p>With the fragrant perfume of a strange, frail</p>\n<p>&ensp;&ensp;&ensp;&ensp;flower.</p>\n</blockquote>",
+    "type": "mcq",
+    "keys": [
+      "4bbe0475-1f37-4176-96f6-c3c51b439035"
+    ],
+    "answerOptions": [
+      {
+        "id": "a19fcd42-f4f1-4f8b-8486-1ad034148fa2",
+        "content": "<p>Identified</p>"
+      },
+      {
+        "id": "4bbe0475-1f37-4176-96f6-c3c51b439035",
+        "content": "<p>Combined</p>"
+      },
+      {
+        "id": "2603b2c0-30f8-4897-b970-3b27c1bbecc8",
+        "content": "<p>Remembered</p>"
+      },
+      {
+        "id": "4b615bb1-084c-4496-b427-de2f8f30dead",
+        "content": "<p>Celebrated</p>"
+      }
+    ],
+    "rationale": "<p>Choice B is the best answer because as used in the text, \"mingled\" most nearly means combined. In the text, the speaker refers to several concepts mingling together and then compares this to \"the blending of\" two other things (an exotic plant and the fragrance of a strange flower). This comparison conveys that the speaker views the concepts of love, April, and the gold of someone&rsquo;s hair as being blended together, or combined.</p><p>Choice A is incorrect because \"mingled\" means combined, not identified. The speaker names several concepts (love, April, and the gold color of someone&rsquo;s hair) and then moves to a comparison of their mingling together to \"the blending of\" a plant and the scent of a flower, conveying the idea that the speaker views the concepts as blended together, or combined. Choice C is incorrect. The text as a whole may refer to a memory, but the comparison of the mingling of several concepts (love, April, and the gold color of someone&rsquo;s hair) to \"the blending of\" a plant and the scent of a flower conveys that the speaker views those concepts as actually blended together, or combined, and not simply remembered at the same time. Choice D is incorrect. The speaker refers to several concepts (love, April, and the gold color of someone&rsquo;s hair) and then compares the mingling together of those concepts to \"the blending of\" a plant and the scent of a flower; rather than suggesting that the concepts are celebrated, this comparison conveys that the speaker views the concepts as blended together, or combined.</p>",
+    "externalid": "87db806c-1c2d-4f5c-ae29-5a904de96673",
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959361,
+    "pPcc": "P89#CAS",
+    "questionId": "dd4a3754",
+    "skill_cd": "CTC",
+    "score_band_range_cd": 1,
+    "uId": "1d11a03c-ce6e-4e84-92e4-0530b196dacb",
+    "skill_desc": "Cross-Text Connections",
+    "createDate": 1691007959361,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": null,
+    "external_id": "7e3611fc-9f46-405f-94ba-467e4976e0e1",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "vaultid": "dd626c53-4c14-42d1-8b83-2fe4051b4b47",
+    "keys": [
+      "16cff228-9e6b-4af3-815d-bcd8363e2e58"
+    ],
+    "rationale": "<p>Choice D is the best answer. Text 1 states that the moon was formed from the debris &ldquo;over the course of thousands of years,&rdquo; while Text 2 states that the moon&rsquo;s formation happened &ldquo;immediately after impact, taking just a few hours.&rdquo; This shows a clear difference in how the authors view the evidence for the speed of the moon&rsquo;s formation. </p><p>Choice A is incorrect. While Text 2 suggests that the moon formed over &ldquo;just a few hours&rdquo; and Text 1 says it took &ldquo;thousands of years,&rdquo; neither one mentions when that formation occurred. Choice B is incorrect. While Theia isn&rsquo;t mentioned in Text 2, neither text describes or disputes evidence of Theia&rsquo;s existence. Choice C is incorrect. Neither text makes any claims about the similarity or difference between the moon&rsquo;s surface and Earth&rsquo;s surface. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice best describes a difference in how the author of Text 1 and the author of Text 2 view the evidence for the formation of the moon?</p>",
+    "externalid": "7e3611fc-9f46-405f-94ba-467e4976e0e1",
+    "stimulus": "<p><strong>Text 1</strong></p>\n<p>Most scientists agree that the moon was likely formed after a collision between Earth and a large planet named Theia. This collision likely created a huge debris field, made up of material from both Earth and Theia. Based on models of this event, scientists believe that the moon was formed from this debris over the course of thousands of years.</p>\n<p>&nbsp;</p>\n<p><strong>Text 2</strong>&nbsp;</p>\n<p>Researchers from NASA&rsquo;s Ames Research Center used a computer to model how the moon could have formed. Although simulations of the moon&rsquo;s formation have been done in the past, the team from NASA ran simulations that were much more detailed. They found that the formation of the moon was likely not a slow process that took many years. Instead, it&rsquo;s probable that the moon&rsquo;s formation happened immediately after impact, taking just a few hours.</p>",
+    "templateclusterid": "4ca3ae7a-6416-4844-9e57-01409f17d3b8",
+    "parenttemplatename": "OSP-KA-CTC-E009",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "99ba42c7-a144-49f0-bb3b-94c02d95c1d2",
+        "content": "<p>The author of Text 1 argues that the formation of the moon occurred much earlier than the author of Text 2 argues.</p>"
+      },
+      {
+        "id": "34e6fb9f-01e3-4f40-8b3c-f7fe1f53a36e",
+        "content": "<p>The author of Text 1 suggests there is more evidence confirming the existence of Theia than the author of Text 2 suggests.</p>"
+      },
+      {
+        "id": "a5b6444e-b842-4b9b-a1d9-fb765d5adb8c",
+        "content": "<p>The author of Text 1 claims that the moon&rsquo;s surface is more similar to Earth&rsquo;s surface than the author of Text 2 claims.</p>"
+      },
+      {
+        "id": "16cff228-9e6b-4af3-815d-bcd8363e2e58",
+        "content": "<p>The author of Text 1 believes that the moon formed more slowly than the author of Text 2 believes.</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1730147323032,
+    "pPcc": "P89#CAS",
+    "questionId": "4e1d4a38",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "21722705-5355-402b-8ca4-03259a7e7357",
+    "skill_desc": "Words in Context",
+    "createDate": 1730147323032,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "b867f47a-68a4-4c84-a661-e10ad53f6c12",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "stem": "<p>As used in the text, what does the word &ldquo;invent&rdquo; most nearly mean?</p>",
+    "stimulus": "<p>The following text is adapted from Frances Hodgson Burnett&rsquo;s 1905 novel <em>A Little Princess</em>. Sara is a young student at a school in London.</p>\n<blockquote>\n<p>Sara not only could tell stories, but she adored telling them. When she sat or stood in the midst of a circle and began to <span role=\"region\" aria-label=\"Referenced Content\"><u>invent</u></span> wonderful things, her green eyes grew big and shining, her cheeks flushed, and, without knowing that she was doing it, she began to act and made what she told lovely or alarming by the raising or dropping of her voice.</p>\n</blockquote>",
+    "type": "mcq",
+    "keys": [
+      "f323a61c-637c-49c7-913c-9a5c007bb857"
+    ],
+    "answerOptions": [
+      {
+        "id": "e2c9cbc8-fb10-41fe-8a1b-d4ae027db03a",
+        "content": "<p>Mislead</p>"
+      },
+      {
+        "id": "de063c02-7fe2-432f-952a-6092ffc41650",
+        "content": "<p>Disguise</p>"
+      },
+      {
+        "id": "f323a61c-637c-49c7-913c-9a5c007bb857",
+        "content": "<p>Create</p>"
+      },
+      {
+        "id": "cecfa0fc-f146-4358-af9f-d48c172ded2d",
+        "content": "<p>Discover</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer because as used in the text, \"invent\" most nearly means create or make up. The text begins by stating that Sara likes to tell stories and thoroughly enjoys telling them. The rest of the text describes how she looks and acts when she invents, or creates, \"wonderful things\" in her stories (\"what she told\").</p><p>Choice A is incorrect. Although the text suggests that Sara makes up \"wonderful things,\" nothing suggests that she does so to mislead, or intentionally deceive, others; there is no reason to assume that Sara&rsquo;s listeners don&rsquo;t know that she&rsquo;s creating the stories she shares. Choice B is incorrect because nothing in the text suggests that Sara is disguising, or trying to cover up or conceal, \"wonderful things\" when she tells stories; rather, she is creating them and presenting them in ways that make them \"lovely or alarming\" for her listeners. Choice D is incorrect because nothing in the text suggests that Sara is discovering, or unexpectedly finding, \"wonderful things\" in the stories she loves to tell; rather, that she is making things up as she tells the stories.</p>",
+    "externalid": "b867f47a-68a4-4c84-a661-e10ad53f6c12",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1730147323032,
+    "pPcc": "P89#CAS",
+    "questionId": "6a25adb2",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "264fdc34-fe00-4042-bc5d-7399899c7447",
+    "skill_desc": "Words in Context",
+    "createDate": 1730147323032,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "6e6dadd5-84d8-4351-ab87-72d752a07fcb",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "stem": "<p>As used in the text, what does the phrase &ldquo;reaching across to&rdquo; most nearly mean?</p>",
+    "stimulus": "<p>The following text is adapted from Elizabeth von Arnim&rsquo;s 1922 novel <em>The Enchanted April</em>. Mrs. Wilkins and her friend Rose are traveling in Italy.</p>\n<blockquote>\n<p>&ldquo;I&rsquo;m going to have one of these gorgeous oranges,&rdquo; said Mrs. Wilkins, staying where she was and <span role=\"region\" aria-label=\"Referenced Content\"><u>reaching across to</u></span> a black bowl piled with them. &ldquo;Rose, how can you resist them. Look&mdash;have this one. Do have this beauty&mdash;&rdquo; And she held out a big one.</p>\n</blockquote>",
+    "type": "mcq",
+    "keys": [
+      "de913284-579a-4527-9b42-83da2a3e71be"
+    ],
+    "answerOptions": [
+      {
+        "id": "fde57469-6e2f-483e-9e74-74448fe7f7cc",
+        "content": "<p>Joining with</p>"
+      },
+      {
+        "id": "593d4a7c-52f8-4080-8b1d-d7ff060d2afd",
+        "content": "<p>Gaining on</p>"
+      },
+      {
+        "id": "de913284-579a-4527-9b42-83da2a3e71be",
+        "content": "<p>Stretching toward</p>"
+      },
+      {
+        "id": "79b6af02-567b-4267-b419-80f5006bf1fd",
+        "content": "<p>Arriving at</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer because as used in the text \"reaching across to\" most nearly means stretching toward. The text begins with Mrs. Wilkins stating that she wants to have one of the oranges that she&rsquo;s admiring. The text then indicates that Mrs. Wilkins, staying where she is, holds out a big orange to her friend. This context suggests that when the text describes Mrs. Wilkins as reaching across to the bowl of oranges, it means that she is stretching toward the bowl.</p><p>Choice A is incorrect because the text never suggests that Mrs. Wilkins is joining with, or becoming attached to, the bowl of oranges. Rather, the text indicates that she is stretching toward the bowl so she can pick out oranges for herself and her friend Rose to eat. Choice B is incorrect because the text never suggests that Mrs. Wilkins is gaining on, or overtaking in a competition or race, the bowl of oranges. The text suggests instead that the bowl is sitting still on a surface and that Mrs. Wilkins is extending her arm toward the bowl so she can pick out oranges for herself and her friend Rose to eat. Choice D is incorrect because the text doesn&rsquo;t indicate that Mrs. Wilkins is arriving at the bowl of oranges. In fact, the text states that Mrs. Wilkins stays where she is when reaching across to the bowl, meaning that she remains at a distance from it.</p>",
+    "externalid": "6e6dadd5-84d8-4351-ab87-72d752a07fcb",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959377,
+    "pPcc": "P89#CAS",
+    "questionId": "76afbcc6",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "2a7201d2-9c73-4392-9080-0e4e9b465aca",
+    "skill_desc": "Words in Context",
+    "createDate": 1691007959377,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": null,
+    "external_id": "de5605c6-c05a-4384-b569-7efefdfccbd2",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "vaultid": "1937b3a4-cd1e-4837-b10e-188f6c4003c8",
+    "keys": [
+      "85c8586d-95db-4c20-b9e5-4b1c3be8b28e"
+    ],
+    "rationale": "<p>Choice B is the best answer. The text suggests that Mrs. Adam&rsquo;s typical Christmas present from her husband was a vase that cost, or was \"priced at,\" about twelve or fourteen dollars.</p><p>Choice A is incorrect. This isn&rsquo;t the meaning of \"marked\" as used here. It wouldn&rsquo;t make sense to say that a vase was \"staged at twelve or fourteen dollars.\" Choice C is incorrect. This isn&rsquo;t the meaning of \"marked\" as used here. It wouldn&rsquo;t make sense to say that a vase was \"stained at twelve or fourteen dollars.\" Choice D is incorrect. This isn&rsquo;t the meaning of \"marked\" as used here. It wouldn&rsquo;t make sense to say that a vase was \"watched at twelve or fourteen dollars.\"</p>",
+    "origin": "proteus",
+    "stem": "<p>As used in the text, what does the word &ldquo;marked&rdquo; most nearly mean?</p>",
+    "externalid": "de5605c6-c05a-4384-b569-7efefdfccbd2",
+    "stimulus": "<p>The following text is from Booth Tarkington&rsquo;s 1921 novel <em>Alice Adams</em>.</p>\n<blockquote>\n<p>Mrs. Adams had always been fond of vases, she said, and every year her husband&rsquo;s Christmas present to her was a vase of one sort or another&mdash;whatever the clerk showed him, <span role=\"region\" aria-label=\"Referenced Content\"><u>marked</u></span> at about twelve or fourteen dollars.</p>\n</blockquote>",
+    "templateclusterid": "b5084f8f-7744-4337-9199-93451804a761",
+    "parenttemplatename": "OSP-KA-WIC-E001",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "471b2b5c-d583-42a8-856f-73b7b49b77ba",
+        "content": "<p>Staged</p>"
+      },
+      {
+        "id": "85c8586d-95db-4c20-b9e5-4b1c3be8b28e",
+        "content": "<p>Priced</p>"
+      },
+      {
+        "id": "03efaa06-8019-492c-aaa4-f7b89362c23f",
+        "content": "<p>Stained</p>"
+      },
+      {
+        "id": "f2d07622-2ad7-48cb-9351-9ec6a7052d6b",
+        "content": "<p>Watched</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1743430669210,
+    "pPcc": "P89#CAS",
+    "questionId": "7d7077ec",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "2bc42673-9ad5-4796-92b3-11679274f6f1",
+    "skill_desc": "Words in Context",
+    "createDate": 1743430669210,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "80854706-ff1b-4973-95ea-631207d93c52",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "type": "mcq",
+    "stem": "<p>As used in the text, what does the word &ldquo;arranged&rdquo; most nearly mean?</p>",
+    "stimulus": "<p>The following text is adapted from Ida <span data-ssml-sub-alias=\"B\">B.</span> Wells&rsquo;s 1970 autobiography <em>A Crusade for Justice.</em> Mr. Watts is a reference to George Frederic Watts, an English painter.</p>\n<blockquote>\n<p>[Manchester&rsquo;s] art galleries are so&nbsp;<span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">arranged</span>&nbsp;that the name of every picture is plainly seen and one has no need of a catalogue to pick out the name and the artist. This is a convenience to the general public, which other art galleries, which shall be nameless, might copy to advantage. To her treasure of art Manchester has added Mr. Watts&rsquo; latest picture, the Good Samaritan.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;1970 by the University of Chicago Press</span></p>",
+    "keys": [
+      "11bcb8cf-30af-4ba5-aeb5-45522332ee48"
+    ],
+    "answerOptions": [
+      {
+        "id": "11bcb8cf-30af-4ba5-aeb5-45522332ee48",
+        "content": "<p>Organized</p>"
+      },
+      {
+        "id": "68e0743a-b703-473e-8254-5a39e61f8924",
+        "content": "<p>Ranked</p>"
+      },
+      {
+        "id": "7fb3729a-f0c1-4b52-a2ba-fa887fbae3e3",
+        "content": "<p>Scheduled</p>"
+      },
+      {
+        "id": "ebf9becf-9c11-49d8-9dc5-81f7dc6607f6",
+        "content": "<p>Discussed</p>"
+      }
+    ],
+    "rationale": "<p>Choice A is the best answer because as used in the text, \"arranged\" most nearly means \"organized.\" The text states that a welcome feature of Manchester&rsquo;s art galleries (as opposed to others) is that the titles of the paintings are easy to see and that a catalogue is therefore unneeded while visitors browse the art galleries. This suggests that the paintings are displayed in a systematic, or organized, way.</p><p>Choice B is incorrect. \"Ranked\" might mean either classified or placed in orderly rows. Neither of these meanings would necessarily imply that the names of the paintings are easy to see (even if the paintings are placed in rows, their labels might be obscured). Choice C is incorrect because it would not make sense in context to describe the paintings as \"scheduled,\" or planned to take place at a certain time. Choice D is incorrect because if the paintings were \"discussed,\" or talked about, this would have no bearing on whether the names of the paintings could be easily seen.</p>",
+    "externalid": "80854706-ff1b-4973-95ea-631207d93c52",
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323034,
+    "pPcc": "P89#CAS",
+    "questionId": "6be399e0",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "2cf84462-d1db-4e7b-8576-a1e97b8439a0",
+    "skill_desc": "Words in Context",
+    "createDate": 1730147323034,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "b9466c37-9ae4-46a8-b25f-199f5c56b0db",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "stimulus": "<p>The works of Chicana artist Ester Hernandez are now <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in museums both in the United States and abroad, but the murals she contributed to as a member of Las Mujeres Muralistas early in her artistic career were displayed in outdoor public spaces across San Francisco.</p>",
+    "type": "mcq",
+    "keys": [
+      "d64efb0c-8ecb-4e5a-8134-5237dbd5d05e"
+    ],
+    "answerOptions": [
+      {
+        "id": "b43ec14e-067e-4b14-a5e4-2b3cab0342a0",
+        "content": "<p>invented</p>"
+      },
+      {
+        "id": "59d968a2-4a43-418f-a9bb-0ed9aeaeefa6",
+        "content": "<p>adjusted</p>"
+      },
+      {
+        "id": "d64efb0c-8ecb-4e5a-8134-5237dbd5d05e",
+        "content": "<p>featured</p>"
+      },
+      {
+        "id": "053c4950-a26c-4a3b-add1-ec2314af3cda",
+        "content": "<p>recommended</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of Ester Hernandez&rsquo;s art. In this context, \"featured\" means shown prominently. The text focuses on where Hernandez&rsquo;s works have been and continue to be displayed, explaining that her early works, which consisted of murals, could be viewed in outdoor spaces in San Francisco. The central contrast developed in the text is between where her early works could be viewed and where her works can be viewed now, which is in museums across the United States and around the world. The context therefore supports the idea that Hernandez&rsquo;s works are now shown, or featured, in museums globally.</p><p>Choice A is incorrect because in this context \"invented\" would mean created something for the first time, which isn&rsquo;t supported since the text doesn&rsquo;t discuss where Hernandez creates her works or whether they&rsquo;re original or innovative. Choice B is incorrect because \"adjusted\" in this context would mean adapted. Although the text mentions that many of Hernandez&rsquo;s early works were outdoor murals and thus it may be reasonable to infer that Hernandez altered her approach to creating art so that her works could be displayed in indoor venues instead, the text makes no mention of how Hernandez&rsquo;s works might have been adapted for such venues. The text focuses on where Hernandez&rsquo;s works have been and continue to be displayed, not on how she or anyone else may have adapted, or adjusted, her works. Choice D is incorrect because \"recommended\" in this context would mean endorsed or put forth as a suggestion for something that is worth seeing. Although it may be reasonable to say that in choosing to display certain works, museum curators believe such works are worth seeing, the text doesn&rsquo;t discuss the reasons why museums display Hernandez&rsquo;s works. Instead, the text mainly develops a contrast between where Hernandez&rsquo;s early works could once be viewed and where her work can be viewed now.</p>",
+    "externalid": "b9466c37-9ae4-46a8-b25f-199f5c56b0db",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1730147323032,
+    "pPcc": "P89#CAS",
+    "questionId": "263bcdbf",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "2eacfc0c-d2a4-42f5-98f4-ffd9634a085a",
+    "skill_desc": "Words in Context",
+    "createDate": 1730147323032,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "c518470f-82cc-4e18-994d-a1186ef6afbc",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "stimulus": "<p>Urban planning expert Francisco Lara-Valencia and colleagues have argued that managing environmental matters along the US-Mexico border <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> coordination between the two countries&rsquo; governments. Since ecosystems extend across the border, actions taken on one side can have environmental effects on the other side, making international cooperation essential.&nbsp;</p>",
+    "type": "mcq",
+    "keys": [
+      "2d624118-f0b6-41d1-84f2-5d1749229269"
+    ],
+    "answerOptions": [
+      {
+        "id": "2d624118-f0b6-41d1-84f2-5d1749229269",
+        "content": "<p>requires</p>"
+      },
+      {
+        "id": "239977e0-0d48-4b97-90d2-d26302f57cf3",
+        "content": "<p>praises</p>"
+      },
+      {
+        "id": "da01e3ad-d555-4ba6-b2ed-8de32a01b2de",
+        "content": "<p>reports</p>"
+      },
+      {
+        "id": "89a7f3e5-72cf-474e-9504-24f46631835d",
+        "content": "<p>advises</p>"
+      }
+    ],
+    "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of environmental management along the US and Mexican border. In this context, \"requires\" means needs in order to perform a task. The text indicates that because ecosystems span the border, actions taken by the government on one side of the border can affect the environment in the nation on the other side of the border, which makes international cooperation crucial. In other words, because actions on one side of the US and Mexican border can affect the other side of the border, managing environmental matters along the border requires coordination between the two governments.</p><p>Choice B is incorrect because \"praises\" in this context would mean to express a favorable judgment, but the text doesn&rsquo;t describe approval expressed by anyone, and it wouldn&rsquo;t make sense to say that environmental management itself praises intergovernmental coordination. Choice C is incorrect. In this context, \"reports\" would mean gives an account. Although coordination between the US and Mexican governments likely would involve some sort of reporting, the text doesn&rsquo;t describe any such practice. Choice D is incorrect. In this context, \"advises\" would mean recommends a course of action, and although governments can advise one another, it wouldn&rsquo;t make sense to say that environmental management itself makes recommendations.</p>",
+    "externalid": "c518470f-82cc-4e18-994d-a1186ef6afbc",
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1743430669209,
+    "pPcc": "P89#CAS",
+    "questionId": "5e15c33b",
+    "skill_cd": "TSP",
+    "score_band_range_cd": 1,
+    "uId": "3759ac22-05cc-40ff-bcb3-0bbce25fad3b",
+    "skill_desc": "Text Structure and Purpose",
+    "createDate": 1743430669209,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "7bc9be38-c0b9-4055-8eb5-e338130c51b9",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "type": "mcq",
+    "stem": "<p>Which choice best describes the overall purpose of the text?</p>",
+    "stimulus": "<p>The following text is adapted from Pam Mu&ntilde;oz Ryan&rsquo;s 2020 novel <em>Ma&ntilde;analand</em>. In the village where Max lives, there is an old fortress called La Reina. Children in the village say that the fortress is haunted.</p>\n<blockquote>\n<p>For as long as he could remember, Max had begged Pap&aacute; [his father] to take him to see La Reina and the ruins up close. He&rsquo;d be a hero among his friends if he was the first boy to cross the haunted gates! Just because Pap&aacute; didn&rsquo;t believe in ghosts didn&rsquo;t mean they weren&rsquo;t there. Maybe this summer Pap&aacute; would finally take him. He <em>was</em> almost twelve.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2020 by Pam Mu&ntilde;oz Ryan</span></p>",
+    "keys": [
+      "402afa18-59c1-4f1d-8d74-483b42d2e81b"
+    ],
+    "answerOptions": [
+      {
+        "id": "16271243-0be3-48d5-a3ed-38183dc73e72",
+        "content": "<p>To portray how proud Max&rsquo;s father is of Max</p>"
+      },
+      {
+        "id": "2ea4d038-5d52-4bfe-b273-3b96f3f9a18c",
+        "content": "<p>To explain why Max doesn&rsquo;t want to grow up yet</p>"
+      },
+      {
+        "id": "11b07a75-a6f0-4057-9df1-86aed0ad66ab",
+        "content": "<p>To criticize Max for disliking summer</p>"
+      },
+      {
+        "id": "402afa18-59c1-4f1d-8d74-483b42d2e81b",
+        "content": "<p>To show how much Max wants to visit La Reina</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer because it most accurately describes the overall purpose of the text. The text indicates that \"for as long as he could remember,\" Max had \"begged\" his father to take him to La Reina. This point is later emphasized in the text by indicating that \"this summer\" his father might \"finally take\" Max to visit La Reina. Thus, the purpose of the text as a whole is to show how much Max wants to visit La Reina.</p><p>Choice A is incorrect. The text does not discuss Papa&rsquo;s feelings toward Max. Rather, it mentions that Max has long wanted Papa to take him to La Reina and that, unlike Max and some other children, Papa does not believe that La Reina is haunted. Choice B is incorrect. The text mentions that Max is \"almost twelve\" at the time, which suggests anticipation of growing up rather than refusal to. Choice C is incorrect. The text indicates that Max hopes to visit La Reina during the current summer, but nothing suggests that Max dislikes summer.</p>",
+    "externalid": "7bc9be38-c0b9-4055-8eb5-e338130c51b9",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1743430669210,
+    "pPcc": "P89#CAS",
+    "questionId": "2b158e21",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "3a1b3278-1bc7-42a1-b10b-151d86c166a0",
+    "skill_desc": "Words in Context",
+    "createDate": 1743430669210,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "7e0b7d3a-ada6-4213-90bd-2c0eed52f2a6",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "type": "mcq",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "stimulus": "<p>Taking photographs in the mid-1800s was complicated and expensive, but this changed with the <span data-ssml-say-as=\"date\">1854</span> invention of the <span lang=\"fr\"><em>carte de visite</em></span>, a small photo that cost little to make. <span lang=\"fr\"><em>Carte de visite</em></span> photos helped to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> photography: they made it easy and enjoyable for everyday people to have their pictures taken, and people at the time loved exchanging these small<em> </em>photos with friends and family.</p>",
+    "keys": [
+      "ff065113-523f-48e1-ac22-9c58903a9819"
+    ],
+    "answerOptions": [
+      {
+        "id": "40ebcadd-bce0-471e-9b99-e9372599c5bc",
+        "content": "<p>weaken</p>"
+      },
+      {
+        "id": "5f1bcf44-6dde-41da-a3dd-61864d276f2a",
+        "content": "<p>praise</p>"
+      },
+      {
+        "id": "ff065113-523f-48e1-ac22-9c58903a9819",
+        "content": "<p>popularize</p>"
+      },
+      {
+        "id": "14b44fe9-b848-4bdb-b0ae-0d5785fc023e",
+        "content": "<p>isolate</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of <em><span lang=\"fr\">carte de visite</span></em> photos. To \"popularize\" a technology is to allow it to be used and appreciated widely. The text explains that unlike the photos produced by earlier forms of photographic technology, <em><span lang=\"fr\">carte de visite</span></em> photos were inexpensive and could easily be obtained by \"everyday people,\" who enjoyed exchanging the images. Therefore, <em><span lang=\"fr\">carte de visite</span></em> photos helped popularize photography.</p><p>Choice A is incorrect because the text indicates that instead of weakening the emerging technology of photography, <em><span lang=\"fr\">carte de visite</span></em> photos allowed it to be more widely accessed and enjoyed by people. Choice B is incorrect. The text establishes that large numbers of people enjoyed using <em><span lang=\"fr\">carte de visite</span></em> photos, so it can be inferred that these photos caused photography to be praised, or celebrated. However, it wouldn&rsquo;t make sense to say that inanimate objects&mdash;in this case, photos&mdash;had praised photography; instead, <em><span lang=\"fr\">carte de visite</span></em> consumers themselves would have praised it. Choice D is incorrect because the text explains that rather than isolating photography, or limiting its availability, <em><span lang=\"fr\">carte de visite</span></em> technology made photography more widely accessible to people.</p>",
+    "externalid": "7e0b7d3a-ada6-4213-90bd-2c0eed52f2a6",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959374,
+    "pPcc": "P89#CAS",
+    "questionId": "752cec1f",
+    "skill_cd": "TSP",
+    "score_band_range_cd": 1,
+    "uId": "3d5d43f4-e8f3-49c6-8fd3-f5a92c81e4f2",
+    "skill_desc": "Text Structure and Purpose",
+    "createDate": 1691007959374,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": null,
+    "external_id": "cffc9b1f-c10b-4f3c-bde4-418ef75a5f08",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "vaultid": "a8a1dac2-5da0-41b1-858e-6e5f73eef2a3",
+    "keys": [
+      "a649a554-522d-49ce-bce8-714e463d33db"
+    ],
+    "rationale": "<p>Choice A is the best answer. The first sentence introduces Senju as a famous artist, while the next three sentences describe the defining features of his art, such as it only showing part of the waterfall and its origins in US art movements and Japanese techniques. </p><p>Choice B is incorrect. The text doesn&rsquo;t provide examples of any other artists who use Senju&rsquo;s techniques. Choice C is incorrect. The text doesn&rsquo;t describe any single famous painting or make comparisons between paintings. Choice D is incorrect. The text doesn&rsquo;t provide an opinion on Senju (just facts), nor does it suggest that his art has been overlooked&mdash;in fact, it states that he is &ldquo;known worldwide.&rdquo; </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+    "externalid": "cffc9b1f-c10b-4f3c-bde4-418ef75a5f08",
+    "stimulus": "<p>Hiroshi Senju is known worldwide for his paintings of waterfalls. These paintings are large and tend not to show the entire waterfall.&nbsp; Instead, Senju focuses on just the point where the falling water reaches the pool below, keeping the top of the waterfall out of view. While Senju&rsquo;s paintings are rooted in art movements originating in the United States, the artist uses traditional Japanese techniques and materials that make his work instantly recognizable.</p>",
+    "templateclusterid": "bc1e8fb7-d52e-4ff6-8d6b-9b8048147147",
+    "parenttemplatename": "OSP-KA-TSP-E006",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "a649a554-522d-49ce-bce8-714e463d33db",
+        "content": "<p>It introduces an artist and then explains some common characteristics of well-known paintings by that artist.</p>"
+      },
+      {
+        "id": "f863e1f6-857c-4639-9658-f0b3c454d024",
+        "content": "<p>It explains a specific painting technique and then provides examples of artists who use the technique.</p>"
+      },
+      {
+        "id": "6dba2312-8046-408d-a37d-60e46e3e3163",
+        "content": "<p>It describes a famous painting and then compares it to a lesser-known painting from the same time period.&nbsp;</p>"
+      },
+      {
+        "id": "4f2dbc38-9889-4ce9-b2b1-82b72d3bab67",
+        "content": "<p>It gives an opinion on an artist and then suggests multiple reasons why the artist&rsquo;s work has been largely overlooked.</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959377,
+    "pPcc": "P89#CAS",
+    "questionId": "4bcc2029",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "3db78626-78a2-4e6d-9af6-514c4de747ba",
+    "skill_desc": "Words in Context",
+    "createDate": 1691007959377,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": null,
+    "external_id": "5f3280cd-e6b6-460d-9cd2-eff1f3095600",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "vaultid": "ac639fe1-8bb0-40c6-9f03-7a6e7bb4832c",
+    "keys": [
+      "595d80ad-b4c0-4c17-ba1f-8dda500b664c"
+    ],
+    "rationale": "<p>Choice D is the best answer. &ldquo;Involved in&rdquo; means &ldquo;playing an active role in.&rdquo; This fits the context clues describing how Zollar includes the audience in her shows by incorporating their stories and pictures. </p><p>Choice A is incorrect. &ldquo;Nervous&rdquo; means &ldquo;worried or anxious about.&rdquo; Nothing in the text suggests that people would be nervous about Zollar&rsquo;s creative process. Choice B is incorrect. &ldquo;Completed by&rdquo; means &ldquo;made whole by.&rdquo; It doesn&rsquo;t make sense to say that Zollar&rsquo;s shows would make her audience complete. Choice C is incorrect. &ldquo;Delayed by&rdquo; means &ldquo;made late by.&rdquo; Nothing in the text suggests that people would be delayed by Zollar&rsquo;s creative process. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "externalid": "5f3280cd-e6b6-460d-9cd2-eff1f3095600",
+    "stimulus": "<p>Dance choreographer Jawole Willa Jo Zollar aims to give people the opportunity to be <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> her creative process. For example, live performances of her dance <em>HairStories</em>, which debuted in 2001, featured videos of people across the United States talking about their hair and audience members sharing pictures of their interesting hairstyles.</p>",
+    "templateclusterid": "3671cc0e-9cf7-4f6a-bcb4-97f01fe17cba",
+    "parenttemplatename": "OSP-KA-WIC-E006",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "6bcc8115-3107-4eff-ba9d-e4a9bb9d3d71",
+        "content": "<p>nervous about</p>"
+      },
+      {
+        "id": "083a0171-a235-4f80-9ec5-813aa108f0da",
+        "content": "<p>completed by</p>"
+      },
+      {
+        "id": "c5042bdd-43a5-4dc1-97fb-cf6f3a096dc6",
+        "content": "<p>delayed by</p>"
+      },
+      {
+        "id": "595d80ad-b4c0-4c17-ba1f-8dda500b664c",
+        "content": "<p>involved in</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1743430669205,
+    "pPcc": "P89#CAS",
+    "questionId": "c187c91b",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "3eba36df-1c96-4a23-8a10-5cdf8f8ea970",
+    "skill_desc": "Words in Context",
+    "createDate": 1743430669205,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "3defff55-27df-4f13-a97e-20c0420ab51d",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "type": "mcq",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "stimulus": "<p>In the 1990s, conservationists began planting more than 500,000 native trees in the habitat of the Azores bullfinch to boost the bird&rsquo;s numbers. This approach was apparently <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>: the Azores bullfinch&rsquo;s population size increased from as few as 100 birds at the end of the 1980s to around 1,300 in 2023.&nbsp;</p>",
+    "keys": [
+      "8f464376-9237-47d0-9674-8fa8cb94cfb0"
+    ],
+    "answerOptions": [
+      {
+        "id": "3d01da1c-ab3d-4edb-ae07-30277c8cabf0",
+        "content": "<p>amusing</p>"
+      },
+      {
+        "id": "b14996c9-44e9-4ec7-a683-269cea99aac8",
+        "content": "<p>costly</p>"
+      },
+      {
+        "id": "8f464376-9237-47d0-9674-8fa8cb94cfb0",
+        "content": "<p>successful</p>"
+      },
+      {
+        "id": "8a5699b4-0eb9-4d3a-8922-2eb418e5f5dd",
+        "content": "<p>disastrous</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of the conservationists&rsquo; efforts to increase Azores bullfinch&rsquo;s numbers. In this context, \"successful\" means accomplishing a goal or purpose. According to the text, conservationists planted more than 500,000 native trees in an Azores bullfinch habitat in order to boost the bird&rsquo;s population size. The text then indicates that the population size did indeed grow as a result of the planted trees. Thus, in this context, the conservationists&rsquo; approach of planting native trees was successful because it achieved the goal of increasing the bird&rsquo;s population size.</p><p>Choice A is incorrect because the text gives no indication that the conservationists&rsquo; approach of planting native trees to increase Azores bullfinch&rsquo;s numbers was \"amusing,\" or comical or entertaining. Instead, the approach was seriously undertaken and ultimately accomplished. Choice B is incorrect because the text doesn&rsquo;t address how much it cost to achieve the goal of planting native trees to increase Azores bullfinch&rsquo;s numbers. The text indicates that the approach was beneficial and successful rather than \"costly,\" or expensive or harmful. Choice D is incorrect. According to the text, the conservationists&rsquo; approach of planting native trees to increase Azores bullfinch&rsquo;s numbers was beneficial and successful rather than \"disastrous,\" or damaging or unsuccessful.</p>",
+    "externalid": "3defff55-27df-4f13-a97e-20c0420ab51d",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959374,
+    "pPcc": "P89#CAS",
+    "questionId": "babff84b",
+    "skill_cd": "TSP",
+    "score_band_range_cd": 1,
+    "uId": "404522f0-efbf-42b6-9993-c60afbfa3f06",
+    "skill_desc": "Text Structure and Purpose",
+    "createDate": 1691007959374,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": null,
+    "external_id": "c108292b-f5d4-48c1-8551-791dae982b3e",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "vaultid": "1723f7ea-1754-4ab0-83c7-5fb66957ef00",
+    "keys": [
+      "b979062a-3de3-4d5f-a472-9af3c09ab760"
+    ],
+    "rationale": "<p>Choice C is the best answer. The first three sentences describe the general situation: these early films have been lost, and we only know about them from small pieces of evidence. The rest of the text offers specific examples of the small pieces of evidence. </p><p>Choice A is incorrect. This isn&rsquo;t the overall structure. The fact that we only know about these lost early films from small pieces of evidence isn&rsquo;t presented as a &ldquo;complex problem&rdquo;&mdash;that&rsquo;s too extreme. And the examples presented are not &ldquo;unsuccessful attempts&rdquo; to solve it. If anything, the examples represent a success, because we discovered that these films existed in the first place. Choice B is incorrect. This isn&rsquo;t the overall structure. There&rsquo;s no &ldquo;debate&rdquo; presented in the text, so there&rsquo;s no &ldquo;side&rdquo; for the text to support. Choice D is incorrect. This isn&rsquo;t the overall structure. The text doesn&rsquo;t discuss any &ldquo;differences&rdquo; between the filmmakers. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice best describes the overall structure of the text?</p>",
+    "externalid": "c108292b-f5d4-48c1-8551-791dae982b3e",
+    "stimulus": "<p>Many films from the early 1900s have been lost. These losses include several films by the first wave of Black women filmmakers. We know about these lost movies only from small pieces of evidence. For example, an advertisement for Jennie Louise Touissant Welcome&rsquo;s documentary <em>Doing Their Bit</em> still exists. There&rsquo;s a reference in a magazine to Tressie Souders&rsquo;s film <em>A Woman&rsquo;s Error</em>. And Maria P. Williams&rsquo;s <em>The Flames of Wrath</em> is mentioned in a letter and a newspaper article, and one image from the movie was discovered in the 1990s.</p>",
+    "templateclusterid": "4222602a-0372-44d2-99f1-db571b3bf714",
+    "parenttemplatename": "OSP-KA-TSP-E002",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "72e0c490-e1ad-4984-95fe-c2b63be6eb18",
+        "content": "<p>The text identifies a complex problem, then presents examples of unsuccessful attempts to solve that problem.&nbsp;</p>"
+      },
+      {
+        "id": "afa6829d-a040-469e-bfb9-068723e8bc3f",
+        "content": "<p>The text summarizes a debate among researchers, then gives reasons for supporting one side in that debate.&nbsp;</p>"
+      },
+      {
+        "id": "b979062a-3de3-4d5f-a472-9af3c09ab760",
+        "content": "<p>The text describes a general situation, then illustrates that situation with specific examples.</p>"
+      },
+      {
+        "id": "2dfabf52-8b4e-4ba8-be6f-cfd38f91057c",
+        "content": "<p>The text discusses several notable individuals, then explains commonly overlooked differences between those individuals.&nbsp;</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1730147323031,
+    "pPcc": "P89#CAS",
+    "questionId": "6fea4e86",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "4ce4b1b5-e128-4b8c-a9a0-3b8d7b529f6d",
+    "skill_desc": "Words in Context",
+    "createDate": 1730147323031,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "9b93faf4-0537-4286-9930-2afe62d44731",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "stem": "<p>As used in the text, what does the word &ldquo;determine&rdquo; most nearly mean?&nbsp;</p>",
+    "stimulus": "<p>The following text is adapted from Charles Chesnutt&rsquo;s 1899 story &ldquo;The Wife of His Youth.&rdquo; Mr. Ryder is hosting a formal gathering where he will propose marriage to the woman he has been courting.</p>\n<blockquote>\n<p>[A] younger and less cautious man would long since have spoken. But he had made up his mind, and had only to <span role=\"region\" aria-label=\"Referenced Content\"><u>determine</u></span> the time when he would ask her to be his wife. He decided to give a ball in her honor, and at some time during the evening of the ball to offer her his heart and hand.</p>\n</blockquote>",
+    "type": "mcq",
+    "keys": [
+      "f4d9a680-dd66-4cf5-940c-a02a35ca03cf"
+    ],
+    "answerOptions": [
+      {
+        "id": "f4d9a680-dd66-4cf5-940c-a02a35ca03cf",
+        "content": "<p>Choose</p>"
+      },
+      {
+        "id": "c9b3225a-1cf5-4750-a35a-3f9064b28a3e",
+        "content": "<p>Influence</p>"
+      },
+      {
+        "id": "80d05a1f-3416-41de-99af-9926810d76b0",
+        "content": "<p>Demonstrate</p>"
+      },
+      {
+        "id": "53fd68f1-1549-4f02-b323-828d48a11010",
+        "content": "<p>Measure</p>"
+      }
+    ],
+    "rationale": "<p>Choice A is the best answer because as used in the text, \"determine\" most nearly means choose or decide. The text indicates that Mr. Ryder \"had made up his mind\" to ask a woman to marry him but had not yet \"spoken\"&mdash;that is, he had not yet asked her. The text also indicates that Mr. Ryder \"decided\" to throw a party for the woman and ask her during it. This context conveys that after making up his mind to propose, what Mr. Ryder had to do was determine, or choose, the time to do it.</p><p>Choice B is incorrect because in this context, \"determine\" doesn&rsquo;t mean influence, or affect or control. The text isn&rsquo;t indicating that Mr. Ryder is controlling time itself; such a thing isn&rsquo;t possible. Rather, the text conveys that after making up his mind to ask a woman to marry him, Mr. Ryder had to make another decision about his own actions by selecting a time to propose. Choice C is incorrect. The text focuses on Mr. Ryder&rsquo;s plan to ask a woman to marry him and his decision about when to ask her. This context conveys that after making up his mind to propose, Mr. Ryder had to choose the time, not that he had to demonstrate, or show, the time; it&rsquo;s not clear what it would mean to demonstrate a time. Choice D is incorrect because in this context, \"determine\" doesn&rsquo;t mean measure, or control with careful restraint. The text isn&rsquo;t indicating that Mr. Ryder is carefully controlling time itself; such a thing isn&rsquo;t possible. Rather, the text conveys that after making up his mind to ask a woman to marry him, Mr. Ryder had to make another decision about his own actions by selecting a time to propose; it&rsquo;s Mr. Ryder&rsquo;s decision that is measured, not the time he eventually chooses.</p>",
+    "externalid": "9b93faf4-0537-4286-9930-2afe62d44731",
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323033,
+    "pPcc": "P89#CAS",
+    "questionId": "823d647e",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "50a006a4-571a-4eed-8876-68068fcf1b56",
+    "skill_desc": "Words in Context",
+    "createDate": 1730147323033,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "233c1b7d-48c1-434e-989f-84bcc9029899",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "stimulus": "<p>Many ancient sculptures of people&rsquo;s heads are missing their noses. This is because the nose is the most <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> part of a sculpture of a person&rsquo;s head. It is delicate and sticks out from the rest of the sculpture, making it especially easy to break.</p>",
+    "type": "mcq",
+    "keys": [
+      "7ab8bc1c-441a-4d5a-9fdf-22c6932aa039"
+    ],
+    "answerOptions": [
+      {
+        "id": "36454b0b-2a06-49a8-8d8a-0c1acbb18cf5",
+        "content": "<p>recognizable</p>"
+      },
+      {
+        "id": "7ab8bc1c-441a-4d5a-9fdf-22c6932aa039",
+        "content": "<p>fragile</p>"
+      },
+      {
+        "id": "e1925cd8-98b2-4e59-82f6-e064cace2ab2",
+        "content": "<p>common</p>"
+      },
+      {
+        "id": "3066a402-2f77-4c5c-bec1-c48f6e6d51db",
+        "content": "<p>sophisticated</p>"
+      }
+    ],
+    "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of noses on ancient sculptures. In this context, \"fragile\" means weak or delicate. This matches the text&rsquo;s description of noses on ancient sculptures, which are often missing from sculptures&rsquo; heads because they are \"especially easy to break.\" Therefore, this context indicates that noses on ancient sculptures are the most fragile part of the sculptures&rsquo; heads.</p><p>Choice A is incorrect. In this context, \"recognizable\" would mean identifiable, and since the text indicates that noses are often missing from ancient statues, they therefore cannot be the most recognizable part of the statue. Choice C is incorrect because the text indicates that many ancient statues are missing noses, so noses wouldn&rsquo;t be \"common,\" or frequent, aspects of ancient statues; they would conversely be uncommon. Choice D is incorrect because the text only indicates that noses on ancient statues often stick out and end up missing from the heads, which doesn&rsquo;t relate to the noses being \"sophisticated,\" or knowledgeable or refined.</p>",
+    "externalid": "233c1b7d-48c1-434e-989f-84bcc9029899",
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959374,
+    "pPcc": "P89#CAS",
+    "questionId": "935c2154",
+    "skill_cd": "TSP",
+    "score_band_range_cd": 1,
+    "uId": "55566e92-9130-4428-b4ae-f40f5be99560",
+    "skill_desc": "Text Structure and Purpose",
+    "createDate": 1691007959374,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": null,
+    "external_id": "d4330d12-8b99-4d4f-8c4d-4b2c7be0c927",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "vaultid": "41d67f4b-c38b-48a6-922b-7169debfcd01",
+    "keys": [
+      "2c5726b5-dff1-4339-b020-a063a1b42172"
+    ],
+    "rationale": "<p>Choice B is the best answer because it best states the main purpose of the text, which is to establish the narrator&rsquo;s feelings about the piano. The narrator reveals that she &ldquo;had to act really happy&rdquo; about the piano even though she &ldquo;pretty much hated the thing&rdquo; as soon as it was placed upstairs near her bedroom. The narrator also describes the piano as glaring at her and compares it to a caged bird that wants to be set free. These details establish the narrator&rsquo;s feelings about the piano, suggesting that it makes her uneasy. </p><p>Choice A is incorrect because the text indicates that the narrator hated having the piano upstairs right next to her bedroom, not that she wanted a piano to be close to her bedroom. Choice C is incorrect because the only information provided in the text about the narrator&rsquo;s brothers is that they were given the piano along with the narrator. Choice D is incorrect because the text does not describe the event that led the narrator&rsquo;s parents to buy the piano from the people moving to Utah. Instead, the text focuses on the narrator&rsquo;s feelings about the piano after it was given to her and her brothers. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice best states the main purpose of the text?</p>",
+    "externalid": "d4330d12-8b99-4d4f-8c4d-4b2c7be0c927",
+    "stimulus": "<p>The following text is from Holly Goldberg Sloan&rsquo;s 2017 novel <em>Short</em>.&nbsp;</p>\n<blockquote>\n<p>More than two years ago my parents bought a piano from some people who were moving to Utah. Mom and Dad gave it to my brothers and me for Christmas. I had to act really happy because it was such a big present, but I pretty much hated the thing from the second it was carried into the hallway upstairs, which is right next to my bedroom. The piano glared at me. It was like a songbird in a cage. It wanted to be set free.&nbsp;&nbsp;</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2017 by Holly Goldberg Sloan</span></p>",
+    "templateclusterid": "9cea3c42-3f93-46d9-bcc2-4f7228f731e2",
+    "parenttemplatename": "OSP-KA-TSP-E005",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "9931306d-5299-488e-b8ab-c6569cc7f597",
+        "content": "<p>It explains why the narrator always wanted a piano close to her bedroom.&nbsp;</p>"
+      },
+      {
+        "id": "2c5726b5-dff1-4339-b020-a063a1b42172",
+        "content": "<p>It establishes how the narrator feels about the piano.</p>"
+      },
+      {
+        "id": "02967493-91bc-4dc8-8838-5ec417f6da2d",
+        "content": "<p>It suggests that the narrator&rsquo;s brothers are talented piano players.</p>"
+      },
+      {
+        "id": "362a9dac-7f33-4aeb-8fd0-589ee5ffc4d7",
+        "content": "<p>It describes the event that led the narrator&rsquo;s parents to buy a piano.</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1743430669215,
+    "pPcc": "P89#CAS",
+    "questionId": "80a523fa",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "570e1e2d-32ee-450e-b40e-bf3e20a60dfd",
+    "skill_desc": "Words in Context",
+    "createDate": 1743430669215,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "f92df5e5-64e5-4ca2-90a2-cabd8a1c6b00",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "type": "mcq",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "stimulus": "<p>Predatory animals differ widely in how they <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> food for their young. Some leave dead prey nearby for their young to consume, some bring live prey to their young, and some feed their young directly from their own mouths.&nbsp;</p>",
+    "keys": [
+      "b219fbc3-ca1f-4f08-a6bb-8a8b47915575"
+    ],
+    "answerOptions": [
+      {
+        "id": "fac1e181-880d-4962-8e68-0b3c3de77eeb",
+        "content": "<p>avoid</p>"
+      },
+      {
+        "id": "7b35e9a4-3d26-4ff5-be5c-36ce253a4728",
+        "content": "<p>guess</p>"
+      },
+      {
+        "id": "b219fbc3-ca1f-4f08-a6bb-8a8b47915575",
+        "content": "<p>provide</p>"
+      },
+      {
+        "id": "cb7fa8c8-b62d-4f7e-bb97-ce7f89164c46",
+        "content": "<p>describe</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of how predators feed their young. As used in this context, \"provide\" means supply or make something that&rsquo;s needed available. The text indicates that some predators supply prey for their young by either leaving dead prey nearby or by bringing live prey to them. Other predators, the text states, feed their young directly from their own mouths. This context supports the idea that predatory animals have various ways to provide food for their young.</p><p>Choice A is incorrect because in this context, \"avoid\" would mean keep away from or refrain from, neither of which would make sense in context. Nothing in the text suggests that predators refrain from food for their young. Choice B is incorrect because in this context, \"guess\" would mean speculate or suppose, and it&rsquo;s unclear what it would mean for predators to speculate food for their young. Choice D is incorrect because in this context, \"describe\" would mean explain, and it&rsquo;s unclear what it would mean for predators to explain food for their young.</p>",
+    "externalid": "f92df5e5-64e5-4ca2-90a2-cabd8a1c6b00",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1743430669207,
+    "pPcc": "P89#CAS",
+    "questionId": "3cb62983",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "58687cf8-acac-415b-894f-7e0ecd5b98c6",
+    "skill_desc": "Words in Context",
+    "createDate": 1743430669207,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "4e5f6549-43db-44f3-bb94-e18e500d3b87",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "type": "mcq",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "stimulus": "<p>The general store was essential to daily life in the rural United States during the 1800s because it provided the supplies that the people living in nearby communities needed. Also, the store was a <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> of information. People socializing at the general store would share news and help spread it throughout their communities.</p>",
+    "keys": [
+      "3a87b056-b20a-4f4c-a9cb-d175c4a85441"
+    ],
+    "answerOptions": [
+      {
+        "id": "3a87b056-b20a-4f4c-a9cb-d175c4a85441",
+        "content": "<p>source</p>"
+      },
+      {
+        "id": "431d6042-1e70-4dda-93f4-84306d34d148",
+        "content": "<p>rival</p>"
+      },
+      {
+        "id": "31bef792-958b-42ef-b0f9-6e518370516b",
+        "content": "<p>condition</p>"
+      },
+      {
+        "id": "ccf62cb4-954f-4d84-8886-37fdb63f6e67",
+        "content": "<p>waste</p>"
+      }
+    ],
+    "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of the role of the general store in US rural communities during the 1800s. In this context, \"source\" means a place where something originates or is obtained. The text states that people would share news while socializing at the general store. This context supports the idea that the store served as a source of information in rural communities.</p><p>Choice B is incorrect because \"rival\" would mean competitor or opponent. The text doesn&rsquo;t indicate that the general store was a rival of anything. Instead, the text describes the general store as a place that enabled the sharing of information within rural communities. Choice C is incorrect because in this context, \"condition\" would mean state, circumstance, or requirement.  Although the text implies that visiting the store was helpful for acquiring information since people shared news there, it wouldn&rsquo;t make sense to say that the general store was a condition of information. Choice D is incorrect because \"waste\" would mean something that is unused, discarded, or spent unnecessarily, which would not make sense in context. The text describes the general store as an essential part of daily life and a place for socializing and information sharing. The store was therefore a source, not a waste, of information.</p>",
+    "externalid": "4e5f6549-43db-44f3-bb94-e18e500d3b87",
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1743430669214,
+    "pPcc": "P89#CAS",
+    "questionId": "e2abfee3",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "5d1b94f4-1761-4fe6-9540-2e235c6192df",
+    "skill_desc": "Words in Context",
+    "createDate": 1743430669214,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "decacff8-b174-4cdb-9bcb-5c5714d5025d",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "type": "mcq",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "stimulus": "<p>One challenge of generating electricity from ocean waves is that wave power isn&rsquo;t <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>: it varies in unpredictable ways that pose technological and planning problems for electricity generation.&nbsp;</p>",
+    "keys": [
+      "fb3bb610-e53d-4298-88c4-dc9c4ef34b2f"
+    ],
+    "answerOptions": [
+      {
+        "id": "93e22736-7094-46f9-8427-3b12e48aa308",
+        "content": "<p>accidental</p>"
+      },
+      {
+        "id": "c212cf57-ddd0-4175-997f-f4701660972a",
+        "content": "<p>confident</p>"
+      },
+      {
+        "id": "f0ef4f9e-b45c-4700-a2c6-d9e989c1e57f",
+        "content": "<p>expensive</p>"
+      },
+      {
+        "id": "fb3bb610-e53d-4298-88c4-dc9c4ef34b2f",
+        "content": "<p>consistent</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of the challenge of generating electricity from ocean waves. In this context, \"consistent\" means steady or unchanging over time. The text introduces a challenge and then explains that wave power varies, or changes, unpredictably in ways that cause problems for electricity generation. This context conveys that the challenge being described is a lack of consistency.</p><p>Choice A is incorrect because the text introduces a challenge and then elaborates on it by emphasizing that the unpredictable nature of variations in ocean waves causes problems, which doesn&rsquo;t indicate that wave power isn&rsquo;t \"accidental,\" or isn&rsquo;t happening unintentionally. It wouldn&rsquo;t make sense to describe waves&mdash;a natural occurrence&mdash;as happening intentionally. Choice B is incorrect because \"confident\" means having a feeling of self-assurance, and it wouldn&rsquo;t make sense to describe wave power itself in terms of either having or lacking a sense of confidence. Choice C is incorrect because the text introduces a challenge and then elaborates on it by emphasizing that the unpredictable nature of variations in ocean waves causes problems, which doesn&rsquo;t indicate that wave power isn&rsquo;t \"expensive,\" or isn&rsquo;t costly. If anything, technological and planning problems might actually increase the expense of generating electricity from waves.</p>",
+    "externalid": "decacff8-b174-4cdb-9bcb-5c5714d5025d",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1743430669208,
+    "pPcc": "P89#CAS",
+    "questionId": "f31fc963",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "5d2804f6-44ae-4675-9a05-aaccd7f2b16c",
+    "skill_desc": "Words in Context",
+    "createDate": 1743430669208,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "602f691b-2659-4652-bb76-ca61180145b9",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "type": "mcq",
+    "stem": "<p>As used in the text, what does the word &ldquo;completing&rdquo; most nearly mean?</p>",
+    "stimulus": "<p>The following text is from Anita Desai&rsquo;s 2011 novella <em>Translator Translated</em>. While working on her translation of a novel written in Odia (a language of India) into English, the narrator looks out her window at night to clear her mind.</p>\n<blockquote>\n<p>I tried to distract myself with these sights of the ordinary world, but in my mind it was the lines I had been translating and the lines that I had been writing that remained in the forefront. I longed for sleep to obliterate them but it eluded me. Perhaps everything would be normal again once I had sent off the manuscript, I thought, and looked forward to <span style=\"text-decoration: underline;\" role=\"region\" aria-label=\"Referenced Content\">completing</span> the work.</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2011 by Anita Desai</span></p>",
+    "keys": [
+      "5fe555e7-7f68-480b-8487-b50006542ce2"
+    ],
+    "answerOptions": [
+      {
+        "id": "20ad9946-c36c-4be9-906c-876c510d9b30",
+        "content": "<p>Destroying</p>"
+      },
+      {
+        "id": "5fe555e7-7f68-480b-8487-b50006542ce2",
+        "content": "<p>Finishing</p>"
+      },
+      {
+        "id": "3aefd23e-28e5-434e-b935-4ae2c42f7270",
+        "content": "<p>Advertising</p>"
+      },
+      {
+        "id": "8f6ada64-253c-48a0-9abc-01ca69b5a20d",
+        "content": "<p>Rejecting</p>"
+      }
+    ],
+    "rationale": "<p>Choice B is the best answer because as used in the text, \"completing\" most nearly means finishing. In the text, the narrator conveys that the task of translating a novel has been an all-consuming one and that she hopes things will \"be normal again\" once she has \"sent off the manuscript.\" In other words, the narrator is looking forward to finishing her work on the manuscript and returning to other things.</p><p>Choice A is incorrect because in this context, \"completing\" doesn&rsquo;t mean destroying, or ruining. The narrator addresses her desire to send off the manuscript she&rsquo;s focused on and her hope that things will be \"normal again\" once she does, conveying that she is looking forward to finishing the work, not to ruining it. Choice C is incorrect because in this context, \"completing\" doesn&rsquo;t mean advertising, or publicly promoting. The narrator addresses her complete focus on the translation and her hope that things will be \"normal again\" once she has \"sent off the manuscript,\" conveying that she is looking forward to finishing the task, not to promoting the resulting manuscript. Choice D is incorrect because in this context, \"completing\" doesn&rsquo;t mean rejecting, or refusing or repelling. The narrator makes it clear that she is absorbed in working on the translation and plans to send off the manuscript, suggesting that instead of refusing to do the work, she is continuing to do it (even if she looks forward to things being \"normal again\" when she&rsquo;s done).</p>",
+    "externalid": "602f691b-2659-4652-bb76-ca61180145b9",
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959374,
+    "pPcc": "P89#CAS",
+    "questionId": "49a2ac01",
+    "skill_cd": "TSP",
+    "score_band_range_cd": 1,
+    "uId": "61b8df16-9fd3-4440-b8ca-502ee3b4e3a2",
+    "skill_desc": "Text Structure and Purpose",
+    "createDate": 1691007959374,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": null,
+    "external_id": "e90c65ad-7cc3-420a-a585-fcc04aabdc94",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "vaultid": "ef20ef5d-dc8c-48c7-a533-e79cbb760b6a",
+    "keys": [
+      "eb046b89-d141-4d4e-8b70-5eb8713a95f8"
+    ],
+    "rationale": "<p>Choice C is the best answer because it most accurately describes how the underlined sentence functions in the text as a whole. The first sentence of the text states that Shakti knows the woods she is walking in well. The next sentence, which is underlined, emphasizes Shakti&rsquo;s familiarity with, and sense of security within, the woods by describing how the tree branches are friendly and &ldquo;welcoming,&rdquo; as they are depicted as extending open arms to her. The remainder of the text also shows that Shakti is comfortable and content in the woods by describing her as &ldquo;an old friend&rdquo; of the trees. Thus, the function of the underlined portion is to emphasize Shakti&rsquo;s sense of belonging in the wooded landscape that she visits. </p><p>Choice A is incorrect because the text and underlined portion suggest that Shakti is comfortable, not uncomfortable, in her surroundings: the trees around her are described as welcoming and reassuring. Moreover, the underlined portion discusses Shakti&rsquo;s feelings in the forest, not the river, since she hasn&rsquo;t reached the river yet. Choice B is incorrect because the text and underlined portion emphasize Shakti&rsquo;s familiarity with the woods. The trees are inviting, and she feels like &ldquo;an old friend&rdquo; to the woods, so she isn&rsquo;t lost or confused there. Choice D is incorrect because the third sentence uses the phrase &ldquo;as an old friend&rdquo; figuratively in reference to Shakti&rsquo;s sense of familiarity with the landscape, not in reference to her long-standing friendships with other people, and the text and underlined portion never discuss her feelings about such friendships. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice best describes the function of the underlined portion in the text as a whole?&nbsp;</p>",
+    "externalid": "e90c65ad-7cc3-420a-a585-fcc04aabdc94",
+    "stimulus": "<p>The following text is from Srimati Svarna Kumari Devi&rsquo;s 1894 novel <em>The Fatal Garland</em>&nbsp;(translated by A. Christina Albers in 1910). Shakti is walking near a riverbank that she visited frequently during her childhood.</p>\n<blockquote>\n<p>She crossed the woods she knew so well. <span role=\"region\" aria-label=\"Referenced Content\"><u>The trees seemed to extend their branches like welcoming arms.</u></span> They greeted her as an old friend. Soon she reached the river-side.</p>\n</blockquote>",
+    "templateclusterid": "3f3a02a3-4c9c-4eb3-b433-c462edb3080f",
+    "parenttemplatename": "OSP-KA-TSP-E001",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "f51c2a3b-9d75-4f37-bce0-049b0db8c393",
+        "content": "<p>It suggests that Shakti feels uncomfortable near the river.</p>"
+      },
+      {
+        "id": "cd362bab-1b3d-4016-a708-40760bb5f4ee",
+        "content": "<p>It indicates that Shakti has lost her sense of direction in the woods.</p>"
+      },
+      {
+        "id": "eb046b89-d141-4d4e-8b70-5eb8713a95f8",
+        "content": "<p>It emphasizes Shakti&rsquo;s sense of belonging in the landscape.</p>"
+      },
+      {
+        "id": "a28acc86-c2a4-491d-9e81-9a350b8be338",
+        "content": "<p>It conveys Shakti&rsquo;s appreciation for her long-term friendships.&nbsp;</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1743430669204,
+    "pPcc": "P89#CAS",
+    "questionId": "1347dae0",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "641e7b39-ea2f-49c6-8993-fa363b26537e",
+    "skill_desc": "Words in Context",
+    "createDate": 1743430669204,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "275ad6c6-c431-4660-a1ce-0de13c039334",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "type": "mcq",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "stimulus": "<p>On the basis of extensive calculations and models, astronomers in the 1990s predicted that the collision of two neutron stars or a neutron star and a black hole could release a massive burst of gamma rays in an event called a kilonova. This <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> was confirmed with observations in 2017.&nbsp;</p>",
+    "keys": [
+      "6fd38443-000c-4e4e-84fc-6bf4866b3711"
+    ],
+    "answerOptions": [
+      {
+        "id": "6fd38443-000c-4e4e-84fc-6bf4866b3711",
+        "content": "<p>theory</p>"
+      },
+      {
+        "id": "13cb4948-bd34-4c0f-800a-8304b3ae1e34",
+        "content": "<p>evidence</p>"
+      },
+      {
+        "id": "1f42485a-6c3a-4d35-9281-bad16638673f",
+        "content": "<p>constant</p>"
+      },
+      {
+        "id": "5bd163d4-feeb-4241-b878-d3b3dac376a3",
+        "content": "<p>experiment</p>"
+      }
+    ],
+    "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of a prediction about a kilonova. In this context, a \"theory\" is an explanation that is considered scientifically acceptable. The text states that astronomers predicted in the 1990s that a collision between a black hole and a neutron star or between two neutron stars could release a massive gamma ray burst called a kilonova, explaining that they determined this possibility based on their extensive work with existing data and simulations (\"calculations and models\"). In other words, the prediction was a theory&mdash;a well-supported explanation&mdash;that, as the text indicates, was later confirmed with observations in 2017.</p><p>Choice B is incorrect because the text indicates that it is the prediction made by astronomers in the 1990s that was confirmed in 2017, and a prediction of an event isn&rsquo;t \"evidence,\" or proof, of that event&rsquo;s existence, even when the prediction is based on extensive study. Further, there would be no need for later confirmation of something that was already recognized as evidence. Choice C is incorrect because in this context, a \"constant\" is a situation or factor that doesn&rsquo;t change. The text indicates that it is the prediction made by astronomers in the 1990s that was confirmed in 2017, and there is no reason to describe the prediction as a constant because the text doesn&rsquo;t suggest that the prediction was completely unchanged over time&mdash;it addresses only the making of the prediction and its later confirmation. Choice D is incorrect because the text indicates that it is the prediction made by astronomers in the 1990s that was confirmed in 2017; although a prediction might be informed by an \"experiment,\" or a controlled test, a prediction is an idea rather than a test.</p>",
+    "externalid": "275ad6c6-c431-4660-a1ce-0de13c039334",
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959360,
+    "pPcc": "P89#CAS",
+    "questionId": "d068fa7c",
+    "skill_cd": "CTC",
+    "score_band_range_cd": 1,
+    "uId": "76ca5e38-60ca-4af0-b9a2-b4daa4747157",
+    "skill_desc": "Cross-Text Connections",
+    "createDate": 1691007959360,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": null,
+    "external_id": "456397f9-5c55-4d95-a656-9092ce714c90",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "vaultid": "04966a0c-8963-4d27-8c9d-a7b238832a89",
+    "keys": [
+      "d14d593e-01f8-40b9-b9e8-7bf56939d54c"
+    ],
+    "rationale": "<p>Choice B is the best answer. Author 1 states that Ailey had a &ldquo;deep admiration for jazz music&rdquo; and that he &ldquo;helped bring jazz to life for his audiences.&rdquo; Author 2 states that &ldquo;Jazz is present throughout Ailey&rsquo;s work.&rdquo; While the authors name different aspects of Ailey&rsquo;s work as the most influenced by jazz, they agree that jazz was a strong influence.&nbsp;</p><p>Choice A is incorrect. This isn&rsquo;t something that either text claims. Neither text mentions how Ailey&rsquo;s dancers felt about his approach as a choreographer, so we have no evidence that either author would agree with this. Choice C is incorrect. This isn&rsquo;t something that either text claims. Neither text mentions how familiar audiences were with any aspect of Ailey&rsquo;s works, so we have no evidence that either author would agree with this. Choice D is incorrect. This isn&rsquo;t something that either text claims. Neither text mentions any genre of music other than jazz, so we have no evidence that either author would agree with this. </p>",
+    "origin": "proteus",
+    "stem": "<p>Based on the texts, both authors would most likely agree with which statement?</p>",
+    "externalid": "456397f9-5c55-4d95-a656-9092ce714c90",
+    "stimulus": "<p><span role=\"heading\" aria-level=\"2\"><strong>Text 1</strong></span></p>\n<p>Dance choreographer Alvin Ailey&rsquo;s deep admiration for jazz music can most clearly be felt in the rhythms and beats his works were set to. Ailey collaborated with some of the greatest jazz legends, like Charles Mingus, Charlie Parker, and perhaps his favorite, Duke Ellington. With his choice of music, Ailey helped bring jazz to life for his audiences.</p>\n<p>&nbsp;</p>\n<p><span role=\"heading\" aria-level=\"2\"><strong>Text 2</strong></span></p>\n<p>Jazz is present throughout Ailey&rsquo;s work, but it&rsquo;s most visible in Ailey&rsquo;s approach to choreography. Ailey often incorporated improvisation, a signature characteristic of jazz music, in his work. When managing his dance company, Ailey rarely forced his dancers to an exact set of specific moves. Instead, he encouraged his dancers to let their own skills and experiences shape their performances, as jazz musicians do.</p>",
+    "templateclusterid": "9d4941a1-438f-449e-8660-5c5a757828ed",
+    "parenttemplatename": "OSP-KA-CTC-E002",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "c7eec167-c6c2-4ef7-8453-894c4dbda131",
+        "content": "<p>Dancers who worked with Ailey greatly appreciated his supportive approach as a choreographer.</p>"
+      },
+      {
+        "id": "d14d593e-01f8-40b9-b9e8-7bf56939d54c",
+        "content": "<p>Ailey&rsquo;s work was strongly influenced by jazz.</p>"
+      },
+      {
+        "id": "45f14c95-0472-49e5-be9f-1eabe38fe73e",
+        "content": "<p>Audiences were mostly unfamiliar with the jazz music in Ailey&rsquo;s works.</p>"
+      },
+      {
+        "id": "c8dc08ed-4356-435b-90ca-291c52669f96",
+        "content": "<p>Ailey blended multiple genres of music together when choreographing dance pieces.</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1730147323031,
+    "pPcc": "P89#CAS",
+    "questionId": "6442a041",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "7786c848-892f-4db7-af85-23b676e35a94",
+    "skill_desc": "Words in Context",
+    "createDate": 1730147323031,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "2b0ec1b9-82bf-48d1-9817-b1fc4aaab9b6",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "stem": "<p>As used in the text, what does the word &ldquo;soft&rdquo; most nearly mean?</p>",
+    "stimulus": "<p>The following text is adapted from Lewis Carroll&rsquo;s 1871 novel <em>Through the Looking-Glass, and What Alice Found There</em>. Alice, a child, is talking to her cat.</p>\n<blockquote>\n<p>&ldquo;Do you hear the snow against the window-panes, Kitty? How nice and <span role=\"region\" aria-label=\"Referenced Content\"><u>soft</u></span> it sounds! Just as if someone was kissing the window all over outside.&rdquo;</p>\n</blockquote>",
+    "type": "mcq",
+    "keys": [
+      "b2801f09-b8f9-4e48-ba3d-9567fe4cda26"
+    ],
+    "answerOptions": [
+      {
+        "id": "b2801f09-b8f9-4e48-ba3d-9567fe4cda26",
+        "content": "<p>Gentle</p>"
+      },
+      {
+        "id": "ac4a5ecc-7fee-474a-ac87-7435347c1913",
+        "content": "<p>Sensitive</p>"
+      },
+      {
+        "id": "c3717c6a-daa8-4df4-a2c3-ef3e0f032ad3",
+        "content": "<p>Shapeless</p>"
+      },
+      {
+        "id": "92990af6-774e-4cd3-9ed8-573eb4ab1ccd",
+        "content": "<p>Bland</p>"
+      }
+    ],
+    "rationale": "<p>Choice A is the best answer because as used in the text, \"soft\" most nearly means gentle. The text portrays Alice speaking about the snow falling against the window, describing it as sounding \"nice\" and similar to someone \"kissing the window.\" These details most strongly suggest that Alice thinks the sound made by the snow falling against the window is gentle.</p><p>Choice B is incorrect. Although in some contexts, \"gentle\" can mean sensitive, or caring about others&rsquo; feelings, that isn&rsquo;t the meaning in this context; it doesn&rsquo;t make sense to say that Alice thinks the sound of the snow cares about anything. Choice C is incorrect because the text doesn&rsquo;t suggest that Alice thinks the sound of the snow is shapeless, or lacks a definite shape; she isn&rsquo;t indicating how anything looks or feels but, rather, is describing how \"nice\" and gentle the snow sounds. Choice D is incorrect because the text doesn&rsquo;t suggest that Alice thinks the sound of the snow is bland, or uninteresting; rather, she notices the sound and comments on how \"nice\" it is.</p>",
+    "externalid": "2b0ec1b9-82bf-48d1-9817-b1fc4aaab9b6",
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959377,
+    "pPcc": "P89#CAS",
+    "questionId": "6bdb33f8",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "9fd20337-6c33-4d73-9f58-d049d56c2af6",
+    "skill_desc": "Words in Context",
+    "createDate": 1691007959377,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": null,
+    "external_id": "6f73ae1d-2a53-4dd9-b5ea-b1b1c2f3b734",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "vaultid": "04f194eb-e092-44dd-a130-2dbfb3ad18c9",
+    "keys": [
+      "b4c1093f-e34c-4be4-a851-dd457ba8038a"
+    ],
+    "rationale": "<p>Choice B is the best answer because it most logically completes the text&rsquo;s discussion of traffic signals. As used in this context, &ldquo;featured&rdquo; means had as a characteristic or part. The text indicates that although US traffic signals have lights of three different colors (red, yellow, and green), this wasn&rsquo;t the case until the 1920s, when the three-light signal was first developed. Before then, the text suggests, traffic signals had fewer lights (as indicated by the word &ldquo;only&rdquo; in the second sentence). This context supports the idea that before the 1920s, traffic signals featured only red and green lights. </p><p>Choice A is incorrect because &ldquo;avoided&rdquo; means kept away from someone or something or prevented something from occurring, neither of which would make sense in context. The text doesn&rsquo;t discuss keeping away from someone or something but instead focuses on what US traffic signals look like. The text states that they didn&rsquo;t have lights of three different colors until the three-light signal was developed in the 1920s. Choice C is incorrect because &ldquo;appreciated&rdquo; means admired or increased in value, neither of which would make sense in context. The text focuses solely on the fact that US traffic signals have contained lights of three colors only since the three-light signal was developed in the 1920s. The text doesn&rsquo;t mention how this characteristic or traffic signals in general are perceived or what their value is. Moreover, the blank portion of the text describes &ldquo;traffic signals,&rdquo; which are lifeless objects and therefore unable to admire or increase the value of something.&nbsp;Choice D is incorrect because &ldquo;disregarded&rdquo; means ignored or treated something as unworthy of notice, neither of which would make sense in context. The text doesn&rsquo;t discuss how people react to traffic signals; rather, it addresses the idea that US traffic signals have contained lights of three colors only since the three-light signal was developed in the 1920s. Moreover, the blank portion of the text describes &ldquo;traffic signals,&rdquo; which are lifeless objects and therefore unable to ignore or treat something in a particular manner.&nbsp;</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "externalid": "6f73ae1d-2a53-4dd9-b5ea-b1b1c2f3b734",
+    "stimulus": "<p>US traffic signals didn&rsquo;t always contain the familiar three lights (red, yellow, and green). Traffic lights only <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> red and green lights until the three-light traffic signal was developed in the 1920s.</p>",
+    "templateclusterid": "e7cb3b45-4c28-4e54-b1b6-3b3a390e8647",
+    "parenttemplatename": "OSP-KA-WIC-E003",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "521871a2-c187-4385-825d-5c8f17105b2e",
+        "content": "<p>avoided</p>"
+      },
+      {
+        "id": "b4c1093f-e34c-4be4-a851-dd457ba8038a",
+        "content": "<p>featured</p>"
+      },
+      {
+        "id": "324816d3-9203-48f0-9a4b-2da148c29d2d",
+        "content": "<p>appreciated</p>"
+      },
+      {
+        "id": "dcfb7d50-9cb7-42ed-b985-1d90f75db61e",
+        "content": "<p>disregarded</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1743430669215,
+    "pPcc": "P89#CAS",
+    "questionId": "5bb8474e",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "a0cdc95d-be95-4a19-b43f-aa9a5a40f67e",
+    "skill_desc": "Words in Context",
+    "createDate": 1743430669215,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "ed64f415-992e-4d5f-b6d6-b247388e46db",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "type": "mcq",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "stimulus": "<p>Painter Alma <span data-ssml-sub-alias=\"W\">W.</span> Thomas was fascinated by the colors and shapes found in nature. The flowers and trees in the garden at her home in Washington, DC, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> her work. For example, Thomas&rsquo;s use of broken brushstrokes was inspired by the way that light would shine through the leaves of a tree in front of her house.&nbsp;</p>",
+    "keys": [
+      "c618cad0-0cb9-4763-9400-c5c111d73df5"
+    ],
+    "answerOptions": [
+      {
+        "id": "7258ecdb-ff86-415c-a9ce-a5255eac7130",
+        "content": "<p>restricted</p>"
+      },
+      {
+        "id": "9d74b01c-301c-4f9a-bb7d-0b7810dddbdd",
+        "content": "<p>announced</p>"
+      },
+      {
+        "id": "0420c3c5-d1af-439a-a5fd-0f1c1b957bc4",
+        "content": "<p>distracted</p>"
+      },
+      {
+        "id": "c618cad0-0cb9-4763-9400-c5c111d73df5",
+        "content": "<p>influenced</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of painter Alma <span data-ssml-sub-alias=\"W\">W.</span> Thomas&rsquo;s work. In this context, \"influenced\" means to have had an effect on something&rsquo;s development. The text indicates that there is a connection between Thomas&rsquo;s work and the flowers and trees in her home&rsquo;s garden, giving the example of Thomas&rsquo;s brushstrokes being inspired by light shining through the leaves of a tree in front of her house. This context conveys that Thomas&rsquo;s work was influenced by the flowers and trees in the garden.</p><p>Choice A is incorrect because the text conveys that Thomas drew inspiration for her work from the plants in her garden, which suggests that the flowers and trees contributed positively to her work, not that they \"restricted,\" or limited, her work. Choice B is incorrect because it wouldn&rsquo;t make sense to suggest that flowers and trees in a garden could have \"announced,\" or made known, a painter&rsquo;s work. Choice C is incorrect because the text conveys that Thomas drew inspiration for her work from the plants in her garden, which suggests that the flowers and trees contributed positively to her work, not that they were a distraction. Further, it&rsquo;s not clear how an artist&rsquo;s work could itself be \"distracted.\"</p>",
+    "externalid": "ed64f415-992e-4d5f-b6d6-b247388e46db",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1743430669214,
+    "pPcc": "P89#CAS",
+    "questionId": "7d242308",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "ab3a0dce-5468-429c-a84b-1edb25380b3b",
+    "skill_desc": "Words in Context",
+    "createDate": 1743430669214,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "e10a23f1-8979-408d-8e57-c4ab2a0fac84",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "type": "mcq",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "stimulus": "<p>Botanist Al Kovaleski has pointed out that maple trees already thrive in a wide variety of climates and thus may <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> changes in climate better than some other tree species do. The alterations maples may undergo in response to a changing climate are likely to be relatively small and easily achieved.&nbsp;</p>",
+    "keys": [
+      "59b48a0b-75d6-4e54-9fff-d0eaabaed110"
+    ],
+    "answerOptions": [
+      {
+        "id": "20ef6cf9-8829-46b6-b364-533b5cd8a2cf",
+        "content": "<p>relocate from</p>"
+      },
+      {
+        "id": "c8e75764-dffe-4272-9aa3-a59f9c4e4ce9",
+        "content": "<p>refer to</p>"
+      },
+      {
+        "id": "fa0e47ed-efef-4c64-aad2-36ffb87f62a1",
+        "content": "<p>originate from</p>"
+      },
+      {
+        "id": "59b48a0b-75d6-4e54-9fff-d0eaabaed110",
+        "content": "<p>adapt to</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer because it most logically completes the text&rsquo;s discussion of how maple trees may respond to changes in climate. As used in this context, \"adapt to\" means to adjust to new conditions. The text first notes that maple trees already thrive in a wide variety of climates and then goes on to say that alterations maples may undergo are likely to be relatively small and easily achieved. This context supports the idea that maple trees will more easily adjust or adapt to a changing climate.</p><p>Choice A is incorrect. Although the text discusses how maple trees adjust to change, the trees do not \"relocate from,\" or physically move from one place to another. Choice B is incorrect because \"refer to\" means to mention or allude to something, and the trees are not doing either of these actions. Choice C is incorrect because the text is discussing how maple trees may respond to changes in climate, not where they \"originate from,\" or came from originally.</p>",
+    "externalid": "e10a23f1-8979-408d-8e57-c4ab2a0fac84",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959315,
+    "pPcc": "P89#CAS",
+    "questionId": "1bf311bf",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "ae536f0e-8147-4147-969b-544c6e1d266e",
+    "skill_desc": "Words in Context",
+    "createDate": 1691007959315,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": null,
+    "external_id": "d9aeeac9-0ed0-4fd1-83af-365e28e781a0",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "vaultid": "e7f5159c-c73c-4aa4-8778-10bff3e4953b",
+    "keys": [
+      "180f4983-0473-47bf-b171-24c7824eaee4"
+    ],
+    "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of the flashes created by fireflies. In this context, &ldquo;patterns&rdquo; means distinct and predictable sequences. The text indicates that although the flashes that fireflies produce appear to occur randomly&mdash;that is, without any particular sequence or rhythm&mdash;each species actually produces its own special series of flashes and pauses. Indeed, these series of flashes are so unique that fireflies can use them to find other members of their species. Therefore, this context supports the idea that fireflies produce flashes in distinct and recognizable patterns. </p><p>Choice A is incorrect because &ldquo;quantities&rdquo; means certain amounts or numbers of something. Although the text discusses how different firefly species produce flashes and pauses in unique sequences that help other members of their species to find them, it doesn&rsquo;t mention the number of flashes that are used in these sequences. Choice B is incorrect because in this context, &ldquo;decorations&rdquo; would mean things that make an object more beautiful. Although it may be reasonable to say that firefly flashes are beautiful, the text focuses on the fact that fireflies use these unique sequences of flashes to find other members of their own species, not that the flashes make fireflies more beautiful. Choice D is incorrect because in this context, &ldquo;agreements&rdquo; would refer to deals that individuals have discussed and come to a consensus about. Since fireflies aren&rsquo;t capable of making such agreements, it wouldn&rsquo;t make sense to use this word to refer to the signals they send each other with their flashes. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "externalid": "d9aeeac9-0ed0-4fd1-83af-365e28e781a0",
+    "stimulus": "<p>Bioluminescent beetles called fireflies may seem to create flashes of light randomly, but each species of firefly actually has its own special series of repeated flashes and pauses. These unique <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> allow fireflies of the same species to find each other.</p>",
+    "templateclusterid": "b073cbfd-64b0-43f2-8e21-eadc489c4697",
+    "parenttemplatename": "OSP-013-WIC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "f016aed6-4fa8-4baa-aa64-f6f915b8be7b",
+        "content": "<p>quantities&nbsp;</p>"
+      },
+      {
+        "id": "a0c8e875-7aa4-4f1a-9271-5d48df713e00",
+        "content": "<p>decorations</p>"
+      },
+      {
+        "id": "180f4983-0473-47bf-b171-24c7824eaee4",
+        "content": "<p>patterns</p>"
+      },
+      {
+        "id": "4e74bb4c-bbdc-4624-9398-e68cfec07182",
+        "content": "<p>agreements</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959361,
+    "pPcc": "P89#CAS",
+    "questionId": "69a2bbb6",
+    "skill_cd": "CTC",
+    "score_band_range_cd": 1,
+    "uId": "b8506c52-a773-4a0e-844a-52423a3c1e36",
+    "skill_desc": "Cross-Text Connections",
+    "createDate": 1691007959361,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": null,
+    "external_id": "2085e5c2-ac9c-413c-aea2-aaa8e08135ac",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "vaultid": "f926ece7-2dac-43f0-a663-1cabddc19fc4",
+    "keys": [
+      "4a385ae5-195e-4c3f-89e4-a8f0ff1cdbc5"
+    ],
+    "rationale": "<p>Choice A is the best answer. Both texts state that tropical mountain bird species have limited ranges or habitats, although they disagree on the reason for this. Text 1 claims that temperature is the main factor that determines where these birds can live, while Text 2 claims that competition with other species is the main factor. However, both texts agree that these birds are not able to survive in many kinds of areas. </p><p>Choice B is incorrect. Neither text mentions the tools or methods that scientists use to observe these birds, either now or in the past. Choice C is incorrect. Neither text mentions anything about how these birds build their nests. Choice D is incorrect. Neither text provides any information about the genetic similarity of these birds, so we have no evidence that either author would agree with this statement. </p>",
+    "origin": "proteus",
+    "stem": "<p>Based on the texts, both authors would most likely agree with which statement?</p>",
+    "externalid": "2085e5c2-ac9c-413c-aea2-aaa8e08135ac",
+    "stimulus": "<p><strong>Text 1</strong></p>\n<p>Some animal species, like the leopard, can be found in many kinds of areas. On the other hand, tropical mountain bird species tend to be limited in the types of spaces they can call home. This is because many mountain bird species are only able to survive at very specific elevations. Over time, these species have likely become used to living at a specific temperature. Therefore, these species struggle to survive at elevations that are warmer or colder than they are used to.</p>\n<p>&nbsp;</p>\n<p><strong>Text 2</strong></p>\n<p>A new study reviewed observations of nearly 3,000 bird species to understand why tropical mountain bird species live at specific elevations. They noted that when a mountain bird species was found in an area with many other bird species, it tended to inhabit much smaller geographic areas. It is thus likely that competition for resources with other species, not temperature, limits where these birds can live.</p>",
+    "templateclusterid": "787cdec2-659f-4280-ae46-6ccba0fbbf7d",
+    "parenttemplatename": "OSP-KA-CTC-E010",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "4a385ae5-195e-4c3f-89e4-a8f0ff1cdbc5",
+        "content": "<p>Tropical mountain bird species are restricted in where they can live.</p>"
+      },
+      {
+        "id": "05dac10e-cd41-4db6-a5ea-2993bac4f6ab",
+        "content": "<p>Scientists have better tools to observe tropical mountain birds than they did in the past.</p>"
+      },
+      {
+        "id": "8779fe45-c8b3-4cf7-9d00-676a2d76a0b3",
+        "content": "<p>Little is known about how tropical mountain birds build their nests.</p>"
+      },
+      {
+        "id": "70503900-dc02-4f26-b682-1ccec49e3b1f",
+        "content": "<p>Tropical mountain bird species that live at high elevations tend to be genetically similar.</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323032,
+    "pPcc": "P89#CAS",
+    "questionId": "8c2b7031",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "d3ed979b-314d-45d2-9c69-609548e634f8",
+    "skill_desc": "Words in Context",
+    "createDate": 1730147323032,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "e5f96c7a-1d41-4770-b369-48b1a28e1456",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "stimulus": "<p>When marine biologist Brittany Williams played different ocean recordings to groups of oyster larvae, groups that heard sounds of a healthy oyster reef were the most <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span>. They were twice as likely as other groups to show signs of making a permanent home. This suggests that playing recordings of a healthy ocean reef may encourage oysters to create such a reef.</p>",
+    "type": "mcq",
+    "keys": [
+      "caa61e3e-738a-4e1a-bfdb-3770b3cd5e1c"
+    ],
+    "answerOptions": [
+      {
+        "id": "caa61e3e-738a-4e1a-bfdb-3770b3cd5e1c",
+        "content": "<p>responsive</p>"
+      },
+      {
+        "id": "e732a7b1-3869-48c0-bc82-f880212d5357",
+        "content": "<p>inactive</p>"
+      },
+      {
+        "id": "5c3a8884-6726-4d02-8047-962a93f6b690",
+        "content": "<p>liked</p>"
+      },
+      {
+        "id": "de3b7200-f3d2-4761-8fd7-e8eb3380e8ad",
+        "content": "<p>distressed</p>"
+      }
+    ],
+    "rationale": "<p>Choice A is the best answer because it most logically completes the text&rsquo;s discussion of oysters and ocean recordings. As used in this context, \"responsive\" means reacting positively. The text presents a finding and describes it as suggesting that healthy ocean sounds may encourage oyster larvae to establish a reef (a permanent home): groups of oyster larvae that heard recorded sounds of a healthy oyster reef were two times more likely to show signs of forming their own reef than groups that heard different ocean recordings were. This context conveys that the groups that heard healthy reef sounds had a more positive reaction than the other groups did&mdash;that is, they were the most responsive.</p><p>Choice B is incorrect because the text doesn&rsquo;t indicate that hearing sounds of a healthy oyster reef caused some groups of oyster larvae to become \"inactive,\" or to stop engaging in work or activity. Instead, the text conveys that the groups that heard those sounds were observed engaging in activity: they were two times more likely to create a reef (a permanent home) than groups that heard different ocean sounds were. Choice C is incorrect because describing the groups of oyster larvae that heard sounds of a healthy oyster reef as most \"liked,\" or regarded with pleasure, wouldn&rsquo;t make sense in context. The text focuses on the idea that a study found that healthy reef sounds may encourage groups of oyster larvae to form reefs (permanent homes), not on the idea that some of the groups in the study were liked more than others. Choice D is incorrect because the text doesn&rsquo;t indicate that hearing sounds of a healthy oyster reef caused some groups of oyster larvae to be \"distressed,\" or to experience difficulty or begin to decline. Instead, the text indicates that the sounds increased the likelihood that groups of larvae would establish a reef (a permanent home), suggesting that the sounds had a positive effect on the larvae.</p>",
+    "externalid": "e5f96c7a-1d41-4770-b369-48b1a28e1456",
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323034,
+    "pPcc": "P89#CAS",
+    "questionId": "e545b111",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "dd8c7501-5113-4961-94f9-01ff61b83a14",
+    "skill_desc": "Words in Context",
+    "createDate": 1730147323034,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "33281590-ff75-47d2-8820-e0840888f7c8",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "stimulus": "<p>It would be a mistake to <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the exhibit that artist and curator Joe Baker, who is a member of the Lenape (Delaware) people, has organized at the Brooklyn Public Library. The exhibit, which includes Lenape beadwork from the 1850s as well as modern works that use traditional patterns, is essential viewing.</p>",
+    "type": "mcq",
+    "keys": [
+      "6b9a2af8-95df-44be-8c49-8941d0950250"
+    ],
+    "answerOptions": [
+      {
+        "id": "5576641f-4321-4475-b0c5-017e06f1e0c6",
+        "content": "<p>complicate</p>"
+      },
+      {
+        "id": "81db8eab-90f5-4746-a161-b7d519ec4b01",
+        "content": "<p>amplify</p>"
+      },
+      {
+        "id": "6b9a2af8-95df-44be-8c49-8941d0950250",
+        "content": "<p>overlook</p>"
+      },
+      {
+        "id": "48983c27-df29-4825-a80e-b1cbfb6107b1",
+        "content": "<p>assemble</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer because it most logically completes the text&rsquo;s discussion of an exhibit at the Brooklyn Public Library. In this context, \"overlook\" means to ignore or to miss. The text states that artist and curator Joe Baker organized an exhibit that features Lenape beadwork in historical and modern works. The text describes the exhibit as \"essential viewing,\" suggesting that it&rsquo;s an important exhibit that people should make an effort to visit; this context conveys that it would be a mistake to overlook the exhibit.</p><p>Choice A is incorrect. In this context, \"complicate\" would mean to add difficulty, and there&rsquo;s no reason to think the text would need to directly caution against complicating Baker&rsquo;s exhibit; the text focuses on the idea that the exhibit is \"essential viewing,\" not on the idea of a potential difficulty that could be raised. Choice B is incorrect. In this context, \"amplify\" means to increase, and there&rsquo;s no reason to believe the text would indicate that it would be a mistake to increase an exhibit the text describes as \"essential viewing.\" Choice D is incorrect because it wouldn&rsquo;t make sense to say that it would be a mistake to \"assemble,\" or put together, Baker&rsquo;s exhibit: the text makes it clear that the exhibit has already been put together and, further, praises the exhibit as \"essential viewing.\"</p>",
+    "externalid": "33281590-ff75-47d2-8820-e0840888f7c8",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959377,
+    "pPcc": "P89#CAS",
+    "questionId": "8b067259",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "ecc5dbc0-af5f-4448-9c29-c2dd163aa0fd",
+    "skill_desc": "Words in Context",
+    "createDate": 1691007959377,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": null,
+    "external_id": "4cd606a1-d6ca-45f1-a331-a05fa924ae37",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "vaultid": "08f66153-240c-4f97-844b-cb18011a3ecc",
+    "keys": [
+      "45727261-64b2-4c99-aeeb-2b3936262c7c"
+    ],
+    "rationale": "<p>Choice C is the best answer. &ldquo;Spans&rdquo; means &ldquo;extends over a distance of&rdquo; or &ldquo;encompasses.&rdquo; Since we&rsquo;re talking about the world&rsquo;s largest plant, it makes sense to say that it &ldquo;spans&rdquo; about 200 square kilometers. </p><p>Choice A is incorrect. &ldquo;Acknowledges&rdquo; means &ldquo;recognizes&rdquo; or &ldquo;admits the truth of.&rdquo; Either way, it doesn&rsquo;t make sense here: a plant can&rsquo;t &ldquo;acknowledge&rdquo; a distance. Choice B is incorrect. &ldquo;Produces&rdquo; can mean &ldquo;makes,&rdquo; &ldquo;causes,&rdquo; or &ldquo;presents.&rdquo; But none of those definitions make sense here: a plant can&rsquo;t make, cause, or present a distance. Choice D is incorrect. This doesn&rsquo;t fit the logic of the text. &ldquo;Advances&rdquo; means &ldquo;moves forward&rdquo; or &ldquo;progresses.&rdquo; But the plant isn&rsquo;t necessarily moving forward. Rather, the text suggests that it already covers a distance of 200 square kilometers. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "externalid": "4cd606a1-d6ca-45f1-a331-a05fa924ae37",
+    "stimulus": "<p>Biologist Jane Edgeloe and colleagues have located what is believed to be the largest individual plant in the world in the Shark Bay area of Australia. The plant is a type of seagrass called <em>Posidonia australis</em>, and it <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> approximately 200 square kilometers.</p>",
+    "templateclusterid": "86fd0618-1f74-495b-af02-c5b23fb496b3",
+    "parenttemplatename": "OSP-KA-WIC-E004",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "04b618cf-864a-409d-b2bd-15041e8138f4",
+        "content": "<p>acknowledges</p>"
+      },
+      {
+        "id": "3f7bce39-8320-4588-a0ac-7f75ec5d7b4d",
+        "content": "<p>produces</p>"
+      },
+      {
+        "id": "45727261-64b2-4c99-aeeb-2b3936262c7c",
+        "content": "<p>spans</p>"
+      },
+      {
+        "id": "a8d85049-5154-4040-a53e-1659b17f8ce9",
+        "content": "<p>advances</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1743430669207,
+    "pPcc": "P89#CAS",
+    "questionId": "8eee5edb",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "f0ca7448-1898-4f64-ab44-6795c66ae077",
+    "skill_desc": "Words in Context",
+    "createDate": 1743430669207,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": "",
+    "external_id": "59d4e01c-ca0e-46e7-8e34-fa003898eec8",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "type": "mcq",
+    "stem": "<p>Which choice completes the text with the most logical and precise word or phrase?</p>",
+    "stimulus": "<p>Art scholars have noted that some colors seem to be more <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> viewers than others. For example, people tend to find paintings featuring blues and greens more appealing than paintings featuring yellows and oranges. &nbsp;</p>",
+    "keys": [
+      "d2a41bb1-481b-4832-aa98-3a5b498bb286"
+    ],
+    "answerOptions": [
+      {
+        "id": "423b23ba-4d3a-479b-8e5c-364b371596eb",
+        "content": "<p>confusing for</p>"
+      },
+      {
+        "id": "d2a41bb1-481b-4832-aa98-3a5b498bb286",
+        "content": "<p>attractive to</p>"
+      },
+      {
+        "id": "910e77c4-63a5-4e9d-94e8-467a1cf57fbb",
+        "content": "<p>corrected by</p>"
+      },
+      {
+        "id": "819d3e40-9c91-4582-8f3b-fac21a56a2e6",
+        "content": "<p>similar to</p>"
+      }
+    ],
+    "rationale": "<p>Choice B is the best answer because it best completes the text&rsquo;s discussion of how viewers respond to colors. The text presents something art scholars have noted and gives the example of people tending to find paintings with blues and greens more appealing than those with yellows and oranges. This context conveys that certain colors are more \"attractive to\" viewers than other colors are.</p><p>Choice A is incorrect because the text indicates only that people tend to find some colors more appealing than others and gives no indication that certain colors are ever \"confusing for,\" or puzzling to, viewers. Choice C is incorrect because the text discusses the relative appeal of certain colors in paintings but gives no indication that any colors would ever be \"corrected by\" viewers, or somehow fixed or improved by them. Choice D is incorrect because it wouldn&rsquo;t make much sense to say that some colors are more \"similar to\" viewers than others, which would suggest that colors and viewers are alike to different degrees. Further, the text primarily emphasizes a difference, not a similarity, in how appealing paintings tend to be based on the colors they contain.</p>",
+    "externalid": "59d4e01c-ca0e-46e7-8e34-fa003898eec8",
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959360,
+    "pPcc": "P89#CAS",
+    "questionId": "c0f1438a",
+    "skill_cd": "CTC",
+    "score_band_range_cd": 1,
+    "uId": "f0d21699-36ab-4378-b2c8-540adf18d976",
+    "skill_desc": "Cross-Text Connections",
+    "createDate": 1691007959360,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": null,
+    "external_id": "e922c1df-ab9c-47b9-b4c0-1bdf3bfa1b7e",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "vaultid": "d6494708-5055-499c-90e6-e51d63ab2908",
+    "keys": [
+      "9ef8cd05-6a20-44fa-b4a9-dc0575d151d8"
+    ],
+    "rationale": "<p>Choice A is the best answer. Text 1 states that cassava&rsquo;s &ldquo;rise to popularity was slow&rdquo; in West Africa. Text 2 also describes cassava&rsquo;s &ldquo;slow adoption into the diet of West Africans.&rdquo; While the two texts identify different causes for this slow adoption, both agree that cassava took a long time to catch on. </p><p>Choice B is incorrect. This isn&rsquo;t something that either text claims. Cassava is the only crop discussed in the passages, so we have no basis to draw conclusions about what the authors might say about &ldquo;several&rdquo; crops. Choice C is incorrect. This isn&rsquo;t something that either text claims. Neither text mentions the &ldquo;climate of the West African coast,&rdquo; so we have no evidence that either author would agree with this. Choice D is incorrect. This isn&rsquo;t something that either text claims. The 1500s were when cassava was brought to West Africa, but neither text describes how cassava is cooked, nor do they make any claims about when cooking methods were developed. </p>",
+    "origin": "proteus",
+    "stem": "<p>Based on the texts, the author of Text 1 and the author of Text 2 would most likely agree with which statement?</p>",
+    "externalid": "e922c1df-ab9c-47b9-b4c0-1bdf3bfa1b7e",
+    "stimulus": "<p><span role=\"heading\" aria-level=\"2\"><strong>Text 1</strong></span></p>\n<p>Today the starchy root cassava is found in many dishes across West Africa, but its rise to popularity was slow. Portuguese traders brought cassava from Brazil to the West African coast in the 1500s. But at this time, people living in the capitals further inland had little contact with coastal communities. Thus, cassava remained relatively unknown to most of the region&rsquo;s inhabitants until the 1800s.</p>\n<p>&nbsp;</p>\n<p><span role=\"heading\" aria-level=\"2\"><strong>Text 2</strong></span></p>\n<p>Cassava&rsquo;s slow adoption into the diet of West Africans is mainly due to the nature of the crop itself. If not cooked properly, cassava can be toxic. Knowledge of how to properly prepare cassava needed to spread before the food could grow in popularity. The arrival of formerly enslaved people from Brazil in the 1800s, who brought their knowledge of cassava and its preparation with them, thus directly fueled the spread of this crop.</p>",
+    "templateclusterid": "49238315-ccf1-4c00-974a-7eb307c6f3e3",
+    "parenttemplatename": "OSP-KA-CTC-E001",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "9ef8cd05-6a20-44fa-b4a9-dc0575d151d8",
+        "content": "<p>Cassava did not become a significant crop in West Africa until long after it was first introduced.</p>"
+      },
+      {
+        "id": "19886634-fa87-4d38-8ace-9345c3ac29f5",
+        "content": "<p>Several of the most commonly grown crops in West Africa are originally from Brazil.</p>"
+      },
+      {
+        "id": "50f07a49-c33e-43c4-b042-2b32f91743f3",
+        "content": "<p>The climate of the West African coast in the 1500s prevented cassava&rsquo;s spread in the region.&nbsp;</p>"
+      },
+      {
+        "id": "41cb6f11-fa42-4da0-a017-ef124fbcc765",
+        "content": "<p>The most commonly used methods to cook cassava today date to the 1500s.</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959377,
+    "pPcc": "P89#CAS",
+    "questionId": "fd32b058",
+    "skill_cd": "WIC",
+    "score_band_range_cd": 1,
+    "uId": "fa9baa81-cb50-44f5-86d5-788cbdb33ffb",
+    "skill_desc": "Words in Context",
+    "createDate": 1691007959377,
+    "program": "P89",
+    "primary_class_cd_desc": "Craft and Structure",
+    "ibn": null,
+    "external_id": "7740dcbf-6582-4063-b1a2-01dbe8e08128",
+    "primary_class_cd": "CAS",
+    "difficulty": "E",
+    "vaultid": "b90cf24b-4b82-4436-a3d5-bb49b75b19e1",
+    "keys": [
+      "88850f1d-4144-48d7-92c3-b11f5728f784"
+    ],
+    "rationale": "<p>Choice C is the best answer because as used in the text, &ldquo;spread&rdquo; most nearly means extended. The text states that the zoo is &ldquo;huge,&rdquo; that it covers &ldquo;numberless acres,&rdquo; and that it is large enough that a train is needed to explore it. Thus, the text&rsquo;s emphasis on the zoo&rsquo;s size suggests that the zoo extended, or stretched, over a large area of land. </p><p>Choice A is incorrect because if the zoo covers &ldquo;numberless acres,&rdquo; then it could not reasonably be described as hidden, or concealed from view. Choice B is incorrect because there is nothing in the text to suggest that the zoo was discussed, or talked about. Rather, the text focuses on the zoo&rsquo;s large size.&nbsp;Choice D is incorrect. Although in some contexts &ldquo;spread&rdquo; can mean coated, it doesn&rsquo;t have that meaning in this context because to coat something means to apply a thin layer of a liquid substance, such as oil or paint, to a surface. Therefore, it would not be accurate to say that the zoo coated the acres on which it sits.&nbsp;&nbsp;</p>",
+    "origin": "proteus",
+    "stem": "<p>As used in the text, what does the word &ldquo;spread&rdquo; most nearly mean?</p>",
+    "externalid": "7740dcbf-6582-4063-b1a2-01dbe8e08128",
+    "stimulus": "<p>The following text is from Yann Martel&rsquo;s 2001 novel <em>Life of Pi</em>. The narrator&rsquo;s family owned a zoo when he was a child.&nbsp;</p>\n<blockquote>\n<p>It was a huge zoo, <span role=\"region\" aria-label=\"Referenced Content\"><u>spread</u></span> over numberless acres, big enough to require a train to explore it, though it seemed to get smaller as I grew older, train included.&nbsp;</p>\n</blockquote>\n<p style=\"text-align: right;\"><span class=\"dap_copyright\">&copy;2001 by Yann Martel</span></p>",
+    "templateclusterid": "73eca24b-ec50-4d1f-a3d4-aa5b68e2d5f2",
+    "parenttemplatename": "OSP-KA-WIC-E005",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "a4110fca-339c-4a25-a125-1d17d68f2ba1",
+        "content": "<p>Hidden</p>"
+      },
+      {
+        "id": "6c7385a3-3c64-4a11-9bb4-f7ed3ff8f5f2",
+        "content": "<p>Discussed</p>"
+      },
+      {
+        "id": "88850f1d-4144-48d7-92c3-b11f5728f784",
+        "content": "<p>Extended</p>"
+      },
+      {
+        "id": "05c7edce-0354-4add-a722-060736ecd9ff",
+        "content": "<p>Coated</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  }
+]

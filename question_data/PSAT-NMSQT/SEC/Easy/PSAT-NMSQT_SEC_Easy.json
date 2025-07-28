@@ -1,0 +1,3623 @@
+[
+  {
+    "updateDate": 1730147323050,
+    "pPcc": "P10#SEC",
+    "questionId": "4db3a148",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "010095d3-c458-4f92-9c30-41720a9a0ffa",
+    "skill_desc": "Boundaries",
+    "createDate": 1730147323050,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "3e9880cd-98c2-422e-bba8-c7d45f2ce482",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>Located in the northern United States, the Great Lakes Basin contains roughly 35,000 islands. Lake Superior has Grand Island, for example. Lake Michigan has Belle Isle. Lake Huron, though, is home <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the largest island of them all: Manitoulin Island. &nbsp;</p>",
+    "type": "mcq",
+    "keys": [
+      "a38e550e-e348-4ab8-9a2e-fe57ab597f3f"
+    ],
+    "answerOptions": [
+      {
+        "id": "cf2a0a16-bfbf-45ec-9200-04b476474425",
+        "content": "<p>to;</p>"
+      },
+      {
+        "id": "4416605d-d56d-45bb-b945-c1dfb2b87da8",
+        "content": "<p>to&mdash;</p>"
+      },
+      {
+        "id": "a38e550e-e348-4ab8-9a2e-fe57ab597f3f",
+        "content": "<p>to</p>"
+      },
+      {
+        "id": "9c02d051-904f-4381-80f6-7d728fa35c4e",
+        "content": "<p>to,</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use between a preposition and its complement. No punctuation is needed between the preposition \"to\" and its complement \"the largest island of them all.\" The complement completes the meaning of the preposition in the phrase \"home to the largest island of them all,\" and any punctuation within it results in an ungrammatical sentence.</p><p>Choice A is incorrect because no punctuation is needed between the preposition and its complement. Choice B is incorrect because no punctuation is needed between the preposition and its complement. Choice D is incorrect because no punctuation is needed between the preposition and its complement.</p>",
+    "externalid": "3e9880cd-98c2-422e-bba8-c7d45f2ce482",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959366,
+    "pPcc": "P10#SEC",
+    "questionId": "59b92ac2",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 1,
+    "uId": "0158103f-e230-417f-97c9-022f923be32d",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959366,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "c94d0117-bc9c-470c-9921-5ab8d5bc08df",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "1312b3b1-ec3f-4e8f-abd1-6152a868b0a6",
+    "keys": [
+      "4f5568d9-5b5d-42bb-bf61-c77f5586b9e9"
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is the use of nonfinite verb forms in a sentence. The nonfinite to-infinitive verb \"to join\" is correctly used to form a subordinate clause that expresses why Ochoa left her position (to join the training program).</p><p>Choice B is incorrect because the finite verb \"is joining\" can&rsquo;t be used in this way to indicate Ochoa&rsquo;s action of joining the training program. A conjunction such as \"and\" would be needed to coordinate \"is joining\" with the previous finite verb, \"left.\" Choice C is incorrect because the finite verb \"joined\" can&rsquo;t be used in this way to indicate Ochoa&rsquo;s action of joining the training program. A conjunction such as \"and\" would be needed to coordinate \"joined\" with the previous finite verb, \"left.\" Choice D is incorrect because the finite verb \"joins\" can&rsquo;t be used in this way to indicate Ochoa&rsquo;s action of joining the training program. A conjunction such as \"and\" would be needed to coordinate \"joins\" with the previous finite verb, \"left.\"</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "c94d0117-bc9c-470c-9921-5ab8d5bc08df",
+    "stimulus": "<p>In 1990, California native and researcher Ellen Ochoa left her position as chief of the Intelligent Systems Technology Branch at a NASA research center <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the space agency&rsquo;s astronaut training program.</p>",
+    "templateclusterid": "d93d4408-11d1-4d9e-be01-a965c3baa2f3",
+    "parenttemplatename": "OSP-KA-FSS-E002",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "4f5568d9-5b5d-42bb-bf61-c77f5586b9e9",
+        "content": "<p>to join</p>"
+      },
+      {
+        "id": "4edbd910-3b9a-4c42-b8df-2b1db1dca78d",
+        "content": "<p>is joining</p>"
+      },
+      {
+        "id": "87979613-f5c3-429b-9aec-3ca6f9618bc8",
+        "content": "<p>joined</p>"
+      },
+      {
+        "id": "ac38c86d-eadd-4307-9f9e-e8473d56182b",
+        "content": "<p>joins</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323050,
+    "pPcc": "P10#SEC",
+    "questionId": "cae368a0",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "03c4ef6b-ebc2-4146-a807-d4e2adf2f16b",
+    "skill_desc": "Boundaries",
+    "createDate": 1730147323050,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "002fb221-07c6-4406-a00c-ed57339ea78c",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>The algaita is a double reed wind instrument from West Africa. The reed of a wind instrument is the mouthpiece <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> A double reed contains two pieces of cane that vibrate and produce sound as air passes between them.</p>",
+    "type": "mcq",
+    "keys": [
+      "4401928d-2800-409b-baf3-475cbaac306e"
+    ],
+    "answerOptions": [
+      {
+        "id": "ded3cc27-dd60-44e1-912e-1b49d9f42258",
+        "content": "<p>where sound is made?</p>"
+      },
+      {
+        "id": "78968170-65e2-4474-9c42-d244e5fc0aa2",
+        "content": "<p>where is sound made.</p>"
+      },
+      {
+        "id": "4401928d-2800-409b-baf3-475cbaac306e",
+        "content": "<p>where sound is made.</p>"
+      },
+      {
+        "id": "2bee7168-0da1-4daf-8bfc-ef1cc5b1cfde",
+        "content": "<p>where is sound made?</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is end-of-sentence punctuation. This choice correctly uses a period to punctuate a declarative sentence (\"the reed of a wind instrument is the mouthpiece\") that ends with a prepositional phrase (\"where sound is made\").</p><p>Choice A is incorrect. It&rsquo;s unconventional to use a question mark to punctuate a declarative sentence. Choice B is incorrect. The structure requires that the sentence continue as a declarative clause, not end with an interrogative clause. Choice D is incorrect. The structure requires that the sentence continue as a declarative clause and end with a period, not end with an interrogative clause and a question mark.</p>",
+    "externalid": "002fb221-07c6-4406-a00c-ed57339ea78c",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959358,
+    "pPcc": "P10#SEC",
+    "questionId": "9621804c",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 1,
+    "uId": "0d893a3d-166b-4e96-9f69-999308c99482",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959358,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "c7948c58-730a-4e33-9b99-8b3ed2ccf4f0",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "82b7dbed-bbba-4cd9-a3c9-d08a2dbb489e",
+    "keys": [
+      "bc44b834-2c60-4179-883d-74b1c41b6e5c"
+    ],
+    "rationale": "<p>Choice D is the best answer. Notice that \"the sanctity of animal life\" is the first item in a list of three things. We must use a comma to separate the first two items in the list, just as a comma is used to separate \"the just treatment of the elderly\" and \"the abolition of the slave trade.\"</p><p>Choice A is incorrect. This choice creates a punctuation error. Notice that \"the sanctity of animal life\" is the first item in a list of three things. To appropriately format the list, we need punctuation to separate each item. Choice B is incorrect. This choice creates a punctuation error. Notice that \"the sanctity of animal life\" is the first item in a list of three things. While semicolons are sometimes used to separate list items, this list uses commas to separate the other list items, and lists must use the same punctuation throughout. Choice C is incorrect. This choice creates a punctuation error. Notice that \"the sanctity of animal life\" is the first item in a list of three things. While colons can be used to introduce lists, they can&rsquo;t be used to separate items within a list.</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "c7948c58-730a-4e33-9b99-8b3ed2ccf4f0",
+    "stimulus": "<p>Emperor Ashoka ruled the Maurya Empire in South Asia from roughly 270 to 232 BCE. He is known for enforcing a moral code called the Law of Piety, which established the sanctity of animal <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the just treatment of the elderly, and the abolition of the slave trade.</p>",
+    "templateclusterid": "4eb6903e-c99c-47b0-9e37-e8b5a4d87919",
+    "parenttemplatename": "OSP-KA-BOU-E002",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "a6261e5e-86e1-45f3-8c2e-b5a3576d4381",
+        "content": "<p>life</p>"
+      },
+      {
+        "id": "768ef4e5-8ff1-4563-b8b7-23bb05aae560",
+        "content": "<p>life;</p>"
+      },
+      {
+        "id": "8d612724-47a2-4f32-a8b7-8aa94cb5d25f",
+        "content": "<p>life:</p>"
+      },
+      {
+        "id": "bc44b834-2c60-4179-883d-74b1c41b6e5c",
+        "content": "<p>life,</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959366,
+    "pPcc": "P10#SEC",
+    "questionId": "d52601c6",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "12c606a0-ff64-408b-b7c4-d92c22884922",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959366,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "a36b0b7c-48db-4ea0-9355-d1af147bdc3c",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "59d11af7-cc91-4df8-abdf-15624bebad7f",
+    "keys": [
+      "57b3631d-2032-4a38-8654-84afe7a2e537"
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is the use of possessive nouns. The singular possessive noun \"Moon&rsquo;s\" correctly indicates that there is only one Moon, and it has a gravitational pull.</p><p>Choice B is incorrect because the context requires the singular possessive noun \"Moon&rsquo;s,\" not the plural noun \"Moons.\" Choice C is incorrect because the context requires the singular possessive noun \"Moon&rsquo;s,\" not the plural possessive noun \"Moons&rsquo;.\" Choice D is incorrect because the context requires the singular possessive noun \"Moon&rsquo;s,\" not the singular noun \"Moon.\"</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "a36b0b7c-48db-4ea0-9355-d1af147bdc3c",
+    "stimulus": "<p>Earth is not a perfect sphere. Due to the <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> gravitational pull, Earth bulges out on the sides closest to and farthest from the Moon. This distorting pull is known as a tidal force, and it is responsible for the changes in water levels that are called high and low tides.</p>",
+    "templateclusterid": "e4e072a6-b6fe-4971-baf3-e953c2d4398c",
+    "parenttemplatename": "OSP-KA-FSS-E009",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "57b3631d-2032-4a38-8654-84afe7a2e537",
+        "content": "<p>Moon&rsquo;s</p>"
+      },
+      {
+        "id": "a0f9edeb-b351-42af-957f-49f526698e84",
+        "content": "<p>Moons</p>"
+      },
+      {
+        "id": "d7306a4a-89a3-41e5-bd52-f82d3eed1e3c",
+        "content": "<p>Moons&rsquo;</p>"
+      },
+      {
+        "id": "ed6834ae-8c28-45c9-a10b-984f8dbe06d5",
+        "content": "<p>Moon</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959350,
+    "pPcc": "P10#SEC",
+    "questionId": "1bc66123",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "13440027-8663-4ffc-9621-c29d4384c923",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959350,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "b426ef5f-b7cb-4486-bd1e-c1576e4ef344",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "a2555bb8-a0fa-458f-bfb0-b2099c413fb9",
+    "keys": [
+      "9d6b1c27-7407-4477-8bdd-50bdda545fe9"
+    ],
+    "rationale": "<p>Choice B is the best answer. The convention being tested is subject-verb agreement. The singular verb \"was\" agrees in number with the singular subject \"Farouk El-Baz.\"</p><p>Choice A is incorrect because the plural verb \"are\" doesn&rsquo;t agree in number with the singular subject \"Farouk El-Baz.\" Choice C is incorrect because the plural verb \"have been\" doesn&rsquo;t agree in number with the singular subject \"Farouk El-Baz.\" Choice D is incorrect because the plural verb \"were\" doesn&rsquo;t agree in number with the singular subject \"Farouk El-Baz.\"</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "b426ef5f-b7cb-4486-bd1e-c1576e4ef344",
+    "stimulus": "<p>Farouk El-Baz, a geologist and space scientist, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> part of the team that selected the lunar landing sites for the Apollo program during the 1960s and 1970s.&nbsp;</p>",
+    "templateclusterid": "85261cf4-3aa7-4a0f-a6a1-661f590b9897",
+    "parenttemplatename": "OSP-747-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "a5a54cf8-21b4-4b93-bd9f-41a768b77772",
+        "content": "<p>are</p>"
+      },
+      {
+        "id": "9d6b1c27-7407-4477-8bdd-50bdda545fe9",
+        "content": "<p>was</p>"
+      },
+      {
+        "id": "d093713f-38b5-46c9-bd49-2817803a2aa4",
+        "content": "<p>have been</p>"
+      },
+      {
+        "id": "6f1dd18a-ed2f-460a-80cc-0f59aa64e21c",
+        "content": "<p>were</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959349,
+    "pPcc": "P10#SEC",
+    "questionId": "ad1825e8",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 1,
+    "uId": "144ad9c0-67ab-46d6-8f93-731d9b262155",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959349,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "2e13e59a-2ea7-4c98-b37e-06a129472be2",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "9d970279-71cc-4670-bbdb-2dea618082df",
+    "keys": [
+      "6f490a9e-3124-4a1c-ab33-6afc65a7e248"
+    ],
+    "rationale": "<p>Choice D is the best answer. The convention being tested is punctuation between a verb and a prepositional phrase. No punctuation is needed between the verb &ldquo;blend&rdquo; and the prepositional phrase &ldquo;with Charlie Adams&rsquo;s delightfully catchy vocal melodies.&rdquo; The prepositional phrase completes the idea of the sentence, explaining with what Koperqualuk&rsquo;s guitar riffs blend. </p><p>Choice A is incorrect because no punctuation is needed between the verb and the prepositional phrase. &nbsp;Choice B is incorrect because no punctuation is needed between the verb and the prepositional phrase.&nbsp;&nbsp;Choice C is incorrect because no punctuation is needed between the verb and the prepositional phrase. &nbsp;</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "2e13e59a-2ea7-4c98-b37e-06a129472be2",
+    "stimulus": "<p>In 1976, the Inuit rock group Sikumiut recorded the album <em>People of the Ice</em>. Though only their first record, it shows a band already skilled at the difficult task of making music that sounds easy and fun. On songs like &ldquo;Utirumavunga,&rdquo; Lucassie Koperqualuk&rsquo;s guitar riffs effortlessly <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Charlie Adams&rsquo;s delightfully catchy vocal melodies.</p>",
+    "templateclusterid": "a8d2d266-434c-417d-8cba-95d23cea9378",
+    "parenttemplatename": "OSP-739-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "d7d178d5-5f50-45e4-9c6e-e44deb7fcf87",
+        "content": "<p>blend, with</p>"
+      },
+      {
+        "id": "c8f2118a-179c-44c5-9c4f-7f822f15360a",
+        "content": "<p>blend. With</p>"
+      },
+      {
+        "id": "2ca46a2e-f682-41a0-b5d3-968d1176cbb6",
+        "content": "<p>blend; with</p>"
+      },
+      {
+        "id": "6f490a9e-3124-4a1c-ab33-6afc65a7e248",
+        "content": "<p>blend with</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1730147323050,
+    "pPcc": "P10#SEC",
+    "questionId": "f90ae2a3",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "1710d3a6-012a-49a8-9cb6-5226ee122a07",
+    "skill_desc": "Boundaries",
+    "createDate": 1730147323050,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "c99ab588-0747-4b82-ae2e-d8a46f360a23",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>According to the University of Hawaiʻi at Mānoa, <span lang=\"haw\">aloha ʻāina</span> is &ldquo;a recognition, commitment, and practice sustaining the ea&mdash;or life breath&rdquo; between the Hawaiian people and their natural environments. The concept has been proudly embodied <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Native Hawaiians for generations, contributing to the lush flora and renowned beauty of the islands.</p>",
+    "type": "mcq",
+    "keys": [
+      "453ee52a-828e-4255-8984-45251043f8dd"
+    ],
+    "answerOptions": [
+      {
+        "id": "68677fd4-5e96-442e-a6e3-c9049fff54bc",
+        "content": "<p>by;</p>"
+      },
+      {
+        "id": "9f4f6a3f-8033-4ee5-9849-47eea7afafc0",
+        "content": "<p>by:</p>"
+      },
+      {
+        "id": "b13844fa-1aff-43c1-bc5c-b1dd98fe6cae",
+        "content": "<p>by,</p>"
+      },
+      {
+        "id": "453ee52a-828e-4255-8984-45251043f8dd",
+        "content": "<p>by</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer. The convention being tested is punctuation use between a preposition and its complement. No punctuation is needed between the preposition \"by\" and its complement \"Native Hawaiians.\" The complement completes the meaning of the preposition in the phrase \"proudly embodied by Native Hawaiians,\" and any punctuation within it results in an ungrammatical sentence.</p><p>Choice A is incorrect because no punctuation is needed between the preposition and its complement. Choice B is incorrect because no punctuation is needed between the preposition and its complement. Choice C is incorrect because no punctuation is needed between the preposition and its complement.</p>",
+    "externalid": "c99ab588-0747-4b82-ae2e-d8a46f360a23",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959366,
+    "pPcc": "P10#SEC",
+    "questionId": "c814e8b5",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "1dff26f3-3b3f-444a-8fa0-7b836e7134c9",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959366,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "58ceaace-6b30-4c79-a30a-16ae42c6a122",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "03cc3079-64b6-429a-a434-150466600486",
+    "keys": [
+      "30fd212e-b928-4bed-9416-4f768c4cd88e"
+    ],
+    "rationale": "<p>Choice D is the best answer. Faure redesigned the battery in 1881, and the original battery was invented &ldquo;fifteen years earlier.&rdquo; Notice that this is the only choice in the past tense. To indicate that a past occurrence took place before another past occurrence, we need to use &ldquo;had&rdquo; + the past tense form of the verb. This is called the &ldquo;past perfect&rdquo; tense. </p><p>Choice A is incorrect. This choice creates a tense error. Plant&eacute; invented the original battery in the past, so we shouldn&rsquo;t use the present tense &ldquo;is inventing.&rdquo; Choice B is incorrect. This choice creates a tense error. Plant&eacute; invented the original battery in the past, so we shouldn&rsquo;t use the future tense &ldquo;will invent.&rdquo; Choice C is incorrect. This choice creates a tense error. Plant&eacute; invented the original battery in the past, so we shouldn&rsquo;t use the present tense &ldquo;invents.&rdquo; </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "58ceaace-6b30-4c79-a30a-16ae42c6a122",
+    "stimulus": "<p>In 1881, French chemist Camille Faure redesigned the rechargeable lead-acid battery. Faure&rsquo;s design greatly increased the amount of electricity that the original battery, which the French physicist Gaston Plant&eacute; <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> fifteen years earlier, could hold.</p>",
+    "templateclusterid": "c832d63b-65c7-470a-9aa9-055b87e6942f",
+    "parenttemplatename": "OSP-KA-FSS-E003",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "3c6a793d-1799-4c53-bd45-536fa6617486",
+        "content": "<p>is inventing</p>"
+      },
+      {
+        "id": "804bbbad-abeb-430d-88c6-7acb1de317b5",
+        "content": "<p>will invent</p>"
+      },
+      {
+        "id": "65d9b28f-a632-47e9-9284-afc3ae479f13",
+        "content": "<p>invents</p>"
+      },
+      {
+        "id": "30fd212e-b928-4bed-9416-4f768c4cd88e",
+        "content": "<p>had invented</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959340,
+    "pPcc": "P10#SEC",
+    "questionId": "7fe1b853",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "1f2849d9-3a52-4b3a-90d8-e4f25150495f",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959340,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "d89bd0e9-6f42-40c3-823a-8b84df10b1dd",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "f10f8955-ebee-490a-bab6-bdbc9ec520cd",
+    "keys": [
+      "1486a0ab-4b20-47c0-a0c8-b3afcbfaa157"
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is the use of finite verbs in a relative clause. Relative clauses, such as the one beginning with &ldquo;which,&rdquo; require a finite verb, a verb that can function as the main verb of a clause. This choice correctly supplies the clause with the finite past tense verb &ldquo;provided.&rdquo; </p><p>Choice B is incorrect because the non-finite participle &ldquo;having provided&rdquo; doesn&rsquo;t supply the clause with a finite verb. Choice C is incorrect because the non-finite to-infinitive &ldquo;to provide&rdquo; doesn&rsquo;t supply the clause with a finite verb. Choice D is incorrect because the non-finite participle &ldquo;providing&rdquo; doesn&rsquo;t supply the clause with a finite verb. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "d89bd0e9-6f42-40c3-823a-8b84df10b1dd",
+    "stimulus": "<p>A member of the Cherokee Nation, Mary Golda Ross is renowned for her contributions to NASA&rsquo;s Planetary Flight Handbook, which <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> detailed mathematical guidance for missions to Mars and Venus.</p>",
+    "templateclusterid": "2ddf83d9-331f-4e0f-9ff6-6c768279dd3a",
+    "parenttemplatename": "OSP-629-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "1486a0ab-4b20-47c0-a0c8-b3afcbfaa157",
+        "content": "<p>provided</p>"
+      },
+      {
+        "id": "1a412e9b-98f3-4a6b-af02-3148e94709cf",
+        "content": "<p>having provided</p>"
+      },
+      {
+        "id": "f42c83dc-4715-408b-93d6-55a7718dce7f",
+        "content": "<p>to provide</p>"
+      },
+      {
+        "id": "5f0cc8cf-e567-4165-8ae2-d76fc4f38d5e",
+        "content": "<p>providing</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323050,
+    "pPcc": "P10#SEC",
+    "questionId": "a1addda1",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "202c0d13-39ba-4b76-ac08-83a54722983b",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1730147323050,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "84666224-5c68-4c5f-a22d-c52e9a707389",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>According to the traditional RYB (red-yellow-blue) color model, yellow is a complementary color to purple. However, yellow <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> considered complementary to blue in modern color theory.</p>",
+    "type": "mcq",
+    "keys": [
+      "377a4b69-e5a8-430a-b1e5-2befddb809ff"
+    ],
+    "answerOptions": [
+      {
+        "id": "377a4b69-e5a8-430a-b1e5-2befddb809ff",
+        "content": "<p>is</p>"
+      },
+      {
+        "id": "e7738696-303f-4a30-82ac-372a182c80f2",
+        "content": "<p>having been</p>"
+      },
+      {
+        "id": "98e32d1f-66a2-4d2d-80dd-33c2f6c4a3b7",
+        "content": "<p>to be</p>"
+      },
+      {
+        "id": "ae99b628-a14a-4356-b580-52abd74211b6",
+        "content": "<p>being</p>"
+      }
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. A main clause requires a finite (tensed) verb to perform the action of the subject (in this case, \"yellow\"), and this choice supplies the present tense verb \"is considered\" to indicate that yellow is considered a complementary color to blue in modern color theory.</p><p>Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"having been considered\" doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to be considered\" doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"being considered\" doesn&rsquo;t supply the main clause with a finite verb.</p>",
+    "externalid": "84666224-5c68-4c5f-a22d-c52e9a707389",
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959351,
+    "pPcc": "P10#SEC",
+    "questionId": "12cd60b9",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "21e91a9b-ad45-49b4-87a0-1ae96173dffc",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959351,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "e0a588a4-5e5a-48bf-916c-83bd97366237",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "6ab66e6f-88c1-4530-9733-2be7e5cfe768",
+    "keys": [
+      "ce8ba3e1-52b2-41f9-bb87-771d65afe930"
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is the use of nonfinite verb forms within a sentence. The nonfinite present participle \"including\" is correctly used to form a participial phrase that supplements the main clause \"he patented many inventions,\" listing several of Spikes&rsquo;s patented inventions.</p><p>Choice A is incorrect because the finite past tense verb \"included\" can&rsquo;t be used in this way to supplement the main clause \"he patented many inventions.\" Choice B is incorrect because the finite present tense verb \"includes\" can&rsquo;t be used in this way to supplement the main clause \"he patented many inventions.\" Choice D is incorrect because the finite future tense verb \"will include\" can&rsquo;t be used in this way to supplement the main clause \"he patented many inventions.\"</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "e0a588a4-5e5a-48bf-916c-83bd97366237",
+    "stimulus": "<p>Richard Spikes was a prolific African American inventor known for his contributions to automotive engineering. Between 1907 and 1946, he patented many inventions, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> an automobile turn signal, a safety brake, and&mdash;most famously&mdash;the first automatic gearshift.</p>",
+    "templateclusterid": "ab3c3649-6bef-4804-8c05-0034b22cea91",
+    "parenttemplatename": "OSP-759-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "bf627286-1cde-4414-86d2-f57868a4009d",
+        "content": "<p>included</p>"
+      },
+      {
+        "id": "c1a5e500-0c57-442a-8a8f-23f1fb362e29",
+        "content": "<p>includes</p>"
+      },
+      {
+        "id": "ce8ba3e1-52b2-41f9-bb87-771d65afe930",
+        "content": "<p>including</p>"
+      },
+      {
+        "id": "afe85b95-6af5-4e0b-872e-a9bf7b682795",
+        "content": "<p>will include</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1730147323050,
+    "pPcc": "P10#SEC",
+    "questionId": "aad2559b",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "2293c61f-39cc-4fdb-ad5b-4b6c77271862",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1730147323050,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "b64f1285-2a18-40a7-ae6b-1eedba20c77e",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>With residents from Mexico, China, El Salvador, and many other countries, Los Angeles has long been a city of cultural diversity. Even back in the 1860s, nearly 30% of the city&rsquo;s population <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> from outside the United States.</p>",
+    "type": "mcq",
+    "keys": [
+      "97b84fbd-ea90-408c-b3d5-dbcf447cfdcf"
+    ],
+    "answerOptions": [
+      {
+        "id": "c1772eb2-64b0-4ffb-b9f5-a0c64dab5780",
+        "content": "<p>is being</p>"
+      },
+      {
+        "id": "97b84fbd-ea90-408c-b3d5-dbcf447cfdcf",
+        "content": "<p>was</p>"
+      },
+      {
+        "id": "6ffd5077-d93c-406a-bb51-a07ad544be6b",
+        "content": "<p>is</p>"
+      },
+      {
+        "id": "f7204749-1070-4473-a616-bcfb6191e241",
+        "content": "<p>will be</p>"
+      }
+    ],
+    "rationale": "<p>Choice B is the best answer. The convention being tested is the use of verbs to express tense in a sentence. In this choice, the past tense verb \"was,\" used in conjunction with the prepositional phrase \"from outside the United States,\" correctly indicates that in the 1860s nearly 30% of the population in Los Angeles wasn&rsquo;t from the US.</p><p>Choice A is incorrect because the present progressive tense verb \"is being\" doesn&rsquo;t indicate that the claim about Los Angeles&rsquo;s population refers to the population back in the 1860s. Choice C is incorrect because the present tense verb \"is\" doesn&rsquo;t indicate that the claim about Los Angeles&rsquo;s population refers to the population back in the 1860s. Choice D is incorrect because the future tense verb \"will be\" doesn&rsquo;t indicate that the claim about Los Angeles&rsquo;s population refers to the population back in the 1860s.</p>",
+    "externalid": "b64f1285-2a18-40a7-ae6b-1eedba20c77e",
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959347,
+    "pPcc": "P10#SEC",
+    "questionId": "4a6c2336",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "2915bafe-d8c3-4f05-9d64-51c974fd3f88",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959347,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "21b4b72d-63c7-49b2-a0cc-f6a157bd755c",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "8b3ffccf-e0dd-4546-8c85-08a5a3cc814b",
+    "keys": [
+      "13ff2c75-e680-4e7e-8331-26de021db851"
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is punctuation between a preposition and its complement. No punctuation is needed between the preposition &ldquo;of&rdquo; and its complement, the noun phrase &ldquo;healing, self-discovery, and memory.&rdquo; </p><p>Choice B is incorrect because no punctuation is needed between a preposition and its complement.&nbsp;Choice C is incorrect because no punctuation is needed between a preposition and its complement. Choice D is incorrect because no punctuation is needed between a preposition and its complement.&nbsp;</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "21b4b72d-63c7-49b2-a0cc-f6a157bd755c",
+    "stimulus": "<p>In her two major series &ldquo;Memory Test&rdquo; and &ldquo;Autobiography,&rdquo; painter Howardena Pindell explored themes <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> healing, self-discovery, and memory by cutting and sewing back together pieces of canvas and inserting personal artifacts, such as postcards, into some of the paintings.</p>",
+    "templateclusterid": "77c1b64a-b511-42d5-b67d-4795b139ecf2",
+    "parenttemplatename": "OSP-702-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "13ff2c75-e680-4e7e-8331-26de021db851",
+        "content": "<p>of</p>"
+      },
+      {
+        "id": "e00361d9-dad1-4c79-9e5b-a20c5ddd8c4e",
+        "content": "<p>of,</p>"
+      },
+      {
+        "id": "1197b5eb-5fe5-4ae2-8e00-96db68395ea1",
+        "content": "<p>of&mdash;</p>"
+      },
+      {
+        "id": "201c69cb-2e71-4422-bfbb-579d7e9ba6cd",
+        "content": "<p>of:</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323050,
+    "pPcc": "P10#SEC",
+    "questionId": "4b2dcca7",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "2bee8d52-f6d9-45fa-9262-f4db6ad85992",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1730147323050,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "f3097cbc-07dc-4f3f-b5c5-f88623a36c76",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>The First Folio, published in 1623, is the first collection of William Shakespeare&rsquo;s plays. The collection <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> 18 plays that might otherwise have been lost, such as <em>Julius Caesar</em> and <em>Macbeth</em>.</p>",
+    "type": "mcq",
+    "keys": [
+      "7aa193c6-dbe5-4dfb-bbee-3fff6baaeb84"
+    ],
+    "answerOptions": [
+      {
+        "id": "20e36092-a86d-4ca6-9bdb-d9ca20bc21e5",
+        "content": "<p>to be including</p>"
+      },
+      {
+        "id": "4222b38c-2572-47d6-815c-9e9ccc4cbd22",
+        "content": "<p>including</p>"
+      },
+      {
+        "id": "35205716-202c-40a9-b256-31d47253d3a7",
+        "content": "<p>to include</p>"
+      },
+      {
+        "id": "7aa193c6-dbe5-4dfb-bbee-3fff6baaeb84",
+        "content": "<p>includes</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer. The convention being tested is the use of verb forms within a sentence. A main clause requires a finite (tensed) verb to perform the action of the subject (in this case, \"the collection\"), and this choice supplies the finite present tense verb \"includes\" to indicate what is in the collection.</p><p>Choice A is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to be including\" doesn&rsquo;t supply the main clause with a finite verb. Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"including\" doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to include\" doesn&rsquo;t supply the main clause with a finite verb.</p>",
+    "externalid": "f3097cbc-07dc-4f3f-b5c5-f88623a36c76",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959340,
+    "pPcc": "P10#SEC",
+    "questionId": "b17585b1",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "35163f0c-3436-46e4-b2a0-3db28a596462",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959340,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "de4bc4b7-6302-45b9-b7f9-3ab13226a04a",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "b19f616c-2543-43ab-b08f-4a2f9911a4a9",
+    "keys": [
+      "f4d3a25e-04bd-4165-9d5e-c653acae83e3"
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is pronoun&ndash;antecedent agreement. The plural pronoun &ldquo;they&rdquo; agrees in number with the plural antecedent &ldquo;customers.&rdquo; </p><p>Choice B is incorrect because the singular pronoun &ldquo;one&rdquo; doesn&rsquo;t agree in number with the plural antecedent &ldquo;customers.&rdquo; Choice C is incorrect because the second person pronoun &ldquo;you&rdquo; isn&rsquo;t conventional as a substitute for &ldquo;customers.&rdquo; It suggests that the audience (&ldquo;you&rdquo;) is the customer. Choice D is incorrect because the singular pronoun &ldquo;it&rdquo; doesn&rsquo;t agree in number with the plural antecedent &ldquo;customers.&rdquo; </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "de4bc4b7-6302-45b9-b7f9-3ab13226a04a",
+    "stimulus": "<p>Public-awareness campaigns about the need to reduce single-use plastics can be successful, says researcher Kim Borg of Monash University in Australia, when these campaigns give consumers a choice: for example, Japan achieved a 40 percent reduction in plastic-bag use after cashiers were instructed to ask customers whether <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> wanted a bag.</p>",
+    "templateclusterid": "cade368a-e612-4051-93b6-1760a0eb4985",
+    "parenttemplatename": "OSP-636-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "f4d3a25e-04bd-4165-9d5e-c653acae83e3",
+        "content": "<p>they</p>"
+      },
+      {
+        "id": "a31c334a-b07d-4de6-ad08-fcef25b4a519",
+        "content": "<p>one</p>"
+      },
+      {
+        "id": "bef7c81d-62bf-4139-a646-7dfc9fa86b69",
+        "content": "<p>you</p>"
+      },
+      {
+        "id": "83d462eb-8c13-4997-85a2-a820a59bc3c8",
+        "content": "<p>it</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959350,
+    "pPcc": "P10#SEC",
+    "questionId": "e9739feb",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 1,
+    "uId": "377192ce-58c5-4ee1-9f1e-579f6c6186c3",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959350,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "b3e7ba8c-d31f-496c-8cd1-b3c29409a807",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "4e610855-bdb9-4e61-82e9-73190e51f738",
+    "keys": [
+      "34cb6ecc-5806-4ed5-b19d-95494914ffcb"
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. The main clause of a sentence requires a finite (tensed) verb, and this choice supplies the finite present tense verb &ldquo;explain&rdquo; to indicate what the scientists do. </p><p>Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite participle &ldquo;having explained&rdquo; doesn&rsquo;t supply the main clause with a finite verb.&nbsp;Choice C is incorrect because it results in an ungrammatical sentence. The nonfinite participle &ldquo;explaining&rdquo; doesn&rsquo;t supply the main clause with a finite verb.&nbsp;Choice D is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive &ldquo;to explain&rdquo; doesn&rsquo;t supply the main clause with a finite verb. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "b3e7ba8c-d31f-496c-8cd1-b3c29409a807",
+    "stimulus": "<p>Why are Rome&rsquo;s famous concrete structures, such as the Colosseum, still standing after 2,000-plus years, when modern concrete may not even last for fifty? Scientists <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> that the secret to Roman concrete&rsquo;s durability was its unique blend of ingredients, which included volcanic ash and seawater.</p>",
+    "templateclusterid": "e15aaa3c-a31b-4c06-9d3d-9e77663ee990",
+    "parenttemplatename": "OSP-741-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "34cb6ecc-5806-4ed5-b19d-95494914ffcb",
+        "content": "<p>explain</p>"
+      },
+      {
+        "id": "4fc012d6-fb04-41e8-8366-01cbb76132e4",
+        "content": "<p>having explained</p>"
+      },
+      {
+        "id": "a6285352-af14-4b67-a9bc-9afc9f59af30",
+        "content": "<p>explaining</p>"
+      },
+      {
+        "id": "7f4d90f6-ecd4-4ea9-88a9-12a6f7da0c1d",
+        "content": "<p>to explain</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323047,
+    "pPcc": "P10#SEC",
+    "questionId": "ad829347",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 1,
+    "uId": "39edf46e-edc3-430d-bf75-756b2644fdfc",
+    "skill_desc": "Boundaries",
+    "createDate": 1730147323047,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "5e58fdff-e882-4add-a135-ba9fbcd54abf",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>The element carbon has the highest melting point <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> all the elements on the periodic table&mdash;3,500 degrees Celsius.</p>",
+    "type": "mcq",
+    "keys": [
+      "12121d26-f43c-4bd9-958a-f671fef14076"
+    ],
+    "answerOptions": [
+      {
+        "id": "12121d26-f43c-4bd9-958a-f671fef14076",
+        "content": "<p>of</p>"
+      },
+      {
+        "id": "4278f4d0-dfff-4bd9-be5b-327c24639924",
+        "content": "<p>of&mdash;</p>"
+      },
+      {
+        "id": "a491b2cb-fe52-4600-8923-e23df0bcc827",
+        "content": "<p>of,</p>"
+      },
+      {
+        "id": "0f738e57-a2e7-45d4-95c2-2ca721c5beb4",
+        "content": "<p>of:</p>"
+      }
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is punctuation use between a preposition and its complement. No punctuation is needed between the preposition \"of\" and its complement \"all the elements on the periodic table.\" The complement completes the meaning of the preposition in the phrase \"the highest melting point of all the elements on the periodic table,\" and using punctuation to separate the complement from the preposition results in an ungrammatical sentence.</p><p>Choice B is incorrect because no punctuation is needed between the preposition and its complement. Choice C is incorrect because no punctuation is needed between the preposition and its complement. Choice D is incorrect because no punctuation is needed between the preposition and its complement.</p>",
+    "externalid": "5e58fdff-e882-4add-a135-ba9fbcd54abf",
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959350,
+    "pPcc": "P10#SEC",
+    "questionId": "79920251",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 1,
+    "uId": "3b014009-005f-4e47-bb04-7b227eef68db",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959350,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "5f1c6db1-57fc-46f3-9c97-1b9bb3e6c25e",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "b5906944-e2e5-4ca4-af12-d5a89d00fa71",
+    "keys": [
+      "91fb6e51-55fe-4b10-a630-64d07a17adac"
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is pronoun-antecedent agreement. The singular pronoun \"it\" agrees in number with the singular antecedent \"the Salt Lake Temple.\"</p><p>Choice B is incorrect because the singular pronoun \"one\" is ambiguous in this context; the resulting sentence leaves unclear whether there is only one Salt Lake temple or multiple. Choice C is incorrect because the plural pronoun \"they\" doesn&rsquo;t agree in number with the singular antecedent \"the Salt Lake Temple.\" Choice D is incorrect because the plural pronoun \"both\" doesn&rsquo;t agree in number with the singular antecedent \"the Salt Lake Temple.\"</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "5f1c6db1-57fc-46f3-9c97-1b9bb3e6c25e",
+    "stimulus": "<p>With its towering, six-spired exterior of granitelike quartz monzonite, the Salt Lake Temple is one of the most instantly recognizable structures in the state of Utah. However, many people do not know that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> built over the course of forty years, with construction beginning in 1853 and ending in 1893.</p>",
+    "templateclusterid": "d365dd7f-7378-4925-924e-061eae554c01",
+    "parenttemplatename": "OSP-749-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "91fb6e51-55fe-4b10-a630-64d07a17adac",
+        "content": "<p>it was</p>"
+      },
+      {
+        "id": "c5c3c573-0af4-4aeb-bcf9-56696b5913b0",
+        "content": "<p>one was</p>"
+      },
+      {
+        "id": "d9c2b1b4-bcc9-422b-a011-c9165edfa87c",
+        "content": "<p>they were</p>"
+      },
+      {
+        "id": "5fc17a6b-1a05-412a-a65c-05c03d83caf6",
+        "content": "<p>both were</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323051,
+    "pPcc": "P10#SEC",
+    "questionId": "af8c1e9f",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "4085e288-a80e-4aff-8eeb-20a0496976b3",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1730147323051,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "18630e41-b176-43e2-a994-3e994b4f977c",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>In the Inca Empire (1438&ndash;1533), ayllus <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> family clans that ranged in size from small groups to thousands of people.</p>",
+    "type": "mcq",
+    "keys": [
+      "fd8fdf78-b8e5-4b18-a7d4-b0858fb6b391"
+    ],
+    "answerOptions": [
+      {
+        "id": "b33b6761-f576-4867-95d5-84f055e523e5",
+        "content": "<p>is</p>"
+      },
+      {
+        "id": "2b3f41a9-2092-42ad-801c-f55ac6d7d535",
+        "content": "<p>was</p>"
+      },
+      {
+        "id": "614729d8-e6f1-4ab7-b1ef-7a5c00f62c34",
+        "content": "<p>has been</p>"
+      },
+      {
+        "id": "fd8fdf78-b8e5-4b18-a7d4-b0858fb6b391",
+        "content": "<p>were</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer. The convention being tested is subject-verb agreement. The plural verb \"were\" agrees in number with the plural subject \"ayllus,\" which are described as plural \"family clans.\"</p><p>Choice A is incorrect because the singular verb \"is\" doesn&rsquo;t agree in number with the plural subject \"ayllus.\" Choice B is incorrect because the singular verb \"was\" doesn&rsquo;t agree in number with the plural subject \"ayllus.\" Choice C is incorrect because the singular verb \"has been\" doesn&rsquo;t agree in number with the plural subject \"ayllus.\"</p>",
+    "externalid": "18630e41-b176-43e2-a994-3e994b4f977c",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1730147323049,
+    "pPcc": "P10#SEC",
+    "questionId": "6f7a4295",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "41c50aca-58f0-47d9-8c8e-d22a3e2e115d",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1730147323049,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "34dd93b4-638f-4154-a19d-02076e55e31e",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>When they were first introduced to western Europe from Byzantium in the eleventh century, table forks were met with much resistance. The Bishop of Ostia, St. Peter Damian, condemned the eating utensils because he considered <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> dangerous and unnecessary luxury items.&nbsp;</p>",
+    "type": "mcq",
+    "keys": [
+      "ace4ee4f-ea7c-46ff-ad57-660672496fd1"
+    ],
+    "answerOptions": [
+      {
+        "id": "ace4ee4f-ea7c-46ff-ad57-660672496fd1",
+        "content": "<p>them</p>"
+      },
+      {
+        "id": "0cba1e99-47f2-4957-bb04-cea8ced93ae7",
+        "content": "<p>this</p>"
+      },
+      {
+        "id": "b868ebdf-f14e-4a9f-b164-6af870487919",
+        "content": "<p>that</p>"
+      },
+      {
+        "id": "29531e7e-7087-4ee7-a277-f984edcbdf25",
+        "content": "<p>it</p>"
+      }
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is pronoun-antecedent agreement. The plural pronoun \"them\" agrees in number with the plural antecedent \"utensils.\"</p><p>Choice B is incorrect because the singular pronoun \"this\" doesn&rsquo;t agree in number with the plural antecedent \"utensils.\" Choice C is incorrect because the singular pronoun \"that\" doesn&rsquo;t agree in number with the plural antecedent \"utensils.\" Choice D is incorrect because the singular pronoun \"it\" doesn&rsquo;t agree in number with the plural antecedent \"utensils.\"</p>",
+    "externalid": "34dd93b4-638f-4154-a19d-02076e55e31e",
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323047,
+    "pPcc": "P10#SEC",
+    "questionId": "47a47c4e",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 1,
+    "uId": "42810abf-7f01-4439-8459-3f97e52f5704",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1730147323047,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "564abc36-ce43-4c8b-a08b-694a067c2f1d",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>The Boston Saloon was one of the most popular African American&ndash;owned establishments in nineteenth-century Nevada. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> by businessman William A.G. Brown, the saloon was known to offer elegant accommodations and an inclusive environment.</p>",
+    "type": "mcq",
+    "keys": [
+      "30f1eca4-bde8-4595-9f73-1562877ebab0"
+    ],
+    "answerOptions": [
+      {
+        "id": "30f1eca4-bde8-4595-9f73-1562877ebab0",
+        "content": "<p>Created</p>"
+      },
+      {
+        "id": "fb4a22d7-ebb2-46aa-a6a0-47cc93f45915",
+        "content": "<p>Creates</p>"
+      },
+      {
+        "id": "ac1f3e45-3523-4a05-aef1-394dff24dfed",
+        "content": "<p>Creating</p>"
+      },
+      {
+        "id": "5e7f19a6-aede-4d61-8095-96829f6fe499",
+        "content": "<p>Create</p>"
+      }
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. The nonfinite past participle \"created\" is correctly used to form a supplementary element that modifies the noun phrase \"the saloon,\" identifying who established the Boston Saloon.</p><p>Choice B is incorrect because it results in an ungrammatical sentence. The finite present tense verb \"creates\" can&rsquo;t be used in this way to form a supplementary element to modify the noun phrase \"the saloon.\" Choice C is incorrect because it results in an ungrammatical sentence. The nonfinite present participle \"creating\" can&rsquo;t be used in this way to form a supplementary element to modify the noun phrase \"the saloon.\" Choice D is incorrect because it results in an ungrammatical sentence. The finite present tense verb \"create\" can&rsquo;t be used in this way to form a supplementary element to modify the noun phrase \"the saloon.\"</p>",
+    "externalid": "564abc36-ce43-4c8b-a08b-694a067c2f1d",
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323050,
+    "pPcc": "P10#SEC",
+    "questionId": "ba5fcd8c",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "43efbc9d-b567-4912-b134-f41b4f95f7c0",
+    "skill_desc": "Boundaries",
+    "createDate": 1730147323050,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "064399ea-9935-485f-8710-e93223bc074b",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>In 1953, a fellow performer tripped on legendary jazz musician Dizzy Gillespie&rsquo;s trumpet, bending its bell upward. When Gillespie tested the damaged instrument, he realized that he <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> sound of a bent bell over that of a straight one.&nbsp;</p>",
+    "type": "mcq",
+    "keys": [
+      "68ae6b5b-679a-4ec8-aa92-a26565e023b9"
+    ],
+    "answerOptions": [
+      {
+        "id": "28b2d666-4cbc-40b5-ad06-f403d7f27f50",
+        "content": "<p>preferred; the</p>"
+      },
+      {
+        "id": "68ae6b5b-679a-4ec8-aa92-a26565e023b9",
+        "content": "<p>preferred the</p>"
+      },
+      {
+        "id": "9364e0ab-fc16-4932-b5dc-0dba544f13f6",
+        "content": "<p>preferred, the</p>"
+      },
+      {
+        "id": "26c4d355-fb3e-4e80-97dc-461d4cea6ee1",
+        "content": "<p>preferred. The</p>"
+      }
+    ],
+    "rationale": "<p>Choice B is the best answer. The convention being tested is punctuation use between a verb and its object. No punctuation is needed between the verb \"preferred\" and its object \"the sound of a bent bell over that of a straight one.\" The object helps complete the idea of the verb&mdash;in this case, it explains what type of sound Gillespie preferred&mdash;and any punctuation between the two results in an ungrammatical sentence.</p><p>Choice A is incorrect because no punctuation is needed between the verb and its object. Choice C is incorrect because no punctuation is needed between the verb and its object. Choice D is incorrect because no punctuation is needed between the verb and its object.</p>",
+    "externalid": "064399ea-9935-485f-8710-e93223bc074b",
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959348,
+    "pPcc": "P10#SEC",
+    "questionId": "76d0d8f1",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "49234b1e-41b4-4e88-baf6-1ae893054be1",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959348,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "1ec934c9-2fc7-4872-ad4a-c25c8e18bbce",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "950ae2c4-689a-47e1-b8a3-fcdf9bc6795b",
+    "keys": [
+      "34a92278-8af8-49ee-8b0b-4d013b51058c"
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is the use of verb forms within a sentence. Relative clauses, such as the one beginning with \"how,\" require a finite (tensed) verb, a verb that can function as the main verb of a clause. This choice correctly supplies the clause with the finite past tense verb \"served.\"</p><p>Choice A is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"serving\" doesn&rsquo;t supply the clause with a finite verb. Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"having served\" doesn&rsquo;t supply the clause with a finite verb. Choice D is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to serve\" doesn&rsquo;t supply the clause with a finite verb.</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "1ec934c9-2fc7-4872-ad4a-c25c8e18bbce",
+    "stimulus": "<p>In the 2011 documentary <em>The Barber of Birmingham</em>, civil rights activist James Armstrong recounts how his barbershop in Birmingham, Alabama, <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> as a political hub for members of the Black community during the 1950s.</p>",
+    "templateclusterid": "30ea13e3-5665-4dde-9dcf-396cf74359e2",
+    "parenttemplatename": "OSP-717-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "4501b263-0e62-4bb3-acb4-54a7560547be",
+        "content": "<p>serving</p>"
+      },
+      {
+        "id": "51ef56e0-e896-4475-b760-01285f5e66b5",
+        "content": "<p>having served</p>"
+      },
+      {
+        "id": "34a92278-8af8-49ee-8b0b-4d013b51058c",
+        "content": "<p>served</p>"
+      },
+      {
+        "id": "95e5f0e9-cf76-4f5b-8e95-7409b9b64bd3",
+        "content": "<p>to serve</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959348,
+    "pPcc": "P10#SEC",
+    "questionId": "0ba6d65d",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 1,
+    "uId": "548761da-ee41-493c-a408-fa98da6ce724",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959348,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "0e57e42b-00aa-455d-8210-140c29759d6e",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "899660e0-ee21-4503-93a1-6fce4962bd70",
+    "keys": [
+      "34b2776c-895c-47f3-b64a-c400dfb4cf82"
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested here is punctuation between a verb and object. No punctuation is needed between the verb (\"appreciate\") and its object (\"the multiple references...\"). The object helps complete the idea of the verb&mdash;in this case, it explains what fans of science fiction will appreciate&mdash;and any punctuation between the two results in an ungrammatical sentence.</p><p>Choice B is incorrect because no punctuation is needed between the verb and its object. Choice C is incorrect because no punctuation is needed between the verb and its object. Choice D is incorrect because no punctuation is needed between the verb and its object.</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "0e57e42b-00aa-455d-8210-140c29759d6e",
+    "stimulus": "<p>Fans of science fiction will <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> multiple references to classic sci-fi stories in Janelle Mon&aacute;e&rsquo;s song lyrics, including her recurring nods to the plot of the 1927 sci-fi film <em>Metropolis</em>.</p>",
+    "templateclusterid": "599fcf4d-2e56-4728-8f38-6ba924b930d4",
+    "parenttemplatename": "OSP-719-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "34b2776c-895c-47f3-b64a-c400dfb4cf82",
+        "content": "<p>appreciate the</p>"
+      },
+      {
+        "id": "45ce0934-541f-4220-9bab-32a7c7b3eb9f",
+        "content": "<p>appreciate. The</p>"
+      },
+      {
+        "id": "f40b39f9-1530-4576-91ed-91e5190c5ba7",
+        "content": "<p>appreciate, the</p>"
+      },
+      {
+        "id": "0797b545-52b3-4cb5-be9d-077907916f19",
+        "content": "<p>appreciate: the</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323048,
+    "pPcc": "P10#SEC",
+    "questionId": "32c28646",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "55325a6f-285d-4684-bb67-c323688e9f99",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1730147323048,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "f0c9e8fd-3545-4ef8-8b86-366565650b78",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>In 1929, Edwin Herbert Land invented a polarizing filter that was featured in a number of products, from sunglasses to 3D movies. A decade later, Land <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> his technology to invent the world&rsquo;s first instant camera, the Polaroid Land camera.</p>",
+    "type": "mcq",
+    "keys": [
+      "059d0002-57d9-4788-81ff-e5ffc5240221"
+    ],
+    "answerOptions": [
+      {
+        "id": "059d0002-57d9-4788-81ff-e5ffc5240221",
+        "content": "<p>used</p>"
+      },
+      {
+        "id": "efb8c020-c6a0-4c05-9846-7abdff49a82f",
+        "content": "<p>to have used</p>"
+      },
+      {
+        "id": "dd9bc569-1d53-483c-82dd-334666d63c5f",
+        "content": "<p>to use</p>"
+      },
+      {
+        "id": "4e1aa358-8f23-49f5-9cc3-6c1f2acffa92",
+        "content": "<p>using</p>"
+      }
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. A main clause requires a finite (tensed) verb to perform the action of the subject (in this case, Land), and this choice supplies the finite past tense verb \"used\" to indicate what Land did with the technology he had invented.</p><p>Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite perfect infinitive \"to have used\" doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to use\" doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"using\" doesn&rsquo;t supply the main clause with a finite verb.</p>",
+    "externalid": "f0c9e8fd-3545-4ef8-8b86-366565650b78",
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959349,
+    "pPcc": "P10#SEC",
+    "questionId": "62200e28",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 1,
+    "uId": "56c39620-bb93-4626-a4c7-f583be506540",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959349,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "10ef5b9a-13eb-4311-bb29-32c9736b5614",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "5f5b4634-69d0-4d8e-a363-229fd36f6aa6",
+    "keys": [
+      "fefecd91-fd50-4c54-a057-9450591e6220"
+    ],
+    "rationale": "<p>Choice B is the best answer. The convention being tested is the use of verb forms within a sentence. The nonfinite to-infinitive verb &ldquo;to study&rdquo; is correctly used to form a subordinate clause that indicates what Dr. Caballero-Gill uses chemistry and fossil evidence for (to study oceans as they were in the past). </p><p>Choice A is incorrect because it results in an ungrammatical sentence. The finite verb &ldquo;has studied&rdquo; can&rsquo;t be used in this way to form a subordinate clause that indicates what Dr. Caballero-Gill uses the evidence for. Choice C is incorrect because it results in an ungrammatical sentence. The finite verb &ldquo;studied&rdquo; can&rsquo;t be used in this way to form a subordinate clause that indicates what Dr. Caballero-Gill uses the evidence for. Choice D is incorrect because it results in an ungrammatical sentence. The finite verb &ldquo;studies&rdquo; can&rsquo;t be used in this way to form a subordinate clause that indicates what Dr. Caballero-Gill uses the evidence for. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "10ef5b9a-13eb-4311-bb29-32c9736b5614",
+    "stimulus": "<p>Dr. Roc&iacute;o Paola Caballero-Gill is a paleoceanographer. This means that Dr. Caballero-Gill doesn&rsquo;t just study oceans as they are today. She uses chemistry and fossil evidence <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> oceans as they were in the past.&nbsp;</p>",
+    "templateclusterid": "a032c93b-b8c0-4f7e-b24b-bc9767d4bce8",
+    "parenttemplatename": "OSP-737-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "e3f33840-07e6-4aa7-855c-65c2f18ab6cd",
+        "content": "<p>has studied</p>"
+      },
+      {
+        "id": "fefecd91-fd50-4c54-a057-9450591e6220",
+        "content": "<p>to study</p>"
+      },
+      {
+        "id": "220d1379-7bc3-45d7-a881-ce9f199b0077",
+        "content": "<p>studied</p>"
+      },
+      {
+        "id": "da7af1e1-5e9c-4956-a367-843f750dbb70",
+        "content": "<p>studies</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959358,
+    "pPcc": "P10#SEC",
+    "questionId": "6f4a9e8c",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "5806d69d-a38f-49fa-97ee-8bc97cb50247",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959358,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "680f1070-ecf0-4f32-97f8-edc4a018f80c",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "dc8ddfae-f734-4558-a57c-b614a51b9c7e",
+    "keys": [
+      "1bba0ecd-1f32-4d62-a4bb-c48a681847e9"
+    ],
+    "rationale": "<p>Choice B is the best answer. &ldquo;Themes of childhood&rdquo; is one noun phrase, with &ldquo;themes of&rdquo; implicitly carrying over to the other items on the list (&ldquo;themes of childhood, [themes of] womanhood, and [themes of] Chinese American identity&rdquo;). &nbsp;</p><p>Choice A is incorrect. This choice inappropriately breaks up the introduction of a list. Also, &ldquo;In her book&hellip;themes of&rdquo; is not an independent clause, thanks to the dangling &ldquo;of&rdquo; at the end, so it can&rsquo;t precede a colon.&nbsp;Choice C is incorrect. This choice inappropriately breaks up the introduction of a list. Also, &ldquo;In her book&hellip;themes of&rdquo; is not an independent clause, thanks to the dangling &ldquo;of&rdquo; at the end, so it can&rsquo;t precede a single dash.&nbsp;Choice D is incorrect. This choice inappropriately breaks up the introduction of a list. &ldquo;Themes of&rdquo; implicitly carries over to each item on the list (&ldquo;themes of childhood, [themes of] womanhood, and [themes of] Chinese American identity&rdquo;), so we don&rsquo;t want to use a comma to separate it.&nbsp;</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "680f1070-ecf0-4f32-97f8-edc4a018f80c",
+    "stimulus": "<p>In her book <em>The Woman Warrior: Memoirs of a Girlhood Among Ghosts</em>, author Maxine Hong Kingston examines themes <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> childhood, womanhood, and Chinese American identity by intertwining autobiography and mythology.</p>",
+    "templateclusterid": "a19c9473-629a-486f-a6ba-6ba4c50c6fd7",
+    "parenttemplatename": "OSP-KA-BOU-E004",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "73132b60-7a25-4f23-9f19-c4893cefc05c",
+        "content": "<p>of:</p>"
+      },
+      {
+        "id": "1bba0ecd-1f32-4d62-a4bb-c48a681847e9",
+        "content": "<p>&nbsp;of</p>"
+      },
+      {
+        "id": "323c2f5f-ea39-4c89-bcf1-d155a3555aa6",
+        "content": "<p>of&mdash;</p>"
+      },
+      {
+        "id": "e613556a-2070-4963-84d8-74125b20c00d",
+        "content": "<p>of,</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959366,
+    "pPcc": "P10#SEC",
+    "questionId": "4f06deb0",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "59772ba9-9fab-4f3e-888a-03c611511346",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959366,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "72facd3e-59dd-45a3-888e-115408f30005",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "ac252ce7-0bc9-4ee2-ba84-0b3cf3d5a7ac",
+    "keys": [
+      "72fb9aa4-e0d0-4b8d-b8ed-fcf7dacff470"
+    ],
+    "rationale": "<p>Choice C is the best answer. There&rsquo;s only one photographer (Adams), and the photos are his, so the singular possessive \"photographer&rsquo;s\" is correct. There&rsquo;s more than one photo, and nothing belongs to the photos, so the simple plural \"photos\" is correct.</p><p>Choice A is incorrect. This choice uses the singular possessive \"photo&rsquo;s,\" which isn&rsquo;t correct. There&rsquo;s more than one photo, and they don&rsquo;t possess anything, so the noun should be the simple plural \"photos.\" Choice B is incorrect. This choice uses the simple plural \"photographers\" and the singular possessive \"photo&rsquo;s,\" which aren&rsquo;t correct. There&rsquo;s only one photographer (Adams) and there&rsquo;s more than one photo. Choice D is incorrect. This choice uses the simple plural \"photographers,\" which isn&rsquo;t correct. There&rsquo;s only one photographer (Adams).</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "72facd3e-59dd-45a3-888e-115408f30005",
+    "stimulus": "<p>Photographer Ansel Adams&rsquo;s landscape portraits are iconic pieces of American art. However, many of the <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> of landscapes were intended not as art but as marketing; a concessions company at Yosemite National Park had hired Adams to take pictures of the park for restaurant menus and brochures.</p>",
+    "templateclusterid": "05c84c10-bfef-428a-9ae9-b318a4921bb0",
+    "parenttemplatename": "OSP-KA-FSS-E004",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "7b8bad0b-97a0-4614-8a38-640f4af7097a",
+        "content": "<p>photographer&rsquo;s early photo&rsquo;s</p>"
+      },
+      {
+        "id": "c65392bc-830e-4f54-ab45-c6db6a9ead7a",
+        "content": "<p>photographers early photo&rsquo;s</p>"
+      },
+      {
+        "id": "72fb9aa4-e0d0-4b8d-b8ed-fcf7dacff470",
+        "content": "<p>photographer&rsquo;s early photos</p>"
+      },
+      {
+        "id": "d85552ad-1fbf-4b23-b52b-8d97f8a32171",
+        "content": "<p>photographers early photos</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959348,
+    "pPcc": "P10#SEC",
+    "questionId": "f4d86ecd",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "5a793321-a129-4f8d-aec0-d3b6306639ef",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959348,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "6fe97f65-ef51-4779-b1bb-b8a10f5f6764",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "f43b58ab-f894-47cb-af1a-787fab52430a",
+    "keys": [
+      "b5189b5a-fee5-41ba-917a-acbe270e5cc7"
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is subject-verb agreement. The singular verb &ldquo;has been&rdquo; agrees in number with the singular subject &ldquo;writing.&rdquo; </p><p>Choice A is incorrect because the plural verb &ldquo;were&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;writing.&rdquo; Choice B is incorrect because the plural verb &ldquo;have been&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;writing.&rdquo; Choice D is incorrect because the plural verb &ldquo;are&rdquo; doesn&rsquo;t agree in number with the singular subject &ldquo;writing.&rdquo; </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "6fe97f65-ef51-4779-b1bb-b8a10f5f6764",
+    "stimulus": "<p>When writing <em>The Other Black Girl </em>(2021), novelist Zakiya Dalila Harris drew on her own experiences working at a publishing office. The award-winning book is Harris&rsquo;s first novel, but her writing <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> honored before. At the age of twelve, she entered a contest to have a story published in<em> American</em> <em>Girl</em> magazine&mdash;and won.</p>",
+    "templateclusterid": "f6409679-d057-4673-ba7d-740e65d2a23a",
+    "parenttemplatename": "OSP-711-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "a3a228cd-16b2-4b65-9f7f-d3eb38d9cc35",
+        "content": "<p>were</p>"
+      },
+      {
+        "id": "60268611-7bec-40a6-9543-143fdcc47763",
+        "content": "<p>have been</p>"
+      },
+      {
+        "id": "b5189b5a-fee5-41ba-917a-acbe270e5cc7",
+        "content": "<p>has been</p>"
+      },
+      {
+        "id": "3e4b3b81-3cfc-4420-a463-da9646cca2ad",
+        "content": "<p>are</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959351,
+    "pPcc": "P10#SEC",
+    "questionId": "9ed077ff",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "5a9be484-acf4-4f68-80a6-772ad6f8cdcc",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959351,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "05e23e94-a65b-4643-b1c5-c59ea1dafada",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "d2670e33-8193-4fe0-bd4e-19d1503cde35",
+    "keys": [
+      "bb69c4ac-0684-4e89-9596-062845986713"
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is subject-verb agreement. The singular verb \"occurs\" agrees in number with the singular subject \"radiation.\"</p><p>Choice B is incorrect because the plural verb \"have occurred\" doesn&rsquo;t agree in number with the singular subject \"radiation.\" Choice C is incorrect because the plural verb \"occur\" doesn&rsquo;t agree in number with the singular subject \"radiation.\" Choice D is incorrect because the plural verb \"are occurring\" doesn&rsquo;t agree in number with the singular subject \"radiation.\"</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "05e23e94-a65b-4643-b1c5-c59ea1dafada",
+    "stimulus": "<p>The radiation that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> during the decay of radioactive atomic nuclei is known as gamma radiation.</p>",
+    "templateclusterid": "b13e7a2b-aa16-4d3a-8bec-b03c5be4d49d",
+    "parenttemplatename": "OSP-764-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "bb69c4ac-0684-4e89-9596-062845986713",
+        "content": "<p>occurs</p>"
+      },
+      {
+        "id": "edff45d4-8b28-41af-b822-667324d32956",
+        "content": "<p>have occurred</p>"
+      },
+      {
+        "id": "543162d9-cf03-49db-acf0-7f1c26d5085e",
+        "content": "<p>occur</p>"
+      },
+      {
+        "id": "593e716c-92bf-4121-934c-6e9ce0ba66e6",
+        "content": "<p>are occurring</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323048,
+    "pPcc": "P10#SEC",
+    "questionId": "67bf8f8b",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "632b895a-ac5a-4cc0-bf4b-92503bb70715",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1730147323048,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "2c5ae910-ddc7-449f-b570-d39c820b417b",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>L&ecirc; Lương Minh became the thirteenth secretary-general of the Association of Southeast Asian Nations (ASEAN) in January 2013, making <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the first time the organization would appoint a Vietnamese leader.</p>",
+    "type": "mcq",
+    "keys": [
+      "23c0b2d7-b524-43ab-895d-def516e5ce97"
+    ],
+    "answerOptions": [
+      {
+        "id": "1eb0afb6-5f22-4311-80eb-83f2eb53a33f",
+        "content": "<p>these</p>"
+      },
+      {
+        "id": "f5a6a8c6-1a10-4cf1-9b57-c9937656fd86",
+        "content": "<p>those</p>"
+      },
+      {
+        "id": "23c0b2d7-b524-43ab-895d-def516e5ce97",
+        "content": "<p>this</p>"
+      },
+      {
+        "id": "b3853456-b3dc-43a1-8cc7-188b7dce6c8b",
+        "content": "<p>some</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is pronoun-antecedent agreement. The singular pronoun \"this\" agrees in number with the singular antecedent \"L&ecirc; Lương Minh became the thirteenth secretary-general of the Association of Southeast Asian Nations (ASEAN) in January 2013.\" The pronoun \"this\" is referring back to the singular event described earlier in the sentence in which Minh became secretary-general of ASEAN.</p><p>Choice A is incorrect because the plural pronoun \"these\" doesn&rsquo;t agree in number with the singular antecedent \"L&ecirc; Lương Minh became the thirteenth secretary-general of the Association of Southeast Asian Nations (ASEAN) in January 2013.\" Choice B is incorrect because the plural pronoun \"those\" doesn&rsquo;t agree in number with the singular antecedent \"L&ecirc; Lương Minh became the thirteenth secretary-general of the Association of Southeast Asian Nations (ASEAN) in January 2013.\" Choice D is incorrect because the indefinite pronoun \"some\" is ambiguous in this context; the resulting sentence leaves unclear what marks the first time the organization appointed a Vietnamese leader.</p>",
+    "externalid": "2c5ae910-ddc7-449f-b570-d39c820b417b",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959348,
+    "pPcc": "P10#SEC",
+    "questionId": "bff697dd",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "66a3a2bd-4308-4cc4-87b4-aaef3e8ea759",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959348,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "68710ed9-7d5e-4481-a404-a05d65bf8a01",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "7681851c-f4a9-40f3-966e-a2493c80a4d7",
+    "keys": [
+      "b7ae82d7-cb6d-412d-bd38-56d07df689eb"
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is the use of verbs to express tense. Simple present tense verbs can be used to describe actions that tend to occur, including in a hypothetical or future scenario. In this case, the simple present tense verb &ldquo;produce&rdquo; indicates what the air exchange systems might be able to do in the future (produce oxygen for astronauts). </p><p>Choice A is incorrect. The present progressive tense verb &ldquo;are producing&rdquo; suggests that the oxygen is currently being produced, not that it might be produced in the future. Choice B is incorrect because the past tense verb &ldquo;produced&rdquo; suggests that the oxygen was produced in the past, not that it might be produced in the future. Choice D is incorrect because the present perfect tense verb &ldquo;have produced&rdquo; suggests that the oxygen has been produced from a point in the past up to the present, not that it might be produced in the future. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "68710ed9-7d5e-4481-a404-a05d65bf8a01",
+    "stimulus": "<p>The alga species <em>Chlorella&nbsp;vulgaris</em> is very efficient at making oxygen. For this reason, scientists are currently exploring ways to use this species in space. <em>C. vulgaris</em> might be used, for example, to build future biological air exchange systems that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> oxygen for astronauts.&nbsp;</p>",
+    "templateclusterid": "784fbd8e-464e-436e-a0f2-4979eabc1630",
+    "parenttemplatename": "OSP-715-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "42faf7ac-25a7-455f-bad9-fd535361f665",
+        "content": "<p>are producing</p>"
+      },
+      {
+        "id": "4e747732-00fe-4381-b645-0c24515102f2",
+        "content": "<p>produced</p>"
+      },
+      {
+        "id": "b7ae82d7-cb6d-412d-bd38-56d07df689eb",
+        "content": "<p>produce</p>"
+      },
+      {
+        "id": "76939e6b-2953-4917-bc16-e50a9952d50c",
+        "content": "<p>have produced</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1730147323051,
+    "pPcc": "P10#SEC",
+    "questionId": "2262e8a7",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "6ba35530-4f77-493d-8e41-4fb21dae196b",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1730147323051,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "f0b28dae-ead4-424c-b282-82ad50054228",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p><em>Light of Truth</em> is a bronze and marble sculpture by artist Richard Hunt. It honors civil rights icon Ida B. Wells. The sculpture <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in a tree-lined plaza in Chicago, just a few blocks from where Wells lived.</p>",
+    "type": "mcq",
+    "keys": [
+      "ad955ccd-e063-43e2-8361-db9d370912b2"
+    ],
+    "answerOptions": [
+      {
+        "id": "c2a27c4b-5524-4c16-83a8-656fb6049d80",
+        "content": "<p>are standing</p>"
+      },
+      {
+        "id": "ccc771d3-f857-43e1-b8a6-6df51411d3a2",
+        "content": "<p>have been standing</p>"
+      },
+      {
+        "id": "ad955ccd-e063-43e2-8361-db9d370912b2",
+        "content": "<p>stands</p>"
+      },
+      {
+        "id": "d179e32b-a43f-4657-b1af-66dd9bd0eefc",
+        "content": "<p>were standing</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is subject-verb agreement. The singular verb \"stands\" agrees in number with the singular subject \"sculpture.\"</p><p>Choice A is incorrect because the plural verb \"are standing\" doesn&rsquo;t agree in number with the singular subject \"sculpture.\" Choice B is incorrect because the plural verb \"have been standing\" doesn&rsquo;t agree in number with the singular subject \"sculpture.\" Choice D is incorrect because the plural verb \"were standing\" doesn&rsquo;t agree in number with the singular subject \"sculpture.\"</p>",
+    "externalid": "f0b28dae-ead4-424c-b282-82ad50054228",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959358,
+    "pPcc": "P10#SEC",
+    "questionId": "fa99e172",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "72de047b-81f9-4606-8289-0b8cd222658d",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959358,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "dacdeae0-91cc-4045-b9ef-dc27fb85d045",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "814fecd8-05d6-4d22-8d84-3b91a4241d24",
+    "keys": [
+      "54382b1a-c6e9-40e7-bcf4-85b1a9bae48c"
+    ],
+    "rationale": "<p>Choice C is the best answer. A comma is the appropriate way to link the dependent clause &ldquo;While...not&rdquo; and the independent clause that follows. </p><p>Choice A is incorrect. This choice creates a run-on sentence error. &ldquo;While...not&rdquo; is a dependent clause, which must be separated from the independent clause that follows with some sort of punctuation. Choice B is incorrect. This choice creates a sentence fragment. &ldquo;While one requires oxygen and one does not&rdquo; isn&rsquo;t an independent clause, so it can&rsquo;t stand alone as a complete sentence. Choice D is incorrect. This choice creates a punctuation error. &ldquo;While one requires oxygen and one does not&rdquo; isn&rsquo;t an independent clause, so it can&rsquo;t be linked to the clause that follows with a semicolon. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "dacdeae0-91cc-4045-b9ef-dc27fb85d045",
+    "stimulus": "<p>While one requires oxygen and one does <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> and anaerobic respiration are both forms of cellular respiration&mdash;that is, they are processes by which cells break down glucose to use as energy.</p>",
+    "templateclusterid": "df3eda65-fe30-42cb-afde-08e603e6e062",
+    "parenttemplatename": "OSP-KA-BOU-E003",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "ef9915b9-8d69-45d3-9797-10202fa9e939",
+        "content": "<p>not aerobic</p>"
+      },
+      {
+        "id": "89375c01-a072-4ed5-8599-1140ce2f4fe1",
+        "content": "<p>&nbsp;not. Aerobic</p>"
+      },
+      {
+        "id": "54382b1a-c6e9-40e7-bcf4-85b1a9bae48c",
+        "content": "<p>not, aerobic</p>"
+      },
+      {
+        "id": "15027418-c730-4d61-8216-d900016f98d5",
+        "content": "<p>&nbsp;not; aerobic</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959366,
+    "pPcc": "P10#SEC",
+    "questionId": "3282352e",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 1,
+    "uId": "7435ca5e-9cf5-4a96-af48-633b025df2ae",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959366,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "27c4515e-2e4b-44d8-8fa3-177cb2bf2bf6",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "fe2505d7-678a-40ca-a0f1-b5a41e1d166f",
+    "keys": [
+      "6cd2cd22-6b8e-41db-85ea-f4bcab885512"
+    ],
+    "rationale": "<p>Choice A is the best answer. The pronoun \"them\" agrees with the plural antecedents \"poems\" and \"works.\"</p><p>Choice B is incorrect. \"This\" is a singular pronoun, but its antecedents, \"poems\" and \"works,\" are plural. Choice C is incorrect. \"That\" is a singular pronoun, but its antecedents, \"poems\" and \"works,\" are plural. Choice D is incorrect. \"It\" is a singular pronoun, but its antecedents, \"poems\" and \"works,\" are plural.</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "27c4515e-2e4b-44d8-8fa3-177cb2bf2bf6",
+    "stimulus": "<p>American poet Emily Dickinson wrote many of her poems on scraps of paper, but she also took steps to collect these works. From 1858 to around 1864, for example, she copied more than 800 of <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> into forty homemade booklets (known as fascicles).</p>",
+    "templateclusterid": "06cb8838-dfdf-48a9-a0d1-a5108407f196",
+    "parenttemplatename": "OSP-KA-FSS-E005",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "6cd2cd22-6b8e-41db-85ea-f4bcab885512",
+        "content": "<p>them</p>"
+      },
+      {
+        "id": "87d18937-7af3-4ae7-aef9-37862324191b",
+        "content": "<p>this</p>"
+      },
+      {
+        "id": "0d208161-f235-4b63-8010-b00a698d684e",
+        "content": "<p>that</p>"
+      },
+      {
+        "id": "55756b18-3744-4a44-9abc-0023d9ddceb2",
+        "content": "<p>it</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323050,
+    "pPcc": "P10#SEC",
+    "questionId": "10fb08db",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "75581e96-4249-4265-a022-2e62a37cdf51",
+    "skill_desc": "Boundaries",
+    "createDate": 1730147323050,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "2dc8fd9e-7505-4375-8f4b-a585bd6bd9a9",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>Azulejos, mosaics made of glazed ceramic tiles, can be found throughout Portugal. These mosaics beautify places such as <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> stations, and public squares. &nbsp;</p>",
+    "type": "mcq",
+    "keys": [
+      "2ea7e075-1b61-4ad6-83aa-7f893804e690"
+    ],
+    "answerOptions": [
+      {
+        "id": "969ebc61-ad68-4f2b-bdbb-976a4296130a",
+        "content": "<p>libraries train</p>"
+      },
+      {
+        "id": "e855b3cc-4b40-4754-84be-852f726fac00",
+        "content": "<p>libraries: train</p>"
+      },
+      {
+        "id": "f99e57d5-a251-49e5-b9f8-e4aea781d311",
+        "content": "<p>libraries&mdash;train &nbsp;</p>"
+      },
+      {
+        "id": "2ea7e075-1b61-4ad6-83aa-7f893804e690",
+        "content": "<p>libraries, train</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer. The convention being tested is the punctuation of items in a simple series. The comma after \"libraries\" is used conventionally to separate the first and second items (\"libraries\" and \"train stations\") in the series.</p><p>Choice A is incorrect because it fails to separate the first two items (\"libraries\" and \"train stations\") in the series. Choice B is incorrect because a colon can&rsquo;t be used in this way to separate items in a simple series. Choice C is incorrect because a dash can&rsquo;t be used in this way to separate items in a simple series.</p>",
+    "externalid": "2dc8fd9e-7505-4375-8f4b-a585bd6bd9a9",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959348,
+    "pPcc": "P10#SEC",
+    "questionId": "088f0914",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 1,
+    "uId": "76856b4c-5adf-4589-9d67-875cb33540db",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959348,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "ba43ba37-2bb4-4501-96e8-9cc10f4f776b",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "3aeb980d-bc12-41b4-bbf4-8204b3720896",
+    "keys": [
+      "50175419-76ba-4786-b35d-09c1938f2c0f"
+    ],
+    "rationale": "<p>Choice D is the best answer. The convention being tested here is pronoun-antecedent agreement. The singular pronoun \"it\" agrees in number with the singular antecedent \"object.\"</p><p>Choice A is incorrect. The singular pronoun \"this\" is used to refer to a specific thing, but here there is no specific object being referred to. Instead, the sentence is referring back to a hypothetical object that Cave might use in a Soundsuit. Choice B is incorrect. The singular pronoun \"that\" is used to refer to a specific thing, but here there is no specific object being referred to. Instead, the sentence is referring back to a hypothetical object that Cave might use in a Soundsuit. Choice C is incorrect because the plural pronoun \"these\" doesn&rsquo;t agree in number with the singular antecedent \"object.\"</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "ba43ba37-2bb4-4501-96e8-9cc10f4f776b",
+    "stimulus": "<p>If you try on one of artist Nick Cave&rsquo;s signature Soundsuits, you can expect to swish, rustle, or clang every time you move. Cave makes his suits out of found objects, everything from ceramic birds to broken record players. He carefully considers the sound an object makes before using <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> in a suit.</p>",
+    "templateclusterid": "fdc10fc4-4538-4018-b962-9170bc7bad8f",
+    "parenttemplatename": "OSP-722-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "2fcdd5bc-2c2c-40b0-94f3-33c52e06f683",
+        "content": "<p>this</p>"
+      },
+      {
+        "id": "824d2a9a-cca8-451e-93e6-9520934a722f",
+        "content": "<p>that</p>"
+      },
+      {
+        "id": "c9fa75bf-5fff-4d07-aff2-d7d31510ebf4",
+        "content": "<p>these</p>"
+      },
+      {
+        "id": "50175419-76ba-4786-b35d-09c1938f2c0f",
+        "content": "<p>it</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1730147323049,
+    "pPcc": "P10#SEC",
+    "questionId": "f7835732",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "7f71700f-7f2f-4581-b5c7-b74b1a97a59b",
+    "skill_desc": "Boundaries",
+    "createDate": 1730147323049,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "cae5bb9d-a3a6-4aa6-8a22-4abcde006444",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>In forecasting weather events, meteorologists sometimes discuss the role of atmospheric rivers. What are atmospheric rivers, and how <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> Part of the water cycle, atmospheric rivers are narrow channels of moisture moving through the atmosphere. In certain conditions, these &ldquo;rivers&rdquo; can release some of their moisture as precipitation.&nbsp;</p>",
+    "type": "mcq",
+    "keys": [
+      "5cbaffab-f8fb-47c8-a3d9-1891a2e82355"
+    ],
+    "answerOptions": [
+      {
+        "id": "7c8df3a6-f489-451e-a9bb-849a268b8f79",
+        "content": "<p>do they affect our weather.</p>"
+      },
+      {
+        "id": "11d937e6-c64a-48eb-8c64-273c78798857",
+        "content": "<p>they do affect our weather.</p>"
+      },
+      {
+        "id": "5cbaffab-f8fb-47c8-a3d9-1891a2e82355",
+        "content": "<p>do they affect our weather?</p>"
+      },
+      {
+        "id": "b6d36417-a428-4b97-b2be-d485dd158f7a",
+        "content": "<p>they do affect our weather?</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is end-of-sentence punctuation. This choice correctly uses a question mark to punctuate the coordinated interrogative clauses \"What are atmospheric rivers\" and \"how do they affect our weather,\" both of which ask direct questions.</p><p>Choice A is incorrect because a period can&rsquo;t be used in this way to punctuate an interrogative clause, such as \"how do they affect our weather,\" at the end of a sentence. Choice B is incorrect because the structure requires an interrogative clause and a question mark at the end of the sentence. Choice D is incorrect because the structure requires an interrogative clause at the end of the sentence.</p>",
+    "externalid": "cae5bb9d-a3a6-4aa6-8a22-4abcde006444",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1730147323048,
+    "pPcc": "P10#SEC",
+    "questionId": "1a205200",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "7ff794cb-46dc-4895-ba63-c33c10ff5426",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1730147323048,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "378a8677-6d3d-414b-a804-6497ccf8c231",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>&ldquo;He was just the man for such a place, and it was just the place for such a man.&rdquo; This line is from Frederick Douglass&rsquo;s autobiography <em>Narrative of the Life of Frederick Douglass</em> (1845). It&rsquo;s an example of antimetabole, a writing technique that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> emphasis by repeating a statement in a reversed order.</p>",
+    "type": "mcq",
+    "keys": [
+      "308b987c-014f-441b-ae92-e53d94f9ab63"
+    ],
+    "answerOptions": [
+      {
+        "id": "51b83d52-55a3-47fe-9baf-8e1d3daae42f",
+        "content": "<p>create</p>"
+      },
+      {
+        "id": "0751eb5d-4ac8-4bd6-8fcc-35ce92b43633",
+        "content": "<p>are creating</p>"
+      },
+      {
+        "id": "ec68c16a-71b5-47ba-90ab-44c7c8086c30",
+        "content": "<p>have created</p>"
+      },
+      {
+        "id": "308b987c-014f-441b-ae92-e53d94f9ab63",
+        "content": "<p>creates</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer. The convention being tested is subject-verb agreement. The singular verb \"creates\" agrees in number with the singular subject \"technique.\"</p><p>Choice A is incorrect because the plural verb \"create\" doesn&rsquo;t agree in number with the singular subject \"technique.\" Choice B is incorrect because the plural verb \"are creating\" doesn&rsquo;t agree in number with the singular subject \"technique.\" Choice C is incorrect because the plural verb \"have created\" doesn&rsquo;t agree in number with the singular subject \"technique.\"</p>",
+    "externalid": "378a8677-6d3d-414b-a804-6497ccf8c231",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959358,
+    "pPcc": "P10#SEC",
+    "questionId": "7238af74",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "87787ccf-af4c-4a47-ad0f-f4354b393824",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959358,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "0b5a29de-5bdc-4eaa-8cd2-44e0da501b87",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "188dda45-f5e7-4004-ba20-0c99f1e4b090",
+    "keys": [
+      "4217767c-07d4-47c7-acc8-21de5037a19a"
+    ],
+    "rationale": "<p>Choice D is the best answer. It appropriately uses a period to mark the end of one independent clause (\"In 2000&hellip;settings\") and the start of another (\"She founded&hellip;professionals\").</p><p>Choice A is incorrect. This choice results in a run-on sentence error. Both the clause before the blank (\"In 2000&hellip;settings\") and the clause after the blank (\"she&hellip;professionals\") are independent clauses, so they need to be separated by punctuation. Choice B is incorrect. This choice results in a comma splice error. It incorrectly joins two independent clauses with just a comma. Linking two independent clauses with a comma also requires the use of a coordinating conjunction (like<em> for</em>, <em>and</em>, <em>nor</em>, <em>but</em>, <em>or</em>, <em>yet</em>, or <em>so</em>). Choice C is incorrect. This choice results in a run-on sentence, an error caused when two independent clauses are joined without punctuation or appropriate conjunctions. Since both the clause before the blank (\"In 2000&hellip;settings\") and the clause after the blank (\"she&hellip;professionals\") are independent, a comma would be required in addition to the coordinating conjunction \"and.\"</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "0b5a29de-5bdc-4eaa-8cd2-44e0da501b87",
+    "stimulus": "<p>In 2000, Nora de Hoyos Comstock, herself an owner of a successful consulting firm, sought to increase Latina representation in corporate <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> founded<em> </em>Las Comadres para las Americas, an international community that for over two decades has served as a resource and information network for Latina business professionals.</p>",
+    "templateclusterid": "3f11de3d-49e5-4122-b26b-3599e04b88f8",
+    "parenttemplatename": "OSP-KA-BOU-E006",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "d181d36e-5636-4826-b08a-58bf3d12e99e",
+        "content": "<p>settings she</p>"
+      },
+      {
+        "id": "73d5a43a-272c-4fc0-b458-08e58071870c",
+        "content": "<p>settings, she</p>"
+      },
+      {
+        "id": "db33d488-27b2-4c75-8af0-3af0129d9e95",
+        "content": "<p>settings and she</p>"
+      },
+      {
+        "id": "4217767c-07d4-47c7-acc8-21de5037a19a",
+        "content": "<p>settings. She</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959339,
+    "pPcc": "P10#SEC",
+    "questionId": "f102f1be",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "878da856-9079-4c87-ba1e-a4d1289a5fbc",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959339,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "d0e7c085-65c6-4b10-80a4-be7a83cb792b",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "14e9ccfc-17dd-4be3-b4a1-c095e25b89f8",
+    "keys": [
+      "b920e398-cbc2-42c7-81c7-d864b4718b61"
+    ],
+    "rationale": "<p>Choice B is the best answer. The convention being tested is the use of verbs to express tense in a sentence. In this choice, the present tense verb &ldquo;reach&rdquo; is consistent with the present tense verbs &ldquo;travel&rdquo; and &ldquo;are diverted&rdquo; used to describe how atoms move through the synchrotron. </p><p>Choice A is incorrect because the future tense verb &ldquo;will reach&rdquo; is inconsistent with the present tense verbs used to describe how atoms move through the synchrotron. Though the atoms&rsquo; movement is a recurring action and &ldquo;will reach&rdquo; can also be used to indicate a habitual or recurring action, it creates a logical inconsistency in this sentence when paired with the present tense verbs &ldquo;travel&rdquo; and &ldquo;are diverted.&rdquo; Choice C is incorrect because the past perfect tense verb &ldquo;had reached&rdquo; is inconsistent with the present tense verbs used to describe how atoms move through the synchrotron. Choice D is incorrect because the present progressive tense verb &ldquo;are reaching&rdquo; is inconsistent with the present tense verbs used to describe how atoms move through the synchrotron. While both verbs occur in the present, the present progressive tense suggests that the action is currently in progress. This creates a logical inconsistency when paired with the present tense verbs &ldquo;travel&rdquo; and &ldquo;are diverted,&rdquo; which offer a general description of the tendencies of the atoms&rsquo; movement, rather than a description of an action that is currently in progress. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "d0e7c085-65c6-4b10-80a4-be7a83cb792b",
+    "stimulus": "<p>Atoms in a synchrotron, a type of circular particle accelerator, travel faster and faster until they <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a desired energy level, at which point they are diverted to collide with a target, smashing the atoms.</p>",
+    "templateclusterid": "cee77017-38e6-404f-a85a-96b4e65cc533",
+    "parenttemplatename": "OSP-624-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "b1bce187-fbf7-431f-8400-b7510d1fd441",
+        "content": "<p>will reach</p>"
+      },
+      {
+        "id": "b920e398-cbc2-42c7-81c7-d864b4718b61",
+        "content": "<p>reach</p>"
+      },
+      {
+        "id": "1b720374-4839-4de9-8cf6-08d6ab9a3995",
+        "content": "<p>had reached</p>"
+      },
+      {
+        "id": "a1731372-f377-4dd5-a96e-f4c0b2f9cd9e",
+        "content": "<p>are reaching</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959358,
+    "pPcc": "P10#SEC",
+    "questionId": "55c8d2b2",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 1,
+    "uId": "8bdb0c00-66a7-4a3a-ab4f-e49719be5dd2",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959358,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "25a12959-71ba-4d65-8f91-fbe366e7c6c2",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "3912272d-83d1-4d2a-85f8-d2ba53d258d4",
+    "keys": [
+      "ff1c5583-b91d-49ac-ad7f-20924c21876a"
+    ],
+    "rationale": "<p>Choice C is the best answer. The word &ldquo;from&rdquo; introduces a prepositional phrase that modifies the noun &ldquo;pages&rdquo; and provides essential information about their origin. No additional punctuation is needed after &ldquo;from&rdquo; in this context. </p><p>Choice A is incorrect. This choice results in a punctuation error, illogically separating the preposition &ldquo;from&rdquo; from the rest of the prepositional phrase with a colon. Also, a colon can only follow an independent clause, but what comes before the blank could not stand on its own as a complete sentence. Choice B is incorrect. This choice results in a punctuation error, illogically separating the preposition &ldquo;from&rdquo; from the rest of the prepositional phrase with a comma. Choice D is incorrect. This choice results in a punctuation error, illogically separating the preposition &ldquo;from&rdquo; from the rest of the prepositional phrase with a dash. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "25a12959-71ba-4d65-8f91-fbe366e7c6c2",
+    "stimulus": "<p>After the printing press was introduced in 1440, handwritten manuscripts from Europe&rsquo;s medieval period were often destroyed and the paper used for other purposes. In one instance, pages <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a collection of Norse tales dating to 1270 were discovered lining a bishop&rsquo;s miter (hat).</p>",
+    "templateclusterid": "5055314c-ae99-4385-883f-842c4978f487",
+    "parenttemplatename": "OSP-KA-BOU-E007",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "7453648c-b90f-4699-85a4-e9db26bd6af5",
+        "content": "<p>from:</p>"
+      },
+      {
+        "id": "71085bf6-3447-42ca-8c14-f266b9a4cb87",
+        "content": "<p>from,</p>"
+      },
+      {
+        "id": "ff1c5583-b91d-49ac-ad7f-20924c21876a",
+        "content": "<p>from</p>"
+      },
+      {
+        "id": "7a012dfb-e52c-45d3-88ad-df6b6849c02d",
+        "content": "<p>from&mdash;</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959340,
+    "pPcc": "P10#SEC",
+    "questionId": "1b1fd9d2",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "8e4c6431-05f6-4769-8f43-d8997482b596",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959340,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "904e43e0-7683-4367-bca6-125ad4829d8b",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "a6b6247b-b40f-45eb-9c40-97f21720d200",
+    "keys": [
+      "aa6a06b8-a6dd-4631-af70-33c75409c94e"
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is finite and nonfinite verb forms within a sentence. A main clause requires a finite verb to perform the action of the subject (in this case, &ldquo;embryos&rdquo;), and this choice supplies the clause with the finite present tense verb &ldquo;enter&rdquo; to indicate how the embryos achieve diapause. </p><p>Choice B is incorrect because the nonfinite to-infinitive &ldquo;to enter&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because the nonfinite participle &ldquo;having entered&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because the nonfinite participle &ldquo;entering&rdquo; doesn&rsquo;t supply the main clause with a finite verb. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "904e43e0-7683-4367-bca6-125ad4829d8b",
+    "stimulus": "<p>To survive when water is scarce, embryos inside African turquoise killifish eggs <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a dormant state known as diapause. In this state, embryonic development is paused for as long as two years&mdash;longer than the life span of an adult killifish.</p>",
+    "templateclusterid": "de89698f-f612-4f40-9697-71d43ae4f708",
+    "parenttemplatename": "OSP-647-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "aa6a06b8-a6dd-4631-af70-33c75409c94e",
+        "content": "<p>enter</p>"
+      },
+      {
+        "id": "da4c2e4e-eb6d-45b7-9d9d-501b4dfd006d",
+        "content": "<p>to enter</p>"
+      },
+      {
+        "id": "debf27b6-4cba-43e5-8e46-44dc0465fd0c",
+        "content": "<p>having entered</p>"
+      },
+      {
+        "id": "64a8af66-89e6-4ff6-a578-ca99e7041b8d",
+        "content": "<p>entering</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959339,
+    "pPcc": "P10#SEC",
+    "questionId": "405401eb",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "9241af10-1073-4790-84c6-c200b076e779",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959339,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "03651229-f680-4462-944f-a84b59b78759",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "47f194ad-2224-40c4-b95c-cc0f6e6173b2",
+    "keys": [
+      "17d079c0-052b-4a15-afa7-30c231e354ea"
+    ],
+    "rationale": "<p>Choice B is the best answer. The convention being tested is finite and nonfinite verb forms within a sentence. A main clause requires a finite verb to perform the action of the subject (in this case, &ldquo;people in the Americas&rdquo;), and this choice supplies the finite past perfect tense verb &ldquo;have used&rdquo; to indicate what people in the Americas used the gourd for.&nbsp;</p><p>Choice A is incorrect because the nonfinite to-infinitive &ldquo;to use&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because the nonfinite participle &ldquo;having used&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because the nonfinite participle &ldquo;using&rdquo; doesn&rsquo;t supply the main clause with a finite verb. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "03651229-f680-4462-944f-a84b59b78759",
+    "stimulus": "<p>For thousands of years, people in the Americas <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the bottle gourd, a large bitter fruit with a thick rind, to make bottles, other types of containers, and even musical instruments. Oddly, there is no evidence that any type of bottle gourd is native to the Western Hemisphere; either the fruit or its seeds must have somehow been carried from Asia or Africa.</p>",
+    "templateclusterid": "11aafab7-cb50-458b-9d70-45ff10a0767e",
+    "parenttemplatename": "OSP-628-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "0040b7b6-a3ff-41ae-bd2d-75a7ba3bc513",
+        "content": "<p>to use</p>"
+      },
+      {
+        "id": "17d079c0-052b-4a15-afa7-30c231e354ea",
+        "content": "<p>have used</p>"
+      },
+      {
+        "id": "08d6a552-13a7-4496-83de-63c3bc94b724",
+        "content": "<p>having used</p>"
+      },
+      {
+        "id": "e48e646d-183d-42da-93b5-64e5050c3cc2",
+        "content": "<p>using</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959358,
+    "pPcc": "P10#SEC",
+    "questionId": "eca749e2",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 1,
+    "uId": "95a01d75-ce91-4ff2-a05c-c8afe4b4e256",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959358,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "2045b349-6d92-434e-824d-e7d0dacaa16c",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "696c55b3-5468-4030-b96f-17b8ef4ecbab",
+    "keys": [
+      "074f5d89-f205-409c-80da-7ab6e30e0048"
+    ],
+    "rationale": "<p>Choice D is the best answer. The clause before the colon tells us that the novel &ldquo;asks a question,&rdquo; so the clause after the colon should be in the conventional form of a question: with the verb before the subject, and a question mark at the end.&nbsp;</p><p>Choice A is incorrect. This choice ends the sentence with a period, which isn&rsquo;t right. The clause before the colon tells us that the novel &ldquo;asks a question,&rdquo; so the clause after the colon should be that question.&nbsp;Choice B is incorrect. This choice ends the sentence with a period, which isn&rsquo;t right. The clause before the colon tells us that the novel &ldquo;asks a question,&rdquo; so the clause after the colon should be that question. In Standard English, questions place the verb before the subject and end with a question mark.&nbsp;Choice C is incorrect. This choice doesn&rsquo;t conform to the conventions of Standard English. In Standard English, questions place the verb before the subject. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "2045b349-6d92-434e-824d-e7d0dacaa16c",
+    "stimulus": "<p>In the novel <em>Things Fall Apart</em> by Chinua Achebe, Okonkwo is a leader of Umuofia (a fictional Nigerian clan) and takes pride in his culture&rsquo;s traditions. However, when the arrival of European missionaries brings changes to Umuofia, the novel asks a central question: How <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span></p>",
+    "templateclusterid": "15d467a8-095f-4ed1-9087-e84173587199",
+    "parenttemplatename": "OSP-KA-BOU-E001",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "b3f45c0a-8373-4909-8036-51d46b187ced",
+        "content": "<p>Umuofia&rsquo;s traditions will be affected.</p>"
+      },
+      {
+        "id": "63130474-4e20-4509-8461-82443d067820",
+        "content": "<p>will Umuofia&rsquo;s traditions be affected.</p>"
+      },
+      {
+        "id": "e306ba10-a7fd-476e-a56c-25e26ab38dd5",
+        "content": "<p>Umuofia&rsquo;s traditions will be affected?</p>"
+      },
+      {
+        "id": "074f5d89-f205-409c-80da-7ab6e30e0048",
+        "content": "<p>will Umuofia&rsquo;s traditions be affected?</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959358,
+    "pPcc": "P10#SEC",
+    "questionId": "18ccb79a",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 1,
+    "uId": "9704168c-7b3c-4ab7-aea9-4daa7a4bb77c",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959358,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "03a256b6-5176-4252-90e5-202271ae9743",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "21d1b200-2cd0-4754-9e35-2648d90377b5",
+    "keys": [
+      "1d293718-48c7-4817-9f11-831ccac8f45e"
+    ],
+    "rationale": "<p>Choice B is the best answer. This choice uses a comma to correctly separate the dependent clause \"although&hellip;asteroids\" from the independent clause \"several hundred have been&hellip;Mars.\"</p><p>Choice A is incorrect. This choice results in a sentence fragment. \"Although&hellip;asteroids\" is a dependent clause. It can&rsquo;t stand on its own as a sentence, which means it can&rsquo;t end in a period. Choice C is incorrect. This choice results in a punctuation error. \"Although&hellip;asteroids\" is a dependent clause and can&rsquo;t be joined to the independent clause \"several hundred have been&hellip;Mars\" with a semicolon. A semicolon can only join two independent clauses. Choice D is incorrect. This choice creates a punctuation error. A colon can only come after an independent clause, but \"although&hellip;asteroids\" is a dependent clause.</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "03a256b6-5176-4252-90e5-202271ae9743",
+    "stimulus": "<p>About 70,000 meteorites have been found on Earth. Although most meteorites are fragments of <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> hundred have been identified as being from the Moon or Mars.</p>",
+    "templateclusterid": "b124bb46-98fe-491e-af55-525b8e59ff13",
+    "parenttemplatename": "OSP-KA-BOU-E009",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "0ac17a0e-7612-44ab-b520-b2678a3bccbe",
+        "content": "<p>asteroids. Several</p>"
+      },
+      {
+        "id": "1d293718-48c7-4817-9f11-831ccac8f45e",
+        "content": "<p>asteroids, several</p>"
+      },
+      {
+        "id": "7dcf9fe6-fa82-4963-923c-f2ab2ba10a54",
+        "content": "<p>asteroids; several</p>"
+      },
+      {
+        "id": "8cd819bb-1c3d-4dae-bcfc-73fee4af4f2f",
+        "content": "<p>asteroids: several</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959352,
+    "pPcc": "P10#SEC",
+    "questionId": "f460370e",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "97c013a7-f2cc-4310-96f9-c2560dda43bc",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959352,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "4ef8ef57-da46-45e4-8761-ac1b2742b33d",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "a9e3dd29-279c-4d88-8a3a-1cfd56e5504f",
+    "keys": [
+      "4da1bd96-7c35-46b0-84f6-5e8ba2a014d5"
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation between a supplementary phrase and a main clause. This choice correctly uses a comma to mark the boundary between the introductory supplementary phrase (&ldquo;By linking the Hudson River to Lake Erie&rdquo;), which identifies how the canal reduced transport time, and the main clause (&ldquo;the canal reduced transport time to nine days and cut costs to six dollars per ton&rdquo;). </p><p>Choice A is incorrect because a semicolon can&rsquo;t be used in this way to mark the boundary between a supplementary phrase (&ldquo;By&hellip;Erie&rdquo;) and the main clause (&ldquo;the canal...ton&rdquo;). Choice B is incorrect because an open parenthesis can&rsquo;t be used in this way to mark the boundary between a supplementary phrase (&ldquo;By&hellip;Erie&rdquo;) and the main clause (&ldquo;the canal...ton&rdquo;). Choice D is incorrect because a colon can&rsquo;t be used in this way to mark the boundary between an introductory supplementary phrase (&ldquo;By&hellip;Erie&rdquo;) and the main clause (&ldquo;the canal...ton&rdquo;). </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "4ef8ef57-da46-45e4-8761-ac1b2742b33d",
+    "stimulus": "<p>Before the Erie Canal was completed in 1825, transporting goods by wagon between New York City and the Midwest took up to forty-five days and cost one hundred dollars per ton. By linking the Hudson River to Lake <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> canal reduced transport time to nine days and cut costs to six dollars per ton.</p>",
+    "templateclusterid": "fcfb1165-7ae2-4722-a819-d38c7c4cbf2e",
+    "parenttemplatename": "OSP-775-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "1a7c44ff-b2e6-4e62-8394-8fc04f4de958",
+        "content": "<p>Erie; the</p>"
+      },
+      {
+        "id": "e7d2c102-ed9e-4f49-bae4-84b19aaf8541",
+        "content": "<p>Erie (the</p>"
+      },
+      {
+        "id": "4da1bd96-7c35-46b0-84f6-5e8ba2a014d5",
+        "content": "<p>Erie, the</p>"
+      },
+      {
+        "id": "b24fd9c4-27a8-430c-8a84-024cd9bac504",
+        "content": "<p>Erie: the</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959351,
+    "pPcc": "P10#SEC",
+    "questionId": "559624fe",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "9b57b9e7-ef0e-46d2-b787-2fe7548aab60",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959351,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "d9ad9716-d123-456c-8e83-a43bf63d78d8",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "b3156fde-bf09-4938-a621-20fe3f540118",
+    "keys": [
+      "c89a837f-ebed-43db-9fa3-a2689e26648c"
+    ],
+    "rationale": "<p>Choice D is the best answer. The convention being tested is subject-verb agreement. The singular verb \"sweeps\" agrees in number with the singular subject \"she,\" which refers to Alice Coltrane.</p><p>Choice A is incorrect because the plural verb \"sweep\" doesn&rsquo;t agree in number with the singular subject \"she.\" Choice B is incorrect because the plural verb \"are sweeping\" doesn&rsquo;t agree in number with the singular subject \"she.\" Choice C is incorrect because the plural verb \"were sweeping\" doesn&rsquo;t agree in number with the singular subject \"she.\"</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "d9ad9716-d123-456c-8e83-a43bf63d78d8",
+    "stimulus": "<p>Midway through her 1968 jazz album <em>A Monastic Trio</em>, Alice Coltrane switches instruments, swapping the piano for the harp. With the same fluid style that Coltrane was famous for on piano, she <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> her fingers across the harp strings and creates a radiant sound.</p>",
+    "templateclusterid": "281d3676-954f-48c4-b21d-c9b8c911cbba",
+    "parenttemplatename": "OSP-758-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "ba377fcd-dfa5-42af-a91b-ea86ed806e28",
+        "content": "<p>sweep</p>"
+      },
+      {
+        "id": "0be08c93-e5a3-4a63-8723-5255db18a46c",
+        "content": "<p>are sweeping</p>"
+      },
+      {
+        "id": "7db3dd0d-3f16-4ff5-9477-7315e9919857",
+        "content": "<p>were sweeping</p>"
+      },
+      {
+        "id": "c89a837f-ebed-43db-9fa3-a2689e26648c",
+        "content": "<p>sweeps</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959347,
+    "pPcc": "P10#SEC",
+    "questionId": "b818ba13",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "9cb058cf-826e-44db-8660-821522951779",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959347,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "9f44164d-95cd-4ebd-a001-076b040f7945",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "e9a60585-fcd9-4fd5-8651-2842fd4cde70",
+    "keys": [
+      "089471ce-9899-4ebe-a255-fc7dc1878fc2"
+    ],
+    "rationale": "<p>Choice B is the best answer. The convention being tested is the use of finite and nonfinite verb forms within a sentence. A main clause requires a finite verb to perform the action of the subject (in this case, &ldquo;some historians&rdquo;), and this choice supplies the finite present tense verb &ldquo;claim&rdquo; to indicate what some historians do.&nbsp;</p><p>Choice A is incorrect because the nonfinite participle &ldquo;claiming&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because the nonfinite participle &ldquo;having claimed&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because the nonfinite to-infinitive &ldquo;to claim&rdquo; doesn&rsquo;t supply the main clause with a finite verb. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "9f44164d-95cd-4ebd-a001-076b040f7945",
+    "stimulus": "<p>In 1637, the price of tulips skyrocketed in Amsterdam, with single bulbs of rare varieties selling for up to the equivalent of $200,000 in today&rsquo;s US dollars. Some historians <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> that this &ldquo;tulip mania&rdquo; was the first historical instance of an asset bubble, which occurs when investors drive prices to highs not supported by actual demand.</p>",
+    "templateclusterid": "8658c732-09d5-4956-a79c-ab2787a9d66d",
+    "parenttemplatename": "OSP-700-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "ba46bbf6-69d8-43f2-8f1b-266e371948f2",
+        "content": "<p>claiming</p>"
+      },
+      {
+        "id": "089471ce-9899-4ebe-a255-fc7dc1878fc2",
+        "content": "<p>claim</p>"
+      },
+      {
+        "id": "bf131a14-6a6f-4c6d-9c93-6463e582dd2a",
+        "content": "<p>having claimed</p>"
+      },
+      {
+        "id": "a4c15225-4940-4177-869d-a1fb0955c607",
+        "content": "<p>to claim</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959352,
+    "pPcc": "P10#SEC",
+    "questionId": "3953002d",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "9d674aff-32e0-4a9c-9e4b-3c959d01e54b",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959352,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "523887d8-5850-4f95-828e-c64095efdb88",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "b5fe4895-4b12-4ccc-8e6d-569a453c9881",
+    "keys": [
+      "adbcc70c-1ad7-40d1-9ba6-978f30f5714f"
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is punctuation between a subject and a verb. When, as in this case, a subject (&ldquo;Generations of mystery and horror writers&rdquo;) is immediately followed by a verb (&ldquo;have been influenced&rdquo;), no punctuation is needed. </p><p>Choice B is incorrect because no punctuation is needed between the subject and the verb. Choice C is incorrect because no punctuation is needed between the subject and the verb. Choice D is incorrect because no punctuation is needed between the subject and the verb. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "523887d8-5850-4f95-828e-c64095efdb88",
+    "stimulus": "<p>Generations of mystery and horror <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> have been influenced by the dark, gothic stories of celebrated American author Edgar Allan Poe (1809&ndash;1849).</p>",
+    "templateclusterid": "3cbbb8db-0c3d-40f5-a2a8-14fcde26f834",
+    "parenttemplatename": "OSP-774-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "adbcc70c-1ad7-40d1-9ba6-978f30f5714f",
+        "content": "<p>writers</p>"
+      },
+      {
+        "id": "3d67289f-09a1-4fb1-addd-6a569a441129",
+        "content": "<p>writers,</p>"
+      },
+      {
+        "id": "fcc2c90d-7fcd-43b1-92ed-a9866e1f4b1b",
+        "content": "<p>writers&mdash;</p>"
+      },
+      {
+        "id": "e16e00f5-02e3-498e-9010-7eef1b3a9d9f",
+        "content": "<p>writers;</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323047,
+    "pPcc": "P10#SEC",
+    "questionId": "e7f9b31c",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 1,
+    "uId": "a5f65121-2352-4c4a-95e4-ace706cd1d0a",
+    "skill_desc": "Boundaries",
+    "createDate": 1730147323047,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "155379f1-163d-4cfe-89ff-ea5219cd2f3a",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>By analyzing ice cores from Greenland and Antarctica, a research team at Sweden&rsquo;s Lund University discovered evidence of a solar storm that occurred 9,200 years ago. Scientists had previously thought the Sun to be in a relatively &ldquo;quiet&rdquo; phase at that <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the Lund team&rsquo;s finding suggests otherwise.</p>",
+    "type": "mcq",
+    "keys": [
+      "345f492e-da1c-4065-9d76-2bef038aae6d"
+    ],
+    "answerOptions": [
+      {
+        "id": "a5a1e5fc-6290-4136-b174-ebc81397d32d",
+        "content": "<p>time but</p>"
+      },
+      {
+        "id": "345f492e-da1c-4065-9d76-2bef038aae6d",
+        "content": "<p>time, but</p>"
+      },
+      {
+        "id": "57b23aa6-7716-4ed9-975b-d70777ef008d",
+        "content": "<p>time,</p>"
+      },
+      {
+        "id": "015daf56-e413-4da6-9f56-b0822fed1979",
+        "content": "<p>time</p>"
+      }
+    ],
+    "rationale": "<p>Choice B is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction \"but\" to join the first main clause (\"Scientists...time\") and the second main clause (\"the Lund...otherwise\").</p><p>Choice A is incorrect because when coordinating two longer main clauses such as these, it&rsquo;s conventional to use a comma before the coordinating conjunction. Choice C is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. Choice D is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction.</p>",
+    "externalid": "155379f1-163d-4cfe-89ff-ea5219cd2f3a",
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1730147323051,
+    "pPcc": "P10#SEC",
+    "questionId": "618b3056",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "a732ee4e-c41e-4ea7-a68f-7a7f32aa8bcd",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1730147323051,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "3bf90a30-ea0e-4762-adb2-a5e07db0fb4d",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>What is the correct pronunciation of Kiribati? In the Gilbertese language spoken by residents of the island nation, the letter combination -ti makes the -s sound; as a result, the country&rsquo;s name <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> pronounced &ldquo;Kiribas.&rdquo;</p>",
+    "type": "mcq",
+    "keys": [
+      "cff8b8a3-a073-40d6-afe3-4e40ace314fc"
+    ],
+    "answerOptions": [
+      {
+        "id": "ff237006-8c1a-46f5-afd2-61ae81ef3374",
+        "content": "<p>are</p>"
+      },
+      {
+        "id": "6b90b181-e3eb-4ff1-97d5-c82f84e78261",
+        "content": "<p>have been</p>"
+      },
+      {
+        "id": "8dd2c271-cd07-43b4-a11f-01bc86ad05aa",
+        "content": "<p>are being</p>"
+      },
+      {
+        "id": "cff8b8a3-a073-40d6-afe3-4e40ace314fc",
+        "content": "<p>is</p>"
+      }
+    ],
+    "rationale": "<p>Choice D is the best answer. The convention being tested is subject-verb agreement. The singular verb \"is\" agrees in number with the singular subject \"the country&rsquo;s name.\"</p><p>Choice A is incorrect because the plural verb \"are\" doesn&rsquo;t agree in number with the singular subject \"the country&rsquo;s name.\" Choice B is incorrect because the plural verb \"have been\" doesn&rsquo;t agree in number with the singular subject \"the country&rsquo;s name.\" Choice C is incorrect because the plural verb \"are being\" doesn&rsquo;t agree in number with the singular subject \"the country&rsquo;s name.\"</p>",
+    "externalid": "3bf90a30-ea0e-4762-adb2-a5e07db0fb4d",
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959358,
+    "pPcc": "P10#SEC",
+    "questionId": "9553394d",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "aa1384e5-1fa3-4d8f-a21e-a5d0e5852b32",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959358,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "471d4144-80a4-4d23-a0c0-170823a91b45",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "1384e7f2-3d61-425a-ac34-c195f283da5e",
+    "keys": [
+      "da0794be-2912-4064-a5d0-06d39d862e59"
+    ],
+    "rationale": "<p>Choice D is the best answer. The comma appropriately separates the nonessential descriptive aside \"such as&hellip;scene\" from the independent clause \"Theaters were&hellip;movie.\" Since the descriptive example of roses isn&rsquo;t necessary for the sentence to function, it needs to be set off with punctuation.</p><p>Choice A is incorrect. This choice results in a run-on sentence. Since the example of roses isn&rsquo;t necessary for the sentence to function, the descriptive aside \"such as&hellip;scene\" needs to be separated from the preceding independent clause with some sort of punctuation. Choice B is incorrect. This choice creates a punctuation error. A semicolon can only be used to separate two independent clauses, but \"such&hellip;scene\" is not an independent clause and couldn&rsquo;t stand on its own as a sentence. Choice C is incorrect. This choice results in a sentence fragment. The descriptive aside \"Such&hellip;scene\" is not an independent clause and can&rsquo;t stand on its own as a sentence.</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "471d4144-80a4-4d23-a0c0-170823a91b45",
+    "stimulus": "<p>In 1959, the film industry debuted Smell-O-Vision. Theaters were fitted with specialized vents that emitted odors at specific points in a <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> as the scent of roses when roses appeared in a scene. Smell-O-Vision failed to impress, however, with one reviewer declaring it &ldquo;briefly weird and not very interesting.&rdquo;</p>",
+    "templateclusterid": "4169cc66-ea45-4782-ab51-edc6e6bbddef",
+    "parenttemplatename": "OSP-KA-BOU-E005",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "23981881-a5ef-4601-91ef-d1d8d8ce04a1",
+        "content": "<p>movie such</p>"
+      },
+      {
+        "id": "70f12f58-e311-45e6-b193-e5027f3a87c2",
+        "content": "<p>movie; such</p>"
+      },
+      {
+        "id": "b5894612-6ecb-4d72-a2e7-54be36055ec5",
+        "content": "<p>movie. Such</p>"
+      },
+      {
+        "id": "da0794be-2912-4064-a5d0-06d39d862e59",
+        "content": "<p>movie, such</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959351,
+    "pPcc": "P10#SEC",
+    "questionId": "2ed74e51",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "aaa79e37-5ac6-4bab-9143-9a27a8b57a13",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959351,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "1302875a-5271-4e0a-8ec6-526e0b4929e6",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "608a5f20-f8e0-4b99-b5da-b07495b14104",
+    "keys": [
+      "81b46448-8cdb-4db7-9e4b-03081abf9afe"
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is pronoun-antecedent agreement. The plural pronoun \"they\" agrees in number with the plural antecedent \"animals,\" which refers to tardigrades.</p><p>Choice A is incorrect because the singular pronoun \"that\" doesn&rsquo;t agree in number with the plural antecedent \"animals.\" Choice B is incorrect because the singular pronoun \"it\" doesn&rsquo;t agree in number with the plural antecedent \"animals.\" Choice D is incorrect because the singular pronoun \"he\" doesn&rsquo;t agree in number with the plural antecedent \"animals.\"</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "1302875a-5271-4e0a-8ec6-526e0b4929e6",
+    "stimulus": "<p>Smaller than poppy seeds, tardigrades are tiny, but they are tough. These minuscule animals can survive for thirty years without food or water, and <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> can withstand extreme temperatures as low as minus 328 degrees and as high as 304 degrees Fahrenheit.</p>",
+    "templateclusterid": "3f248945-5ecc-494d-8cc6-2ab7a65227c4",
+    "parenttemplatename": "OSP-757-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "70576821-befc-4141-87da-9017d75292c7",
+        "content": "<p>that</p>"
+      },
+      {
+        "id": "8498e371-007f-4221-9c7d-b14a044c08d5",
+        "content": "<p>it</p>"
+      },
+      {
+        "id": "81b46448-8cdb-4db7-9e4b-03081abf9afe",
+        "content": "<p>they</p>"
+      },
+      {
+        "id": "855bf2d9-df9d-475d-9f03-fdfb57d26bfd",
+        "content": "<p>he</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959339,
+    "pPcc": "P10#SEC",
+    "questionId": "a1e6e266",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "adc699d7-a3b2-4636-9842-aece53bd9421",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959339,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "c9e6835c-2255-4929-b4da-6fc380ba028c",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "8717315b-9b76-417c-ac3a-17928f70e53c",
+    "keys": [
+      "616192fa-f5c0-44ae-89f5-48809b81ad12"
+    ],
+    "rationale": "<p>Choice B is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction &ldquo;but&rdquo; to join the first main clause (&ldquo;the Alvarez&hellip;out&rdquo;) and the second main clause (&ldquo;it left&hellip;extinctions&rdquo;). </p><p>Choice A is incorrect because when coordinating two longer main clauses such as these, it&rsquo;s conventional to use a comma before the coordinating conjunction. Choice C is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction. Choice D is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "c9e6835c-2255-4929-b4da-6fc380ba028c",
+    "stimulus": "<p>The Alvarez theory, developed in 1980 by physicist Luis Walter Alvarez and his geologist son Walter Alvarez, maintained that the secondary effects of an asteroid impact caused many dinosaurs and other animals to die <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> it left unexplored the question of whether unrelated volcanic activity might have also contributed to the mass extinctions.</p>",
+    "templateclusterid": "e6f74b0a-7ef0-472c-838f-f2f76af2f24a",
+    "parenttemplatename": "OSP-604-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "7a59f43b-8e8e-4744-acac-c6ebf3003546",
+        "content": "<p>out but</p>"
+      },
+      {
+        "id": "616192fa-f5c0-44ae-89f5-48809b81ad12",
+        "content": "<p>out, but</p>"
+      },
+      {
+        "id": "08e23328-e067-4926-bf3e-2a452b0ac58d",
+        "content": "<p>out</p>"
+      },
+      {
+        "id": "64e9ba66-cefd-4d2c-88f8-b54a521a7273",
+        "content": "<p>out,&nbsp;</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959351,
+    "pPcc": "P10#SEC",
+    "questionId": "41f2da4f",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "afe7d0d2-a03f-4d48-9781-de57ad24ff2b",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959351,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "b8794e86-cc8f-479a-8a91-f54d81a14747",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "2ce19175-a319-4883-9b68-2b59d4bd4661",
+    "keys": [
+      "a20e5af4-726a-45f6-8796-ba0063537c15"
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is the use of verbs to express tense in a sentence. In this choice, the present perfect tense verb &ldquo;have contributed,&rdquo; used in conjunction with the phrase &ldquo;since it began in 2012,&rdquo; correctly indicates that map editors have contributed in the past and continue to do so in the present. </p><p>Choice A is incorrect because the present tense verb &ldquo;contribute&rdquo; is inconsistent with the phrase &ldquo;since it began in 2012,&rdquo; which suggests that the contributions occurred in the past and continue into the present. Choice B is incorrect because the future tense verb &ldquo;will contribute&rdquo; is inconsistent with the phrase &ldquo;since it began in 2012,&rdquo; which suggests that the contributions occurred in the past and continue into the present. Choice D is incorrect because the future tense verb &ldquo;will be contributing&rdquo; is inconsistent with the phrase &ldquo;since it began in 2012,&rdquo; which suggests that the contributions occurred in the past and continue into the present. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "b8794e86-cc8f-479a-8a91-f54d81a14747",
+    "stimulus": "<p>The US Geological Survey wants to map every human-made structure in the United States, and it is asking volunteers to help. Cassie Tammy Wang and Ashish D&rsquo;Souza are just two of the many volunteer map editors who <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> to the project since it began in 2012.</p>",
+    "templateclusterid": "5f7c7ced-018f-431c-88ca-0b30433626f1",
+    "parenttemplatename": "OSP-755-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "ef812a42-1a00-452e-a3e2-3c1f9f878148",
+        "content": "<p>contribute</p>"
+      },
+      {
+        "id": "29be742e-25e4-4250-95ce-b89caf3e86dd",
+        "content": "<p>will contribute</p>"
+      },
+      {
+        "id": "a20e5af4-726a-45f6-8796-ba0063537c15",
+        "content": "<p>have contributed</p>"
+      },
+      {
+        "id": "d415385b-1c93-424c-9a2f-83baf61ddf38",
+        "content": "<p>will be contributing</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959347,
+    "pPcc": "P10#SEC",
+    "questionId": "fc7ebf09",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "b9774f13-b5db-41b8-b321-8e4abe85ab3c",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959347,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "0765ff91-480b-4dbc-9180-944329c2b26d",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "f8b29d31-679d-4e38-8f35-326b4a9878b1",
+    "keys": [
+      "4f6b7b1a-7695-49b6-8fe0-78d3e20d51cd"
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is the use of finite and nonfinite verb forms within a sentence. A main clause requires a finite verb to perform the action of the subject (in this case, &ldquo;a recent study&rdquo;), and this choice supplies the finite present tense verb &ldquo;explains&rdquo; to indicate that the study explains why plants that attract bats have evolved to produce moderately sweet nectar.&nbsp;</p><p>Choice B is incorrect because the nonfinite participle &ldquo;explaining&rdquo; doesn&rsquo;t supply the main clause with a finite verb.&nbsp;Choice C is incorrect because the nonfinite participle &ldquo;having explained&rdquo; doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because the nonfinite to-infinitive &ldquo;to explain&rdquo; doesn&rsquo;t supply the main clause with a finite verb. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "0765ff91-480b-4dbc-9180-944329c2b26d",
+    "stimulus": "<p>Even though bats prefer very sweet nectar, the plants that attract them have evolved to produce nectar that is only moderately sweet. A recent study <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> why: making sugar is energy-intensive, and it is more advantageous for plants to make a large amount of low-sugar nectar than a small amount of high-sugar nectar.</p>",
+    "templateclusterid": "d85195fd-16c1-4631-b5bc-af568e6e6e28",
+    "parenttemplatename": "OSP-708-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "4f6b7b1a-7695-49b6-8fe0-78d3e20d51cd",
+        "content": "<p>explains</p>"
+      },
+      {
+        "id": "52e62e6c-dd06-401c-8427-385472b0ebbf",
+        "content": "<p>explaining</p>"
+      },
+      {
+        "id": "b432d356-d63c-4fcc-937c-303af25ebccd",
+        "content": "<p>having explained</p>"
+      },
+      {
+        "id": "92caecd4-0d99-42b1-91d4-9ed57879c36a",
+        "content": "<p>to explain</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959366,
+    "pPcc": "P10#SEC",
+    "questionId": "ac384264",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 1,
+    "uId": "bfdd25fc-ce7f-4fbc-b680-1b9245083b03",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959366,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "c18288eb-c098-4079-87a7-b154aed1e680",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "ccfc734d-f201-4652-aee8-b236cff34029",
+    "keys": [
+      "363e8a49-05cc-4d55-a762-fb06a0ea8375"
+    ],
+    "rationale": "<p>Choice B is the best answer. The convention being tested is subject-verb agreement. The plural verb \"enable\" agrees in number with the plural subject \"sound-based tools.\"</p><p>Choice A is incorrect because the singular verb \"has enabled\" doesn&rsquo;t agree in number with the plural subject \"sound-based tools.\" Choice C is incorrect because the singular verb \"is enabling\" doesn&rsquo;t agree in number with the plural subject \"sound-based tools.\" Choice D is incorrect because the singular verb \"enables\" doesn&rsquo;t agree in number with the plural subject \"sound-based tools.\"</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "c18288eb-c098-4079-87a7-b154aed1e680",
+    "stimulus": "<p>Wanda Diaz-Merced is an astrophysicist who lost her sight when she was young. Diaz-Merced&rsquo;s condition inspired her to develop software that can translate scientific data into sound. Sound-based tools <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> scientists to detect subtle patterns in data. Such patterns may not be evident in traditional graphs.</p>",
+    "templateclusterid": "cc79ac31-256f-4720-8894-c9bc01492e23",
+    "parenttemplatename": "OSP-KA-FSS-E001",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "45476120-2224-49b3-9dc2-812f40bf1219",
+        "content": "<p>has enabled</p>"
+      },
+      {
+        "id": "363e8a49-05cc-4d55-a762-fb06a0ea8375",
+        "content": "<p>enable</p>"
+      },
+      {
+        "id": "d66ea55f-65c1-4e36-a7ab-1789b2ffdde0",
+        "content": "<p>is enabling&nbsp;&nbsp;</p>"
+      },
+      {
+        "id": "671e8bc1-d397-43d8-ac83-9a287327645d",
+        "content": "<p>enables</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959340,
+    "pPcc": "P10#SEC",
+    "questionId": "764b7545",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "c0a03821-fc06-414f-885d-648b9706ee28",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959340,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "7bfeb66b-6a87-475b-adf5-180cccf63991",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "1bf6f778-7169-488c-b5e3-eee5e90c80f7",
+    "keys": [
+      "bfa96f80-1f8c-48b6-b08e-42410f0cf7de"
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is the use of possessive determiners. The plural possessive determiner &ldquo;their&rdquo; agrees in number with the plural conjoined noun phrase &ldquo;Watson and Crick&rdquo; and thus indicates that the findings were those of Watson and Crick. </p><p>Choice A is incorrect because &ldquo;they&rsquo;re&rdquo; is the contraction for &ldquo;they are,&rdquo; not a possessive determiner. Choice B is incorrect because &ldquo;it&rsquo;s&rdquo; is the contraction for &ldquo;it is&rdquo; or &ldquo;it has,&rdquo; not a possessive determiner. Choice D is incorrect because&nbsp;the singular possessive determiner &ldquo;its&rdquo; doesn&rsquo;t agree in number with the plural conjoined noun phrase &ldquo;Watson and Crick.&rdquo; </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "7bfeb66b-6a87-475b-adf5-180cccf63991",
+    "stimulus": "<p>British scientists James Watson and Francis Crick won the Nobel Prize in part for their 1953 paper announcing the double helix structure of DNA, but it is misleading to say that Watson and Crick discovered the double helix. <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> findings were based on a famous X-ray image of DNA fibers, &ldquo;Photo 51,&rdquo; developed by X-ray crystallographer Rosalind Franklin and her graduate student Raymond Gosling.</p>",
+    "templateclusterid": "c8cfb123-dcef-4262-85a3-f6bf1763e4f9",
+    "parenttemplatename": "OSP-635-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "63689ecf-33cb-4bc8-a80d-4e8bd816bdb9",
+        "content": "<p>They&rsquo;re</p>"
+      },
+      {
+        "id": "f5ad814d-966c-4db1-8e99-de01b202a619",
+        "content": "<p>It&rsquo;s</p>"
+      },
+      {
+        "id": "bfa96f80-1f8c-48b6-b08e-42410f0cf7de",
+        "content": "<p>Their</p>"
+      },
+      {
+        "id": "67747f12-cdb5-41bd-825e-b6428ee2de89",
+        "content": "<p>Its</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959366,
+    "pPcc": "P10#SEC",
+    "questionId": "6b030cfe",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "c244f627-ef5d-4fc1-8599-d75311813b76",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959366,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "69d8b8e6-123a-473c-bf90-991f3f3ba3d7",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "dcdfa31e-d978-41ff-b729-5042081614bc",
+    "keys": [
+      "3e21ab7a-adfc-4c33-b99e-b16d01e9146f"
+    ],
+    "rationale": "<p>Choice D is the best answer. The past tense of \"suspended\" matches the past tense of \"applied,\" which has the same subject (\"he\") and takes place in the same context: \"He applied&hellip;and [he] suspended.\"</p><p>Choice A is incorrect. The perfect infinitive \"to have suspended\" doesn&rsquo;t match the past tense of \"applied,\" and it can&rsquo;t serve as a verb on its own. These are both verbs with the same subject and in the same context, so there&rsquo;s no need to shift tenses. Choice B is incorrect. The present participle \"suspending\" doesn&rsquo;t match the past tense of \"applied,\" and it can&rsquo;t serve as a verb on its own. These are both verbs with the same subject and in the same context, so there&rsquo;s no need to shift tenses. Choice C is incorrect. The infinitive \"to suspend\" doesn&rsquo;t match the past tense of \"applied,\" and it can&rsquo;t serve as a verb on its own. These are both verbs with the same subject and in the same context, so there&rsquo;s no need to shift tenses.</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "69d8b8e6-123a-473c-bf90-991f3f3ba3d7",
+    "stimulus": "<p>In the late 1960s, inspired in part by the sight of laundry hanging on a clothesline, African American abstract painter Sam Gilliam began to create his iconic &ldquo;Drape&rdquo; paintings. He applied bold, saturated hues to large canvases and <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> them from ceilings or walls, causing the drooping fabric to cascade in dramatic loops and curves.</p>",
+    "templateclusterid": "338353b7-c5a8-47dc-b601-3bc148714cc1",
+    "parenttemplatename": "OSP-KA-FSS-E006",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "54f3cac8-5c5e-4f0c-8644-f516b02e31f2",
+        "content": "<p>to have suspended</p>"
+      },
+      {
+        "id": "d5c2b4d6-0408-40b4-9a13-0e5c695ec0aa",
+        "content": "<p>suspending</p>"
+      },
+      {
+        "id": "ebbaf624-9ce6-4889-a83f-b77fa4342d27",
+        "content": "<p>to suspend</p>"
+      },
+      {
+        "id": "3e21ab7a-adfc-4c33-b99e-b16d01e9146f",
+        "content": "<p>suspended</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1730147323049,
+    "pPcc": "P10#SEC",
+    "questionId": "9b10a012",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "cac1d91b-4b47-4bb7-8108-19b3b1b9054b",
+    "skill_desc": "Boundaries",
+    "createDate": 1730147323049,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "6210f31b-209c-4eef-8eb5-f4adb93c6abb",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>Louise Bennett (1919&ndash;2006), also known as &ldquo;Miss Lou,&rdquo; was an influential Jamaican poet and folklorist. Her innovative poems <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the use of Jamaican Creole (a spoken language) in literature.</p>",
+    "type": "mcq",
+    "keys": [
+      "7601650b-68d8-4fdf-af9e-436ff2c9c8ba"
+    ],
+    "answerOptions": [
+      {
+        "id": "c2164deb-0262-4738-8028-b348174de44b",
+        "content": "<p>popularized;&nbsp;</p>"
+      },
+      {
+        "id": "19849e6e-8185-46ed-8956-0cd5ae59a22d",
+        "content": "<p>popularized,</p>"
+      },
+      {
+        "id": "7601650b-68d8-4fdf-af9e-436ff2c9c8ba",
+        "content": "<p>popularized</p>"
+      },
+      {
+        "id": "54b73edc-bd36-4495-a4aa-7110e519bfce",
+        "content": "<p>popularized:</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use between a verb and an object. No punctuation is needed between the verb \"popularized\" and its object \"the use of Jamaican Creole.\" The object helps complete the idea of the verb&mdash;in this case, it explains what Louise Bennett popularized&mdash;and any punctuation between the two results in an ungrammatical sentence.</p><p>Choice A is incorrect because no punctuation is needed between the verb and its object. Choice B is incorrect because no punctuation is needed between the verb and its object. Choice D is incorrect because no punctuation is needed between the verb and its object.</p>",
+    "externalid": "6210f31b-209c-4eef-8eb5-f4adb93c6abb",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959352,
+    "pPcc": "P10#SEC",
+    "questionId": "355670a5",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "d62bb400-db13-433d-8db5-3ffd90ed5203",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959352,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "bd7408af-a2d1-4c48-8447-ef7d4ca6096c",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "a0a400c3-87dd-4f2b-9187-f3aab5e8bb8b",
+    "keys": [
+      "74851c5c-2396-4c65-afea-dfb9700bf4f4"
+    ],
+    "rationale": "<p>Choice D is the best answer. The convention being tested is end-of-sentence punctuation. This choice correctly uses a question mark to punctuate the interrogative sentence &ldquo;how are they able to move so fast?&rdquo; The interrogative sentence asks a direct question, and the next sentence answers it. </p><p>Choice A is incorrect because the context requires an interrogative sentence. The exclamative sentence &ldquo;how they are able to move so fast!&rdquo; emphasizes the penguin&rsquo;s high rate of speed, but it doesn&rsquo;t set up the next sentence&rsquo;s explanation of how the penguins achieve such speeds. Choice B is incorrect because a period can&rsquo;t be used in this way to punctuate an interrogative sentence. Choice C is incorrect because the context requires an interrogative sentence. The exclamative sentence &ldquo;how they are able to move so fast&rdquo; emphasizes the penguin&rsquo;s high rate of speed, but it doesn&rsquo;t set up the next sentence&rsquo;s explanation of how the penguins achieve such speeds.\n&nbsp;</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "bd7408af-a2d1-4c48-8447-ef7d4ca6096c",
+    "stimulus": "<p>Emperor penguins don&rsquo;t waddle out of the ocean. They launch themselves at such a high speed that they travel up to two meters before landing. How <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> A layer of microbubbles on their plumage reduces friction as the penguins speed to the surface.</p>",
+    "templateclusterid": "eb450723-ee02-448c-b4ae-8656319e1c23",
+    "parenttemplatename": "OSP-773-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "88ad9603-e0b8-4f57-b2a5-24f8ca169dbf",
+        "content": "<p>they are able to move so fast!</p>"
+      },
+      {
+        "id": "f7ac3571-efdb-490f-8a9b-3e6895fef516",
+        "content": "<p>&nbsp;are they able to move so fast.</p>"
+      },
+      {
+        "id": "409ffffc-6b3f-4e29-a16a-95d707d306a2",
+        "content": "<p>they are able to move so fast.</p>"
+      },
+      {
+        "id": "74851c5c-2396-4c65-afea-dfb9700bf4f4",
+        "content": "<p>are they able to move so fast?</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1730147323051,
+    "pPcc": "P10#SEC",
+    "questionId": "dcd68240",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "dcb3f47d-cc03-4c23-9209-aee33ef54511",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1730147323051,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "51e3afc5-5b0e-44ac-ba31-71b85c36fa37",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>Multiple newspapers <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the Spanish-speaking population of Washington, DC, including <em>El Tiempo Latino</em> and <em>Washington Hispanic</em>.</p>",
+    "type": "mcq",
+    "keys": [
+      "4b6a71bb-7d5f-42be-9c1c-f4155adb07ee"
+    ],
+    "answerOptions": [
+      {
+        "id": "4b6a71bb-7d5f-42be-9c1c-f4155adb07ee",
+        "content": "<p>serve</p>"
+      },
+      {
+        "id": "2ba5e278-837d-4b0a-88bb-759c9934c14a",
+        "content": "<p>having served</p>"
+      },
+      {
+        "id": "f7bf698b-7218-4bb7-99ac-6e7dc106c8a5",
+        "content": "<p>to serve</p>"
+      },
+      {
+        "id": "69513e5e-f4d7-4340-bc66-040f0261b5af",
+        "content": "<p>serving</p>"
+      }
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. A main clause requires a finite (tensed) verb to perform the action of the subject (in this case, \"multiple newspapers\"), and this choice supplies the finite present tense verb \"serve\" to indicate that there are multiple newspapers serving the Spanish-speaking population of Washington, DC.</p><p>Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"having served\" doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to serve\" doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"serving\" doesn&rsquo;t supply the main clause with a finite verb.</p>",
+    "externalid": "51e3afc5-5b0e-44ac-ba31-71b85c36fa37",
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1691007959350,
+    "pPcc": "P10#SEC",
+    "questionId": "ac4b2c70",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 1,
+    "uId": "e28f576c-50f6-4b01-bd8e-3f4860afa60c",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959350,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "461da84a-fab3-40aa-ac49-bb682b69b95e",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "2fa50d88-e5ea-4283-b3fc-ef929f2cfea1",
+    "keys": [
+      "0cf30e9b-6da6-40bf-b3f5-5f24011c92d0"
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is the use of verbs to express tense in a sentence. In this choice, the future tense verb &ldquo;will learn,&rdquo; used in conjunction with the phrase &ldquo;in a later chapter,&rdquo; correctly indicates that &ldquo;you&rdquo; (the reader) are going to learn about obsidian&rsquo;s structure at some point in the future. </p><p>Choice A is incorrect because the past perfect verb &ldquo;had learned&rdquo; doesn&rsquo;t indicate that the subject is going to learn about obsidian&rsquo;s structure in the future. Choice B is incorrect because the past perfect progressive verb &ldquo;had been learning&rdquo; doesn&rsquo;t indicate that the subject is going to learn about obsidian&rsquo;s structure in the future. Choice D is incorrect because the present perfect verb &ldquo;have learned&rdquo; doesn&rsquo;t indicate that the subject is going to learn about obsidian&rsquo;s structure in the future. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "461da84a-fab3-40aa-ac49-bb682b69b95e",
+    "stimulus": "<p>Obsidian is a kind of volcanic glass formed when lava cools so quickly that the atoms inside it cannot arrange themselves in a crystalline structure. You <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> more about obsidian&rsquo;s structure, which is classified as amorphous, in a later chapter.</p>",
+    "templateclusterid": "55f93536-b3a0-46ea-a749-b054bdfc5e8d",
+    "parenttemplatename": "OSP-748-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "b1de9794-79b2-4969-93ec-e94a28c2e909",
+        "content": "<p>had learned</p>"
+      },
+      {
+        "id": "4bb5c9bb-0364-44e9-a801-ab45dedb97aa",
+        "content": "<p>had been learning</p>"
+      },
+      {
+        "id": "0cf30e9b-6da6-40bf-b3f5-5f24011c92d0",
+        "content": "<p>will learn</p>"
+      },
+      {
+        "id": "03673a13-e9f5-4613-ab57-e8353ac286c8",
+        "content": "<p>have learned</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1730147323049,
+    "pPcc": "P10#SEC",
+    "questionId": "c65b73fd",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "e7bd7e37-3662-4b99-b965-7f623d666b67",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1730147323049,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "aca54523-e3d5-4486-aac0-0b3b70e3ecbe",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>How did whales, once no bigger than seals, evolve to become the largest animals on Earth? Brazilian biologist Mariana Nery believes the answer might be found in whales&rsquo; DNA. In January 2023, Nery and her colleagues <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> a study showing changes over time in four whale genes associated with body size.</p>",
+    "type": "mcq",
+    "keys": [
+      "664e7eb6-c566-45e9-affb-6ca2036f8a9a"
+    ],
+    "answerOptions": [
+      {
+        "id": "664e7eb6-c566-45e9-affb-6ca2036f8a9a",
+        "content": "<p>published</p>"
+      },
+      {
+        "id": "740e8d59-795d-4dcd-9bed-26ff4679c9c5",
+        "content": "<p>publishing</p>"
+      },
+      {
+        "id": "641acfeb-420f-4320-9885-302818a1b88f",
+        "content": "<p>having published</p>"
+      },
+      {
+        "id": "c917b569-b893-4649-b2d4-9d113a008396",
+        "content": "<p>to publish</p>"
+      }
+    ],
+    "rationale": "<p>Choice A is the best answer. The convention being tested is the use of verb forms within a sentence. A main clause requires a finite (tensed) verb to perform the action of the subject (in this case, Nery and her colleagues), and this choice supplies the finite past tense verb \"published\" to indicate that these biologists shared their findings about changes in whale genes associated with body size.</p><p>Choice B is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"publishing\" doesn&rsquo;t supply the main clause with a finite verb. Choice C is incorrect because it results in an ungrammatical sentence. The nonfinite participle \"having published\" doesn&rsquo;t supply the main clause with a finite verb. Choice D is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to publish\" doesn&rsquo;t supply the main clause with a finite verb.</p>",
+    "externalid": "aca54523-e3d5-4486-aac0-0b3b70e3ecbe",
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323049,
+    "pPcc": "P10#SEC",
+    "questionId": "1bdd43d5",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "eadbd4cb-2e93-4482-8c31-953382c2c673",
+    "skill_desc": "Boundaries",
+    "createDate": 1730147323049,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "5aa98f5c-cc3b-452b-85ea-4fedfc2a58d5",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>A harpsichord may look just like a piano, but the difference between the two instruments is easy to hear. When a harpsichord&rsquo;s keys are pressed, the strings inside the <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> are plucked, not struck.</p>",
+    "type": "mcq",
+    "keys": [
+      "78054cba-fdb8-4f26-9a21-cdb552ae14fa"
+    ],
+    "answerOptions": [
+      {
+        "id": "ef5fae4a-a922-494c-82dd-c0ce30856d6f",
+        "content": "<p>instrument:</p>"
+      },
+      {
+        "id": "78054cba-fdb8-4f26-9a21-cdb552ae14fa",
+        "content": "<p>instrument</p>"
+      },
+      {
+        "id": "611f48c3-fbb0-46e5-bc4e-ad6be1ca823c",
+        "content": "<p>instrument&mdash;</p>"
+      },
+      {
+        "id": "0ab986cc-ee52-4cbe-a332-7497c7f143bb",
+        "content": "<p>instrument,</p>"
+      }
+    ],
+    "rationale": "<p>Choice B is the best answer. The convention being tested is punctuation use between a subject and a verb. When, as in this case, a subject (\"the strings inside the instrument\") is immediately followed by a main verb (\"are plucked\"), no punctuation is needed.</p><p>Choice A is incorrect because no punctuation is needed between the subject and the verb. Choice C is incorrect because no punctuation is needed between the subject and the verb. Choice D is incorrect because no punctuation is needed between the subject and the verb.</p>",
+    "externalid": "5aa98f5c-cc3b-452b-85ea-4fedfc2a58d5",
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1730147323050,
+    "pPcc": "P10#SEC",
+    "questionId": "7237933f",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "eb60c325-88fd-4a9c-ab21-a9987daf542e",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1730147323050,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "6939cd22-4028-4cd4-8c6c-715efed88077",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>From 1912 to 1951, Charlotta Bass owned and operated the newspaper <em>The California Eagle</em>. While it was under Bass&rsquo;s leadership, <em>The Eagle</em> <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> one of the US&rsquo;s most influential Black-owned newspapers.</p>",
+    "type": "mcq",
+    "keys": [
+      "b3121943-96f2-4982-9382-78236bff59db"
+    ],
+    "answerOptions": [
+      {
+        "id": "250374a4-7214-4b01-b949-b43f76ce38de",
+        "content": "<p>will become</p>"
+      },
+      {
+        "id": "b3121943-96f2-4982-9382-78236bff59db",
+        "content": "<p>became</p>"
+      },
+      {
+        "id": "956cc184-da36-4c0b-93ec-951d00d751f3",
+        "content": "<p>is becoming</p>"
+      },
+      {
+        "id": "db79fcf4-fc4b-45bd-bc03-60779f10aed5",
+        "content": "<p>to become</p>"
+      }
+    ],
+    "rationale": "<p>Choice B is the best answer. The conventions being tested are the use of verbs to express tense and the use of verb forms within a sentence. In this choice, the past tense verb \"became\" is consistent with the other past tense verbs (\"owned,\" \"operated,\" and \"was\") used to indicate that, at a period of time in the past, Bass&rsquo;s leadership resulted in her newspaper becoming one of the most influential Black-owned newspapers in the US. In addition, \"became\" supplies the main clause with a finite (tensed) verb, which is required to perform the action of the subject (in this case, \"<em>The Eagle</em>\").</p><p>Choice A is incorrect because the future tense verb \"will become\" isn&rsquo;t consistent with the other past tense verbs used to discuss Bass and her newspaper. Choice C is incorrect because the present progressive verb \"is becoming\" isn&rsquo;t consistent with the other past tense verbs used to discuss Bass and her newspaper. Choice D is incorrect because it results in an ungrammatical sentence. The nonfinite to-infinitive \"to become\" doesn&rsquo;t supply the main clause with a finite verb.</p>",
+    "externalid": "6939cd22-4028-4cd4-8c6c-715efed88077",
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959366,
+    "pPcc": "P10#SEC",
+    "questionId": "558700f2",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 1,
+    "uId": "eca05f1f-0b27-46b2-82fc-d8e3543fa16a",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959366,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "da5f48d2-3276-4469-85e5-9116ec9afd2c",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "8726b441-ce9f-457e-b6a8-f9c789a89b49",
+    "keys": [
+      "ed1a4794-17c5-4722-b1f1-228f12b17e3d"
+    ],
+    "rationale": "<p>Choice A is the best answer. The previous sentence tells us how economists in India \"use\" a certain tool, while this sentence describes general facts about that tool. To express general facts (and also to match the simple present tense of \"use\"), we should use the simple present tense form \"measures.\"</p><p>Choice B is incorrect. This choice uses the past perfect tense, but the previous sentence tells us that the tool is currently used to measure things, so the past tense doesn&rsquo;t make sense for this verb. Choice C is incorrect. This choice uses the future perfect conditional tense, but the previous sentence tells us that the tool is currently used to measure things, so the future tense doesn&rsquo;t make sense for this verb. Choice D is incorrect. This choice uses the future perfect continuous tense, but the previous sentence tells us that the tool is currently used to measure things, so the future tense doesn&rsquo;t make sense for this verb.</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "da5f48d2-3276-4469-85e5-9116ec9afd2c",
+    "stimulus": "<p>In recent years, economists around the world have created new tools that quantify the overall well-being of a country&rsquo;s citizens. Economists in India, for example, use an Ease of Living Index. This tool <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> economic potential, sustainability, and citizens&rsquo; quality of life.</p>",
+    "templateclusterid": "7ba0c133-bd44-43f8-8185-a556872fad3f",
+    "parenttemplatename": "OSP-KA-FSS-E007",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "ed1a4794-17c5-4722-b1f1-228f12b17e3d",
+        "content": "<p>measures</p>"
+      },
+      {
+        "id": "8cc3010c-0285-4ca2-98bd-01bf08d24bb9",
+        "content": "<p>had measured</p>"
+      },
+      {
+        "id": "55dd2267-e03b-40bb-85c0-a2731a117542",
+        "content": "<p>would have measured</p>"
+      },
+      {
+        "id": "b3982f1a-35cf-4910-a5b4-e6e4165a0b50",
+        "content": "<p>will have been measuring</p>"
+      }
+    ],
+    "correct_answer": [
+      "A"
+    ]
+  },
+  {
+    "updateDate": 1730147323050,
+    "pPcc": "P10#SEC",
+    "questionId": "abacfd4a",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "f54c8569-e27b-4930-9b1e-5c9e217a8fa8",
+    "skill_desc": "Boundaries",
+    "createDate": 1730147323050,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": "",
+    "external_id": "45ea795f-d4f5-4fbc-bd5c-0406ebd32a52",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "stimulus": "<p>In 2009, researchers determined that pottery fragments from a cave in China were close to 18,000 years old. These are some of the oldest <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> of pottery ever found.</p>",
+    "type": "mcq",
+    "keys": [
+      "60c4d186-a0ea-4f7c-9ea9-4e34ba350cd2"
+    ],
+    "answerOptions": [
+      {
+        "id": "68ee3c62-5a2c-47c5-9e47-e24305da68d6",
+        "content": "<p>pieces:</p>"
+      },
+      {
+        "id": "a2956a3f-3f8c-486b-97c7-d1256023335e",
+        "content": "<p>pieces,</p>"
+      },
+      {
+        "id": "60c4d186-a0ea-4f7c-9ea9-4e34ba350cd2",
+        "content": "<p>pieces</p>"
+      },
+      {
+        "id": "58026ec7-662d-4540-9444-ffe604c52e0d",
+        "content": "<p>pieces&mdash;</p>"
+      }
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is punctuation use between a noun and a prepositional phrase. No punctuation is needed between the noun \"pieces\" and the prepositional phrase \"of pottery.\" The prepositional phrase provides essential information about what kind of pieces were found, so it shouldn&rsquo;t be separated from the rest of the noun phrase (\"some of the oldest pieces\") with punctuation.</p><p>Choice A is incorrect because no punctuation is needed between the noun phrase \"some of the oldest pieces\" and the prepositional phrase \"of pottery.\" Choice B is incorrect because no punctuation is needed between the noun phrase \"some of the oldest pieces\" and the prepositional phrase \"of pottery.\" Choice D is incorrect because no punctuation is needed between the noun phrase \"some of the oldest pieces\" and the prepositional phrase \"of pottery.\"</p>",
+    "externalid": "45ea795f-d4f5-4fbc-bd5c-0406ebd32a52",
+    "correct_answer": [
+      "C"
+    ]
+  },
+  {
+    "updateDate": 1691007959348,
+    "pPcc": "P10#SEC",
+    "questionId": "b64dbd3f",
+    "skill_cd": "BOU",
+    "score_band_range_cd": 2,
+    "uId": "f75b0085-c00a-43a9-86aa-a4a0a2de1ea8",
+    "skill_desc": "Boundaries",
+    "createDate": 1691007959348,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "607efa95-e3e3-4977-8e7b-f0388cebb5b5",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "7aacc1ca-9c43-40af-abc1-be1cfdb06298",
+    "keys": [
+      "f57fd940-58b9-44ee-8dda-cbec03a42208"
+    ],
+    "rationale": "<p>Choice D is the best answer. The convention being tested is the coordination of main clauses within a sentence. This choice correctly uses a comma and the coordinating conjunction &ldquo;but&rdquo; to join the first main clause (&ldquo;Human-made...fibers&rdquo;) and the second main clause (&ldquo;the manufacture...water&rdquo;). </p><p>Choice A is incorrect because it results in a comma splice. Without a conjunction following it, a comma can&rsquo;t be used in this way to join two main clauses. Choice B is incorrect because when coordinating two longer main clauses such as these, it&rsquo;s conventional to use a comma before the coordinating conjunction. Choice C is incorrect because it results in a run-on sentence. The two main clauses are fused without punctuation and/or a conjunction.&nbsp;</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "607efa95-e3e3-4977-8e7b-f0388cebb5b5",
+    "stimulus": "<p>Human-made (synthetic) fibers used in clothes and many other consumer products are more durable than most natural plant <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> the manufacture of synthetic fibers requires toxic chemical solvents that can pollute air and water.</p>",
+    "templateclusterid": "9d49f659-41b8-45cb-86df-e0cd8b8fd188",
+    "parenttemplatename": "OSP-712-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "7b016f3d-1710-41f6-b3ac-41d87f1d4403",
+        "content": "<p>fibers,</p>"
+      },
+      {
+        "id": "2e8163cc-7b94-4d59-a342-90c55c40d24e",
+        "content": "<p>fibers but</p>"
+      },
+      {
+        "id": "01660b8f-964d-400b-abcc-825e4428393d",
+        "content": "<p>fibers</p>"
+      },
+      {
+        "id": "f57fd940-58b9-44ee-8dda-cbec03a42208",
+        "content": "<p>fibers, but</p>"
+      }
+    ],
+    "correct_answer": [
+      "D"
+    ]
+  },
+  {
+    "updateDate": 1691007959351,
+    "pPcc": "P10#SEC",
+    "questionId": "cefb265e",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "fa7f72a3-2cad-4df6-b36d-a48fb3fae65b",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959351,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "2a5f93a6-815c-478e-80c5-6726b61179d8",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "e8a33738-7bac-478f-8a3a-04c735d47cec",
+    "keys": [
+      "0b3c4eee-e40f-4e87-8c6c-4d2f571ff0de"
+    ],
+    "rationale": "<p>Choice B is the best answer. The convention being tested is the use of verbs to express tense in a sentence. In this choice, the past tense verb &ldquo;vowed&rdquo; is consistent with the other past tense verbs (&ldquo;guided&rdquo; and &ldquo;upheld&rdquo;) used to narrate the events surrounding President Roosevelt&rsquo;s decision to conserve the nation&rsquo;s wilderness areas. </p><p>Choice A is incorrect because the present progressive tense verb &ldquo;is vowing&rdquo; isn&rsquo;t consistent with the past tense verbs used to narrate&nbsp;the events surrounding President Roosevelt&rsquo;s decision to conserve the nation&rsquo;s wilderness areas. Choice C is incorrect because the future tense verb &ldquo;will vow&rdquo; isn&rsquo;t consistent with the past tense verbs used to narrate&nbsp;the events surrounding President Roosevelt&rsquo;s decision to conserve the nation&rsquo;s wilderness areas. Choice D is incorrect because the simple present tense verb &ldquo;vows&rdquo; isn&rsquo;t consistent with the past tense verbs used to narrate&nbsp;the events surrounding President Roosevelt&rsquo;s decision to conserve the nation&rsquo;s wilderness areas. </p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "2a5f93a6-815c-478e-80c5-6726b61179d8",
+    "stimulus": "<p>In 1903, environmentalist John Muir guided President Theodore Roosevelt on a scenic, sprawling trip through California&rsquo;s Yosemite Valley. Upon returning from the three-day excursion, Roosevelt <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> to conserve the nation&rsquo;s wilderness areas, a vow he upheld for his remaining six years in office.</p>",
+    "templateclusterid": "36f019e7-4547-402c-8cd2-5b09675cd1ed",
+    "parenttemplatename": "OSP-763-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "4deb279d-6b84-429a-9ec2-b8632c0d0a9c",
+        "content": "<p>is vowing</p>"
+      },
+      {
+        "id": "0b3c4eee-e40f-4e87-8c6c-4d2f571ff0de",
+        "content": "<p>vowed</p>"
+      },
+      {
+        "id": "bc8c5401-d0bc-406f-9dec-173c63457ad1",
+        "content": "<p>will vow</p>"
+      },
+      {
+        "id": "57514955-024b-4f63-a100-9a3306537d83",
+        "content": "<p>vows</p>"
+      }
+    ],
+    "correct_answer": [
+      "B"
+    ]
+  },
+  {
+    "updateDate": 1691007959351,
+    "pPcc": "P10#SEC",
+    "questionId": "67f2e137",
+    "skill_cd": "FSS",
+    "score_band_range_cd": 2,
+    "uId": "fd112c4c-66a7-4851-8c61-5d1cb18a4435",
+    "skill_desc": "Form, Structure, and Sense",
+    "createDate": 1691007959351,
+    "program": "P10",
+    "primary_class_cd_desc": "Standard English Conventions",
+    "ibn": null,
+    "external_id": "7e42cdd1-ac80-4b64-be06-13a9faac854d",
+    "primary_class_cd": "SEC",
+    "difficulty": "E",
+    "vaultid": "4b1f7e8e-bb59-4252-b934-323cc1672e92",
+    "keys": [
+      "eb91ae2f-6691-4605-a05f-aee246c1c9fb"
+    ],
+    "rationale": "<p>Choice C is the best answer. The convention being tested is the use of nonfinite verb forms within a sentence. Working together with the finite verb \"need,\" the nonfinite to-infinitive verb \"to digest\" is correctly used to form a subordinate clause that describes what the reindeer need.</p><p>Choice A is incorrect because the verb \"digest\" (in either its finite or nonfinite form) can&rsquo;t be used in this way with the finite verb \"need.\" Choice B is incorrect because the finite verb \"will digest\" can&rsquo;t be used in this way with the finite verb \"need.\" Choice D is incorrect because the nonfinite participle \"digesting\" can&rsquo;t be used in this way with the finite verb \"need.\"</p>",
+    "origin": "proteus",
+    "stem": "<p>Which choice completes the text so that it conforms to the conventions of Standard English?</p>",
+    "externalid": "7e42cdd1-ac80-4b64-be06-13a9faac854d",
+    "stimulus": "<p>The sun never sets during the Arctic summer in the Far North. In response, reindeer in this region must change their sleep habits. Instead of resting when it gets dark, they rest when they need <span aria-hidden=\"true\">______</span><span class=\"sr-only\">blank</span> their food.</p>",
+    "templateclusterid": "b0e66b58-4bcd-4149-b251-3f801806354d",
+    "parenttemplatename": "OSP-756-SEC",
+    "parenttemplateid": "",
+    "type": "mcq",
+    "position": "0",
+    "templateclustername": "",
+    "answerOptions": [
+      {
+        "id": "bd1a03c3-7a2c-428a-817c-c413c1e29a1f",
+        "content": "<p>digest</p>"
+      },
+      {
+        "id": "1bc71909-4b8b-4881-a38a-0aced598a3ab",
+        "content": "<p>will digest</p>"
+      },
+      {
+        "id": "eb91ae2f-6691-4605-a05f-aee246c1c9fb",
+        "content": "<p>to digest</p>"
+      },
+      {
+        "id": "ac1c9bbc-d444-4fe8-923c-0ae01f12d8fc",
+        "content": "<p>digesting</p>"
+      }
+    ],
+    "correct_answer": [
+      "C"
+    ]
+  }
+]
