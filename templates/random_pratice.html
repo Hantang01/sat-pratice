@@ -101,10 +101,10 @@
     <!-- Removed broken JS assignment, handled in main script below -->
     {% if data %}
     <div class="meta">
-        <strong>Assessment:</strong> SAT | 
-        <strong>Test:</strong>  <span id="meta-test">{{ cat[0] }}</span> | 
-        <strong>Domain:</strong> <span id="meta-domain">{{ cat[1] }}</span> | 
-        <strong>Skill:</strong> <span id="meta-skill">{{ domain }}</span> | 
+        <strong>Assessment:</strong> {{ assess }} | 
+        <strong>Test:</strong>  <span id="meta-test">{{ cat }}</span> | 
+        <strong>Domain:</strong> <span id="meta-domain">{{ domain }}</span> | 
+        <strong>Skill:</strong> <span id="meta-skill">{{ skill }}</span> | 
         <strong>Difficulty:</strong> <span id="meta-difficulty">{{ difficulty }}</span>
     </div>
 
@@ -112,7 +112,7 @@
         <div class="practice-left">
             {% if data['stimulus'] %}
             <div class="stimulus" style="margin-bottom:1em; background:#f4f7fa; border-radius:8px; padding:1em; border:1px solid #e0eafc;">
-                {{ data['stimulus']|safe }}
+                {{ data['stimulus']|safe|replace('<span class="sr-only">blank</span>', '') }}
             </div>
             {% endif %}
             <div class="question">
@@ -201,7 +201,7 @@
             }
         }
         // Initial setup
-        setupDesmos({% if cat[0]|lower != 'english' %}true{% else %}false{% endif %});
+        setupDesmos({% if cat[0]|lower != 'English' %}true{% else %}false{% endif %});
         var revealBtn = document.getElementById('reveal-btn');
         var answerSection = document.getElementById('answer-section');
         var rationaleSection = document.getElementById('rationale-section');
@@ -216,11 +216,13 @@
             // Show/hide Desmos for new question
             var isMath = (data.cat && data.cat[0] && data.cat[0].toLowerCase() !== 'english');
             setupDesmos(isMath);
+            
             // Update meta section
             document.getElementById('meta-test').textContent = data.cat ? data.cat[0] : '';
-            document.getElementById('meta-domain').textContent = data.cat ? data.cat[1] : '';
-            document.getElementById('meta-skill').textContent = data.domain || '';
+            document.getElementById('meta-domain').textContent = data.domain || '';
+            document.getElementById('meta-skill').textContent = data.skill || '';
             document.getElementById('meta-difficulty').textContent = data.difficulty || '';
+            
             // Update stimulus
             var stimDiv = document.querySelector('.stimulus');
             if (!stimDiv) {
@@ -235,10 +237,15 @@
                 stimDiv.style.border = '1px solid #e0eafc';
                 questionDiv.parentNode.insertBefore(stimDiv, questionDiv);
             }
-            stimDiv.innerHTML = data.stimulus || '';
+            var stimulusContent = data.stimulus || '';
+            // Remove "blank" text that appears after underscores
+            stimulusContent = stimulusContent.replace(/<span class="sr-only">blank<\/span>/gi, '');
+            stimDiv.innerHTML = stimulusContent;
             stimDiv.style.display = data.stimulus ? '' : 'none';
+            
             // Update question
             document.querySelector('.question').innerHTML = data.stem || '';
+            
             // Update options
             var optionsList = document.querySelector('.options ul');
             optionsList.innerHTML = '';
@@ -250,16 +257,25 @@
                     optionsList.appendChild(li);
                 });
             }
+            
             // Hide answer/rationale
             document.getElementById('answer-section').style.display = 'none';
             document.getElementById('rationale-section').style.display = 'none';
             document.getElementById('reveal-btn').style.display = '';
+            
             // Update answer
             document.getElementById('answer-section').innerHTML = 'Correct Answer: ' + (data.correct_answer ? data.correct_answer.join(', ') : '');
+            
             // Update rationale
             document.getElementById('rationale-section').innerHTML = '<strong>Rationale:</strong><br>' + (data.rationale || '');
+            
             // Update debugger
             document.querySelector('.debugger pre').textContent = JSON.stringify(data, null, 2);
+            
+            // Re-render MathJax if present
+            if (window.MathJax) {
+                MathJax.typesetPromise();
+            }
         }
         document.getElementById('load-random-btn').addEventListener('click', function(e) {
             e.preventDefault();

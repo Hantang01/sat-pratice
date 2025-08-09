@@ -1,6 +1,6 @@
 from flask import send_from_directory
 # Serve static files from 'media' folder
-
+import os
 from flask import send_from_directory, Flask, render_template, jsonify, request
 import json
 import os
@@ -12,9 +12,9 @@ load_dotenv()
 app = Flask(__name__)
 
 questions = {
-    1:'Advanced-Math.json',
+    1:'Advanced-Math',
     2:'Algebra.json',
-    3:'Craft-and-Structure.json',
+    3:'Craft-and-Structure',
     4:"Expression-of-Ideas.json",
     5:'Geometry-and-Trigonometry.json',
     6:'Information-and-Ideas.json',
@@ -56,15 +56,11 @@ catagory = [
     "Right triangles and trigonometry",
     "Circles"
 ]
-def load_data(which):
-    DATA_FILE = os.path.join(os.path.dirname(__file__), 'questions', questions[which])
-    if os.path.exists(DATA_FILE):
-        with open(DATA_FILE, 'r', encoding='utf-8') as f:
-            try:
-                return json.load(f)
-            except json.JSONDecodeError:
-                return {}
-    return {}
+
+
+
+
+
 
 
 
@@ -109,38 +105,210 @@ def contact():
 
 @app.route('/random-practice')
 def random_practice():
-    data = load_data(random.randint(1, 8))
-    if not data:
-        return render_template('pratice.html', error="No questions found.")
-    random_question_index = random.randint(0, len(data) - 1)
-    payload = {"external_id": data[random_question_index]['external_id']}
-    test_cat = data[random_question_index]['general_area'].split('/')
-    domain = data[random_question_index]['problem_area']
-    difficulty = data[random_question_index]['difficulty']
-    response = requests.post(
-        'https://qbank-api.collegeboard.org/msreportingquestionbank-prod/questionbank/digital/get-question',
-        json=payload)
-    question = response.json()
-    return render_template('random_pratice.html', data=question, cat=test_cat, domain=domain, difficulty=difficulty, desmos_api_key=desmos_api_key)
+    # data = load_data(random.randint(1, 8))
+    # if not data:
+    #     return render_template('pratice.html', error="No questions found.")
+    # random_question_index = random.randint(0, len(data) - 1)
+    # payload = {"external_id": data[random_question_index]['external_id']}
+    # test_cat = data[random_question_index]['general_area'].split('/')
+    # domain = data[random_question_index]['problem_area']
+    # difficulty = data[random_question_index]['difficulty']
+    # response = requests.post(
+    #     'https://qbank-api.collegeboard.org/msreportingquestionbank-prod/questionbank/digital/get-question',
+    #     json=payload)
+    # question = response.json()
+    all_files = os.listdir('./question_data')
+
+    random_test_type = random.choice([f for f in all_files])
+
+
+    random_category = random.choice([f for f in os.listdir(f'./question_data/{random_test_type}')])
+    random_difficulty = random.choice(['Easy', 'Medium', 'Hard'])
+
+    file_name = random_test_type + "_"+ random_category + "_" + random_difficulty + ".json"
+
+
+    full_path = f'./question_data/{random_test_type}/{random_category}/{file_name}'
+
+    with open(full_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+        random_question = random.choice(data)
+        
+        # Try standard format first
+        if "answerOptions" in random_question and "stem" in random_question:
+            pass  # Already in standard format
+
+        # Try alternative 'fore' format
+        elif "answer" in random_question and "prompt" in random_question:
+            # Convert fore format to standard format
+            if "choices" in random_question["answer"]:
+                choices = random_question["answer"]["choices"]
+                answerOptions = []
+                for key in sorted(choices.keys()):
+                    answerOptions.append({
+                        "content": choices[key]["body"],
+                        "id": key
+                    })
+            else:
+                answerOptions = []
+            
+            correct = random_question["answer"].get("correct_choice", "")
+            if isinstance(correct, str):
+                correct = [correct.upper()]
+            elif isinstance(correct, list):
+                correct = [c.upper() for c in correct]
+            else:
+                correct = []
+
+            random_question = {
+                "stimulus": "",
+                "stem": random_question.get("prompt", ""),
+                "answerOptions": answerOptions,
+                "correct_answer": correct,
+                "rationale": random_question["answer"].get("rationale", ""),
+                "difficulty": random_question.get("difficulty", random_difficulty),
+                "skill_desc": random_question.get("skill_desc", random_question.get("skill", "")),
+                "primary_class_cd_desc": random_question.get("primary_class_cd_desc", ""),
+            }
+
+        # If neither format, use what we have
+        else:
+            # Ensure we have the required fields for the template
+            if "stem" not in random_question:
+                random_question["stem"] = random_question.get("prompt", "Question format not recognized.")
+            if "answerOptions" not in random_question:
+                random_question["answerOptions"] = []
+            if "correct_answer" not in random_question:
+                random_question["correct_answer"] = []
+            if "rationale" not in random_question:
+                random_question["rationale"] = ""
+
+    if random_category in ['EOI', 'INI', 'SEC', 'CAS']:
+        test_cat = "English"
+    else:
+        test_cat = "Math"
+
+    try:
+        difficulty = random_question['difficulty']
+    except:
+        difficulty = random_difficulty + "?"
+        
+    sat_category_map = {
+        "P": "Advanced-Math",
+        "INI": "Information-and-Ideas",
+        "SEC": "Standard-English-Conventions",
+        "CAS": "Craft-and-Structure",
+        "Q": "Problem-Solving-and-Data-Analysis",
+        "EOI": "Expression-of-Ideas",
+        "S": "Geometry-and-Trigonometry",
+        "H": "Algebra"
+    }
+    domain = sat_category_map.get(random_category, random_category)
+    skill = random_question.get('skill_desc', random_question.get('skill', 'Unknown'))
+
+
+    return render_template('random_pratice.html',assess=random_test_type, data=random_question, cat=test_cat, domain=domain, difficulty=difficulty, skill=skill, desmos_api_key=desmos_api_key)
 
 @app.route('/api/random-question')
 def api_random_question():
-    data = load_data(random.randint(1, 8))
-    if not data:
-        return jsonify({"error": "No questions found."}), 404
-    random_question_index = random.randint(0, len(data) - 1)
-    payload = {"external_id": data[random_question_index]['external_id']}
-    test_cat = data[random_question_index]['general_area'].split('/')
-    domain = data[random_question_index]['problem_area']
-    difficulty = data[random_question_index]['difficulty']
-    response = requests.post(
-        'https://qbank-api.collegeboard.org/msreportingquestionbank-prod/questionbank/digital/get-question',
-        json=payload)
-    question = response.json()
-    question['cat'] = test_cat
-    question['domain'] = domain
-    question['difficulty'] = difficulty
-    return jsonify(question)
+    all_files = os.listdir('./question_data')
+
+    random_test_type = random.choice([f for f in all_files])
+
+
+    random_category = random.choice([f for f in os.listdir(f'./question_data/{random_test_type}')])
+    random_difficulty = random.choice(['Easy', 'Medium', 'Hard'])
+
+    file_name = random_test_type + "_"+ random_category + "_" + random_difficulty + ".json"
+
+
+    full_path = f'./question_data/{random_test_type}/{random_category}/{file_name}'
+
+    with open(full_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+        random_question = random.choice(data)
+        
+        # Try standard format first
+        if "answerOptions" in random_question and "stem" in random_question:
+            pass  # Already in standard format
+
+        # Try alternative 'fore' format
+        elif "answer" in random_question and "prompt" in random_question:
+            # Convert fore format to standard format
+            if "choices" in random_question["answer"]:
+                choices = random_question["answer"]["choices"]
+                answerOptions = []
+                for key in sorted(choices.keys()):
+                    answerOptions.append({
+                        "content": choices[key]["body"],
+                        "id": key
+                    })
+            else:
+                answerOptions = []
+            
+            correct = random_question["answer"].get("correct_choice", "")
+            if isinstance(correct, str):
+                correct = [correct.upper()]
+            elif isinstance(correct, list):
+                correct = [c.upper() for c in correct]
+            else:
+                correct = []
+
+            random_question = {
+                "stimulus": "",
+                "stem": random_question.get("prompt", ""),
+                "answerOptions": answerOptions,
+                "correct_answer": correct,
+                "rationale": random_question["answer"].get("rationale", ""),
+                "difficulty": random_question.get("difficulty", random_difficulty),
+                "skill_desc": random_question.get("skill_desc", random_question.get("skill", "")),
+                "primary_class_cd_desc": random_question.get("primary_class_cd_desc", ""),
+            }
+
+        # If neither format, use what we have
+        else:
+            # Ensure we have the required fields for the template
+            if "stem" not in random_question:
+                random_question["stem"] = random_question.get("prompt", "Question format not recognized.")
+            if "answerOptions" not in random_question:
+                random_question["answerOptions"] = []
+            if "correct_answer" not in random_question:
+                random_question["correct_answer"] = []
+            if "rationale" not in random_question:
+                random_question["rationale"] = ""
+        
+    # Add the same metadata processing as random_practice route
+    if random_category in ['EOI', 'INI', 'SEC', 'CAS']:
+        test_cat = ["English"]
+    else:
+        test_cat = ["Math"]
+
+    try:
+        difficulty = random_question['difficulty']
+    except:
+        difficulty = random_difficulty + "?"
+        
+    sat_category_map = {
+        "P": "Advanced-Math",
+        "INI": "Information-and-Ideas",
+        "SEC": "Standard-English-Conventions",
+        "CAS": "Craft-and-Structure",
+        "Q": "Problem-Solving-and-Data-Analysis",
+        "EOI": "Expression-of-Ideas",
+        "S": "Geometry-and-Trigonometry",
+        "H": "Algebra"
+    }
+    domain = sat_category_map.get(random_category, random_category)
+    skill = random_question.get('skill_desc', random_question.get('skill', 'Unknown'))
+
+    # Add metadata to the response
+    response_data = random_question.copy()
+    response_data['cat'] = test_cat
+    response_data['domain'] = domain
+    response_data['skill'] = skill
+    response_data['difficulty'] = difficulty
+    response_data['assess'] = random_test_type
+    return jsonify(response_data)
 
 @app.errorhandler(404)
 def page_not_found(e):
